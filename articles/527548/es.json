@@ -381,8 +381,10 @@
       "source_hash": "189aba6e65be",
       "target": "How can you add files to AI sensemaking for extra context?",
       "translated_from_hash": "189aba6e65be",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.503088+00:00"
     },
     "body:0034": {
       "field": "body",
