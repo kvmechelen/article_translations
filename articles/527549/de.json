@@ -271,8 +271,10 @@
       "source_hash": "f6f8a8de9c15",
       "target": "<b>Safer project setup:</b> Participation methods can no longer be changed once inputs are collected, helping you maintain data consistency and avoid bugs from changing methods. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">📖 Learn more about our participation methods here</a>",
       "translated_from_hash": "f6f8a8de9c15",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.455241+00:00"
     },
     "body:0024": {
       "field": "body",
