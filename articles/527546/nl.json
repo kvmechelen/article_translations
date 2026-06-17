@@ -293,8 +293,10 @@
       "source_hash": "3d5855f143be",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527588-tag-copy-and-move-ideas-and-posts\" target=\"_blank\">Tag, copy and move inputs</a>",
       "translated_from_hash": "3d5855f143be",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:16.262217+00:00"
     },
     "body:0026": {
       "field": "body",
