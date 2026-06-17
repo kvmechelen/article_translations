@@ -645,8 +645,10 @@
       "source_hash": "ace3beb43ac7",
       "target": "How to edit a folder?",
       "translated_from_hash": "ace3beb43ac7",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.228517+00:00"
     },
     "body:0057": {
       "field": "body",
