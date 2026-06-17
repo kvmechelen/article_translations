@@ -942,8 +942,10 @@
       "source_hash": "29fe62748596",
       "target": "<b>Comments</b> <i>(ideation and proposals)</i>",
       "translated_from_hash": "29fe62748596",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:19.916177+00:00"
     },
     "body:0085": {
       "field": "body",
