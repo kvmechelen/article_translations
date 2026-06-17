@@ -722,8 +722,10 @@
       "source_hash": "2539b3c629b4",
       "target": "For reporting purposes, the Insights tab can also be <b>exported to a PDF</b> o<b>r Word</b>, allowing you to easily share results with internal or external stakeholders.",
       "translated_from_hash": "2539b3c629b4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.132542+00:00"
     },
     "body:0065": {
       "field": "body",
