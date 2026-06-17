@@ -964,8 +964,10 @@
       "source_hash": "9d932d60fc23",
       "target": "<b>Reactions</b> <i>(ideation and proposals)</i>",
       "translated_from_hash": "9d932d60fc23",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:20.078917+00:00"
     },
     "body:0087": {
       "field": "body",
