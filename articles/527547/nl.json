@@ -656,8 +656,10 @@
       "source_hash": "402b71c12f07",
       "target": "If you want to edit a folder, navigate to the folders tab in the top left corner of the projects list. Press on the folder title. This will bring you to the folder projects tab, then navigate to the tab next to it called <b>Settings</b>.<br/>​<br/>The Content Builder is also enabled for folders. To use it, go to <b>Settings, </b>under Folder Description, enable <code>Use Content Builder for description</code>. From an in-depth overview of using the Content Builder, visit: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527598-customizing-project-descriptions-with-the-content-builder\" target=\"_blank\">Customizing project descriptions with the Content Builder</a></i>",
       "translated_from_hash": "402b71c12f07",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.283352+00:00"
     },
     "body:0058": {
       "field": "body",
