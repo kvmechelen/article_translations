@@ -1184,8 +1184,10 @@
       "source_hash": "8e3de5e19bd1",
       "target": "A status breakdown showing the distribution of idea statuses",
       "translated_from_hash": "8e3de5e19bd1",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:21.508670+00:00"
     },
     "body:0107": {
       "field": "body",
