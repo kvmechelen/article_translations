@@ -1294,8 +1294,10 @@
       "source_hash": "38494ba1b78e",
       "target": "Create, edit, and display folders in the navigation bar: Go to <b>Pages &amp; Menu</b> &gt; Add project or folder to Navbar.",
       "translated_from_hash": "38494ba1b78e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.987441+00:00"
     },
     "body:0117": {
       "field": "body",
