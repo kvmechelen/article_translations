@@ -337,8 +337,10 @@
       "source_hash": "2a039e0a24e5",
       "target": "Large consultations shouldn't mean lost voices. These two new features give you everything you need to turn volume into genuine understanding, and understanding into confident decisions.",
       "translated_from_hash": "2a039e0a24e5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.778941+00:00"
     },
     "body:0030": {
       "field": "body",
