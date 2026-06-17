@@ -689,8 +689,10 @@
       "source_hash": "7188ab0be3fb",
       "target": "How to move a project from one folder to another?",
       "translated_from_hash": "7188ab0be3fb",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.459515+00:00"
     },
     "body:0061": {
       "field": "body",
