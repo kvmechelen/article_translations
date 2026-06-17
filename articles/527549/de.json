@@ -766,8 +766,10 @@
       "source_hash": "c2fec4f04975",
       "target": "We’ve simplified the user registration process to make it faster and more user-friendly. This update reduces confusion and enhances the overall experience by guiding users through a clear, streamlined flow.",
       "translated_from_hash": "c2fec4f04975",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.097189+00:00"
     },
     "body:0069": {
       "field": "body",
