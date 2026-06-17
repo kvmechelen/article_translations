@@ -62,8 +62,10 @@
       "source_hash": "833008dbc66f",
       "target": "How to create a poll?",
       "translated_from_hash": "833008dbc66f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.180045+00:00"
     },
     "body:0005": {
       "field": "body",
