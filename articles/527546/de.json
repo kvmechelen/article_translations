@@ -1118,8 +1118,10 @@
       "source_hash": "7c763b8fc78b",
       "target": "Surveys",
       "translated_from_hash": "7c763b8fc78b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:37.225638+00:00"
     },
     "body:0101": {
       "field": "body",
