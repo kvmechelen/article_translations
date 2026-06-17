@@ -1371,8 +1371,10 @@
       "source_hash": "9b18562d86cc",
       "target": "Add your folder to your navigation bar to create new customizable nav bar pages.",
       "translated_from_hash": "9b18562d86cc",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.411451+00:00"
     },
     "body:0124": {
       "field": "body",
