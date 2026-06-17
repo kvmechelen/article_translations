@@ -152,8 +152,10 @@
       "source_hash": "e28f9074175f",
       "target": "<b>Population size:</b> Large, medium, or small municipalities.",
       "translated_from_hash": "e28f9074175f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.967210+00:00"
     },
     "body:0013": {
       "field": "body",
