@@ -557,8 +557,10 @@
       "source_hash": "ec9b8fca75a2",
       "target": "Templates for exploring local issues",
       "translated_from_hash": "ec9b8fca75a2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.797458+00:00"
     },
     "body:0049": {
       "field": "body",
