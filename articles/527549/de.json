@@ -106,8 +106,10 @@
       "source_hash": "9001a86809c4",
       "target": "<b>Images across the platform now display with less cropping.</b> Banners and photos appear closer to how they were uploaded. What you design is what community members see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527652-what-are-the-recommended-dimensions-and-sizes-of-the-platform-images\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "9001a86809c4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.657326+00:00"
     },
     "body:0009": {
       "field": "body",
