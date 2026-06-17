@@ -9,8 +9,10 @@
       "source_hash": "1207c62b9586",
       "target": "Creating and Managing Folders",
       "translated_from_hash": "1207c62b9586",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.175006+00:00"
     },
     "description": {
       "field": "description",
