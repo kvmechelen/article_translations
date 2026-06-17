@@ -909,8 +909,10 @@
       "source_hash": "0d579080d4b8",
       "target": "The total number of responses or ideas submitted.",
       "translated_from_hash": "0d579080d4b8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:36.141895+00:00"
     },
     "body:0082": {
       "field": "body",
