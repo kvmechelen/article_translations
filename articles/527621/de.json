@@ -7,10 +7,12 @@
       "field": "title",
       "source": "Creating a poll",
       "source_hash": "27598c6e0d7f",
-      "target": "Creating a poll",
+      "target": "Testübersetzung (DE)",
       "translated_from_hash": "27598c6e0d7f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:18.184022+00:00"
     },
     "description": {
       "field": "description",
