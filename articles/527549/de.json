@@ -953,8 +953,10 @@
       "source_hash": "e535178652cd",
       "target": "📖<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527548-360-input-managing-your-files\" target=\"_blank\"> Learn more about the 360 input tab</a>",
       "translated_from_hash": "e535178652cd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.150290+00:00"
     },
     "body:0086": {
       "field": "body",
