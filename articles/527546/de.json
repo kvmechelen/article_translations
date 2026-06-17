@@ -1371,8 +1371,10 @@
       "source_hash": "6bdf301267ae",
       "target": "How to setup your project timeline in phases?",
       "translated_from_hash": "6bdf301267ae",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:42.853351+00:00"
     },
     "body:0124": {
       "field": "body",
