@@ -524,8 +524,10 @@
       "source_hash": "eb6299e0bcac",
       "target": "Our platform uses automatic emails to be sent out to users, these are also referred to as notifications. Certain notifications can be customized on a phase-level, you can do so in this tab.",
       "translated_from_hash": "eb6299e0bcac",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:17.516872+00:00"
     },
     "body:0047": {
       "field": "body",
