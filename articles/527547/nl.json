@@ -722,8 +722,10 @@
       "source_hash": "ff1a66dcc387",
       "target": "Under <b>Projects added to this folder</b> select <b>Remove from folder</b>",
       "translated_from_hash": "ff1a66dcc387",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.626932+00:00"
     },
     "body:0064": {
       "field": "body",
