@@ -931,8 +931,10 @@
       "source_hash": "44c7631f1fca",
       "target": "The percentage of participants who started the survey and completed it.",
       "translated_from_hash": "44c7631f1fca",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:36.238793+00:00"
     },
     "body:0084": {
       "field": "body",
