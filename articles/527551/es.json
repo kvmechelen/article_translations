@@ -97,8 +97,10 @@
       "source_hash": "26e11210fc6d",
       "target": "The top section showcases highlighted projects chosen by your Government Success Manager.",
       "translated_from_hash": "26e11210fc6d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.705034+00:00"
     },
     "body:0008": {
       "field": "body",
