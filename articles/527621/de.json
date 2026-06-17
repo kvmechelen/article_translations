@@ -128,8 +128,10 @@
       "source_hash": "045a86a8a84c",
       "target": "<b>Anonymous participation</b>: Polls can be set to anonymous so users can vote freely without concerns about privacy. Keep in mind, participants still need a registered account on the platform to take part.",
       "translated_from_hash": "045a86a8a84c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.474530+00:00"
     },
     "body:0011": {
       "field": "body",
