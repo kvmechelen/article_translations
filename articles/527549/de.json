@@ -1250,8 +1250,10 @@
       "source_hash": "f42c41fb77bc",
       "target": "Export your project participants easily in the new <b>Audience</b> tab",
       "translated_from_hash": "f42c41fb77bc",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.741325+00:00"
     },
     "body:0113": {
       "field": "body",
