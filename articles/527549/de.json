@@ -1129,8 +1129,10 @@
       "source_hash": "c5e804b4835f",
       "target": "✨ Improvements",
       "translated_from_hash": "c5e804b4835f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.126714+00:00"
     },
     "body:0102": {
       "field": "body",
