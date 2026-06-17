@@ -821,8 +821,10 @@
       "source_hash": "87a96d11ec03",
       "target": "Admins can edit, delete, and define default tags, offering enhanced flexibility and ensuring your content is better categorized.",
       "translated_from_hash": "87a96d11ec03",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.439421+00:00"
     },
     "body:0074": {
       "field": "body",
