@@ -183,8 +183,10 @@
       "source_hash": "ebd919c3787d",
       "target": "📖 Learn more about:",
       "translated_from_hash": "ebd919c3787d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.018188+00:00"
     },
     "body:0016": {
       "field": "body",
