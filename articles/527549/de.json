@@ -678,8 +678,10 @@
       "source_hash": "77c4e9eb52f0",
       "target": "We’ve introduced pre-populated, phase-specific dashboards to streamline project management. This feature allows project managers and admins to instantly access key participation metrics, demographics, and engagement trends, improving the management and reporting of each project phase. It simplifies tracking progress and helps identify representativeness gaps in real-time. With easy export options, you can share the insights with stakeholders or include them in reports.",
       "translated_from_hash": "77c4e9eb52f0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.637070+00:00"
     },
     "body:0061": {
       "field": "body",
