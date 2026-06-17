@@ -141,8 +141,10 @@
       "source_hash": "78e0ab391b34",
       "target": "<b>Method:</b> Filter by participation method used.",
       "translated_from_hash": "78e0ab391b34",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.907766+00:00"
     },
     "body:0012": {
       "field": "body",
