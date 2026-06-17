@@ -106,8 +106,10 @@
       "source_hash": "e21aff14fa33",
       "target": "Setup:",
       "translated_from_hash": "e21aff14fa33",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.276478+00:00"
     },
     "body:0009": {
       "field": "body",
