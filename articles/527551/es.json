@@ -64,8 +64,10 @@
       "source_hash": "7f5933b1d557",
       "target": "Your Government Success Manager will update this page monthly with \"Projects of the Month\", ensuring you stay up-to-date with the latest initiatives.",
       "translated_from_hash": "7f5933b1d557",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.551703+00:00"
     },
     "body:0005": {
       "field": "body",
