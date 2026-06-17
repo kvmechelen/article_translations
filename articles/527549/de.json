@@ -1382,8 +1382,10 @@
       "source_hash": "ee4893aaf863",
       "target": "<b>7. Reports:</b>",
       "translated_from_hash": "ee4893aaf863",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.482327+00:00"
     },
     "body:0125": {
       "field": "body",
