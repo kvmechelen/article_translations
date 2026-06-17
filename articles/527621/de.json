@@ -216,8 +216,10 @@
       "source_hash": "e4d7d803cb74",
       "target": "<b>Follow up on results</b> by adding more phases to the timeline for evaluation, comments, or volunteering opportunities. For example, a <i>Poll Evaluation</i> phase can help gather qualitative insights to better understand the “why” behind the responses.",
       "translated_from_hash": "e4d7d803cb74",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.885633+00:00"
     },
     "body:0019": {
       "field": "body",
