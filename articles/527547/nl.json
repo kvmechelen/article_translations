@@ -51,8 +51,10 @@
       "source_hash": "9105599cfa3b",
       "target": "A folder is used to group together multiple projects that share a common theme or characteristic (for example, infrastructure work, a specific area, …).",
       "translated_from_hash": "9105599cfa3b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.343731+00:00"
     },
     "body:0004": {
       "field": "body",
