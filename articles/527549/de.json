@@ -964,8 +964,10 @@
       "source_hash": "43123ddcc4d6",
       "target": "Get real-time community sentiment with the Community Monitor",
       "translated_from_hash": "43123ddcc4d6",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.207875+00:00"
     },
     "body:0087": {
       "field": "body",
