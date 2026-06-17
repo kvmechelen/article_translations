@@ -1393,8 +1393,10 @@
       "source_hash": "5a9ab234ecd4",
       "target": "Choose a timeframe on which you want the phase to be active",
       "translated_from_hash": "5a9ab234ecd4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:22.666444+00:00"
     },
     "body:0126": {
       "field": "body",
