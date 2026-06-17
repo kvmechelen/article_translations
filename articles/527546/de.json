@@ -766,8 +766,10 @@
       "source_hash": "2c1fcf56f7a0",
       "target": "The Insights tab is divided into three main sections:",
       "translated_from_hash": "2c1fcf56f7a0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.433000+00:00"
     },
     "body:0069": {
       "field": "body",
