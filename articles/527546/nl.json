@@ -777,8 +777,10 @@
       "source_hash": "18e9421315b0",
       "target": "<b>High-level statistics</b>, providing an overall summary of participation",
       "translated_from_hash": "18e9421315b0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.952107+00:00"
     },
     "body:0070": {
       "field": "body",
