@@ -1470,8 +1470,10 @@
       "source_hash": "1119c37d23cf",
       "target": "Below the timeline you’ll see the phase title, on the right side of the screen you’ll see 3 dots. Click these dots and press <b>Delete phase</b>",
       "translated_from_hash": "1119c37d23cf",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:23.121511+00:00"
     },
     "body:0133": {
       "field": "body",
