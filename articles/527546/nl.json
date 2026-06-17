@@ -1217,8 +1217,10 @@
       "source_hash": "69b322ef7fc9",
       "target": "💡 Optionally, demographic clustering can be enabled to explore how different demographic groups voted",
       "translated_from_hash": "69b322ef7fc9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:21.695455+00:00"
     },
     "body:0110": {
       "field": "body",
