@@ -1316,8 +1316,10 @@
       "source_hash": "9e478c746a76",
       "target": "Find <b>your project</b> in the backoffice of your platform",
       "translated_from_hash": "9e478c746a76",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:22.251499+00:00"
     },
     "body:0119": {
       "field": "body",
