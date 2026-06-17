@@ -106,8 +106,10 @@
       "source_hash": "5976789b839c",
       "target": "When creating your first poll question, you’ll be asked to provide a title and then add options. Once your first question is saved, select <b>Cancel</b> to return and add another question.",
       "translated_from_hash": "5976789b839c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.370666+00:00"
     },
     "body:0009": {
       "field": "body",
