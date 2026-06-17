@@ -128,8 +128,10 @@
       "source_hash": "3924012467d2",
       "target": "The Setup section defines the default settings for a phase. Each participation method has unique settings. All phase settings can be found in the <b>Setup </b>tab of each phase.",
       "translated_from_hash": "3924012467d2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:31.966554+00:00"
     },
     "body:0011": {
       "field": "body",
