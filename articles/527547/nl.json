@@ -612,8 +612,10 @@
       "source_hash": "9f43b13f4400",
       "target": "Fill in a title, short and long description for your project in all available languages for your platform",
       "translated_from_hash": "9f43b13f4400",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.045312+00:00"
     },
     "body:0054": {
       "field": "body",
