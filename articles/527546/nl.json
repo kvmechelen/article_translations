@@ -238,8 +238,10 @@
       "source_hash": "95177cf1ffc7",
       "target": "The Input Manager allows you to view all inputs related to the current phase and manage their availability across other phases within the same project.",
       "translated_from_hash": "95177cf1ffc7",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.952892+00:00"
     },
     "body:0021": {
       "field": "body",
