@@ -1646,8 +1646,10 @@
       "source_hash": "ee17b3a1826b",
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:17.018856+00:00"
     }
   }
 }
