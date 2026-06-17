@@ -1173,8 +1173,10 @@
       "source_hash": "b97d2a675957",
       "target": "Configure character limits for title control, short answer, and long answer fields.",
       "translated_from_hash": "b97d2a675957",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.346101+00:00"
     },
     "body:0106": {
       "field": "body",
