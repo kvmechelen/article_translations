@@ -348,8 +348,10 @@
       "source_hash": "3ac109a086a8",
       "target": "Using 360 input with AI sensemaking",
       "translated_from_hash": "3ac109a086a8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.294791+00:00"
     },
     "body:0031": {
       "field": "body",
