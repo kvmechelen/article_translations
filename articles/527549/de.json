@@ -1635,8 +1635,10 @@
       "source_hash": "bb226ced0728",
       "target": "Ask us to customize your minimum registration age. Contact us in your platform from the chat.",
       "translated_from_hash": "bb226ced0728",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.942182+00:00"
     },
     "body:0148": {
       "field": "body",
