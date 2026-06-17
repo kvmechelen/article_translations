@@ -975,8 +975,10 @@
       "source_hash": "c85f21da285b",
       "target": "Track your community’s satisfaction all year long, turn snapshots into strategy, and avoid costly policy missteps by staying in tune with your residents.",
       "translated_from_hash": "c85f21da285b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.265380+00:00"
     },
     "body:0088": {
       "field": "body",
