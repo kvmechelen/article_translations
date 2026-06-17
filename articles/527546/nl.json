@@ -667,8 +667,10 @@
       "source_hash": "58243bbcbe84",
       "target": "It brings together participation data, audience information, and phase-specific results in one place, helping you interpret how people engaged with your participation method.",
       "translated_from_hash": "58243bbcbe84",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.308909+00:00"
     },
     "body:0060": {
       "field": "body",
