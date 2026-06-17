@@ -282,8 +282,10 @@
       "source_hash": "b09ce859e18a",
       "target": "<b>Supported formats</b>: All file types are accepted.",
       "translated_from_hash": "b09ce859e18a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.958229+00:00"
     },
     "body:0025": {
       "field": "body",
