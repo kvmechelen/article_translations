@@ -1041,8 +1041,10 @@
       "source_hash": "a75a7bbafb72",
       "target": "Through added demographic questions within a phase",
       "translated_from_hash": "a75a7bbafb72",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:36.779408+00:00"
     },
     "body:0094": {
       "field": "body",
