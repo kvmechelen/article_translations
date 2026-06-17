@@ -1525,8 +1525,10 @@
       "source_hash": "8092e3e0fae3",
       "target": "Add demographic questions to <i>any</i> survey. 📖 <a class=\"intercom-content-link\" href=\"https://go-vocal.slack.com/archives/C2W7GP5MY/p1750771733261119\" target=\"_blank\">More info here</a>",
       "translated_from_hash": "8092e3e0fae3",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.264120+00:00"
     },
     "body:0138": {
       "field": "body",
