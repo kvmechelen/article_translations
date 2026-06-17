@@ -678,8 +678,10 @@
       "source_hash": "e0dcd965d027",
       "target": "You can arrange the order of the projects within folders. Go to the tab <b>folders</b> in the top left corner of the projects list and press on the folder title - this will bring you inside the folder settings. Click the double arrows at the far left of the projects. When you click and hold these arrows you can drag them to the desired place. They will then appear in the folder in that order.",
       "translated_from_hash": "e0dcd965d027",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.389854+00:00"
     },
     "body:0060": {
       "field": "body",
