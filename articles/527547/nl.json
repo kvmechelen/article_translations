@@ -161,8 +161,10 @@
       "source_hash": "12e871ac2e08",
       "target": "<b>What folder managers <i>can’t</i> do:</b>",
       "translated_from_hash": "12e871ac2e08",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.845285+00:00"
     },
     "body:0013": {
       "field": "body",
