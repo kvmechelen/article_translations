@@ -458,8 +458,10 @@
       "source_hash": "c923b0511cc0",
       "target": "A folder keeps those projects grouped together, so users and admins still see them as part of the same initiative.",
       "translated_from_hash": "c923b0511cc0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.322776+00:00"
     },
     "body:0040": {
       "field": "body",
