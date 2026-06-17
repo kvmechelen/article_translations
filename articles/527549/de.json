@@ -1118,8 +1118,10 @@
       "source_hash": "24bd13de6277",
       "target": "<b>AI-generated descriptions</b> for files, making it easier to understand file content.",
       "translated_from_hash": "24bd13de6277",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.068929+00:00"
     },
     "body:0101": {
       "field": "body",
