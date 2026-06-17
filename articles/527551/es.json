@@ -196,8 +196,10 @@
       "source_hash": "c2dbd90b23cc",
       "target": "When you open a project in the in-product library, you'll have access to a wealth of information, including:",
       "translated_from_hash": "c2dbd90b23cc",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.193888+00:00"
     },
     "body:0017": {
       "field": "body",
