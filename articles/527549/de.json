@@ -601,8 +601,10 @@
       "source_hash": "843ee9df1c07",
       "target": "We’ve implemented several <b>accessibility improvements</b> as part of our regular platform audit per WCAG 2.2 AA standards. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527640-accessibility-on-the-govocal-platform\" target=\"_blank\">📖 Learn more about our accessibility standard here</a>",
       "translated_from_hash": "843ee9df1c07",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.217725+00:00"
     },
     "body:0054": {
       "field": "body",
