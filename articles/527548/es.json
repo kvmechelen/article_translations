@@ -370,8 +370,10 @@
       "source_hash": "c2152499dc1e",
       "target": "These files help improve analysis, making summaries and answers more accurate and relevant.",
       "translated_from_hash": "c2152499dc1e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.447915+00:00"
     },
     "body:0033": {
       "field": "body",
