@@ -359,8 +359,10 @@
       "source_hash": "b8a0681a0a24",
       "target": "ℹ️ For more information on the specific participation methods, navigate to their specific article where they are explained in more depth:",
       "translated_from_hash": "b8a0681a0a24",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:16.629045+00:00"
     },
     "body:0032": {
       "field": "body",
