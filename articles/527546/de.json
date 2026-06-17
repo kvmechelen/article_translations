@@ -557,8 +557,10 @@
       "source_hash": "d9a831b9a39c",
       "target": "<i>Participation methods: information sharing</i>",
       "translated_from_hash": "d9a831b9a39c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:34.116877+00:00"
     },
     "body:0050": {
       "field": "body",
