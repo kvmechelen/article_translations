@@ -370,8 +370,10 @@
       "source_hash": "caeb48e305a2",
       "target": "<b>💡 Best used when your project exceeds ~100 contributions.</b>",
       "translated_from_hash": "caeb48e305a2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.966017+00:00"
     },
     "body:0033": {
       "field": "body",
