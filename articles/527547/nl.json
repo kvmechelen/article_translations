@@ -326,8 +326,10 @@
       "source_hash": "83f55bd7e5ba",
       "target": "A folder manager can act like a platform admin within the context of the folder.",
       "translated_from_hash": "83f55bd7e5ba",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.667919+00:00"
     },
     "body:0028": {
       "field": "body",
