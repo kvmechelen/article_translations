@@ -535,8 +535,10 @@
       "source_hash": "a8ef8869077e",
       "target": "Spaces for feedback on public services",
       "translated_from_hash": "a8ef8869077e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.683911+00:00"
     },
     "body:0047": {
       "field": "body",
