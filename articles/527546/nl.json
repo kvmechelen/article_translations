@@ -161,8 +161,10 @@
       "source_hash": "5d30dc74c3d6",
       "target": "<b>Tooltips:</b> Each setting includes a tooltip with more details on what the setting achieves",
       "translated_from_hash": "5d30dc74c3d6",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.559114+00:00"
     },
     "body:0014": {
       "field": "body",
