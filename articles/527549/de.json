@@ -909,8 +909,10 @@
       "source_hash": "e25a8c6c9336",
       "target": "Bring your offline input into the heart of your analysis alongside your digital participation. <b>Attach files to AI Analysis</b> so that no input is left behind.",
       "translated_from_hash": "e25a8c6c9336",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.911315+00:00"
     },
     "body:0082": {
       "field": "body",
