@@ -62,8 +62,10 @@
       "source_hash": "34d9c42f789e",
       "target": "Folders don’t have any additional functionality beyond organization, they simply help you structure your projects and improve visibility on the homepage.",
       "translated_from_hash": "34d9c42f789e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.391088+00:00"
     },
     "body:0005": {
       "field": "body",
