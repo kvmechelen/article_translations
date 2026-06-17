@@ -216,8 +216,10 @@
       "source_hash": "3a6e21b9db8d",
       "target": "Input Manager:",
       "translated_from_hash": "3a6e21b9db8d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.830455+00:00"
     },
     "body:0019": {
       "field": "body",
