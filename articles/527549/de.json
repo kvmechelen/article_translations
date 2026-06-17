@@ -1041,8 +1041,10 @@
       "source_hash": "816d11e35a09",
       "target": "<b>Geolocalization for participants. </b>Give your participants better geospatial context: Allow them to show their <b>location on mapping ideation projects</b> (mobile-only). 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Learn more about mapping ideation projects</a>",
       "translated_from_hash": "816d11e35a09",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.612063+00:00"
     },
     "body:0094": {
       "field": "body",
