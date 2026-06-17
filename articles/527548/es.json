@@ -95,8 +95,10 @@
       "source_hash": "981e98af2a06",
       "target": "You add them directly in your phase description, they will also automatically be added to the 360 input files. To do this navigate to ‘Your phase’ → ‘Setup’ → scroll down and ‘Upload attachments’",
       "translated_from_hash": "981e98af2a06",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:09.898335+00:00"
     },
     "body:0008": {
       "field": "body",
