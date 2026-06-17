@@ -1514,8 +1514,10 @@
       "source_hash": "1b0801428bfb",
       "target": "While projects have a publication status (e.g. draft or published), phases do not. This means it's not possible to add a phase in draft mode, once it's created, it's carrying the publication status of the project.",
       "translated_from_hash": "1b0801428bfb",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:43.576987+00:00"
     }
   }
 }
