@@ -634,8 +634,10 @@
       "source_hash": "8b886f192c09",
       "target": "Phase data: Understanding the Insights phase tab",
       "translated_from_hash": "8b886f192c09",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.125347+00:00"
     },
     "body:0057": {
       "field": "body",
