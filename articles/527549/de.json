@@ -1393,8 +1393,10 @@
       "source_hash": "20dc04e7a53d",
       "target": "The phase/project report template now includes all questions (including text questions) together with the first AI insight, if available.",
       "translated_from_hash": "20dc04e7a53d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.540261+00:00"
     },
     "body:0126": {
       "field": "body",
