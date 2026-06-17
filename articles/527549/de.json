@@ -777,8 +777,10 @@
       "source_hash": "d980bbc018f6",
       "target": "Now, users are asked to enter their email first, and the system automatically checks if it’s linked to an existing account, speeding up the process and ensuring a smoother registration.",
       "translated_from_hash": "d980bbc018f6",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.155792+00:00"
     },
     "body:0070": {
       "field": "body",
