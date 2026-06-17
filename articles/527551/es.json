@@ -295,8 +295,10 @@
       "source_hash": "f4b7419c8574",
       "target": "Yes, published projects appear to all platforms, unless you opt out. Projects you set to unlisted are excluded from the Inspiration Hub.",
       "translated_from_hash": "f4b7419c8574",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.739410+00:00"
     },
     "body:0026": {
       "field": "body",
