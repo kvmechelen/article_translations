@@ -447,8 +447,10 @@
       "source_hash": "9ba92094472e",
       "target": "You can’t use AI sensemaking exclusively on a file without any inputs in the phase (for example, using AI summaries, or AI tagging on a document is not possible)",
       "translated_from_hash": "9ba92094472e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.827604+00:00"
     }
   }
 }
