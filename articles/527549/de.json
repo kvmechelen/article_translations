@@ -1448,8 +1448,10 @@
       "source_hash": "670b9ca443a7",
       "target": "Get full visibility on your engagement pipeline: Project Planning helps teams plan, manage, and align better across departments and time.",
       "translated_from_hash": "670b9ca443a7",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.818382+00:00"
     },
     "body:0131": {
       "field": "body",
