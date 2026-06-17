@@ -480,8 +480,10 @@
       "source_hash": "9e44d2d336e9",
       "target": "<b>Weekly digest email</b> — admins and project managers can now receive a weekly summary of inputs awaiting screening, with a direct link to the input manager. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">📖Learn more about automatic email notification here</a>",
       "translated_from_hash": "9e44d2d336e9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:10.562399+00:00"
     },
     "body:0043": {
       "field": "body",
