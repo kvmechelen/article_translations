@@ -337,8 +337,10 @@
       "source_hash": "8e4f4289ebca",
       "target": "<b>Reports</b> are not considered files in 360 input, you can manually download and upload them if wanted",
       "translated_from_hash": "8e4f4289ebca",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.239955+00:00"
     },
     "body:0030": {
       "field": "body",
