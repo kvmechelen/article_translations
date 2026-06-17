@@ -172,8 +172,10 @@
       "source_hash": "56fd4bc4a9af",
       "target": "How to report when using a poll?",
       "translated_from_hash": "56fd4bc4a9af",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.686114+00:00"
     },
     "body:0015": {
       "field": "body",
