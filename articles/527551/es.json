@@ -240,8 +240,10 @@
       "source_hash": "c65639972f88",
       "target": "<b>Platform Link</b>: A direct hyperlink that takes you to the platform where the project was carried out, making it easy to explore further.",
       "translated_from_hash": "c65639972f88",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.459658+00:00"
     },
     "body:0021": {
       "field": "body",
