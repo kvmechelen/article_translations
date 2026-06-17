@@ -172,8 +172,10 @@
       "source_hash": "7a7ea9608b78",
       "target": "Planning and managing consultations just got a whole lot easier. With our new scheduling capabilities, you can now plan your entire participation process in advance — from publishing your project, to setting the exact opening and closing times of each phase, to scheduling your email campaigns. You can even prepare and review phase content in the background before making it live. Everything is clearly queued and runs automatically at the right moment, so there’s no need for last-minute manual actions. The result? More control, fewer time-sensitive tasks, and a smoother, more reliable way to run your consultations from start to finish.",
       "translated_from_hash": "7a7ea9608b78",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.968584+00:00"
     },
     "body:0015": {
       "field": "body",
