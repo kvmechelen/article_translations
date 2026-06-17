@@ -150,8 +150,10 @@
       "source_hash": "a90c3775514a",
       "target": "<b>Phase dates:</b> Determine the date and time the phase starts and ends. Leaving the end date empty makes the phase open-ended; when you later add another phase, the platform automatically assigns an end date to keep the timeline consistent. Phase cannot overlap, however you phases can end and start on the same day as long as the times don’t overlap.",
       "translated_from_hash": "a90c3775514a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.508170+00:00"
     },
     "body:0013": {
       "field": "body",
