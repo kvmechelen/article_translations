@@ -227,8 +227,10 @@
       "source_hash": "b28b87e3e5a8",
       "target": "<i>Participation methods: proposals, ideation, voting</i>",
       "translated_from_hash": "b28b87e3e5a8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:32.428942+00:00"
     },
     "body:0020": {
       "field": "body",
