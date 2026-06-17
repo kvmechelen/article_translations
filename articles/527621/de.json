@@ -84,8 +84,10 @@
       "source_hash": "4091fdc20165",
       "target": "To create a poll, go to <b>Projects &gt; Create a Project</b>, then press <b>Save</b>. In the new phase that appears, select <b>Create a survey</b> as the project type and choose <b>Quick Poll</b> as the survey option.",
       "translated_from_hash": "4091fdc20165",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.274816+00:00"
     },
     "body:0007": {
       "field": "body",
