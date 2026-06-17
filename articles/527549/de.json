@@ -1514,8 +1514,10 @@
       "source_hash": "7c11ad3f25a8",
       "target": "Advanced project discoverability settings: listed/unlisted.",
       "translated_from_hash": "7c11ad3f25a8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.205749+00:00"
     },
     "body:0137": {
       "field": "body",
