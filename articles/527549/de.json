@@ -1316,8 +1316,10 @@
       "source_hash": "d5e8aa891642",
       "target": "Attach files to your project page with the <b>File Attachment Widget</b> in the content builder.",
       "translated_from_hash": "d5e8aa891642",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.120483+00:00"
     },
     "body:0119": {
       "field": "body",
