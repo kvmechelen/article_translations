@@ -359,8 +359,10 @@
       "source_hash": "60bdc053e70d",
       "target": "Turn volume into understanding with Perspectives! When contributions pile up, perspectives steps in — using AI-powered auto-tagging to automatically cluster ideas into themes and sub-themes so community members can navigate the conversation and make sense of the collective discussion. For administrators and project managers, it cuts manual tagging time and surfaces the patterns that matter.",
       "translated_from_hash": "60bdc053e70d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.912286+00:00"
     },
     "body:0032": {
       "field": "body",
