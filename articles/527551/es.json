@@ -119,8 +119,10 @@
       "source_hash": "dcd87fabe8cd",
       "target": "Filter Options",
       "translated_from_hash": "dcd87fabe8cd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.801817+00:00"
     },
     "body:0010": {
       "field": "body",
