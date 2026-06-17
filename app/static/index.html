@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Translation Manager</title>
-  <link rel="stylesheet" href="/styles.css?v=3">
+  <link rel="stylesheet" href="/styles.css?v=8">
 </head>
 <body>
 
-<!-- Login page (shown when unauthenticated) -->
+<!-- Login page -->
 <div id="page-login">
   <div class="card login-box">
     <h1>Translation Manager</h1>
@@ -27,11 +27,14 @@
   </div>
 </div>
 
-<!-- App shell (shown when authenticated) -->
+<!-- App shell -->
 <div id="app">
   <nav id="nav" class="hidden">
     <span class="brand">Translation Manager</span>
     <span class="spacer"></span>
+    <a id="nav-queue" href="#/" class="nav-link">Queue</a>
+    <a id="nav-users" href="#/admin/users" class="nav-link hidden">Users</a>
+    <a id="nav-account" href="#/account" class="nav-link">Account</a>
     <span id="nav-user" class="user-info"></span>
     <button id="btn-logout" class="btn btn-ghost btn-sm">Sign out</button>
   </nav>
@@ -40,17 +43,20 @@
     <main>
 
       <!-- Queue page -->
-      <div id="page-queue">
+      <div id="page-queue" class="hidden">
         <div class="queue-header">
           <h1>Review queue</h1>
           <div class="spacer" style="flex:1"></div>
           <button id="btn-sync" class="btn btn-ghost btn-sm">Sync</button>
         </div>
-
         <div id="sync-result"></div>
-
+        <div id="queue-progress" class="editor-progress hidden">
+          <div class="editor-progress-bar-wrap">
+            <div id="queue-progress-bar" class="editor-progress-bar"></div>
+          </div>
+          <span id="queue-progress-label" class="editor-progress-label"></span>
+        </div>
         <div id="lang-filter" class="filter-bar"></div>
-
         <div id="article-list" class="article-list"></div>
       </div>
 
@@ -61,6 +67,12 @@
           <h1 id="editor-title"></h1>
           <span id="editor-lang" style="font-size:13px;font-weight:700;color:var(--accent)"></span>
         </div>
+        <div id="editor-progress" class="editor-progress hidden">
+          <div class="editor-progress-bar-wrap">
+            <div id="editor-progress-bar" class="editor-progress-bar"></div>
+          </div>
+          <span id="editor-progress-label" class="editor-progress-label"></span>
+        </div>
 
         <div class="editor-controls">
           <label>
@@ -70,15 +82,94 @@
           <div style="flex:1"></div>
           <button id="btn-verify-all" class="btn btn-success btn-sm">Verify all unverified</button>
         </div>
-
         <div id="editor-content" class="segment-list"></div>
+      </div>
+
+      <!-- Account settings page -->
+      <div id="page-account" class="hidden">
+        <div class="page-header"><h1>Account settings</h1></div>
+
+        <div class="settings-section">
+          <h2>Profile</h2>
+          <div class="settings-form">
+            <div class="field"><label>Name</label><input id="acc-name" type="text"></div>
+            <div class="field"><label>Email</label><input id="acc-email" type="email"></div>
+            <button id="btn-save-profile" class="btn btn-primary btn-sm">Save profile</button>
+            <p id="profile-msg" class="success-msg hidden"></p>
+          </div>
+        </div>
+
+        <div class="settings-section">
+          <h2>Change password</h2>
+          <div class="settings-form">
+            <div class="field"><label>Current password</label><input id="acc-pw-current" type="password"></div>
+            <div class="field"><label>New password</label><input id="acc-pw-new" type="password"></div>
+            <div class="field"><label>Confirm new password</label><input id="acc-pw-confirm" type="password"></div>
+            <button id="btn-save-password" class="btn btn-primary btn-sm">Change password</button>
+            <p id="password-msg" class="success-msg hidden"></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Users admin page -->
+      <div id="page-users" class="hidden">
+        <div class="page-header">
+          <h1>Users</h1>
+          <button id="btn-invite" class="btn btn-primary btn-sm">+ Invite user</button>
+        </div>
+        <div class="card" style="overflow:auto">
+          <table id="users-table">
+            <thead>
+              <tr>
+                <th>Name</th><th>Email</th><th>Role</th><th>Languages</th><th></th>
+              </tr>
+            </thead>
+            <tbody id="users-tbody"></tbody>
+          </table>
+        </div>
       </div>
 
     </main>
   </div>
 </div>
 
+<!-- User modal (create / edit) -->
+<div id="user-modal" class="modal-overlay hidden">
+  <div class="modal">
+    <h2 id="modal-title">Invite user</h2>
+    <div class="field"><label>Name</label><input id="m-name" type="text"></div>
+    <div class="field"><label>Email</label><input id="m-email" type="email"></div>
+    <div class="field">
+      <label>Role</label>
+      <select id="m-role">
+        <option value="proofreader">Proofreader (one language)</option>
+        <option value="admin">Admin (all languages, full access)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>Languages</label>
+      <div class="lang-checkboxes" id="m-langs">
+        <label><input type="checkbox" value="de"> DE</label>
+        <label><input type="checkbox" value="da"> DA</label>
+        <label><input type="checkbox" value="es"> ES</label>
+        <label><input type="checkbox" value="fr"> FR</label>
+        <label><input type="checkbox" value="it"> IT</label>
+        <label><input type="checkbox" value="nl"> NL</label>
+      </div>
+    </div>
+    <div class="field" id="m-pw-wrap">
+      <label id="m-pw-label">Password</label>
+      <input id="m-password" type="password">
+    </div>
+    <p id="modal-error" class="error-msg hidden"></p>
+    <div class="modal-actions">
+      <button id="modal-cancel" class="btn btn-ghost">Cancel</button>
+      <button id="modal-save" class="btn btn-primary">Save</button>
+    </div>
+  </div>
+</div>
+
 <div id="toast"></div>
-<script src="/app.js?v=3"></script>
+<script src="/app.js?v=8"></script>
 </body>
 </html>

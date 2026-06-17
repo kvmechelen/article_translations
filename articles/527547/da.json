@@ -111,6 +111,15 @@
       "origin": "machine",
       "status": "unverified"
     },
+    "body:0065": {
+      "field": "body",
+      "source": "Approve projects created by project managers inside the folder",
+      "source_hash": "235abbbc3203",
+      "target": "Approve projects created by project managers inside the folder",
+      "translated_from_hash": "235abbbc3203",
+      "origin": "machine",
+      "status": "unverified"
+    },
     "body:0011": {
       "field": "body",
       "source": "Manage all projects within the folder",

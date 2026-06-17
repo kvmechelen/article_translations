@@ -86,8 +86,8 @@ def get_lang(article_id: str, lang: str) -> dict:
 
 def article_queue(languages: list[str]) -> list[dict]:
     """
-    Return one dict per article that has ≥1 unverified segment in any of `languages`.
-    Each dict: {article_id, title, total, verified, unverified_by_lang: {lang: N}}
+    Return ALL articles with per-language stats. Articles are always included so
+    a fully-verified article stays visible (shown as done) rather than disappearing.
     """
     result = []
     for art_id in list_articles():
@@ -97,28 +97,24 @@ def article_queue(languages: list[str]) -> list[dict]:
         title = en.get("segments", {}).get("title", {}).get("text", art_id)
         total_segs = len(en.get("segments", {}))
 
-        unverified_by_lang: dict[str, int] = {}
+        lang_stats: dict[str, dict] = {}
         verified_total = 0
-        segs_counted = False
 
         for lang in languages:
             lang_data = get_lang(art_id, lang)
             segs = lang_data.get("segments", {})
-            unv = sum(1 for s in segs.values() if s.get("status") != "verified")
-            if unv:
-                unverified_by_lang[lang] = unv
-            # count verified across all assigned langs for overall progress
-            verified_total += sum(1 for s in segs.values() if s.get("status") == "verified")
+            verified = sum(1 for s in segs.values() if s.get("status") == "verified")
+            lang_stats[lang] = {"verified": verified, "total": total_segs}
+            verified_total += verified
 
-        if unverified_by_lang:
-            result.append({
-                "article_id": art_id,
-                "title": title,
-                "total_segments": total_segs,
-                "verified_segments": verified_total,
-                "total_segments_all_langs": total_segs * len(languages),
-                "unverified_by_lang": unverified_by_lang,
-            })
+        result.append({
+            "article_id": art_id,
+            "title": title,
+            "total_segments": total_segs,
+            "total_segments_all_langs": total_segs * len(languages),
+            "verified_segments": verified_total,
+            "lang_stats": lang_stats,
+        })
     return result
 
 

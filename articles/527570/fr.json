@@ -356,19 +356,10 @@
     },
     "body:0038": {
       "field": "body",
-      "source": "As an admin, you can assign one or more project managers to a project. Project managers have the same rights as admins, but only within the scope of that specific project <i>(e.g., they can update the project name, change settings, and more)</i>.",
-      "source_hash": "df3392aa362a",
-      "target": "As an admin, you can assign one or more project managers to a project. Project managers have the same rights as admins, but only within the scope of that specific project <i>(e.g., they can update the project name, change settings, and more)</i>.",
-      "translated_from_hash": "df3392aa362a",
-      "origin": "machine",
-      "status": "unverified"
-    },
-    "body:0039": {
-      "field": "body",
-      "source": "In order to assign a project to a project manager, they first have to be added as a project manager to the platform.",
-      "source_hash": "d26563de542d",
-      "target": "In order to assign a project to a project manager, they first have to be added as a project manager to the platform.",
-      "translated_from_hash": "d26563de542d",
+      "source": "As an admin, you can assign one or more project managers to a project. Project managers have the same rights as admins, but only within the scope of that specific project <i>(e.g., they can create projects, update the project name, change settings, and more)</i>.",
+      "source_hash": "84700af0bfd8",
+      "target": "As an admin, you can assign one or more project managers to a project. Project managers have the same rights as admins, but only within the scope of that specific project <i>(e.g., they can create projects, update the project name, change settings, and more)</i>.",
+      "translated_from_hash": "84700af0bfd8",
       "origin": "machine",
       "status": "unverified"
     },

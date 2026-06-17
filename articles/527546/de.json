@@ -10,9 +10,7 @@
       "target": "Creating and Managing Phases",
       "translated_from_hash": "47b135fdef16",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.456907+00:00"
+      "status": "verified"
     },
     "description": {
       "field": "description",
@@ -21,9 +19,7 @@
       "target": "",
       "translated_from_hash": "e3b0c44298fc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:45.302426+00:00"
+      "status": "verified"
     },
     "body:0001": {
       "field": "body",
@@ -32,9 +28,7 @@
       "target": "<i>This article is machine translated from english</i>",
       "translated_from_hash": "71361155ecf7",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.538601+00:00"
+      "status": "verified"
     },
     "body:0002": {
       "field": "body",
@@ -43,9 +37,7 @@
       "target": "What is a phase?",
       "translated_from_hash": "381ea8725a97",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.589351+00:00"
+      "status": "verified"
     },
     "body:0003": {
       "field": "body",
@@ -54,9 +46,7 @@
       "target": "Every project has a timeline, and this timeline is made up of different phases. Each phase is defined by a specific <i>participation method</i>.",
       "translated_from_hash": "2fd0cca73271",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.636089+00:00"
+      "status": "verified"
     },
     "body:0004": {
       "field": "body",
@@ -65,9 +55,7 @@
       "target": "While the project itself sets the overall scope, visibility, and high-level overview, the phase is where you configure the details for each step. Because each step in a project can be quite different, phases have their own settings and specifications depending on the chosen participation method.",
       "translated_from_hash": "38dfc58b206b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.682878+00:00"
+      "status": "verified"
     },
     "body:0005": {
       "field": "body",
@@ -76,9 +64,7 @@
       "target": "ℹ️ You can learn more about these options in the Phase Settings section below, or by checking our <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">Overview of Our Participation Methods</a> article.",
       "translated_from_hash": "68d30d38e3f3",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.730696+00:00"
+      "status": "verified"
     },
     "body:0006": {
       "field": "body",
@@ -87,9 +73,7 @@
       "target": "What are the different phase settings?",
       "translated_from_hash": "52e60a5159b0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.775944+00:00"
+      "status": "verified"
     },
     "body:0007": {
       "field": "body",
@@ -98,9 +82,7 @@
       "target": "Each project contains a timeline divided into phases. Each phase has its own settings, depending on the participation method used.",
       "translated_from_hash": "4f0d0b15a6af",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.821091+00:00"
+      "status": "verified"
     },
     "body:0008": {
       "field": "body",
@@ -109,9 +91,7 @@
       "target": "Setup:",
       "translated_from_hash": "e21aff14fa33",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.868745+00:00"
+      "status": "verified"
     },
     "body:0009": {
       "field": "body",
@@ -120,9 +100,7 @@
       "target": "<i>Participation methods: all</i>",
       "translated_from_hash": "dd6ba3be893a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.916342+00:00"
+      "status": "verified"
     },
     "body:0010": {
       "field": "body",
@@ -131,9 +109,7 @@
       "target": "The Setup section defines the default settings for a phase. Each participation method has unique settings. All phase settings can be found in the <b>Setup </b>tab of each phase.",
       "translated_from_hash": "3924012467d2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:31.966554+00:00"
+      "status": "verified"
     },
     "body:0011": {
       "field": "body",
@@ -142,9 +118,7 @@
       "target": "<b>Required fields:</b> Phase title and phase dates",
       "translated_from_hash": "4605dea00a23",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.030739+00:00"
+      "status": "verified"
     },
     "body:0012": {
       "field": "body",
@@ -153,9 +127,7 @@
       "target": "<b>Phase dates:</b> Determine the date and time the phase starts and ends. Leaving the end date empty makes the phase open-ended; when you later add another phase, the platform automatically assigns an end date to keep the timeline consistent. Phase cannot overlap, however you phases can end and start on the same day as long as the times don’t overlap.",
       "translated_from_hash": "a90c3775514a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.083075+00:00"
+      "status": "verified"
     },
     "body:0013": {
       "field": "body",
@@ -164,9 +136,7 @@
       "target": "<b>Tooltips:</b> Each setting includes a tooltip with more details on what the setting achieves",
       "translated_from_hash": "5d30dc74c3d6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.141668+00:00"
+      "status": "verified"
     },
     "body:0014": {
       "field": "body",
@@ -175,9 +145,7 @@
       "target": "Description:",
       "translated_from_hash": "0cf2814604b4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.188322+00:00"
+      "status": "verified"
     },
     "body:0015": {
       "field": "body",
@@ -186,9 +154,7 @@
       "target": "Here is where you will be able to set your phase description.",
       "translated_from_hash": "bc72d2a33990",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.234233+00:00"
+      "status": "verified"
     },
     "body:0016": {
       "field": "body",
@@ -197,9 +163,7 @@
       "target": "you can publish what you have written or keep some information in draft to publish at a later date",
       "translated_from_hash": "e0e8816e1d27",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.283154+00:00"
+      "status": "verified"
     },
     "body:0017": {
       "field": "body",
@@ -208,9 +172,7 @@
       "target": "The edits are saved even if you go away from the page, the edits just won’t appear publicly until you publish.",
       "translated_from_hash": "c78363b80ecd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.332462+00:00"
+      "status": "verified"
     },
     "body:0018": {
       "field": "body",
@@ -219,9 +181,7 @@
       "target": "Input Manager:",
       "translated_from_hash": "3a6e21b9db8d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.381908+00:00"
+      "status": "verified"
     },
     "body:0019": {
       "field": "body",
@@ -230,9 +190,7 @@
       "target": "<i>Participation methods: proposals, ideation, voting</i>",
       "translated_from_hash": "b28b87e3e5a8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.428942+00:00"
+      "status": "verified"
     },
     "body:0020": {
       "field": "body",
@@ -241,9 +199,7 @@
       "target": "The Input Manager allows you to view all inputs related to the current phase and manage their availability across other phases within the same project.",
       "translated_from_hash": "95177cf1ffc7",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.479048+00:00"
+      "status": "verified"
     },
     "body:0021": {
       "field": "body",
@@ -252,9 +208,7 @@
       "target": "ℹ️ The Input Manager is a powerful feature with multiple uses. To explore its full capabilities, refer to one of the articles below. Each dives deeper into specific aspects of how the Input Manager works:",
       "translated_from_hash": "c658ed21ab80",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.535966+00:00"
+      "status": "verified"
     },
     "body:0022": {
       "field": "body",
@@ -263,9 +217,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Collecting input and feedback</a>",
       "translated_from_hash": "981fb5dda3e1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.588783+00:00"
+      "status": "verified"
     },
     "body:0023": {
       "field": "body",
@@ -274,9 +226,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">Collecting residents proposals/petitions</a>",
       "translated_from_hash": "8cc0036bec1e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.646961+00:00"
+      "status": "verified"
     },
     "body:0024": {
       "field": "body",
@@ -285,9 +235,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Voting and prioritization methods</a>",
       "translated_from_hash": "7563c8827ba4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.719594+00:00"
+      "status": "verified"
     },
     "body:0025": {
       "field": "body",
@@ -296,9 +244,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527588-tag-copy-and-move-ideas-and-posts\" target=\"_blank\">Tag, copy and move inputs</a>",
       "translated_from_hash": "3d5855f143be",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.776355+00:00"
+      "status": "verified"
     },
     "body:0026": {
       "field": "body",
@@ -307,9 +253,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527638-assigning-input-and-ideas-to-your-colleagues\" target=\"_blank\">Assigning input and ideas to your colleagues</a>",
       "translated_from_hash": "49485e63cc97",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.825989+00:00"
+      "status": "verified"
     },
     "body:0027": {
       "field": "body",
@@ -318,9 +262,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527641-providing-feedback-and-managing-inputs\" target=\"_blank\">Providing feedback and managing inputs </a>",
       "translated_from_hash": "e90494645171",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.878576+00:00"
+      "status": "verified"
     },
     "body:0028": {
       "field": "body",
@@ -329,9 +271,7 @@
       "target": "Input/Survey Form:",
       "translated_from_hash": "915da5d6269c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.931088+00:00"
+      "status": "verified"
     },
     "body:0029": {
       "field": "body",
@@ -340,9 +280,7 @@
       "target": "<i>Participation methods: proposals, ideation, voting, surveys</i>",
       "translated_from_hash": "3cbd8851826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:32.990784+00:00"
+      "status": "verified"
     },
     "body:0030": {
       "field": "body",
@@ -351,9 +289,7 @@
       "target": "In this section you can edit the form that users have to fill in when they want to participate in the phase.",
       "translated_from_hash": "8bf6b70a02ec",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.048420+00:00"
+      "status": "verified"
     },
     "body:0031": {
       "field": "body",
@@ -362,9 +298,7 @@
       "target": "ℹ️ For more information on the specific participation methods, navigate to their specific article where they are explained in more depth:",
       "translated_from_hash": "b8a0681a0a24",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.110370+00:00"
+      "status": "verified"
     },
     "body:0032": {
       "field": "body",
@@ -373,9 +307,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">Creating an in-platform survey</a>",
       "translated_from_hash": "ec66512e1d47",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.167180+00:00"
+      "status": "verified"
     },
     "body:0033": {
       "field": "body",
@@ -384,9 +316,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Collecting input and feedback</a>",
       "translated_from_hash": "981fb5dda3e1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.216798+00:00"
+      "status": "verified"
     },
     "body:0034": {
       "field": "body",
@@ -395,9 +325,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">Collecting residents proposals/petitions</a>",
       "translated_from_hash": "8cc0036bec1e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.270135+00:00"
+      "status": "verified"
     },
     "body:0035": {
       "field": "body",
@@ -406,9 +334,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Voting and prioritization methods</a>",
       "translated_from_hash": "7563c8827ba4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.325241+00:00"
+      "status": "verified"
     },
     "body:0036": {
       "field": "body",
@@ -417,9 +343,7 @@
       "target": "Map:",
       "translated_from_hash": "a55afb8a176b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.384839+00:00"
+      "status": "verified"
     },
     "body:0037": {
       "field": "body",
@@ -428,9 +352,7 @@
       "target": "<i>Participation methods: proposals, ideation, voting</i>",
       "translated_from_hash": "b28b87e3e5a8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.432707+00:00"
+      "status": "verified"
     },
     "body:0038": {
       "field": "body",
@@ -439,9 +361,7 @@
       "target": "If you want to use maps in your phase, this is the place where you can configure your map.",
       "translated_from_hash": "37f5b7bb84df",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.487862+00:00"
+      "status": "verified"
     },
     "body:0039": {
       "field": "body",
@@ -450,9 +370,7 @@
       "target": "ℹ️ For more information on maps, read our articles on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence\" target=\"_blank\">Map Consultations</a> and Using ESRI ArcGIS maps.",
       "translated_from_hash": "3231efc28eba",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.544528+00:00"
+      "status": "verified"
     },
     "body:0040": {
       "field": "body",
@@ -461,9 +379,7 @@
       "target": "Phase Access and User Data:",
       "translated_from_hash": "ec68c79ffa72",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.593973+00:00"
+      "status": "verified"
     },
     "body:0041": {
       "field": "body",
@@ -472,9 +388,7 @@
       "target": "<i>Participation methods: all</i>",
       "translated_from_hash": "dd6ba3be893a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.646420+00:00"
+      "status": "verified"
     },
     "body:0042": {
       "field": "body",
@@ -483,9 +397,7 @@
       "target": "Phase-level rights define who can participate in each phase action (posting input, commenting, voting, completing surveys, etc.). You can also choose to ask extra demographic questions on the phase level.",
       "translated_from_hash": "692813c7f3f8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.699121+00:00"
+      "status": "verified"
     },
     "body:0043": {
       "field": "body",
@@ -494,9 +406,7 @@
       "target": "ℹ️ For more information on phase-level access rights, read our article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">Understanding Access Rights</a>",
       "translated_from_hash": "b1d1cd4f16df",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.750318+00:00"
+      "status": "verified"
     },
     "body:0044": {
       "field": "body",
@@ -505,9 +415,7 @@
       "target": "Notifications:",
       "translated_from_hash": "3d0c9b37d977",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.815179+00:00"
+      "status": "verified"
     },
     "body:0045": {
       "field": "body",
@@ -516,9 +424,7 @@
       "target": "<i>Participation methods: all</i>",
       "translated_from_hash": "dd6ba3be893a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.884225+00:00"
+      "status": "verified"
     },
     "body:0046": {
       "field": "body",
@@ -527,9 +433,7 @@
       "target": "Our platform uses automatic emails to be sent out to users, these are also referred to as notifications. Certain notifications can be customized on a phase-level, you can do so in this tab.",
       "translated_from_hash": "eb6299e0bcac",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.938411+00:00"
+      "status": "verified"
     },
     "body:0047": {
       "field": "body",
@@ -538,9 +442,7 @@
       "target": "ℹ️ For more information on automated emails read our article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">automated email notifications</a>.",
       "translated_from_hash": "74317610ec53",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:33.992088+00:00"
+      "status": "verified"
     },
     "body:0048": {
       "field": "body",
@@ -549,9 +451,7 @@
       "target": "Report:",
       "translated_from_hash": "0a90864de9a6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.060632+00:00"
+      "status": "verified"
     },
     "body:0049": {
       "field": "body",
@@ -560,9 +460,7 @@
       "target": "<i>Participation methods: information sharing</i>",
       "translated_from_hash": "d9a831b9a39c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.116877+00:00"
+      "status": "verified"
     },
     "body:0050": {
       "field": "body",
@@ -571,9 +469,7 @@
       "target": "In this section you can create a report and choose to make it visible or not to end-users.",
       "translated_from_hash": "80185aa02c68",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.181145+00:00"
+      "status": "verified"
     },
     "body:0051": {
       "field": "body",
@@ -582,9 +478,7 @@
       "target": "ℹ️ For more information on our Report Builder feature read our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Creating and building reports with the Report Builder</a>",
       "translated_from_hash": "dbfd4483caba",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.237672+00:00"
+      "status": "verified"
     },
     "body:0052": {
       "field": "body",
@@ -593,9 +487,7 @@
       "target": "Volunteering:",
       "translated_from_hash": "639d0236c40c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.296309+00:00"
+      "status": "verified"
     },
     "body:0053": {
       "field": "body",
@@ -604,9 +496,7 @@
       "target": "<i>Participation methods: volunteering</i>",
       "translated_from_hash": "a2178948ee7b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.364189+00:00"
+      "status": "verified"
     },
     "body:0054": {
       "field": "body",
@@ -615,9 +505,7 @@
       "target": "In this section you can manage your volunteering phase.",
       "translated_from_hash": "9b3440624cb0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.416861+00:00"
+      "status": "verified"
     },
     "body:0055": {
       "field": "body",
@@ -626,9 +514,7 @@
       "target": "ℹ️ For more information read our article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527622-organizing-a-volunteering-project\" target=\"_blank\">Organizing a volunteering project</a>",
       "translated_from_hash": "22c3a163389f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.469133+00:00"
+      "status": "verified"
     },
     "body:0056": {
       "field": "body",
@@ -637,9 +523,7 @@
       "target": "Phase data: Understanding the Insights phase tab",
       "translated_from_hash": "8b886f192c09",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.524565+00:00"
+      "status": "verified"
     },
     "body:0057": {
       "field": "body",
@@ -648,9 +532,7 @@
       "target": "What is the Insights tab?",
       "translated_from_hash": "91b1d71ff04b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.576115+00:00"
+      "status": "verified"
     },
     "body:0058": {
       "field": "body",
@@ -659,9 +541,7 @@
       "target": "The <b>Insights tab</b> allows you to view and understand the results of a phase.",
       "translated_from_hash": "52ee2bfa92c0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.712558+00:00"
+      "status": "verified"
     },
     "body:0059": {
       "field": "body",
@@ -670,9 +550,7 @@
       "target": "It brings together participation data, audience information, and phase-specific results in one place, helping you interpret how people engaged with your participation method.",
       "translated_from_hash": "58243bbcbe84",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.803760+00:00"
+      "status": "verified"
     },
     "body:0060": {
       "field": "body",
@@ -681,9 +559,7 @@
       "target": "Rather than reviewing individual inputs one by one, the Insights tab provides a structured overview that makes it easier to:",
       "translated_from_hash": "5efa5623de6f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.896883+00:00"
+      "status": "verified"
     },
     "body:0061": {
       "field": "body",
@@ -692,9 +568,7 @@
       "target": "Understand overall participation and engagement",
       "translated_from_hash": "3eec3d081abf",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:34.966253+00:00"
+      "status": "verified"
     },
     "body:0062": {
       "field": "body",
@@ -703,9 +577,7 @@
       "target": "See who participated and how representative the audience is",
       "translated_from_hash": "9e32c2613fa9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.018268+00:00"
+      "status": "verified"
     },
     "body:0063": {
       "field": "body",
@@ -714,9 +586,7 @@
       "target": "Analyze results based on the participation method used",
       "translated_from_hash": "0dd9c2997bc1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.078014+00:00"
+      "status": "verified"
     },
     "body:0064": {
       "field": "body",
@@ -725,9 +595,7 @@
       "target": "For reporting purposes, the Insights tab can also be <b>exported to a PDF</b> o<b>r Word</b>, allowing you to easily share results with internal or external stakeholders.",
       "translated_from_hash": "2539b3c629b4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.132542+00:00"
+      "status": "verified"
     },
     "body:0065": {
       "field": "body",
@@ -736,9 +604,7 @@
       "target": "The Insights tab is available for phases that allow participant interaction and can include input from both logged-in and logged-out participants, depending on the access rights of the phase.",
       "translated_from_hash": "301629cdca49",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.203015+00:00"
+      "status": "verified"
     },
     "body:0066": {
       "field": "body",
@@ -747,9 +613,7 @@
       "target": "What information is in the insights tab?",
       "translated_from_hash": "5385824b4e21",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.325255+00:00"
+      "status": "verified"
     },
     "body:0067": {
       "field": "body",
@@ -758,9 +622,7 @@
       "target": "(Topic - reference)",
       "translated_from_hash": "02161d5b93a6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.381704+00:00"
+      "status": "verified"
     },
     "body:0068": {
       "field": "body",
@@ -769,9 +631,7 @@
       "target": "The Insights tab is divided into three main sections:",
       "translated_from_hash": "2c1fcf56f7a0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.433000+00:00"
+      "status": "verified"
     },
     "body:0069": {
       "field": "body",
@@ -780,9 +640,7 @@
       "target": "<b>High-level statistics</b>, providing an overall summary of participation",
       "translated_from_hash": "18e9421315b0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.485137+00:00"
+      "status": "verified"
     },
     "body:0070": {
       "field": "body",
@@ -791,9 +649,7 @@
       "target": "<b>Demographic</b> <b>&amp; Audience information for the phase</b>, offering insight into who participated",
       "translated_from_hash": "f8b2850da82c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.534014+00:00"
+      "status": "verified"
     },
     "body:0071": {
       "field": "body",
@@ -802,9 +658,7 @@
       "target": "<b>Phase-specific results</b>, depending on the participation method used",
       "translated_from_hash": "733fefab3b20",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.581172+00:00"
+      "status": "verified"
     },
     "body:0072": {
       "field": "body",
@@ -813,9 +667,7 @@
       "target": "Each section is explained in more detail below.",
       "translated_from_hash": "f517d348a1dd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.629172+00:00"
+      "status": "verified"
     },
     "body:0073": {
       "field": "body",
@@ -824,9 +676,7 @@
       "target": "High-level statistics",
       "translated_from_hash": "87d1fc64ee70",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.674756+00:00"
+      "status": "verified"
     },
     "body:0074": {
       "field": "body",
@@ -835,9 +685,7 @@
       "target": "This section provides an aggregated overview of how your phase performed.",
       "translated_from_hash": "20c2623c1b3f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.722895+00:00"
+      "status": "verified"
     },
     "body:0075": {
       "field": "body",
@@ -846,9 +694,7 @@
       "target": "Depending on the participation method, the following data points may be shown:",
       "translated_from_hash": "6f216699ccea",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.777164+00:00"
+      "status": "verified"
     },
     "body:0076": {
       "field": "body",
@@ -857,9 +703,7 @@
       "target": "<b>Visitors</b> <i>(all participation methods)</i>",
       "translated_from_hash": "593b0d0a80f5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.855631+00:00"
+      "status": "verified"
     },
     "body:0077": {
       "field": "body",
@@ -868,9 +712,7 @@
       "target": "The number of people who viewed your phase. This includes both logged-in and logged-out visitors.",
       "translated_from_hash": "194751b76892",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.929868+00:00"
+      "status": "verified"
     },
     "body:0078": {
       "field": "body",
@@ -879,9 +721,7 @@
       "target": "<b>Participants</b> <i>(all participation methods)</i>",
       "translated_from_hash": "36ce9260f118",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:35.981518+00:00"
+      "status": "verified"
     },
     "body:0079": {
       "field": "body",
@@ -890,9 +730,7 @@
       "target": "The number of people who actively participated in the phase. Depending on access rights, this may include both logged-in and logged-out participants.",
       "translated_from_hash": "413dce1daddc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.033574+00:00"
+      "status": "verified"
     },
     "body:0080": {
       "field": "body",
@@ -901,9 +739,7 @@
       "target": "<b>Inputs / submissions</b> <i>(surveys, ideation, proposals)</i>",
       "translated_from_hash": "f868b5115a6e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.087574+00:00"
+      "status": "verified"
     },
     "body:0081": {
       "field": "body",
@@ -912,9 +748,7 @@
       "target": "The total number of responses or ideas submitted.",
       "translated_from_hash": "0d579080d4b8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.141895+00:00"
+      "status": "verified"
     },
     "body:0082": {
       "field": "body",
@@ -923,9 +757,7 @@
       "target": "<b>Completion rate</b> <i>(surveys)</i>",
       "translated_from_hash": "66107194a1b3",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.189196+00:00"
+      "status": "verified"
     },
     "body:0083": {
       "field": "body",
@@ -934,9 +766,7 @@
       "target": "The percentage of participants who started the survey and completed it.",
       "translated_from_hash": "44c7631f1fca",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.238793+00:00"
+      "status": "verified"
     },
     "body:0084": {
       "field": "body",
@@ -945,9 +775,7 @@
       "target": "<b>Comments</b> <i>(ideation and proposals)</i>",
       "translated_from_hash": "29fe62748596",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.288011+00:00"
+      "status": "verified"
     },
     "body:0085": {
       "field": "body",
@@ -956,9 +784,7 @@
       "target": "The number of comments added to submitted inputs.",
       "translated_from_hash": "e42307f4d784",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.343316+00:00"
+      "status": "verified"
     },
     "body:0086": {
       "field": "body",
@@ -967,9 +793,7 @@
       "target": "<b>Reactions</b> <i>(ideation and proposals)</i>",
       "translated_from_hash": "9d932d60fc23",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.399524+00:00"
+      "status": "verified"
     },
     "body:0087": {
       "field": "body",
@@ -978,9 +802,7 @@
       "target": "The number of likes or dislikes given to inputs or comments.",
       "translated_from_hash": "2f42f0ff9c10",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.466730+00:00"
+      "status": "verified"
     },
     "body:0088": {
       "field": "body",
@@ -989,9 +811,7 @@
       "target": "<b>Participation over time</b> <i>(all participation methods)</i>",
       "translated_from_hash": "6e1086c08cd0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.526317+00:00"
+      "status": "verified"
     },
     "body:0089": {
       "field": "body",
@@ -1000,9 +820,7 @@
       "target": "A graph comparing visitors and participants over a selected time period, helping you understand how engagement evolved throughout the phase.",
       "translated_from_hash": "13055c12053c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.582117+00:00"
+      "status": "verified"
     },
     "body:0090": {
       "field": "body",
@@ -1011,9 +829,7 @@
       "target": "Demographic &amp; Audience information for the phase",
       "translated_from_hash": "5f014e1c854c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.636117+00:00"
+      "status": "verified"
     },
     "body:0091": {
       "field": "body",
@@ -1022,9 +838,7 @@
       "target": "The platform allows you to collect demographic information in two ways:",
       "translated_from_hash": "a06f37fb9e55",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.684156+00:00"
+      "status": "verified"
     },
     "body:0092": {
       "field": "body",
@@ -1033,9 +847,7 @@
       "target": "Through registration questions when users create an account",
       "translated_from_hash": "2fd229961e29",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.729997+00:00"
+      "status": "verified"
     },
     "body:0093": {
       "field": "body",
@@ -1044,9 +856,7 @@
       "target": "Through added demographic questions within a phase",
       "translated_from_hash": "a75a7bbafb72",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.779408+00:00"
+      "status": "verified"
     },
     "body:0094": {
       "field": "body",
@@ -1055,9 +865,7 @@
       "target": "To learn more, see:",
       "translated_from_hash": "dffcd9269d51",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.833993+00:00"
+      "status": "verified"
     },
     "body:0095": {
       "field": "body",
@@ -1066,9 +874,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
       "translated_from_hash": "c291e47fc432",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.896916+00:00"
+      "status": "verified"
     },
     "body:0096": {
       "field": "body",
@@ -1077,9 +883,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">Understanding Access Rights</a>",
       "translated_from_hash": "7468793421ef",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:36.962751+00:00"
+      "status": "verified"
     },
     "body:0097": {
       "field": "body",
@@ -1088,9 +892,7 @@
       "target": "In this section of the Insights tab, you can browse through the demographic questions that applied to the phase and view how different participant groups are represented. This helps you assess the representativeness of your results.",
       "translated_from_hash": "d03b9248515a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.016123+00:00"
+      "status": "verified"
     },
     "body:0098": {
       "field": "body",
@@ -1099,9 +901,7 @@
       "target": "Phase-specific information",
       "translated_from_hash": "db56e32e2f78",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.083529+00:00"
+      "status": "verified"
     },
     "body:0099": {
       "field": "body",
@@ -1110,9 +910,7 @@
       "target": "This section displays insights that are specific to the participation method used in the phase.",
       "translated_from_hash": "44ccace793db",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.168602+00:00"
+      "status": "verified"
     },
     "body:0100": {
       "field": "body",
@@ -1121,9 +919,7 @@
       "target": "Surveys",
       "translated_from_hash": "7c763b8fc78b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.225638+00:00"
+      "status": "verified"
     },
     "body:0101": {
       "field": "body",
@@ -1132,9 +928,7 @@
       "target": "An ordered overview of all survey questions and the answers provided by participants",
       "translated_from_hash": "a06b560753e2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.287872+00:00"
+      "status": "verified"
     },
     "body:0102": {
       "field": "body",
@@ -1143,9 +937,7 @@
       "target": "Ideation/Proposal",
       "translated_from_hash": "78d26b12862a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.344103+00:00"
+      "status": "verified"
     },
     "body:0103": {
       "field": "body",
@@ -1154,9 +946,7 @@
       "target": "A summary overview of submitted ideas",
       "translated_from_hash": "df00967902b1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.403888+00:00"
+      "status": "verified"
     },
     "body:0104": {
       "field": "body",
@@ -1165,9 +955,7 @@
       "target": "A topic breakdown showing how ideas are distributed across topics",
       "translated_from_hash": "75891b09da65",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.477215+00:00"
+      "status": "verified"
     },
     "body:0105": {
       "field": "body",
@@ -1176,9 +964,7 @@
       "target": "A top 5 list of the most liked ideas",
       "translated_from_hash": "b067f28f954b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.595356+00:00"
+      "status": "verified"
     },
     "body:0106": {
       "field": "body",
@@ -1187,9 +973,7 @@
       "target": "A status breakdown showing the distribution of idea statuses",
       "translated_from_hash": "8e3de5e19bd1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.666264+00:00"
+      "status": "verified"
     },
     "body:0107": {
       "field": "body",
@@ -1198,9 +982,7 @@
       "target": "Voting",
       "translated_from_hash": "aca2f665db08",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.716631+00:00"
+      "status": "verified"
     },
     "body:0108": {
       "field": "body",
@@ -1209,9 +991,7 @@
       "target": "A list of all items that could be voted on, ordered by number of votes",
       "translated_from_hash": "a01e2344e3d1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.770493+00:00"
+      "status": "verified"
     },
     "body:0109": {
       "field": "body",
@@ -1220,9 +1000,7 @@
       "target": "💡 Optionally, demographic clustering can be enabled to explore how different demographic groups voted",
       "translated_from_hash": "69b322ef7fc9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:37.963258+00:00"
+      "status": "verified"
     },
     "body:0110": {
       "field": "body",
@@ -1231,9 +1009,7 @@
       "target": "Where to find the insights tab?",
       "translated_from_hash": "f24ff3d4ba3a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.172744+00:00"
+      "status": "verified"
     },
     "body:0111": {
       "field": "body",
@@ -1242,9 +1018,7 @@
       "target": "You can find the <b>Insights tab</b> within a phase that supports participant interaction.",
       "translated_from_hash": "b7050f09e5b3",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.259985+00:00"
+      "status": "verified"
     },
     "body:0112": {
       "field": "body",
@@ -1253,9 +1027,7 @@
       "target": "Find <b>your project</b> in the backoffice of your platform",
       "translated_from_hash": "9e478c746a76",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.308772+00:00"
+      "status": "verified"
     },
     "body:0113": {
       "field": "body",
@@ -1264,9 +1036,7 @@
       "target": "In your project on the top tab select <b>Timeline</b>",
       "translated_from_hash": "5df5f97580f1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.355121+00:00"
+      "status": "verified"
     },
     "body:0114": {
       "field": "body",
@@ -1275,9 +1045,7 @@
       "target": "Click on the <b>phase</b> you want to explore your insights for",
       "translated_from_hash": "3215dd5121db",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.404391+00:00"
+      "status": "verified"
     },
     "body:0115": {
       "field": "body",
@@ -1286,9 +1054,7 @@
       "target": "Click on the <b>Insights</b> tab",
       "translated_from_hash": "1a8b400c0b0a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.453562+00:00"
+      "status": "verified"
     },
     "body:0116": {
       "field": "body",
@@ -1297,9 +1063,7 @@
       "target": "⚠️ If the Insights tab is not available for that phase, it means this was a phase without participant interaction.<br/>​",
       "translated_from_hash": "cc3688e87cf5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.502394+00:00"
+      "status": "verified"
     },
     "body:0117": {
       "field": "body",
@@ -1308,9 +1072,7 @@
       "target": "How to export the insights tab as PDF or Word?",
       "translated_from_hash": "e3b14be35313",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.550218+00:00"
+      "status": "verified"
     },
     "body:0118": {
       "field": "body",
@@ -1319,9 +1081,7 @@
       "target": "Find <b>your project</b> in the backoffice of your platform",
       "translated_from_hash": "9e478c746a76",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.603079+00:00"
+      "status": "verified"
     },
     "body:0119": {
       "field": "body",
@@ -1330,9 +1090,7 @@
       "target": "In your project on the top tab select <b>Timeline</b>",
       "translated_from_hash": "5df5f97580f1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.657840+00:00"
+      "status": "verified"
     },
     "body:0120": {
       "field": "body",
@@ -1341,9 +1099,7 @@
       "target": "Click on the <b>phase</b> you want to explore your insights for",
       "translated_from_hash": "3215dd5121db",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.706783+00:00"
+      "status": "verified"
     },
     "body:0121": {
       "field": "body",
@@ -1352,9 +1108,7 @@
       "target": "Click on the <b>Insights</b> tab",
       "translated_from_hash": "1a8b400c0b0a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.754613+00:00"
+      "status": "verified"
     },
     "body:0122": {
       "field": "body",
@@ -1363,9 +1117,7 @@
       "target": "At the top right you see a <b>Download</b> button that exports a PDF or Word",
       "translated_from_hash": "cb4d4139d7b4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.804949+00:00"
+      "status": "verified"
     },
     "body:0123": {
       "field": "body",
@@ -1374,9 +1126,7 @@
       "target": "How to setup your project timeline in phases?",
       "translated_from_hash": "6bdf301267ae",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.853351+00:00"
+      "status": "verified"
     },
     "body:0124": {
       "field": "body",
@@ -1385,9 +1135,7 @@
       "target": "By default your project will prompt you to create a first phase",
       "translated_from_hash": "367a90f83c0e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.912718+00:00"
+      "status": "verified"
     },
     "body:0125": {
       "field": "body",
@@ -1396,9 +1144,7 @@
       "target": "Choose a timeframe on which you want the phase to be active",
       "translated_from_hash": "5a9ab234ecd4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:42.973901+00:00"
+      "status": "verified"
     },
     "body:0126": {
       "field": "body",
@@ -1407,9 +1153,7 @@
       "target": "Choose your desired participation method for the phase",
       "translated_from_hash": "756beb040670",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.029101+00:00"
+      "status": "verified"
     },
     "body:0127": {
       "field": "body",
@@ -1418,9 +1162,7 @@
       "target": "Configure the settings for the phase",
       "translated_from_hash": "e0caf0a1ea52",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.084242+00:00"
+      "status": "verified"
     },
     "body:0128": {
       "field": "body",
@@ -1429,9 +1171,7 @@
       "target": "Press the <b>+ New phase</b> icon on the right of the timeline to add extra phases until you have your entire project outlined",
       "translated_from_hash": "d29aea0edad9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.140809+00:00"
+      "status": "verified"
     },
     "body:0129": {
       "field": "body",
@@ -1440,9 +1180,7 @@
       "target": "How to delete a phase?",
       "translated_from_hash": "3b19c36cf63e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.193191+00:00"
+      "status": "verified"
     },
     "body:0130": {
       "field": "body",
@@ -1451,9 +1189,7 @@
       "target": "Navigate to the Project that contains the phase you want to delete",
       "translated_from_hash": "64b561b00c63",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.246341+00:00"
+      "status": "verified"
     },
     "body:0131": {
       "field": "body",
@@ -1462,9 +1198,7 @@
       "target": "Click on the phase in the timeline that you want to delete",
       "translated_from_hash": "3c93aa687e24",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.303545+00:00"
+      "status": "verified"
     },
     "body:0132": {
       "field": "body",
@@ -1473,9 +1207,7 @@
       "target": "Below the timeline you’ll see the phase title, on the right side of the screen you’ll see 3 dots. Click these dots and press <b>Delete phase</b>",
       "translated_from_hash": "1119c37d23cf",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.355857+00:00"
+      "status": "verified"
     },
     "body:0133": {
       "field": "body",
@@ -1484,9 +1216,7 @@
       "target": "Confirm",
       "translated_from_hash": "eebdd24a77d9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.407052+00:00"
+      "status": "verified"
     },
     "body:0134": {
       "field": "body",
@@ -1495,9 +1225,7 @@
       "target": "Limitations on phases",
       "translated_from_hash": "329e9139c801",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.457304+00:00"
+      "status": "verified"
     },
     "body:0135": {
       "field": "body",
@@ -1506,9 +1234,7 @@
       "target": "Phases are tied directly to the project timeline, which means they cannot overlap or run in parallel within the same project. If you need multiple phases to run at the same time, you’ll need to create separate projects.",
       "translated_from_hash": "5e018d48defd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.512629+00:00"
+      "status": "verified"
     },
     "body:0136": {
       "field": "body",
@@ -1517,9 +1243,7 @@
       "target": "While projects have a publication status (e.g. draft or published), phases do not. This means it's not possible to add a phase in draft mode, once it's created, it's carrying the publication status of the project.",
       "translated_from_hash": "1b0801428bfb",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:06:43.576987+00:00"
+      "status": "verified"
     }
   }
 }

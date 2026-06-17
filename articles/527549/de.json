@@ -10,9 +10,7 @@
       "target": "Changelog",
       "translated_from_hash": "ead07c84baac",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.247903+00:00"
+      "status": "verified"
     },
     "description": {
       "field": "description",
@@ -21,9 +19,7 @@
       "target": "",
       "translated_from_hash": "e3b0c44298fc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:17.885963+00:00"
+      "status": "verified"
     },
     "body:0001": {
       "field": "body",
@@ -32,9 +28,7 @@
       "target": "A Product Change Log is a record of product updates that helps users stay informed about new features, improvements, and fixes.",
       "translated_from_hash": "4d7cb2c9fefe",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.309869+00:00"
+      "status": "verified"
     },
     "body:0002": {
       "field": "body",
@@ -43,9 +37,7 @@
       "target": "<b>May 2026</b>",
       "translated_from_hash": "f468de314d63",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.360474+00:00"
+      "status": "verified"
     },
     "body:0003": {
       "field": "body",
@@ -54,9 +46,7 @@
       "target": "<b>Small improvements of the month</b>",
       "translated_from_hash": "5b5b4a65a32e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.408336+00:00"
+      "status": "verified"
     },
     "body:0004": {
       "field": "body",
@@ -65,9 +55,7 @@
       "target": "<b>Profile URLs now use anonymous IDs.</b> Profile pages are only visible for community members who've posted publicly. @mentions only link through when that profile is visible. Community members stay in control of their online presence. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "b9d79e8edebb",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.457755+00:00"
+      "status": "verified"
     },
     "body:0005": {
       "field": "body",
@@ -76,9 +64,7 @@
       "target": "<b>Admins and moderators now get notified when a proposal expires without reaching threshold.</b> When threshold is reached, voting stays open with a countdown to the original expiration date. No proposal falls through the cracks, and momentum keeps building. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "29bfa79c817a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.508361+00:00"
+      "status": "verified"
     },
     "body:0006": {
       "field": "body",
@@ -87,9 +73,7 @@
       "target": "<b>Survey submission IDs can now be hidden on request.</b> Contact our support team to remove the response ID shown after submission. Collect responses without exposing metadata community members don't need to see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "d45901fcaa23",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.556776+00:00"
+      "status": "verified"
     },
     "body:0007": {
       "field": "body",
@@ -98,9 +82,7 @@
       "target": "<b>GIFs are now supported in the email editor.</b> Drop them directly into your campaigns. Add movement to your messages without leaving the platform. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "8323de34c2c8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.607722+00:00"
+      "status": "verified"
     },
     "body:0008": {
       "field": "body",
@@ -109,9 +91,7 @@
       "target": "<b>Images across the platform now display with less cropping.</b> Banners and photos appear closer to how they were uploaded. What you design is what community members see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527652-what-are-the-recommended-dimensions-and-sizes-of-the-platform-images\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "9001a86809c4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.657326+00:00"
+      "status": "verified"
     },
     "body:0009": {
       "field": "body",
@@ -120,9 +100,7 @@
       "target": "<b>April 2026</b>",
       "translated_from_hash": "ce8283305054",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.704860+00:00"
+      "status": "verified"
     },
     "body:0010": {
       "field": "body",
@@ -131,9 +109,7 @@
       "target": "<b>FormSync 2.0: Bringing offline voices into your analysis</b>",
       "translated_from_hash": "34792c7e8db0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.757722+00:00"
+      "status": "verified"
     },
     "body:0011": {
       "field": "body",
@@ -142,9 +118,7 @@
       "target": "Not everyone participates online — and the voices missing from your digital consultation are often the ones that matter most for representativeness. FormSync bridges that gap. Download a printable version of any survey, collect responses in the field, scan and upload them — and every response lands in the platform alongside your digital input, ready for analysis. With improvement of 95%+ scanning accuracy, bulk review tools, and skip logic in printed forms, offline input is just as easy to manage as digital. Participation specialists are confident they've genuinely heard from their whole community — not just the part of it that was online. And when people who showed up on paper see themselves in the outcome, trust follows.",
       "translated_from_hash": "d66ed76e384c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.811034+00:00"
+      "status": "verified"
     },
     "body:0012": {
       "field": "body",
@@ -153,9 +127,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about the FormSync tool here</a>",
       "translated_from_hash": "bd17469da716",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.861726+00:00"
+      "status": "verified"
     },
     "body:0013": {
       "field": "body",
@@ -164,9 +136,7 @@
       "target": "<b>Scheduling: Plan your consultation in advance, let the platform publish it</b>",
       "translated_from_hash": "be6d7b0281fa",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.918214+00:00"
+      "status": "verified"
     },
     "body:0014": {
       "field": "body",
@@ -175,9 +145,7 @@
       "target": "Planning and managing consultations just got a whole lot easier. With our new scheduling capabilities, you can now plan your entire participation process in advance — from publishing your project, to setting the exact opening and closing times of each phase, to scheduling your email campaigns. You can even prepare and review phase content in the background before making it live. Everything is clearly queued and runs automatically at the right moment, so there’s no need for last-minute manual actions. The result? More control, fewer time-sensitive tasks, and a smoother, more reliable way to run your consultations from start to finish.",
       "translated_from_hash": "7a7ea9608b78",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:08.968584+00:00"
+      "status": "verified"
     },
     "body:0015": {
       "field": "body",
@@ -186,9 +154,7 @@
       "target": "📖 Learn more about:",
       "translated_from_hash": "ebd919c3787d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.018188+00:00"
+      "status": "verified"
     },
     "body:0016": {
       "field": "body",
@@ -197,9 +163,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Scheduling projects here</a>",
       "translated_from_hash": "7e31653bb31f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.068612+00:00"
+      "status": "verified"
     },
     "body:0017": {
       "field": "body",
@@ -208,9 +172,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">Scheduling email campaigns here</a>",
       "translated_from_hash": "643c09c14f93",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.118124+00:00"
+      "status": "verified"
     },
     "body:0018": {
       "field": "body",
@@ -219,9 +181,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Keeping phase description in draft here</a>",
       "translated_from_hash": "7b3443a8b270",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.172194+00:00"
+      "status": "verified"
     },
     "body:0019": {
       "field": "body",
@@ -230,9 +190,7 @@
       "target": "<b>Other improvements:</b>",
       "translated_from_hash": "61fb18717e89",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.230394+00:00"
+      "status": "verified"
     },
     "body:0020": {
       "field": "body",
@@ -241,9 +199,7 @@
       "target": "<b>Improved seat management interface:</b> Easily manage seats and billing details with a clearer, more intuitive overview. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about seat management view here</a>",
       "translated_from_hash": "18bd9ead9c4d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.286374+00:00"
+      "status": "verified"
     },
     "body:0021": {
       "field": "body",
@@ -252,9 +208,7 @@
       "target": "<b>New user group rule to target roles:</b> Make segmentation and management of users even more powerful creating user groups based on user roles <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user groups here</a>",
       "translated_from_hash": "328b3ac5c4f1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.345420+00:00"
+      "status": "verified"
     },
     "body:0022": {
       "field": "body",
@@ -263,9 +217,7 @@
       "target": "<b>New visit stats API endpoint:</b> Access visitor data more easily and connect it to your existing reporting tools. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527620-what-data-can-you-export-from-your-platform\" target=\"_blank\">📖 Learn more about our API end points here</a>",
       "translated_from_hash": "1363edf44d30",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.399072+00:00"
+      "status": "verified"
     },
     "body:0023": {
       "field": "body",
@@ -274,9 +226,7 @@
       "target": "<b>Safer project setup:</b> Participation methods can no longer be changed once inputs are collected, helping you maintain data consistency and avoid bugs from changing methods. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">📖 Learn more about our participation methods here</a>",
       "translated_from_hash": "f6f8a8de9c15",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.455241+00:00"
+      "status": "verified"
     },
     "body:0024": {
       "field": "body",
@@ -285,9 +235,7 @@
       "target": "<b>Easier project manager invites, to give your teams more autonomy:</b> Project managers and folder managers can now invite new project and folder managers directly by email inside their project/folder. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527642-different-roles-and-permissions-on-the-platform\" target=\"_blank\">📖 Learn more about roles and permissions here</a>",
       "translated_from_hash": "3c8235fc503e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.515227+00:00"
+      "status": "verified"
     },
     "body:0025": {
       "field": "body",
@@ -296,9 +244,7 @@
       "target": "<b>Imported Scanned Forms now support logic in surveys.</b>",
       "translated_from_hash": "2a9809fa3c1e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.570388+00:00"
+      "status": "verified"
     },
     "body:0026": {
       "field": "body",
@@ -307,9 +253,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.631168+00:00"
+      "status": "verified"
     },
     "body:0027": {
       "field": "body",
@@ -318,9 +262,7 @@
       "target": "March 2026",
       "translated_from_hash": "39e5e0b26060",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.683888+00:00"
+      "status": "verified"
     },
     "body:0028": {
       "field": "body",
@@ -329,9 +271,7 @@
       "target": "<b>Run deliberation at scale — and bring every voice into focus</b>",
       "translated_from_hash": "c19df61df052",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.730063+00:00"
+      "status": "verified"
     },
     "body:0029": {
       "field": "body",
@@ -340,9 +280,7 @@
       "target": "Large consultations shouldn't mean lost voices. These two new features give you everything you need to turn volume into genuine understanding, and understanding into confident decisions.",
       "translated_from_hash": "2a039e0a24e5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.778941+00:00"
+      "status": "verified"
     },
     "body:0030": {
       "field": "body",
@@ -351,9 +289,7 @@
       "target": "<b>Perspectives: Help your community to navigate and understand collective ideas with the new auto-tagging and feed view features</b>",
       "translated_from_hash": "f0868c08ea72",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.842961+00:00"
+      "status": "verified"
     },
     "body:0031": {
       "field": "body",
@@ -362,9 +298,7 @@
       "target": "Turn volume into understanding with Perspectives! When contributions pile up, perspectives steps in — using AI-powered auto-tagging to automatically cluster ideas into themes and sub-themes so community members can navigate the conversation and make sense of the collective discussion. For administrators and project managers, it cuts manual tagging time and surfaces the patterns that matter.",
       "translated_from_hash": "60bdc053e70d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.912286+00:00"
+      "status": "verified"
     },
     "body:0032": {
       "field": "body",
@@ -373,9 +307,7 @@
       "target": "<b>💡 Best used when your project exceeds ~100 contributions.</b>",
       "translated_from_hash": "caeb48e305a2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:09.966017+00:00"
+      "status": "verified"
     },
     "body:0033": {
       "field": "body",
@@ -384,9 +316,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">📖 Learn more on how to set up Perspectives here</a>",
       "translated_from_hash": "89858b50c7b2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.022603+00:00"
+      "status": "verified"
     },
     "body:0034": {
       "field": "body",
@@ -395,9 +325,7 @@
       "target": "<b>Map where your community stands with Common Ground (Beta)</b>",
       "translated_from_hash": "98469d5d2dd0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.095283+00:00"
+      "status": "verified"
     },
     "body:0035": {
       "field": "body",
@@ -406,9 +334,7 @@
       "target": "Distill large volumes of contributions into concise trade-off statements that participants simply react to — agree, unsure, or disagree — bridging open ideation with deeper deliberation.",
       "translated_from_hash": "c8823aff36ff",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.151768+00:00"
+      "status": "verified"
     },
     "body:0036": {
       "field": "body",
@@ -417,9 +343,7 @@
       "target": "Results are visualized in real time, giving participants and admins a transparent map of where opinions align and where they diverge — a clear foundation for decision-makers to act with confidence.",
       "translated_from_hash": "7dea4d85e705",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.201656+00:00"
+      "status": "verified"
     },
     "body:0037": {
       "field": "body",
@@ -428,9 +352,7 @@
       "target": "<b>💡 Best used after ideation project.</b>",
       "translated_from_hash": "cf5a9386a266",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.273776+00:00"
+      "status": "verified"
     },
     "body:0038": {
       "field": "body",
@@ -439,9 +361,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/609603-finding-common-ground\" target=\"_blank\">📖 Learn more about Common Ground recommendations and setup here</a>",
       "translated_from_hash": "6c39f7656699",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.336580+00:00"
+      "status": "verified"
     },
     "body:0039": {
       "field": "body",
@@ -450,9 +370,7 @@
       "target": "<b>Other improvements:</b>",
       "translated_from_hash": "61fb18717e89",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.398729+00:00"
+      "status": "verified"
     },
     "body:0040": {
       "field": "body",
@@ -461,9 +379,7 @@
       "target": "<b>FormSync</b> <b>to bring your offline input online —</b> now powered exclusively by Claude for more precise, reliable results. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about FormSync here</a>",
       "translated_from_hash": "2d288c42a2fd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.452451+00:00"
+      "status": "verified"
     },
     "body:0041": {
       "field": "body",
@@ -472,9 +388,7 @@
       "target": "<b>Word export for phase insights</b> — download reports directly as Word files from the report builder. <b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">📖</a></b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\"> Learn more about building reports here</a>",
       "translated_from_hash": "d9e5c9089b18",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.505722+00:00"
+      "status": "verified"
     },
     "body:0042": {
       "field": "body",
@@ -483,9 +397,7 @@
       "target": "<b>Weekly digest email</b> — admins and project managers can now receive a weekly summary of inputs awaiting screening, with a direct link to the input manager. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">📖Learn more about automatic email notification here</a>",
       "translated_from_hash": "9e44d2d336e9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.562399+00:00"
+      "status": "verified"
     },
     "body:0043": {
       "field": "body",
@@ -494,9 +406,7 @@
       "target": "<b>Enhanced user profile privacy</b> — Profiles are now private by default, with URLs featuring random numbers instead of names, ensuring better privacy and enhancing trust. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more about managing the user profile here</a>",
       "translated_from_hash": "64e1e46b66f9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.621363+00:00"
+      "status": "verified"
     },
     "body:0044": {
       "field": "body",
@@ -505,9 +415,7 @@
       "target": "<b>User tab update</b> — project managers and folder managers are now listed separately for easier management. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user management here</a>",
       "translated_from_hash": "61b40e5f1798",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.675671+00:00"
+      "status": "verified"
     },
     "body:0045": {
       "field": "body",
@@ -516,9 +424,7 @@
       "target": "A<b>ArcGIS upgraded</b> from 4.28 to 4.34 for improved performance. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence#h_f4dd4cdd19\" target=\"_blank\">📖 Learn more about the ESRI add on here</a>",
       "translated_from_hash": "6ad203f27eca",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.722991+00:00"
+      "status": "verified"
     },
     "body:0046": {
       "field": "body",
@@ -527,9 +433,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.775675+00:00"
+      "status": "verified"
     },
     "body:0047": {
       "field": "body",
@@ -538,9 +442,7 @@
       "target": "February 2026",
       "translated_from_hash": "fc437294ca9e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.839040+00:00"
+      "status": "verified"
     },
     "body:0048": {
       "field": "body",
@@ -549,9 +451,7 @@
       "target": "<b>Homepage banner customization</b>",
       "translated_from_hash": "2c2294ac4507",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.894111+00:00"
+      "status": "verified"
     },
     "body:0049": {
       "field": "body",
@@ -560,9 +460,7 @@
       "target": "This update ensures your homepage banner looks perfect across all devices, eliminating the frustration of cropped images when logged in. You now have the flexibility to customize the banner’s size for desktop, tablet, and phone screens, delivering a consistent, professional look for all visitors and users.",
       "translated_from_hash": "451701f6c64f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:10.953873+00:00"
+      "status": "verified"
     },
     "body:0050": {
       "field": "body",
@@ -571,9 +469,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527618-customizing-the-homepage\" target=\"_blank\">Learn more about the homepage builder and banner images here</a>",
       "translated_from_hash": "4921e65def25",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.006326+00:00"
+      "status": "verified"
     },
     "body:0051": {
       "field": "body",
@@ -582,9 +478,7 @@
       "target": "<b>Other improvements:</b>",
       "translated_from_hash": "61fb18717e89",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.066723+00:00"
+      "status": "verified"
     },
     "body:0052": {
       "field": "body",
@@ -593,9 +487,7 @@
       "target": "<b>Text Box editor revamp:</b> In all text boxes on the platform you can now easily add alt text to images for better accessibility and enjoy improved formatting when pasting content from Google Docs or Microsoft Word. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527561-using-the-text-box-editor\" target=\"_blank\">Learn more about the text box editor here</a>",
       "translated_from_hash": "d2b50b6bd3c9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.160873+00:00"
+      "status": "verified"
     },
     "body:0053": {
       "field": "body",
@@ -604,9 +496,7 @@
       "target": "We’ve implemented several <b>accessibility improvements</b> as part of our regular platform audit per WCAG 2.2 AA standards. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527640-accessibility-on-the-govocal-platform\" target=\"_blank\">📖 Learn more about our accessibility standard here</a>",
       "translated_from_hash": "843ee9df1c07",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.217725+00:00"
+      "status": "verified"
     },
     "body:0054": {
       "field": "body",
@@ -615,9 +505,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.274747+00:00"
+      "status": "verified"
     },
     "body:0055": {
       "field": "body",
@@ -626,9 +514,7 @@
       "target": "January 2026",
       "translated_from_hash": "3ba37c617eff",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.336675+00:00"
+      "status": "verified"
     },
     "body:0056": {
       "field": "body",
@@ -637,9 +523,7 @@
       "target": "Optional &amp; deferred registration for Surveys, Idea Submission, and Proposals",
       "translated_from_hash": "f582eba40ae9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.390461+00:00"
+      "status": "verified"
     },
     "body:0057": {
       "field": "body",
@@ -648,9 +532,7 @@
       "target": "We've removed the barrier of mandatory registration by allowing participants to engage immediately, making it easier for them to contribute without any upfront commitment. Previously, this was only available during the survey phase, but now users can submit ideas and proposals without registering first. This feature helps increase participation rates, especially for large-scale projects, by enabling users to get involved right away and create an account later. By deferring the registration process until after submission, we maintain data integrity and ensure a seamless experience while still capturing the necessary information for legitimacy and fraud detection.",
       "translated_from_hash": "ab61afaa5bb4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.454418+00:00"
+      "status": "verified"
     },
     "body:0058": {
       "field": "body",
@@ -659,9 +541,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">📖 Learn more about our participation options here</a>",
       "translated_from_hash": "e6ce0f3b60ec",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.504691+00:00"
+      "status": "verified"
     },
     "body:0059": {
       "field": "body",
@@ -670,9 +550,7 @@
       "target": "Method dashboards",
       "translated_from_hash": "6ab00b0044c1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.563345+00:00"
+      "status": "verified"
     },
     "body:0060": {
       "field": "body",
@@ -681,9 +559,7 @@
       "target": "We’ve introduced pre-populated, phase-specific dashboards to streamline project management. This feature allows project managers and admins to instantly access key participation metrics, demographics, and engagement trends, improving the management and reporting of each project phase. It simplifies tracking progress and helps identify representativeness gaps in real-time. With easy export options, you can share the insights with stakeholders or include them in reports.",
       "translated_from_hash": "77c4e9eb52f0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.637070+00:00"
+      "status": "verified"
     },
     "body:0061": {
       "field": "body",
@@ -692,9 +568,7 @@
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">📖 Learn more about managing phases here</a>",
       "translated_from_hash": "c1e5d86d40c8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.698951+00:00"
+      "status": "verified"
     },
     "body:0062": {
       "field": "body",
@@ -703,9 +577,7 @@
       "target": "Other improvements",
       "translated_from_hash": "d0ff30c08491",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.748603+00:00"
+      "status": "verified"
     },
     "body:0063": {
       "field": "body",
@@ -714,9 +586,7 @@
       "target": "<b>User deletion flexibility</b>: You can now choose whether to delete a user's past participation or keep it anonymous. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">Learn more about deleting users here</a>",
       "translated_from_hash": "872944dc495d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.801463+00:00"
+      "status": "verified"
     },
     "body:0064": {
       "field": "body",
@@ -725,9 +595,7 @@
       "target": "<b>Custom input tags on project level</b>: You can now configure tags for ideas at the project level, offering full customizability for each project. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about input tags here</a>",
       "translated_from_hash": "d64bb6dbcc3a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.856713+00:00"
+      "status": "verified"
     },
     "body:0065": {
       "field": "body",
@@ -736,9 +604,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.923504+00:00"
+      "status": "verified"
     },
     "body:0066": {
       "field": "body",
@@ -747,9 +613,7 @@
       "target": "December 2025",
       "translated_from_hash": "1c2e7d7242d4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:11.980766+00:00"
+      "status": "verified"
     },
     "body:0067": {
       "field": "body",
@@ -758,9 +622,7 @@
       "target": "Enhanced registration flow for simplicity and speed",
       "translated_from_hash": "e8e6006511b7",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.042250+00:00"
+      "status": "verified"
     },
     "body:0068": {
       "field": "body",
@@ -769,9 +631,7 @@
       "target": "We’ve simplified the user registration process to make it faster and more user-friendly. This update reduces confusion and enhances the overall experience by guiding users through a clear, streamlined flow.",
       "translated_from_hash": "c2fec4f04975",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.097189+00:00"
+      "status": "verified"
     },
     "body:0069": {
       "field": "body",
@@ -780,9 +640,7 @@
       "target": "Now, users are asked to enter their email first, and the system automatically checks if it’s linked to an existing account, speeding up the process and ensuring a smoother registration.",
       "translated_from_hash": "d980bbc018f6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.155792+00:00"
+      "status": "verified"
     },
     "body:0070": {
       "field": "body",
@@ -791,9 +649,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Learn more about the login/registration flow</a>",
       "translated_from_hash": "3071ad59ed91",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.231529+00:00"
+      "status": "verified"
     },
     "body:0071": {
       "field": "body",
@@ -802,9 +658,7 @@
       "target": "Customize your project and input tags for better categorization",
       "translated_from_hash": "d3267a1f489e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.291571+00:00"
+      "status": "verified"
     },
     "body:0072": {
       "field": "body",
@@ -813,9 +667,7 @@
       "target": "Now you have more control over organizing and managing your projects. Platform tags can be fully customized with descriptions, making it easier to classify, filter, and analyze your content.",
       "translated_from_hash": "bcffc6d9b753",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.361254+00:00"
+      "status": "verified"
     },
     "body:0073": {
       "field": "body",
@@ -824,9 +676,7 @@
       "target": "Admins can edit, delete, and define default tags, offering enhanced flexibility and ensuring your content is better categorized.",
       "translated_from_hash": "87a96d11ec03",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.439421+00:00"
+      "status": "verified"
     },
     "body:0074": {
       "field": "body",
@@ -835,9 +685,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about Tags</a>",
       "translated_from_hash": "67614ae2a95a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.497229+00:00"
+      "status": "verified"
     },
     "body:0075": {
       "field": "body",
@@ -846,9 +694,7 @@
       "target": "Easier idea filtering for voting phases",
       "translated_from_hash": "17f988719a0f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.566602+00:00"
+      "status": "verified"
     },
     "body:0076": {
       "field": "body",
@@ -857,9 +703,7 @@
       "target": "Participants can now filter ideas by specific topics during any voting phase, based on tags selected by them. This makes it easier for participants to find relevant ideas, while also enabling admins to analyze and prioritize submissions with ease.",
       "translated_from_hash": "c8e911555755",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.629518+00:00"
+      "status": "verified"
     },
     "body:0077": {
       "field": "body",
@@ -868,9 +712,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Learn more about voting</a>",
       "translated_from_hash": "c032c42ce0c1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.691988+00:00"
+      "status": "verified"
     },
     "body:0078": {
       "field": "body",
@@ -879,9 +721,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.753819+00:00"
+      "status": "verified"
     },
     "body:0079": {
       "field": "body",
@@ -890,9 +730,7 @@
       "target": "November 2025",
       "translated_from_hash": "afddde14e72c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.804924+00:00"
+      "status": "verified"
     },
     "body:0080": {
       "field": "body",
@@ -901,9 +739,7 @@
       "target": "Attach your files to the AI Analysis",
       "translated_from_hash": "d96662a057b0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.861142+00:00"
+      "status": "verified"
     },
     "body:0081": {
       "field": "body",
@@ -912,9 +748,7 @@
       "target": "Bring your offline input into the heart of your analysis alongside your digital participation. <b>Attach files to AI Analysis</b> so that no input is left behind.",
       "translated_from_hash": "e25a8c6c9336",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.911315+00:00"
+      "status": "verified"
     },
     "body:0082": {
       "field": "body",
@@ -923,9 +757,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527580-ai-analysis\" target=\"_blank\">Learn more about the AI analysis tool</a>",
       "translated_from_hash": "e353bbe53751",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:12.971580+00:00"
+      "status": "verified"
     },
     "body:0083": {
       "field": "body",
@@ -934,9 +766,7 @@
       "target": "Transcribe your audio files",
       "translated_from_hash": "b447c7052bab",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.033288+00:00"
+      "status": "verified"
     },
     "body:0084": {
       "field": "body",
@@ -945,9 +775,7 @@
       "target": "Turn meetings and conversations into structured insights in seconds. Just upload audio and instantly explore clear, AI-powered transcripts you can act on.",
       "translated_from_hash": "7bb2e4cfcd35",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.099296+00:00"
+      "status": "verified"
     },
     "body:0085": {
       "field": "body",
@@ -956,9 +784,7 @@
       "target": "📖<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527548-360-input-managing-your-files\" target=\"_blank\"> Learn more about the 360 input tab</a>",
       "translated_from_hash": "e535178652cd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.150290+00:00"
+      "status": "verified"
     },
     "body:0086": {
       "field": "body",
@@ -967,9 +793,7 @@
       "target": "Get real-time community sentiment with the Community Monitor",
       "translated_from_hash": "43123ddcc4d6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.207875+00:00"
+      "status": "verified"
     },
     "body:0087": {
       "field": "body",
@@ -978,9 +802,7 @@
       "target": "Track your community’s satisfaction all year long, turn snapshots into strategy, and avoid costly policy missteps by staying in tune with your residents.",
       "translated_from_hash": "c85f21da285b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.265380+00:00"
+      "status": "verified"
     },
     "body:0088": {
       "field": "body",
@@ -989,9 +811,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527552-community-monitoring-resident-satisfaction-survey\" target=\"_blank\">Learn more about the Community Monitor</a>",
       "translated_from_hash": "df7497dfb622",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.320261+00:00"
+      "status": "verified"
     },
     "body:0089": {
       "field": "body",
@@ -1000,9 +820,7 @@
       "target": "A content builder for folders",
       "translated_from_hash": "1bd124baf8e1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.376666+00:00"
+      "status": "verified"
     },
     "body:0090": {
       "field": "body",
@@ -1011,9 +829,7 @@
       "target": "Make your folder pages well branded and clear for your participants. You can fully customize your folder pages using the <b>content builder</b>.",
       "translated_from_hash": "5ccfd5db8165",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.433605+00:00"
+      "status": "verified"
     },
     "body:0091": {
       "field": "body",
@@ -1022,9 +838,7 @@
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Learn more about folders</a>",
       "translated_from_hash": "c4956eacc1da",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.497101+00:00"
+      "status": "verified"
     },
     "body:0092": {
       "field": "body",
@@ -1033,9 +847,7 @@
       "target": "Other improvements",
       "translated_from_hash": "d0ff30c08491",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.557694+00:00"
+      "status": "verified"
     },
     "body:0093": {
       "field": "body",
@@ -1044,9 +856,7 @@
       "target": "<b>Geolocalization for participants. </b>Give your participants better geospatial context: Allow them to show their <b>location on mapping ideation projects</b> (mobile-only). 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Learn more about mapping ideation projects</a>",
       "translated_from_hash": "816d11e35a09",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.612063+00:00"
+      "status": "verified"
     },
     "body:0094": {
       "field": "body",
@@ -1055,9 +865,7 @@
       "target": "Define the minimum and maximum number of tags that a user can select. New form builder setting. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about tags</a>",
       "translated_from_hash": "dbf431a01449",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.668032+00:00"
+      "status": "verified"
     },
     "body:0095": {
       "field": "body",
@@ -1066,9 +874,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.772346+00:00"
+      "status": "verified"
     },
     "body:0096": {
       "field": "body",
@@ -1077,9 +883,7 @@
       "target": "October 2025",
       "translated_from_hash": "38568523e759",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.852685+00:00"
+      "status": "verified"
     },
     "body:0097": {
       "field": "body",
@@ -1088,9 +892,7 @@
       "target": "🆕 New features",
       "translated_from_hash": "6c3be3fc4992",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.908144+00:00"
+      "status": "verified"
     },
     "body:0098": {
       "field": "body",
@@ -1099,9 +901,7 @@
       "target": "<b>1. 360 Input Releases:</b>",
       "translated_from_hash": "d1541fd2dfd9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:13.965488+00:00"
+      "status": "verified"
     },
     "body:0099": {
       "field": "body",
@@ -1110,9 +910,7 @@
       "target": "The new <b>360 Inputs</b> tab now has a few new tools in its belt:",
       "translated_from_hash": "9f0b54169bc6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.017993+00:00"
+      "status": "verified"
     },
     "body:0100": {
       "field": "body",
@@ -1121,9 +919,7 @@
       "target": "<b>AI-generated descriptions</b> for files, making it easier to understand file content.",
       "translated_from_hash": "24bd13de6277",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.068929+00:00"
+      "status": "verified"
     },
     "body:0101": {
       "field": "body",
@@ -1132,9 +928,7 @@
       "target": "✨ Improvements",
       "translated_from_hash": "c5e804b4835f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.126714+00:00"
+      "status": "verified"
     },
     "body:0102": {
       "field": "body",
@@ -1143,9 +937,7 @@
       "target": "<b>1. Form Builders (Input, Survey, Proposal):</b>",
       "translated_from_hash": "8f16a6d498e5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.177320+00:00"
+      "status": "verified"
     },
     "body:0103": {
       "field": "body",
@@ -1154,9 +946,7 @@
       "target": "Drag and drop fields anywhere in the form for faster layout in surveys, input forms, and proposal forms.",
       "translated_from_hash": "c0e4fb4d718f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.233019+00:00"
+      "status": "verified"
     },
     "body:0104": {
       "field": "body",
@@ -1165,9 +955,7 @@
       "target": "Edit and remove previously locked question types and pages, except for the title question (which cannot be deleted). You can now also move the title question around and edit description, pages, and image questions.",
       "translated_from_hash": "7d0d4f485c5a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.287599+00:00"
+      "status": "verified"
     },
     "body:0105": {
       "field": "body",
@@ -1176,9 +964,7 @@
       "target": "Configure character limits for title control, short answer, and long answer fields.",
       "translated_from_hash": "b97d2a675957",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.346101+00:00"
+      "status": "verified"
     },
     "body:0106": {
       "field": "body",
@@ -1187,9 +973,7 @@
       "target": "<b>2. Survey Experience (Mobile):</b>",
       "translated_from_hash": "3c56ad9c8c88",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.406825+00:00"
+      "status": "verified"
     },
     "body:0107": {
       "field": "body",
@@ -1198,9 +982,7 @@
       "target": "Prevent accidental submissions by allowing users to press \"next\" only after scrolling down the page, ensuring they see all questions before moving on.",
       "translated_from_hash": "f0e734c5b7ea",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.472829+00:00"
+      "status": "verified"
     },
     "body:0108": {
       "field": "body",
@@ -1209,9 +991,7 @@
       "target": "<b>3. Project Tabs:</b>",
       "translated_from_hash": "1261c7652123",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.524799+00:00"
+      "status": "verified"
     },
     "body:0109": {
       "field": "body",
@@ -1220,9 +1000,7 @@
       "target": "The Access Rights tab is now renamed to <b>Phase Access and User Data</b>, redesigned for clarity:",
       "translated_from_hash": "d86fcfab67ae",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.579396+00:00"
+      "status": "verified"
     },
     "body:0110": {
       "field": "body",
@@ -1231,9 +1009,7 @@
       "target": "User Data Collection: Controls anonymity settings.",
       "translated_from_hash": "55693f6863eb",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.629827+00:00"
+      "status": "verified"
     },
     "body:0111": {
       "field": "body",
@@ -1242,9 +1018,7 @@
       "target": "Demographic Questions: Controls demographic questions asked in the survey or before participating.",
       "translated_from_hash": "66eda2350c8d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.685514+00:00"
+      "status": "verified"
     },
     "body:0112": {
       "field": "body",
@@ -1253,9 +1027,7 @@
       "target": "Export your project participants easily in the new <b>Audience</b> tab",
       "translated_from_hash": "f42c41fb77bc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.741325+00:00"
+      "status": "verified"
     },
     "body:0113": {
       "field": "body",
@@ -1264,9 +1036,7 @@
       "target": "Phase and project settings have been restructured to make them less confusing, with project settings now moved to the new <b>General</b> tab.",
       "translated_from_hash": "569fcc1623c3",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.802680+00:00"
+      "status": "verified"
     },
     "body:0114": {
       "field": "body",
@@ -1275,9 +1045,7 @@
       "target": "<b>4. Navigation Bar:</b>",
       "translated_from_hash": "ab2b66ba3e40",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.864235+00:00"
+      "status": "verified"
     },
     "body:0115": {
       "field": "body",
@@ -1286,9 +1054,7 @@
       "target": "Overflow items now appear in a <b>More</b> dropdown for easier navigation.",
       "translated_from_hash": "8c25a936b43e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.923478+00:00"
+      "status": "verified"
     },
     "body:0116": {
       "field": "body",
@@ -1297,9 +1063,7 @@
       "target": "Create, edit, and display folders in the navigation bar: Go to <b>Pages &amp; Menu</b> &gt; Add project or folder to Navbar.",
       "translated_from_hash": "38494ba1b78e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:14.987441+00:00"
+      "status": "verified"
     },
     "body:0117": {
       "field": "body",
@@ -1308,9 +1072,7 @@
       "target": "<b>5. Content Builder:</b>",
       "translated_from_hash": "6b0fffc7296c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.046672+00:00"
+      "status": "verified"
     },
     "body:0118": {
       "field": "body",
@@ -1319,9 +1081,7 @@
       "target": "Attach files to your project page with the <b>File Attachment Widget</b> in the content builder.",
       "translated_from_hash": "d5e8aa891642",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.120483+00:00"
+      "status": "verified"
     },
     "body:0119": {
       "field": "body",
@@ -1330,9 +1090,7 @@
       "target": "Drop other widgets (images, attachments, buttons, etc.) into the accordion body to fully customize your accordion.",
       "translated_from_hash": "b7f6dbc83439",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.179710+00:00"
+      "status": "verified"
     },
     "body:0120": {
       "field": "body",
@@ -1341,9 +1099,7 @@
       "target": "<b>6. Voting Phases:</b>",
       "translated_from_hash": "fde616df719b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.237538+00:00"
+      "status": "verified"
     },
     "body:0121": {
       "field": "body",
@@ -1352,9 +1108,7 @@
       "target": "Encourage users to use a minimum number of votes with the new setting for voting phases - <b>Minimum # Selected Options</b>",
       "translated_from_hash": "896470a1328c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.289512+00:00"
+      "status": "verified"
     },
     "body:0122": {
       "field": "body",
@@ -1363,9 +1117,7 @@
       "target": "<b>8. Folder:</b>",
       "translated_from_hash": "3be39f900c37",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.345999+00:00"
+      "status": "verified"
     },
     "body:0123": {
       "field": "body",
@@ -1374,9 +1126,7 @@
       "target": "Add your folder to your navigation bar to create new customizable nav bar pages.",
       "translated_from_hash": "9b18562d86cc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.411451+00:00"
+      "status": "verified"
     },
     "body:0124": {
       "field": "body",
@@ -1385,9 +1135,7 @@
       "target": "<b>7. Reports:</b>",
       "translated_from_hash": "ee4893aaf863",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.482327+00:00"
+      "status": "verified"
     },
     "body:0125": {
       "field": "body",
@@ -1396,9 +1144,7 @@
       "target": "The phase/project report template now includes all questions (including text questions) together with the first AI insight, if available.",
       "translated_from_hash": "20dc04e7a53d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.540261+00:00"
+      "status": "verified"
     },
     "body:0126": {
       "field": "body",
@@ -1407,9 +1153,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.600471+00:00"
+      "status": "verified"
     },
     "body:0127": {
       "field": "body",
@@ -1418,9 +1162,7 @@
       "target": "September 2025",
       "translated_from_hash": "0be8e91e2d5a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.652973+00:00"
+      "status": "verified"
     },
     "body:0128": {
       "field": "body",
@@ -1429,9 +1171,7 @@
       "target": "Your engagement boosters for this back-to-work season ✨",
       "translated_from_hash": "85634ebdd293",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.707099+00:00"
+      "status": "verified"
     },
     "body:0129": {
       "field": "body",
@@ -1440,9 +1180,7 @@
       "target": "Your project environment, revamped",
       "translated_from_hash": "70a7c756a442",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.764851+00:00"
+      "status": "verified"
     },
     "body:0130": {
       "field": "body",
@@ -1451,9 +1189,7 @@
       "target": "Get full visibility on your engagement pipeline: Project Planning helps teams plan, manage, and align better across departments and time.",
       "translated_from_hash": "670b9ca443a7",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.818382+00:00"
+      "status": "verified"
     },
     "body:0131": {
       "field": "body",
@@ -1462,9 +1198,7 @@
       "target": "Customize your automatic emails",
       "translated_from_hash": "1c8b88b0f15a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.877450+00:00"
+      "status": "verified"
     },
     "body:0132": {
       "field": "body",
@@ -1473,9 +1207,7 @@
       "target": "Let your automatic emails speak your organization’s language: customize your automatic emails to build trust and engagement.",
       "translated_from_hash": "6d9f86c1feb5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.934037+00:00"
+      "status": "verified"
     },
     "body:0133": {
       "field": "body",
@@ -1484,9 +1216,7 @@
       "target": "Blend your offline and your online data with 360 Input",
       "translated_from_hash": "7b21c48550cd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:15.992486+00:00"
+      "status": "verified"
     },
     "body:0134": {
       "field": "body",
@@ -1495,9 +1225,7 @@
       "target": "Bring your offline assets into the heart of your project — analyze, organize, and attach it alongside your digital participation to unlock deeper insight.",
       "translated_from_hash": "52e2d1877561",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.060274+00:00"
+      "status": "verified"
     },
     "body:0135": {
       "field": "body",
@@ -1506,9 +1234,7 @@
       "target": "Other improvements",
       "translated_from_hash": "d0ff30c08491",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.145896+00:00"
+      "status": "verified"
     },
     "body:0136": {
       "field": "body",
@@ -1517,9 +1243,7 @@
       "target": "Advanced project discoverability settings: listed/unlisted.",
       "translated_from_hash": "7c11ad3f25a8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.205749+00:00"
+      "status": "verified"
     },
     "body:0137": {
       "field": "body",
@@ -1528,9 +1252,7 @@
       "target": "Add demographic questions to <i>any</i> survey. 📖 <a class=\"intercom-content-link\" href=\"https://go-vocal.slack.com/archives/C2W7GP5MY/p1750771733261119\" target=\"_blank\">More info here</a>",
       "translated_from_hash": "8092e3e0fae3",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.264120+00:00"
+      "status": "verified"
     },
     "body:0138": {
       "field": "body",
@@ -1539,9 +1261,7 @@
       "target": "Customizable maximum attendance for events.",
       "translated_from_hash": "9cfc6dee4df4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.324534+00:00"
+      "status": "verified"
     },
     "body:0139": {
       "field": "body",
@@ -1550,9 +1270,7 @@
       "target": "New &amp; improved PDF form downloads. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">Support article</a>",
       "translated_from_hash": "4cd931911545",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.384588+00:00"
+      "status": "verified"
     },
     "body:0140": {
       "field": "body",
@@ -1561,9 +1279,7 @@
       "target": "Project description more easily accessible for editing.",
       "translated_from_hash": "69bfd75f0c20",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.455506+00:00"
+      "status": "verified"
     },
     "body:0141": {
       "field": "body",
@@ -1572,9 +1288,7 @@
       "target": "Project managers and Folder managers can only see the ones they moderate.",
       "translated_from_hash": "b694545025c4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.518303+00:00"
+      "status": "verified"
     },
     "body:0142": {
       "field": "body",
@@ -1583,9 +1297,7 @@
       "target": "Folder moderators can see both their folders and the projects inside them in the Back Office view.",
       "translated_from_hash": "cf847895363f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.574676+00:00"
+      "status": "verified"
     },
     "body:0143": {
       "field": "body",
@@ -1594,9 +1306,7 @@
       "target": "The Homepage Builder’s \"area\" widget automatically groups projects based on user’s stated place of residence.",
       "translated_from_hash": "54cd3ade8f11",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.636368+00:00"
+      "status": "verified"
     },
     "body:0144": {
       "field": "body",
@@ -1605,9 +1315,7 @@
       "target": "UI consistency: Idea forms now follow the same clear, step-by-step structure as survey forms.",
       "translated_from_hash": "5bc546a648a4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.700111+00:00"
+      "status": "verified"
     },
     "body:0145": {
       "field": "body",
@@ -1616,9 +1324,7 @@
       "target": "Add images in the volunteering option description.",
       "translated_from_hash": "65f9b0b9e3d8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.761564+00:00"
+      "status": "verified"
     },
     "body:0146": {
       "field": "body",
@@ -1627,9 +1333,7 @@
       "target": "Admins can add custom text on the top of the log in pop up.",
       "translated_from_hash": "3c38c5730c3b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.851812+00:00"
+      "status": "verified"
     },
     "body:0147": {
       "field": "body",
@@ -1638,9 +1342,7 @@
       "target": "Ask us to customize your minimum registration age. Contact us in your platform from the chat.",
       "translated_from_hash": "bb226ced0728",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:16.942182+00:00"
+      "status": "verified"
     },
     "body:0148": {
       "field": "body",
@@ -1649,9 +1351,7 @@
       "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
       "translated_from_hash": "ee17b3a1826b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:07:17.018856+00:00"
+      "status": "verified"
     }
   }
 }

@@ -246,6 +246,15 @@
       "origin": "machine",
       "status": "unverified"
     },
+    "body:0035": {
+      "field": "body",
+      "source": "Create projects",
+      "source_hash": "8a9c329c4ebc",
+      "target": "Create projects",
+      "translated_from_hash": "8a9c329c4ebc",
+      "origin": "machine",
+      "status": "unverified"
+    },
     "body:0026": {
       "field": "body",
       "source": "Edit project title, description, and access rights",
@@ -318,6 +327,15 @@
       "origin": "machine",
       "status": "unverified"
     },
+    "body:0077": {
+      "field": "body",
+      "source": "Invite other project managers to their project",
+      "source_hash": "307de2e01954",
+      "target": "Invite other project managers to their project",
+      "translated_from_hash": "307de2e01954",
+      "origin": "machine",
+      "status": "unverified"
+    },
     "body:0034": {
       "field": "body",
       "source": "<b>Limitations:</b>",
@@ -327,12 +345,12 @@
       "origin": "machine",
       "status": "unverified"
     },
-    "body:0035": {
+    "body:0078": {
       "field": "body",
-      "source": "Cannot create new registration questions or invite other project managers",
-      "source_hash": "be11e435d7a0",
-      "target": "Cannot create new registration questions or invite other project managers",
-      "translated_from_hash": "be11e435d7a0",
+      "source": "Cannot create new registration questions",
+      "source_hash": "47a8f826e3fc",
+      "target": "Cannot create new registration questions",
+      "translated_from_hash": "47a8f826e3fc",
       "origin": "machine",
       "status": "unverified"
     },
@@ -342,6 +360,15 @@
       "source_hash": "8010d50a025a",
       "target": "Cannot email users outside their assigned projects",
       "translated_from_hash": "8010d50a025a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "Cannot publish projects - they can only ask for approval and once approval is given they can publish.",
+      "source_hash": "04075a40b296",
+      "target": "Cannot publish projects - they can only ask for approval and once approval is given they can publish.",
+      "translated_from_hash": "04075a40b296",
       "origin": "machine",
       "status": "unverified"
     },

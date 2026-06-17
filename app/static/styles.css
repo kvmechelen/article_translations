@@ -107,9 +107,26 @@ label { display: block; margin-bottom: 4px; font-size: 13px; font-weight: 500; }
   font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 12px;
   background: var(--warn); color: #fff; text-transform: uppercase;
 }
+.lang-badge-done { background: var(--success) !important; }
+
+.queue-separator {
+  margin: 16px 0 8px;
+  font-size: 11px; font-weight: 700; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .5px;
+}
 .progress-bar-wrap { width: 120px; background: var(--border); border-radius: 4px; height: 6px; }
 .progress-bar { height: 6px; border-radius: 4px; background: var(--success); transition: width .3s; }
 .progress-label { font-size: 12px; color: var(--muted); white-space: nowrap; }
+
+/* ---- Editor progress bar ---- */
+.editor-progress {
+  display: flex; align-items: center; gap: 12px;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 10px 16px; margin-bottom: 12px;
+}
+.editor-progress-bar-wrap { flex: 1; background: var(--border); border-radius: 4px; height: 8px; }
+.editor-progress-bar { height: 8px; border-radius: 4px; background: var(--success); transition: width .3s; }
+.editor-progress-label { font-size: 13px; color: var(--muted); white-space: nowrap; min-width: 160px; text-align: right; }
 
 /* ---- Editor page ---- */
 .editor-header { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
@@ -180,3 +197,43 @@ label { display: block; margin-bottom: 4px; font-size: 13px; font-weight: 500; }
 /* ---- Misc ---- */
 .empty { color: var(--muted); text-align: center; padding: 48px 0; font-size: 15px; }
 .error-msg { color: var(--danger); font-size: 13px; padding: 8px 0; }
+.success-msg { color: var(--success); font-size: 13px; padding: 8px 0; }
+
+/* ---- Settings / Account page ---- */
+.settings-section { margin-bottom: 32px; }
+.settings-section h2 { font-size: 15px; font-weight: 700; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+.settings-form { max-width: 420px; }
+
+/* ---- Users admin page ---- */
+.page-header { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; }
+.page-header h1 { font-size: 20px; flex: 1; }
+
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .4px; padding: 8px 12px; border-bottom: 2px solid var(--border); }
+td { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: 13px; vertical-align: middle; }
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: var(--bg); }
+
+.role-badge { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 10px; text-transform: uppercase; }
+.role-admin { background: #ede9fe; color: #5b21b6; }
+.role-proofreader { background: #e0f2fe; color: #0369a1; }
+
+/* ---- Modal ---- */
+.modal-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,.4); z-index: 200;
+  display: flex; align-items: center; justify-content: center;
+}
+.modal {
+  background: var(--surface); border-radius: 10px; padding: 28px 32px;
+  width: 440px; max-width: calc(100vw - 32px); box-shadow: 0 8px 32px rgba(0,0,0,.2);
+}
+.modal h2 { font-size: 17px; margin-bottom: 20px; }
+.modal-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 20px; }
+
+/* ---- Checkbox group for languages ---- */
+.lang-checkboxes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.lang-checkboxes label { display: flex; align-items: center; gap: 5px; font-weight: 400; font-size: 13px; cursor: pointer; }
+
+/* ---- Nav links ---- */
+.nav-link { font-size: 13px; color: var(--muted); padding: 4px 8px; border-radius: var(--radius); }
+.nav-link:hover { background: var(--bg); color: var(--text); text-decoration: none; }

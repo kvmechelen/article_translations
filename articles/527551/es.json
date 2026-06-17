@@ -10,9 +10,7 @@
       "target": "Using the inspiration hub",
       "translated_from_hash": "4fbddde5d4b8",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.230032+00:00"
+      "status": "verified"
     },
     "description": {
       "field": "description",
@@ -21,9 +19,7 @@
       "target": "A source of inspiration",
       "translated_from_hash": "13d8d8c6ef00",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.347527+00:00"
+      "status": "verified"
     },
     "body:0001": {
       "field": "body",
@@ -32,9 +28,7 @@
       "target": "What is the inspiration hub?",
       "translated_from_hash": "d46290285104",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.403083+00:00"
+      "status": "verified"
     },
     "body:0002": {
       "field": "body",
@@ -43,9 +37,7 @@
       "target": "The goal of the inspiration hub is to offer a searchable collection of successful public consultation projects from municipalities across the world. It allows you to explore practical examples of public consultation initiatives, see what worked for others, and adapt proven approaches to your own community.",
       "translated_from_hash": "b0926daf8268",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.454192+00:00"
+      "status": "verified"
     },
     "body:0003": {
       "field": "body",
@@ -54,9 +46,7 @@
       "target": "You can browse projects from a network of over 500 municipalities, filtering by consultation method, city size, and more.",
       "translated_from_hash": "12df0afcedb4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.503334+00:00"
+      "status": "verified"
     },
     "body:0004": {
       "field": "body",
@@ -65,9 +55,7 @@
       "target": "Your Government Success Manager will update this page monthly with \"Projects of the Month\", ensuring you stay up-to-date with the latest initiatives.",
       "translated_from_hash": "7f5933b1d557",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.551703+00:00"
+      "status": "verified"
     },
     "body:0005": {
       "field": "body",
@@ -76,9 +64,7 @@
       "target": "How to access and navigate the inspiration hub?",
       "translated_from_hash": "29a751c715b5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.601112+00:00"
+      "status": "verified"
     },
     "body:0006": {
       "field": "body",
@@ -87,9 +73,7 @@
       "target": "Find the Inspiration Hub tab in the left‑hand panel of your platform's back office.",
       "translated_from_hash": "2c4d0fcc6626",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.654050+00:00"
+      "status": "verified"
     },
     "body:0007": {
       "field": "body",
@@ -98,9 +82,7 @@
       "target": "The top section showcases highlighted projects chosen by your Government Success Manager.",
       "translated_from_hash": "26e11210fc6d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.705034+00:00"
+      "status": "verified"
     },
     "body:0008": {
       "field": "body",
@@ -109,9 +91,7 @@
       "target": "Below, browse all published projects (default filter = your country).",
       "translated_from_hash": "c5919eba3eb6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.753922+00:00"
+      "status": "verified"
     },
     "body:0009": {
       "field": "body",
@@ -120,9 +100,7 @@
       "target": "Filter Options",
       "translated_from_hash": "dcd87fabe8cd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.801817+00:00"
+      "status": "verified"
     },
     "body:0010": {
       "field": "body",
@@ -131,9 +109,7 @@
       "target": "<b>Country:</b> Browse projects from a specific country.",
       "translated_from_hash": "cf152e24e3bd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.856556+00:00"
+      "status": "verified"
     },
     "body:0011": {
       "field": "body",
@@ -142,9 +118,7 @@
       "target": "<b>Method:</b> Filter by participation method used.",
       "translated_from_hash": "78e0ab391b34",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.907766+00:00"
+      "status": "verified"
     },
     "body:0012": {
       "field": "body",
@@ -153,9 +127,7 @@
       "target": "<b>Population size:</b> Large, medium, or small municipalities.",
       "translated_from_hash": "e28f9074175f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:30.967210+00:00"
+      "status": "verified"
     },
     "body:0013": {
       "field": "body",
@@ -164,9 +136,7 @@
       "target": "<b>Date:</b> See projects from a chosen timeframe.",
       "translated_from_hash": "9d2c0239b14a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.042848+00:00"
+      "status": "verified"
     },
     "body:0014": {
       "field": "body",
@@ -175,9 +145,7 @@
       "target": "<b>Topic:</b> Drill into specific themes or categories.",
       "translated_from_hash": "9bc29150f401",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.095562+00:00"
+      "status": "verified"
     },
     "body:0015": {
       "field": "body",
@@ -186,9 +154,7 @@
       "target": "What do you see on a project page?",
       "translated_from_hash": "bd4fe11a2ccb",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.146455+00:00"
+      "status": "verified"
     },
     "body:0016": {
       "field": "body",
@@ -197,9 +163,7 @@
       "target": "When you open a project in the in-product library, you'll have access to a wealth of information, including:",
       "translated_from_hash": "c2dbd90b23cc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.193888+00:00"
+      "status": "verified"
     },
     "body:0017": {
       "field": "body",
@@ -208,9 +172,7 @@
       "target": "<b>A note</b>: For some projects, your Government Success Managers may include a note highlighting essential learning points related to the project.",
       "translated_from_hash": "f2af31606c17",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.242855+00:00"
+      "status": "verified"
     },
     "body:0018": {
       "field": "body",
@@ -219,9 +181,7 @@
       "target": "<b>Description</b>: A brief overview explaining what the project aimed to accomplish, providing quick insight into its purpose.",
       "translated_from_hash": "21c3806ca630",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.296723+00:00"
+      "status": "verified"
     },
     "body:0019": {
       "field": "body",
@@ -230,9 +190,7 @@
       "target": "<b>Phases and methods</b>: A detailed list of all phases and methods used throughout the project, complete with their timelines.",
       "translated_from_hash": "0cfc9df77104",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.396188+00:00"
+      "status": "verified"
     },
     "body:0020": {
       "field": "body",
@@ -241,9 +199,7 @@
       "target": "<b>Platform Link</b>: A direct hyperlink that takes you to the platform where the project was carried out, making it easy to explore further.",
       "translated_from_hash": "c65639972f88",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.459658+00:00"
+      "status": "verified"
     },
     "body:0021": {
       "field": "body",
@@ -252,9 +208,7 @@
       "target": "Inspiration hub FAQ",
       "translated_from_hash": "aea361d785e2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.516362+00:00"
+      "status": "verified"
     },
     "body:0022": {
       "field": "body",
@@ -263,9 +217,7 @@
       "target": "Will my draft project appear in the Inspiration Hub?",
       "translated_from_hash": "5d5937295024",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.567780+00:00"
+      "status": "verified"
     },
     "body:0023": {
       "field": "body",
@@ -274,9 +226,7 @@
       "target": "No. Only published projects are shown.",
       "translated_from_hash": "8fe06a8ec885",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.621858+00:00"
+      "status": "verified"
     },
     "body:0024": {
       "field": "body",
@@ -285,9 +235,7 @@
       "target": "Is my project visible to all other platforms?",
       "translated_from_hash": "e1aad3bf2f10",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.676329+00:00"
+      "status": "verified"
     },
     "body:0025": {
       "field": "body",
@@ -296,9 +244,7 @@
       "target": "Yes, published projects appear to all platforms, unless you opt out. Projects you set to unlisted are excluded from the Inspiration Hub.",
       "translated_from_hash": "f4b7419c8574",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.739410+00:00"
+      "status": "verified"
     },
     "body:0026": {
       "field": "body",
@@ -307,9 +253,7 @@
       "target": "Contact your Government Success Manager or Support to hide a project or your entire platform.",
       "translated_from_hash": "a7da7238f3c0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.813025+00:00"
+      "status": "verified"
     },
     "body:0027": {
       "field": "body",
@@ -318,9 +262,7 @@
       "target": "Who can see the Inspiration Hub?",
       "translated_from_hash": "5f5d35f8bb82",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.865084+00:00"
+      "status": "verified"
     },
     "body:0028": {
       "field": "body",
@@ -329,9 +271,7 @@
       "target": "Both platform admins and project/folder managers can access it.",
       "translated_from_hash": "b547c569ec66",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.922116+00:00"
+      "status": "verified"
     },
     "body:0029": {
       "field": "body",
@@ -340,9 +280,7 @@
       "target": "Are project comments shared across platforms?",
       "translated_from_hash": "e877b537b198",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:31.977920+00:00"
+      "status": "verified"
     },
     "body:0030": {
       "field": "body",
@@ -351,9 +289,7 @@
       "target": "Yes, comments are visible to admins &amp; managers from other platforms to foster exchange and learning.",
       "translated_from_hash": "cd33ebd1608b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:32.037268+00:00"
+      "status": "verified"
     },
     "body:0031": {
       "field": "body",
@@ -362,9 +298,7 @@
       "target": "They are not visible to the general public.",
       "translated_from_hash": "3f7ad710e64c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "admin@example.com",
-      "updated_at": "2026-06-17T13:57:32.098004+00:00"
+      "status": "verified"
     }
   }
 }
