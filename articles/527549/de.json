@@ -1459,8 +1459,10 @@
       "source_hash": "1c8b88b0f15a",
       "target": "Customize your automatic emails",
       "translated_from_hash": "1c8b88b0f15a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.877450+00:00"
     },
     "body:0132": {
       "field": "body",
