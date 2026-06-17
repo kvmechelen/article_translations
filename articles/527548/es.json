@@ -315,8 +315,10 @@
       "source_hash": "7aa5d507f7bf",
       "target": "<b>No total limit</b>: You can upload as many files as needed.",
       "translated_from_hash": "7aa5d507f7bf",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.122147+00:00"
     },
     "body:0028": {
       "field": "body",
