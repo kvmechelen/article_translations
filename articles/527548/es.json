@@ -128,8 +128,10 @@
       "source_hash": "a46b51ec496d",
       "target": "Navigate to ‘your project’",
       "translated_from_hash": "a46b51ec496d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.059370+00:00"
     },
     "body:0011": {
       "field": "body",
