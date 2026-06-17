@@ -260,8 +260,10 @@
       "source_hash": "1363edf44d30",
       "target": "<b>New visit stats API endpoint:</b> Access visitor data more easily and connect it to your existing reporting tools. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527620-what-data-can-you-export-from-your-platform\" target=\"_blank\">📖 Learn more about our API end points here</a>",
       "translated_from_hash": "1363edf44d30",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.399072+00:00"
     },
     "body:0023": {
       "field": "body",
