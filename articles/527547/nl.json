@@ -370,8 +370,10 @@
       "source_hash": "14e8dbf6bc02",
       "target": "If published projects are added to a draft folder, the folder won’t appear on the homepage, but the projects remain accessible via direct links or search.",
       "translated_from_hash": "14e8dbf6bc02",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.887859+00:00"
     },
     "body:0032": {
       "field": "body",
