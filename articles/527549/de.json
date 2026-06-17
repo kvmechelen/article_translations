@@ -1272,8 +1272,10 @@
       "source_hash": "ab2b66ba3e40",
       "target": "<b>4. Navigation Bar:</b>",
       "translated_from_hash": "ab2b66ba3e40",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.864235+00:00"
     },
     "body:0115": {
       "field": "body",
