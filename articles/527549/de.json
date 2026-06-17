@@ -1019,8 +1019,10 @@
       "source_hash": "c4956eacc1da",
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Learn more about folders</a>",
       "translated_from_hash": "c4956eacc1da",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.497101+00:00"
     },
     "body:0092": {
       "field": "body",
