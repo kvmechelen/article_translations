@@ -62,8 +62,10 @@
       "source_hash": "b9d79e8edebb",
       "target": "<b>Profile URLs now use anonymous IDs.</b> Profile pages are only visible for community members who've posted publicly. @mentions only link through when that profile is visible. Community members stay in control of their online presence. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "b9d79e8edebb",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.457755+00:00"
     },
     "body:0005": {
       "field": "body",
