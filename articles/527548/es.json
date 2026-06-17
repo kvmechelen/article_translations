@@ -326,8 +326,10 @@
       "source_hash": "0e8f1a7eafca",
       "target": "<b>Folder uploads</b>: When adding a file to a folder it will not be in the 360 input tab of any project",
       "translated_from_hash": "0e8f1a7eafca",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.181245+00:00"
     },
     "body:0029": {
       "field": "body",
