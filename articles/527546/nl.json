@@ -854,8 +854,10 @@
       "source_hash": "593b0d0a80f5",
       "target": "<b>Visitors</b> <i>(all participation methods)</i>",
       "translated_from_hash": "593b0d0a80f5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:19.397177+00:00"
     },
     "body:0077": {
       "field": "body",
