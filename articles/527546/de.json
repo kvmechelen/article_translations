@@ -1481,8 +1481,10 @@
       "source_hash": "eebdd24a77d9",
       "target": "Confirm",
       "translated_from_hash": "eebdd24a77d9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:43.407052+00:00"
     },
     "body:0134": {
       "field": "body",
