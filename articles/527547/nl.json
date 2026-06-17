@@ -95,8 +95,10 @@
       "source_hash": "fa24a325fd41",
       "target": "You can invite people to help manage your folders (and the projects within them).",
       "translated_from_hash": "fa24a325fd41",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.539113+00:00"
     },
     "body:0008": {
       "field": "body",
