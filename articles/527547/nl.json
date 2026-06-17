@@ -150,8 +150,10 @@
       "source_hash": "7c3efc41a39b",
       "target": "Manage all projects within the folder",
       "translated_from_hash": "7c3efc41a39b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.795403+00:00"
     },
     "body:0012": {
       "field": "body",
