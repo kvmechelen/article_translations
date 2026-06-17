@@ -414,8 +414,10 @@
       "source_hash": "28dc752bdc2b",
       "target": "Select the files you want to add as context",
       "translated_from_hash": "28dc752bdc2b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.672836+00:00"
     },
     "body:0037": {
       "field": "body",
