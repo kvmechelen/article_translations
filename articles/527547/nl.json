@@ -293,8 +293,10 @@
       "source_hash": "c2104562a34b",
       "target": "What are the different folder settings?",
       "translated_from_hash": "c2104562a34b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.483820+00:00"
     },
     "body:0025": {
       "field": "body",
