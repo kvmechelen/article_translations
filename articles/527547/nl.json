@@ -183,8 +183,10 @@
       "source_hash": "b887aaafac2c",
       "target": "Access projects that are not in their folder",
       "translated_from_hash": "b887aaafac2c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.940546+00:00"
     },
     "body:0015": {
       "field": "body",
