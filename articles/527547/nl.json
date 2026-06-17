@@ -403,8 +403,10 @@
       "source_hash": "648a30d85709",
       "target": "What are folder use-cases?",
       "translated_from_hash": "648a30d85709",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.045855+00:00"
     },
     "body:0035": {
       "field": "body",
