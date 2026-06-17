@@ -317,8 +317,10 @@
       "source_hash": "5f5d35f8bb82",
       "target": "Who can see the Inspiration Hub?",
       "translated_from_hash": "5f5d35f8bb82",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.865084+00:00"
     },
     "body:0028": {
       "field": "body",
