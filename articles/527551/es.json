@@ -229,8 +229,10 @@
       "source_hash": "0cfc9df77104",
       "target": "<b>Phases and methods</b>: A detailed list of all phases and methods used throughout the project, complete with their timelines.",
       "translated_from_hash": "0cfc9df77104",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.396188+00:00"
     },
     "body:0020": {
       "field": "body",
