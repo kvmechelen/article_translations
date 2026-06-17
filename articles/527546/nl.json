@@ -1107,8 +1107,10 @@
       "source_hash": "44ccace793db",
       "target": "This section displays insights that are specific to the participation method used in the phase.",
       "translated_from_hash": "44ccace793db",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:20.993582+00:00"
     },
     "body:0100": {
       "field": "body",
