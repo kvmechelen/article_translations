@@ -1052,8 +1052,10 @@
       "source_hash": "dbf431a01449",
       "target": "Define the minimum and maximum number of tags that a user can select. New form builder setting. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about tags</a>",
       "translated_from_hash": "dbf431a01449",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.668032+00:00"
     },
     "body:0095": {
       "field": "body",
