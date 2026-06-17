@@ -260,8 +260,10 @@
       "source_hash": "3ade03fe2b78",
       "target": "By default project cards appear on the right side of a folder page. This position can be edited by using the content builder.",
       "translated_from_hash": "3ade03fe2b78",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.309009+00:00"
     },
     "body:0022": {
       "field": "body",
