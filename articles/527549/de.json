@@ -1096,8 +1096,10 @@
       "source_hash": "d1541fd2dfd9",
       "target": "<b>1. 360 Input Releases:</b>",
       "translated_from_hash": "d1541fd2dfd9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.965488+00:00"
     },
     "body:0099": {
       "field": "body",
