@@ -106,8 +106,10 @@
       "source_hash": "b07619713600",
       "target": "<b>What folder managers can do:</b>",
       "translated_from_hash": "b07619713600",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.585391+00:00"
     },
     "body:0009": {
       "field": "body",
