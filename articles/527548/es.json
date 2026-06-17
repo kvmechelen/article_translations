@@ -20,8 +20,10 @@
       "source_hash": "e3b0c44298fc",
       "target": "",
       "translated_from_hash": "e3b0c44298fc",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:22.786251+00:00"
     },
     "body:0001": {
       "field": "body",
