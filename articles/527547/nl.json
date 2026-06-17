@@ -634,8 +634,10 @@
       "source_hash": "881be8a9c7be",
       "target": "Optional: assign a folder manager to the folder (via the permissions tab of the folder settings)",
       "translated_from_hash": "881be8a9c7be",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.179274+00:00"
     },
     "body:0056": {
       "field": "body",
