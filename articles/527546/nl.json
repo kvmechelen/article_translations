@@ -887,8 +887,10 @@
       "source_hash": "413dce1daddc",
       "target": "The number of people who actively participated in the phase. Depending on access rights, this may include both logged-in and logged-out participants.",
       "translated_from_hash": "413dce1daddc",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:19.588692+00:00"
     },
     "body:0080": {
       "field": "body",
