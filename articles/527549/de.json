@@ -898,8 +898,10 @@
       "source_hash": "d96662a057b0",
       "target": "Attach your files to the AI Analysis",
       "translated_from_hash": "d96662a057b0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.861142+00:00"
     },
     "body:0081": {
       "field": "body",
