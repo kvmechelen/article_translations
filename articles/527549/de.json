@@ -1415,8 +1415,10 @@
       "source_hash": "0be8e91e2d5a",
       "target": "September 2025",
       "translated_from_hash": "0be8e91e2d5a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.652973+00:00"
     },
     "body:0128": {
       "field": "body",
