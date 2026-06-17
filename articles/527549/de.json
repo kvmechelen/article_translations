@@ -1580,8 +1580,10 @@
       "source_hash": "cf847895363f",
       "target": "Folder moderators can see both their folders and the projects inside them in the Back Office view.",
       "translated_from_hash": "cf847895363f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.574676+00:00"
     },
     "body:0143": {
       "field": "body",
