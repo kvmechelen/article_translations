@@ -29,8 +29,10 @@
       "source_hash": "71361155ecf7",
       "target": "<i>This article is machine translated from english</i>",
       "translated_from_hash": "71361155ecf7",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.246704+00:00"
     },
     "body:0002": {
       "field": "body",
