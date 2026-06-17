@@ -161,8 +161,10 @@
       "source_hash": "be6d7b0281fa",
       "target": "<b>Scheduling: Plan your consultation in advance, let the platform publish it</b>",
       "translated_from_hash": "be6d7b0281fa",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.918214+00:00"
     },
     "body:0014": {
       "field": "body",
