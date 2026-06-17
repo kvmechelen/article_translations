@@ -612,8 +612,10 @@
       "source_hash": "9b3440624cb0",
       "target": "In this section you can manage your volunteering phase.",
       "translated_from_hash": "9b3440624cb0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.009282+00:00"
     },
     "body:0055": {
       "field": "body",
