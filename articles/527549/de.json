@@ -205,8 +205,10 @@
       "source_hash": "643c09c14f93",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">Scheduling email campaigns here</a>",
       "translated_from_hash": "643c09c14f93",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.118124+00:00"
     },
     "body:0018": {
       "field": "body",
