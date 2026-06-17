@@ -1613,8 +1613,10 @@
       "source_hash": "65f9b0b9e3d8",
       "target": "Add images in the volunteering option description.",
       "translated_from_hash": "65f9b0b9e3d8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.761564+00:00"
     },
     "body:0146": {
       "field": "body",
