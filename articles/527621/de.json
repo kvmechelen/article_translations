@@ -194,8 +194,10 @@
       "source_hash": "236ab32bee58",
       "target": "From there, you can:",
       "translated_from_hash": "236ab32bee58",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.783372+00:00"
     },
     "body:0017": {
       "field": "body",
