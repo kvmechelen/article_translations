@@ -161,8 +161,10 @@
       "source_hash": "3385e3c9f1be",
       "target": "You can edit the file name, category and description",
       "translated_from_hash": "3385e3c9f1be",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.330428+00:00"
     },
     "body:0014": {
       "field": "body",
