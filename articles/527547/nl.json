@@ -271,8 +271,10 @@
       "source_hash": "c5c95c8b2c8d",
       "target": "Why folders matter",
       "translated_from_hash": "c5c95c8b2c8d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.356285+00:00"
     },
     "body:0023": {
       "field": "body",
