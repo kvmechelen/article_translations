@@ -150,8 +150,10 @@
       "source_hash": "393f4efcadd2",
       "target": "<b>Timing</b>: Allow enough time for everyone to answer. Some users may be busy or miss the initial announcement, so plan your timeline accordingly.",
       "translated_from_hash": "393f4efcadd2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.581042+00:00"
     },
     "body:0013": {
       "field": "body",
