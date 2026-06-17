@@ -9,8 +9,10 @@
       "source_hash": "47b135fdef16",
       "target": "Creating and Managing Phases",
       "translated_from_hash": "47b135fdef16",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:14.847518+00:00"
     },
     "description": {
       "field": "description",
