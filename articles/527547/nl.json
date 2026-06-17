@@ -568,8 +568,10 @@
       "source_hash": "11c96f874dea",
       "target": "<i>Think of folders and projects as blank canvases</i> for experimentation and custom setups.",
       "translated_from_hash": "11c96f874dea",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.847010+00:00"
     },
     "body:0050": {
       "field": "body",
