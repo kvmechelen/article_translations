@@ -62,8 +62,10 @@
       "source_hash": "38dfc58b206b",
       "target": "While the project itself sets the overall scope, visibility, and high-level overview, the phase is where you configure the details for each step. Because each step in a project can be quite different, phases have their own settings and specifications depending on the chosen participation method.",
       "translated_from_hash": "38dfc58b206b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.075717+00:00"
     },
     "body:0005": {
       "field": "body",
