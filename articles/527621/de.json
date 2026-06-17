@@ -227,8 +227,10 @@
       "source_hash": "6d35246af61c",
       "target": "<b>Important notes:</b>",
       "translated_from_hash": "6d35246af61c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.938757+00:00"
     },
     "body:0020": {
       "field": "body",
