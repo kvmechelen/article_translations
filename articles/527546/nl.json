@@ -898,8 +898,10 @@
       "source_hash": "f868b5115a6e",
       "target": "<b>Inputs / submissions</b> <i>(surveys, ideation, proposals)</i>",
       "translated_from_hash": "f868b5115a6e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:19.664821+00:00"
     },
     "body:0081": {
       "field": "body",
