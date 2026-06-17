@@ -95,8 +95,10 @@
       "source_hash": "8323de34c2c8",
       "target": "<b>GIFs are now supported in the email editor.</b> Drop them directly into your campaigns. Add movement to your messages without leaving the platform. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "8323de34c2c8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.607722+00:00"
     },
     "body:0008": {
       "field": "body",
