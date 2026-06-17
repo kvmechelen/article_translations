@@ -689,8 +689,10 @@
       "source_hash": "c1e5d86d40c8",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">📖 Learn more about managing phases here</a>",
       "translated_from_hash": "c1e5d86d40c8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.698951+00:00"
     },
     "body:0062": {
       "field": "body",
