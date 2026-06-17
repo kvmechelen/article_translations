@@ -425,8 +425,10 @@
       "source_hash": "7eeaccae03d6",
       "target": "1. Multiple participation methods in parallel",
       "translated_from_hash": "7eeaccae03d6",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.150081+00:00"
     },
     "body:0037": {
       "field": "body",
