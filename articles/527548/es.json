@@ -238,8 +238,10 @@
       "source_hash": "31a98d474f0c",
       "target": "Extra information on file uploads - Only for Premium price plan",
       "translated_from_hash": "31a98d474f0c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.710047+00:00"
     },
     "body:0021": {
       "field": "body",
