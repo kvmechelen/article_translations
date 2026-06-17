@@ -414,8 +414,10 @@
       "source_hash": "f308e09cda70",
       "target": "Folders are flexible containers for organizing projects in ways that best fit your platform. Below are common use cases:",
       "translated_from_hash": "f308e09cda70",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.098099+00:00"
     },
     "body:0036": {
       "field": "body",
