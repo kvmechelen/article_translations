@@ -1558,8 +1558,10 @@
       "source_hash": "69bfd75f0c20",
       "target": "Project description more easily accessible for editing.",
       "translated_from_hash": "69bfd75f0c20",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.455506+00:00"
     },
     "body:0141": {
       "field": "body",
