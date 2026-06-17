@@ -84,8 +84,10 @@
       "source_hash": "08950256d1ed",
       "target": "There are 2 ways to upload files to the 360 input:",
       "translated_from_hash": "08950256d1ed",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:09.848194+00:00"
     },
     "body:0007": {
       "field": "body",
