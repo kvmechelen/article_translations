@@ -1096,8 +1096,10 @@
       "source_hash": "db56e32e2f78",
       "target": "Phase-specific information",
       "translated_from_hash": "db56e32e2f78",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:20.931759+00:00"
     },
     "body:0099": {
       "field": "body",
