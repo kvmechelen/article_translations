@@ -524,8 +524,10 @@
       "source_hash": "b485864c0c30",
       "target": "Projects aren’t limited to idea collection, they can also be:",
       "translated_from_hash": "b485864c0c30",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.635295+00:00"
     },
     "body:0046": {
       "field": "body",
