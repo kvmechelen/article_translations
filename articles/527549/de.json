@@ -1536,8 +1536,10 @@
       "source_hash": "9cfc6dee4df4",
       "target": "Customizable maximum attendance for events.",
       "translated_from_hash": "9cfc6dee4df4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.324534+00:00"
     },
     "body:0139": {
       "field": "body",
