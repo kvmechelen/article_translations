@@ -1360,8 +1360,10 @@
       "source_hash": "cb4d4139d7b4",
       "target": "At the top right you see a <b>Download</b> button that exports a PDF or Word",
       "translated_from_hash": "cb4d4139d7b4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:22.488349+00:00"
     },
     "body:0123": {
       "field": "body",
