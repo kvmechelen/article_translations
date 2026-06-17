@@ -447,8 +447,10 @@
       "source_hash": "73cffa8899aa",
       "target": "If you want more than one participation method happening at the same time, you’ll need to create two separate projects.",
       "translated_from_hash": "73cffa8899aa",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.257113+00:00"
     },
     "body:0039": {
       "field": "body",
