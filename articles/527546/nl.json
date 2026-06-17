@@ -95,8 +95,10 @@
       "source_hash": "4f0d0b15a6af",
       "target": "Each project contains a timeline divided into phases. Each phase has its own settings, depending on the participation method used.",
       "translated_from_hash": "4f0d0b15a6af",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.226694+00:00"
     },
     "body:0008": {
       "field": "body",
