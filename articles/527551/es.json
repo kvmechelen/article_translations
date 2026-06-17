@@ -262,8 +262,10 @@
       "source_hash": "5d5937295024",
       "target": "Will my draft project appear in the Inspiration Hub?",
       "translated_from_hash": "5d5937295024",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.567780+00:00"
     },
     "body:0023": {
       "field": "body",
