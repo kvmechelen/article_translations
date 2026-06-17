@@ -42,8 +42,10 @@
       "source_hash": "b0926daf8268",
       "target": "The goal of the inspiration hub is to offer a searchable collection of successful public consultation projects from municipalities across the world. It allows you to explore practical examples of public consultation initiatives, see what worked for others, and adapt proven approaches to your own community.",
       "translated_from_hash": "b0926daf8268",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.454192+00:00"
     },
     "body:0003": {
       "field": "body",
