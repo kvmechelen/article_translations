@@ -1239,8 +1239,10 @@
       "source_hash": "66eda2350c8d",
       "target": "Demographic Questions: Controls demographic questions asked in the survey or before participating.",
       "translated_from_hash": "66eda2350c8d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.685514+00:00"
     },
     "body:0112": {
       "field": "body",
