@@ -1459,8 +1459,10 @@
       "source_hash": "3c93aa687e24",
       "target": "Click on the phase in the timeline that you want to delete",
       "translated_from_hash": "3c93aa687e24",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:23.063154+00:00"
     },
     "body:0132": {
       "field": "body",
