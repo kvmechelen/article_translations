@@ -491,8 +491,10 @@
       "source_hash": "b1d1cd4f16df",
       "target": "ℹ️ For more information on phase-level access rights, read our article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">Understanding Access Rights</a>",
       "translated_from_hash": "b1d1cd4f16df",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:33.750318+00:00"
     },
     "body:0044": {
       "field": "body",
