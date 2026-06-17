@@ -1426,8 +1426,10 @@
       "source_hash": "85634ebdd293",
       "target": "Your engagement boosters for this back-to-work season ✨",
       "translated_from_hash": "85634ebdd293",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.707099+00:00"
     },
     "body:0129": {
       "field": "body",
