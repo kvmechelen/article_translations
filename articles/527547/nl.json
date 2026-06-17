@@ -216,8 +216,10 @@
       "source_hash": "87265277fde2",
       "target": "Folders don’t have timelines.",
       "translated_from_hash": "87265277fde2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.099182+00:00"
     },
     "body:0018": {
       "field": "body",
