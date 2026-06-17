@@ -1547,8 +1547,10 @@
       "source_hash": "4cd931911545",
       "target": "New &amp; improved PDF form downloads. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">Support article</a>",
       "translated_from_hash": "4cd931911545",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.384588+00:00"
     },
     "body:0140": {
       "field": "body",
