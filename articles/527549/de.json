@@ -854,8 +854,10 @@
       "source_hash": "c8e911555755",
       "target": "Participants can now filter ideas by specific topics during any voting phase, based on tags selected by them. This makes it easier for participants to find relevant ideas, while also enabling admins to analyze and prioritize submissions with ease.",
       "translated_from_hash": "c8e911555755",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.629518+00:00"
     },
     "body:0077": {
       "field": "body",
