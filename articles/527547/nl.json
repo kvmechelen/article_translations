@@ -40,8 +40,10 @@
       "source_hash": "0149d7ed6843",
       "target": "What is a folder?",
       "translated_from_hash": "0149d7ed6843",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.294699+00:00"
     },
     "body:0003": {
       "field": "body",
