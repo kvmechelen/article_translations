@@ -821,8 +821,10 @@
       "source_hash": "87d1fc64ee70",
       "target": "High-level statistics",
       "translated_from_hash": "87d1fc64ee70",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:19.194301+00:00"
     },
     "body:0074": {
       "field": "body",
