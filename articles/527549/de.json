@@ -29,8 +29,10 @@
       "source_hash": "4d7cb2c9fefe",
       "target": "A Product Change Log is a record of product updates that helps users stay informed about new features, improvements, and fixes.",
       "translated_from_hash": "4d7cb2c9fefe",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.309869+00:00"
     },
     "body:0002": {
       "field": "body",
