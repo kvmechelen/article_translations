@@ -251,8 +251,10 @@
       "source_hash": "aea361d785e2",
       "target": "Inspiration hub FAQ",
       "translated_from_hash": "aea361d785e2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.516362+00:00"
     },
     "body:0022": {
       "field": "body",
