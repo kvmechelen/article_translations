@@ -73,8 +73,10 @@
       "source_hash": "29bfa79c817a",
       "target": "<b>Admins and moderators now get notified when a proposal expires without reaching threshold.</b> When threshold is reached, voting stays open with a countdown to the original expiration date. No proposal falls through the cracks, and momentum keeps building. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "29bfa79c817a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.508361+00:00"
     },
     "body:0006": {
       "field": "body",
