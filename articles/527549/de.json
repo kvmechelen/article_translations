@@ -1162,8 +1162,10 @@
       "source_hash": "7d0d4f485c5a",
       "target": "Edit and remove previously locked question types and pages, except for the title question (which cannot be deleted). You can now also move the title question around and edit description, pages, and image questions.",
       "translated_from_hash": "7d0d4f485c5a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.287599+00:00"
     },
     "body:0105": {
       "field": "body",
