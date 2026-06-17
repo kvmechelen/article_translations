@@ -1107,8 +1107,10 @@
       "source_hash": "9f0b54169bc6",
       "target": "The new <b>360 Inputs</b> tab now has a few new tools in its belt:",
       "translated_from_hash": "9f0b54169bc6",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.017993+00:00"
     },
     "body:0100": {
       "field": "body",
