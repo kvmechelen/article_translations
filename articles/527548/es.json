@@ -183,8 +183,10 @@
       "source_hash": "1da19185b76d",
       "target": "When uploading a file, you can assign it to a <i>category</i>.",
       "translated_from_hash": "1da19185b76d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.433655+00:00"
     },
     "body:0016": {
       "field": "body",
