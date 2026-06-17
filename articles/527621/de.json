@@ -238,8 +238,10 @@
       "source_hash": "45bf434f6d00",
       "target": "<b>Poll answers can only be deleted by deleting all participation data: </b>Go to the<b> General</b> project settings of your project &gt; <b>Data </b>tab &gt; select <b>Reset all participation -</b> then all data including your test poll answers will be deleted before the project goes live. If you wish to delete individual poll results<b> </b>please contact us the support team.",
       "translated_from_hash": "45bf434f6d00",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:43.002722+00:00"
     },
     "body:0021": {
       "field": "body",
