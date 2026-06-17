@@ -51,8 +51,10 @@
       "source_hash": "5b5b4a65a32e",
       "target": "<b>Small improvements of the month</b>",
       "translated_from_hash": "5b5b4a65a32e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.408336+00:00"
     },
     "body:0004": {
       "field": "body",
