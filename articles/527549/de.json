@@ -1195,8 +1195,10 @@
       "source_hash": "f0e734c5b7ea",
       "target": "Prevent accidental submissions by allowing users to press \"next\" only after scrolling down the page, ensuring they see all questions before moving on.",
       "translated_from_hash": "f0e734c5b7ea",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.472829+00:00"
     },
     "body:0108": {
       "field": "body",
