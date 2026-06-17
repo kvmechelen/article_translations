@@ -163,8 +163,10 @@
       "source_hash": "9d2c0239b14a",
       "target": "<b>Date:</b> See projects from a chosen timeframe.",
       "translated_from_hash": "9d2c0239b14a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.042848+00:00"
     },
     "body:0014": {
       "field": "body",
