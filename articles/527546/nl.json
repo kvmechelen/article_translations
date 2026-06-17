@@ -1063,8 +1063,10 @@
       "source_hash": "c291e47fc432",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
       "translated_from_hash": "c291e47fc432",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:20.723275+00:00"
     },
     "body:0096": {
       "field": "body",
