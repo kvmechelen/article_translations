@@ -755,8 +755,10 @@
       "source_hash": "e8e6006511b7",
       "target": "Enhanced registration flow for simplicity and speed",
       "translated_from_hash": "e8e6006511b7",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.042250+00:00"
     },
     "body:0068": {
       "field": "body",
