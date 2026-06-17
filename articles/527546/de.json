@@ -1129,8 +1129,10 @@
       "source_hash": "a06b560753e2",
       "target": "An ordered overview of all survey questions and the answers provided by participants",
       "translated_from_hash": "a06b560753e2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:37.287872+00:00"
     },
     "body:0102": {
       "field": "body",
