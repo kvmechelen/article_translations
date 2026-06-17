@@ -249,8 +249,10 @@
       "source_hash": "27e7573f58e5",
       "target": "<b>Poll analysis is not built-in</b>: the platform does not currently offer analytics features for polls.",
       "translated_from_hash": "27e7573f58e5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:43.062925+00:00"
     },
     "body:0022": {
       "field": "body",
