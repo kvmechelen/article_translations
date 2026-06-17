@@ -656,8 +656,10 @@
       "source_hash": "52ee2bfa92c0",
       "target": "The <b>Insights tab</b> allows you to view and understand the results of a phase.",
       "translated_from_hash": "52ee2bfa92c0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:34.712558+00:00"
     },
     "body:0059": {
       "field": "body",
