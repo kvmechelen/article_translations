@@ -403,8 +403,10 @@
       "source_hash": "c8823aff36ff",
       "target": "Distill large volumes of contributions into concise trade-off statements that participants simply react to — agree, unsure, or disagree — bridging open ideation with deeper deliberation.",
       "translated_from_hash": "c8823aff36ff",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:10.151768+00:00"
     },
     "body:0036": {
       "field": "body",
