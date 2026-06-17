@@ -315,8 +315,10 @@
       "source_hash": "39e5e0b26060",
       "target": "March 2026",
       "translated_from_hash": "39e5e0b26060",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.683888+00:00"
     },
     "body:0028": {
       "field": "body",
