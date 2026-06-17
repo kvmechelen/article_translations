@@ -9,8 +9,10 @@
       "source_hash": "92ab3d2b70ab",
       "target": "360 input: managing your files",
       "translated_from_hash": "92ab3d2b70ab",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:09.505322+00:00"
     },
     "description": {
       "field": "description",
