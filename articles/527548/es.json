@@ -73,8 +73,10 @@
       "source_hash": "37d313e3a81b",
       "target": "Uploading files",
       "translated_from_hash": "37d313e3a81b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:09.799549+00:00"
     },
     "body:0006": {
       "field": "body",
