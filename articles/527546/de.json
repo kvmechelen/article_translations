@@ -458,8 +458,10 @@
       "source_hash": "ec68c79ffa72",
       "target": "Phase Access and User Data:",
       "translated_from_hash": "ec68c79ffa72",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:33.593973+00:00"
     },
     "body:0041": {
       "field": "body",
