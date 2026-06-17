@@ -40,8 +40,10 @@
       "source_hash": "f468de314d63",
       "target": "<b>May 2026</b>",
       "translated_from_hash": "f468de314d63",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.360474+00:00"
     },
     "body:0003": {
       "field": "body",
