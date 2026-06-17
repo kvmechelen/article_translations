@@ -238,8 +238,10 @@
       "source_hash": "18bd9ead9c4d",
       "target": "<b>Improved seat management interface:</b> Easily manage seats and billing details with a clearer, more intuitive overview. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about seat management view here</a>",
       "translated_from_hash": "18bd9ead9c4d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.286374+00:00"
     },
     "body:0021": {
       "field": "body",
