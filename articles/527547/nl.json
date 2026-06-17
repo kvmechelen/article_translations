@@ -513,8 +513,10 @@
       "source_hash": "e59b53577215",
       "target": "3. Alternative creative uses",
       "translated_from_hash": "e59b53577215",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.584825+00:00"
     },
     "body:0045": {
       "field": "body",
