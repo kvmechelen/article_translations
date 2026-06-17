@@ -447,8 +447,10 @@
       "source_hash": "3231efc28eba",
       "target": "ℹ️ For more information on maps, read our articles on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence\" target=\"_blank\">Map Consultations</a> and Using ESRI ArcGIS maps.",
       "translated_from_hash": "3231efc28eba",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:33.544528+00:00"
     },
     "body:0040": {
       "field": "body",
