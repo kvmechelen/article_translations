@@ -1085,8 +1085,10 @@
       "source_hash": "d03b9248515a",
       "target": "In this section of the Insights tab, you can browse through the demographic questions that applied to the phase and view how different participant groups are represented. This helps you assess the representativeness of your results.",
       "translated_from_hash": "d03b9248515a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:37.016123+00:00"
     },
     "body:0098": {
       "field": "body",
