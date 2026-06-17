@@ -130,8 +130,10 @@
       "source_hash": "cf152e24e3bd",
       "target": "<b>Country:</b> Browse projects from a specific country.",
       "translated_from_hash": "cf152e24e3bd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.856556+00:00"
     },
     "body:0011": {
       "field": "body",
