@@ -722,8 +722,10 @@
       "source_hash": "d64bb6dbcc3a",
       "target": "<b>Custom input tags on project level</b>: You can now configure tags for ideas at the project level, offering full customizability for each project. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about input tags here</a>",
       "translated_from_hash": "d64bb6dbcc3a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.856713+00:00"
     },
     "body:0065": {
       "field": "body",
