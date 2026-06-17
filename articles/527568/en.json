@@ -1,0 +1,353 @@
+{
+  "article_id": "527568",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_3292d3a7b7\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_722180ea82\">@@body:0004@@</h1><h2 id=\"h_af6ef879f0\">@@body:0005@@</h2><ul><li><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p><ul><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_badf314428\">@@body:0013@@</h2><ul><li><p class=\"no-margin\">@@body:0014@@</p><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0020@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_ae0a5aac0a\">@@body:0021@@</h2><ul><li><p class=\"no-margin\">@@body:0022@@</p><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p><ul><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0028@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_82749a2155\">@@body:0029@@</h2><ul><li><p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p><ul><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0036@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_407297719b\">@@body:0037@@</h2><ul><li><p class=\"no-margin\">@@body:0038@@</p><ul><li><p class=\"no-margin\">@@body:0039@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0040@@</p><ul><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0043@@</p><h2 id=\"h_9dc3b2dea5\">@@body:0044@@</h2><ul><li><p class=\"no-margin\">@@body:0045@@</p><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p><ul><li><p class=\"no-margin\">@@body:0048@@</p></li><li><p class=\"no-margin\">@@body:0049@@</p></li><li><p class=\"no-margin\">@@body:0050@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0051@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_b8494d3084\">@@body:0052@@</h2><ul><li><p class=\"no-margin\">@@body:0053@@</p><p class=\"no-margin\">@@body:0054@@</p></li><li><p class=\"no-margin\">@@body:0055@@</p><ul><li><p class=\"no-margin\">@@body:0056@@</p></li><li><p class=\"no-margin\">@@body:0057@@</p></li><li><p class=\"no-margin\">@@body:0058@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0059@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_cf63a87c65\">@@body:0060@@</h2><ul><li><p class=\"no-margin\">@@body:0061@@</p><p class=\"no-margin\">@@body:0062@@</p></li><li><p class=\"no-margin\">@@body:0063@@</p><ul><li><p class=\"no-margin\">@@body:0064@@</p></li><li><p class=\"no-margin\">@@body:0065@@</p></li><li><p class=\"no-margin\">@@body:0066@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0067@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Overview of our participation methods",
+      "hash": "d96e8e656275"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is a participation method?",
+      "hash": "77e9be40d736"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "A participation method is a way for people to interact with a project on the platform. Each method represents a different type of engagement, from submitting ideas or completing surveys to voting, volunteering, or reviewing documents.",
+      "hash": "0115934e7ef4"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Participation methods help structure how input is collected, shared, or acted on. By choosing the right method for a phase, project owners can guide how the community engages and ensure the interaction fits the project’s goals.",
+      "hash": "8fec16a8c209"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "What are the different participation methods on the platform?",
+      "hash": "5d1d12b475de"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Collect Input &amp; Feedback",
+      "hash": "028844dde10b"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Use this method when you want broad, open community engagement and discussion. It’s ideal for gathering ideas, comments, and feedback in a transparent way.",
+      "hash": "afe6c792be59"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Public idea submissions and threaded discussions.",
+      "hash": "8475bc305de6"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Map view to collect geospatial input (e.g. residents pin contributions on a map).",
+      "hash": "405c39024973"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "ESRI add‑on integration for advanced map setups.",
+      "hash": "b808b81ca43a"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Read more about this participation method in our support article on ‘Ideation, proposals and input management’.</a>",
+      "hash": "95cd2e82bcf0"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Voting / Prioritization",
+      "hash": "81af6d41cca8"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Use when you want participants to rank, vote, or prioritize options — especially for decision‑making or budget allocation.",
+      "hash": "fdea59c71558"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Multiple voting methods available (ranking, up/down voting, etc.)",
+      "hash": "1fe8fd609fd4"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Supports participatory budgeting exercises (participants allocate funds to preferred options)",
+      "hash": "3326e74b70d2"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Quantifies community preferences to guide priorities",
+      "hash": "2498ac9ae8fe"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Read more about this participation method in our support article on ‘Voting and Prioritization’.</a>",
+      "hash": "a5f5315f6e8a"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Survey",
+      "hash": "211bb3de5686"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Use surveys for structured, in‑depth feedback or quick insights via short polls.",
+      "hash": "981d7aff8b43"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "In‑platform surveys with multiple question types (e.g., multiple choice, open text).",
+      "hash": "290e69a8d9c3"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Embed external surveys for advanced data collection.",
+      "hash": "b7590065ec77"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Quick polls that display directly on a project page.",
+      "hash": "fee8990bd0a9"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">Read more about this participation method in our support article on ‘Surveys’.</a>",
+      "hash": "dbd96c1fe282"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Proposals, Petitions, or Initiatives",
+      "hash": "757abbb9e383"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Use this method when you want the community to submit their own ideas or campaigns for others to support.",
+      "hash": "8d0aaa59e4ef"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Users upload proposals or petitions for community backing.",
+      "hash": "63d98b951574"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Time and vote limits can be set to control the process.",
+      "hash": "effda9a3fba8"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Ideal for crowdsourcing initiatives and building consensus.",
+      "hash": "9d5726a4975f"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">Read more about this participation method in our support article on ‘Ideation, proposals and input management’.</a>",
+      "hash": "7d68a0e3415a"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Finding Common Ground",
+      "hash": "fcbed66b76f8"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>When to use</b>",
+      "hash": "7c0b553a6bd5"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "When a large consultation generates thousands of contributions and finding consensus feels overwhelming — it bridges open ideation and deeper deliberation.",
+      "hash": "71e124a7c08f"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "<b>Key features</b>",
+      "hash": "631c79f109ea"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "Participants react to concise trade-off statements (agree / unsure / disagree), producing a clear map of where opinions align or diverge.",
+      "hash": "70d67191a85b"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Results are visualized in real time for participants and admins, increasing transparency and showing how each voice contributes to the community view.",
+      "hash": "bfe953fc540f"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/609603-finding-common-ground\" target=\"_blank\">Read more about finding common ground method here<br/>​</a>",
+      "hash": "c93be1d35896"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Share Information",
+      "hash": "2f9df769776f"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Use when you need to keep your community informed or share results from other participation phases.",
+      "hash": "5079090a098b"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "Publish updates and phase results.",
+      "hash": "1162d4c5023f"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "Create attractive reports to summarize findings.",
+      "hash": "765604ca4569"
+    },
+    "body:0050": {
+      "field": "body",
+      "text": "Reports appear on the phase description for easy visibility.",
+      "hash": "275b79f1a03c"
+    },
+    "body:0051": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Read more about this participation method in our support article on ‘Report Builder’.</a>",
+      "hash": "6aa7a7b9c5dd"
+    },
+    "body:0052": {
+      "field": "body",
+      "text": "Recruit Participants or Volunteers",
+      "hash": "114624eb8e0a"
+    },
+    "body:0053": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0054": {
+      "field": "body",
+      "text": "Use this method when you want to mobilize people for events, panels, or community efforts.",
+      "hash": "90d0b6ac7175"
+    },
+    "body:0055": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0056": {
+      "field": "body",
+      "text": "Recruit volunteers or participants for specific causes or activities.",
+      "hash": "73af17ee9a68"
+    },
+    "body:0057": {
+      "field": "body",
+      "text": "Manage sign‑ups easily from the platform.",
+      "hash": "d8c774e8097d"
+    },
+    "body:0058": {
+      "field": "body",
+      "text": "Builds an active, engaged community base.",
+      "hash": "77677133ca74"
+    },
+    "body:0059": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527622-organizing-a-volunteering-project\" target=\"_blank\">Read more about this participation method in our support article on ‘Volunteering’.</a>",
+      "hash": "d88ae4addfb7"
+    },
+    "body:0060": {
+      "field": "body",
+      "text": "Collect Feedback on a Document",
+      "hash": "f3830558d59c"
+    },
+    "body:0061": {
+      "field": "body",
+      "text": "<b>When to use:</b>",
+      "hash": "cbe7dc8e9969"
+    },
+    "body:0062": {
+      "field": "body",
+      "text": "Use when you need collaborative review of documents like plans, proposals, or policy drafts.",
+      "hash": "6d2a99af3a3b"
+    },
+    "body:0063": {
+      "field": "body",
+      "text": "<b>Key features:</b>",
+      "hash": "f22162aa7b29"
+    },
+    "body:0064": {
+      "field": "body",
+      "text": "Konveio integration to embed and annotate PDFs",
+      "hash": "f4ee97e70d8a"
+    },
+    "body:0065": {
+      "field": "body",
+      "text": "Users provide comments directly on the document",
+      "hash": "6796963321cb"
+    },
+    "body:0066": {
+      "field": "body",
+      "text": "Ideal for detailed feedback and refinement",
+      "hash": "0c003d5b3a7a"
+    },
+    "body:0067": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527582-embedding-konveio-pdf-documents-for-collecting-feedback\" target=\"_blank\">Read more about this participation method in our support article on ‘Konveio’.</a>",
+      "hash": "8526bfa71825"
+    }
+  }
+}

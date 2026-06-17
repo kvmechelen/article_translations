@@ -1,0 +1,243 @@
+{
+  "article_id": "527649",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_afc70f9ff4\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><p class=\"no-margin\">@@body:0007@@</p><ol><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li></ol><h1 id=\"h_3aec185346\">@@body:0011@@</h1><ul><li><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\">@@body:0013@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90374264/e6affbcbc5250b1958af6b561ac0/upload_298812476121445924.png?expires=1781805600&amp;signature=6e7ade974c844722ce8df3a7a783e5d871998a6c076ec9e4c920661d888a05a5&amp;req=2dVswlz4qjNk2hj99dpg6ny9LZKSbE8Tlype487m2F6J6hndrM22e5Wt0t%2Ft%0AEpCSvQ43vDfxakXi1xhN%2Bxyn%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0014@@</p><p class=\"no-margin\">@@body:0015@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90374269/b949a9b8a7b29d8311303cf59b37/upload_9962571107910455827.png?expires=1781805600&amp;signature=cdd9b90033209193248cff460222213ce365c374c92a599c288ef733ac1bd963&amp;req=2dVswlz4qj5k2hj99dpg6qtH0S%2FLVIXiZGpjzlmEE7EN8MOqDKHjKzgSJNlo%0ALQx8ev6K00z%2FXV2Mb0PXobDr%0A\"/></div><p class=\"no-margin\"></p>\n<h1 id=\"h_06530849e0\">@@body:0016@@</h1><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p><ol><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ol></li><li><p class=\"no-margin\">@@body:0022@@</p><ul><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_b0e5ed4e64\">@@body:0030@@</h1><div class=\"intercom-h2b-video\"><iframe allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" mozallowfullscreen=\"\" src=\"https://www.loom.com/embed/4df4b3b95d874a1982691a8499c6819c\" webkitallowfullscreen=\"\"></iframe></div><p class=\"no-margin\">@@body:0031@@</p><p class=\"no-margin\">@@body:0032@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0033@@</p><ol><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li></ol><p class=\"no-margin\">@@body:0038@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_1df3b0d805\">@@body:0039@@</h1><p class=\"no-margin\">@@body:0040@@</p><ul><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li><li><p class=\"no-margin\">@@body:0043@@</p></li><li><p class=\"no-margin\">@@body:0044@@</p></li></ul><p class=\"no-margin\">@@body:0045@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Bulk import ideas/surveys via Excel",
+      "hash": "1f0d1e5d46ed"
+    },
+    "description": {
+      "field": "description",
+      "text": "Importing offline results can be done in bulk via excel",
+      "hash": "1e5d798b4666"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is bulk importing via Excel?",
+      "hash": "8346a1b8cb31"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Sometimes you collect ideas or survey responses outside of Go Vocal, for example, during an offline workshop or through another tool. To make sure you can still use these results on the platform, we provide a way to import them in bulk using a fillable Excel template.",
+      "hash": "ae72ac70b75f"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "This feature allows you to:",
+      "hash": "268610ec12f2"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Bring external data into the platform.",
+      "hash": "0fd459133e34"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Share results with your users.",
+      "hash": "8a191a6166f9"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Take advantage of Go Vocal’s features (like analysis, tagging, or reporting).",
+      "hash": "b6cddc266b6a"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Because the upload process requires a strict format, this article will guide you through it in three steps:",
+      "hash": "4bb9888336bf"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Accessing the Excel template",
+      "hash": "54a9b0154e6f"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Filling out the Excel template",
+      "hash": "58c949f2d3c3"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Uploading the filled-in Excel file",
+      "hash": "895ffc886a18"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "How to access the excel template?",
+      "hash": "939403363432"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "For Ideas/Inputs (Ideation Phase):",
+      "hash": "d292c5b252d5"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Go to the <b>Input form</b> tab of the phase → click <b>Download an Excel Template</b>.",
+      "hash": "3615ac3f920a"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "For Surveys:",
+      "hash": "51f98302924c"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Go to the <b>Survey Form</b> tab → click the <b>three-dot menu</b> → select <b>Download an Excel Template</b>.",
+      "hash": "9dcb4a698389"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "How to fill out the excel template?",
+      "hash": "849a215351dd"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Example row:</b> Row 2 shows how the template must be filled in. Follow it exactly — the system is <b>case sensitive</b>.",
+      "hash": "ee8473b2c6a5"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Personal Data (Name, Email, Permission):</b>",
+      "hash": "16022f4c073a"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "These columns are optional - if left blank the input will be imported anonymously",
+      "hash": "4addb76c1244"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Add an <b>“X”</b> in the Permission column to upload personal details",
+      "hash": "b6d5d388b18f"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Remove any trailing spaces in email addresses",
+      "hash": "6ec13a47fc88"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Date published </b>",
+      "hash": "0419d2c741c4"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "This column is optional - if left blank the system will add the date of import by default",
+      "hash": "d47a41e0b912"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Use hyphens (<code>YYYY-MM-DD</code>) instead of slashes (<code>/</code>). You may need to set the cell to <b>text format</b>.",
+      "hash": "cee5432f2e22"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>Title:</b> Max 80 characters.",
+      "hash": "e55b8107f175"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "<b>Coordinates:</b> Must follow the exact format from the example.",
+      "hash": "b51e4c6b3248"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "<b>Multi-choice &amp; Tags:</b> Must exactly match platform wording (capitalization, spacing). Separate multiple entries with a semicolon <code>;</code>.",
+      "hash": "ce2f3ee99d20"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<b>Single-choice:</b> Must exactly match platform wording.",
+      "hash": "b6504986c662"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "<b>Image URL:</b> Only one image per idea. Link must end with <code>.jpeg</code>, <code>.jpg</code>, or <code>.png</code>.",
+      "hash": "7f870ea8c27d"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "How to import the excel file?",
+      "hash": "4c32cd9041c1"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>For Ideas:</b> Go to the <b>Input Manager</b> tab → click <b>Import</b> → <b>click Import</b> again (top right).",
+      "hash": "f6cc361c43b1"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "<b>For Surveys:</b> Go to the <b>Insights</b> tab → click <b>Import</b> → <b>click Import</b> again (top right).",
+      "hash": "7d8e38748d17"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Then:",
+      "hash": "fa36c4e4f0f6"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Select <b>Import Excel file</b>.",
+      "hash": "c76a856992fe"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "If your file contains personal data (name, email, etc.), check the <b>consent box</b>.",
+      "hash": "fe22157a29ea"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Imported entries will first appear as <b>drafts</b> in the Importer UI.",
+      "hash": "51c9926d5065"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Once you <b>Approve</b>, they will be published into the phase and visible in results/input manager.",
+      "hash": "4bb4e56d98f2"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "ℹ️ For ideation: approved imported entries are automatically tagged with “imported”.",
+      "hash": "8738545616ea"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "What are the limiations of bulk importing via excel?",
+      "hash": "8e54f1b376da"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "The following <b>cannot</b> be uploaded via Excel:",
+      "hash": "72ce3e4b891f"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "File uploads/attachments",
+      "hash": "fcd5ae7c2fff"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Matrix questions",
+      "hash": "5143d128ce64"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "Ranking questions",
+      "hash": "63e5e4f74d88"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Mapping questions",
+      "hash": "b577304ca64e"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "⚠️ Do not add columns/questions manually to the Excel file. Always add them first in the online form, then re-download the updated template.",
+      "hash": "5815b52955ab"
+    }
+  }
+}

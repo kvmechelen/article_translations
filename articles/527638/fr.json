@@ -1,0 +1,322 @@
+{
+  "article_id": "527638",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Assigning input and ideas to your colleagues",
+      "source_hash": "12e8b4a9f373",
+      "target": "Assigning input and ideas to your colleagues",
+      "translated_from_hash": "12e8b4a9f373",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Collaborate with colleagues on inputs inside a project and on proposals",
+      "source_hash": "4101e5a2a73a",
+      "target": "Collaborate with colleagues on inputs inside a project and on proposals",
+      "translated_from_hash": "4101e5a2a73a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What does assigning input mean?",
+      "source_hash": "f4732145b672",
+      "target": "What does assigning input mean?",
+      "translated_from_hash": "f4732145b672",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Assigning input and ideas to colleagues allows you to distribute work across your team so that every idea, comment, or proposal gets timely follow‑up.",
+      "source_hash": "00be6fe309ab",
+      "target": "Assigning input and ideas to colleagues allows you to distribute work across your team so that every idea, comment, or proposal gets timely follow‑up.",
+      "translated_from_hash": "00be6fe309ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "This feature:",
+      "source_hash": "f928fee98922",
+      "target": "This feature:",
+      "translated_from_hash": "f928fee98922",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Increases internal efficiency by making clear who is responsible for each item.",
+      "source_hash": "aa552bc8e781",
+      "target": "Increases internal efficiency by making clear who is responsible for each item.",
+      "translated_from_hash": "aa552bc8e781",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Ensures participants see their input processed quickly, which improves trust and encourages them to return.",
+      "source_hash": "7dac5a781411",
+      "target": "Ensures participants see their input processed quickly, which improves trust and encourages them to return.",
+      "translated_from_hash": "7dac5a781411",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Assignments apply to:",
+      "source_hash": "019fa094cb8f",
+      "target": "Assignments apply to:",
+      "translated_from_hash": "019fa094cb8f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Ideas</b> (via the Input Manager in each project)",
+      "source_hash": "b2f499544b6a",
+      "target": "<b>Ideas</b> (via the Input Manager in each project)",
+      "translated_from_hash": "b2f499544b6a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Proposals</b> (via the Proposals overview in the back‑end)",
+      "source_hash": "86bb681374f4",
+      "target": "<b>Proposals</b> (via the Proposals overview in the back‑end)",
+      "translated_from_hash": "86bb681374f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "How to assign inputs to colleagues?",
+      "source_hash": "8e8cbde897a9",
+      "target": "How to assign inputs to colleagues?",
+      "translated_from_hash": "8e8cbde897a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Default assignee (Ideation and Proposals):",
+      "source_hash": "24c0d1117a52",
+      "target": "Default assignee (Ideation and Proposals):",
+      "translated_from_hash": "24c0d1117a52",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "By default, every new idea is assigned to:",
+      "source_hash": "168e8438c37f",
+      "target": "By default, every new idea is assigned to:",
+      "translated_from_hash": "168e8438c37f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "The first project manager created for that project.",
+      "source_hash": "123e624722d4",
+      "target": "The first project manager created for that project.",
+      "translated_from_hash": "123e624722d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "If there’s no project manager, the first platform administrator.",
+      "source_hash": "ee2e33d5e6f4",
+      "target": "If there’s no project manager, the first platform administrator.",
+      "translated_from_hash": "ee2e33d5e6f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "To change the default assignee:",
+      "source_hash": "ca740746974e",
+      "target": "To change the default assignee:",
+      "translated_from_hash": "ca740746974e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Go to <b>General</b> Tab of your project page<b> → Access Rights</b> tab.",
+      "source_hash": "24194f98e6af",
+      "target": "Go to <b>General</b> Tab of your project page<b> → Access Rights</b> tab.",
+      "translated_from_hash": "24194f98e6af",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Select a PM or admins in the section <b>Who is responsible for processing the posts?</b>",
+      "source_hash": "b5e3ae71fa2d",
+      "target": "Select a PM or admins in the section <b>Who is responsible for processing the posts?</b>",
+      "translated_from_hash": "b5e3ae71fa2d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "You can update this at any time.",
+      "source_hash": "36cfcb27137c",
+      "target": "You can update this at any time.",
+      "translated_from_hash": "36cfcb27137c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Assigning individual inputs:",
+      "source_hash": "9a7786747520",
+      "target": "Assigning individual inputs:",
+      "translated_from_hash": "9a7786747520",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Open the <b>Input Manager</b> for the project.",
+      "source_hash": "b7722d0d84a9",
+      "target": "Open the <b>Input Manager</b> for the project.",
+      "translated_from_hash": "b7722d0d84a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Reassign any idea to a specific colleague.",
+      "source_hash": "35f989c3e60b",
+      "target": "Reassign any idea to a specific colleague.",
+      "translated_from_hash": "35f989c3e60b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "The new assignee receives an <b>email notification</b> and a <b>platform notification</b> immediately.",
+      "source_hash": "31751c9613cf",
+      "target": "The new assignee receives an <b>email notification</b> and a <b>platform notification</b> immediately.",
+      "translated_from_hash": "31751c9613cf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "How to follow up on assigned inputs?",
+      "source_hash": "fc44813ffd49",
+      "target": "How to follow up on assigned inputs?",
+      "translated_from_hash": "fc44813ffd49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Personal overview in Input Manager:</b>",
+      "source_hash": "e9eba729ae85",
+      "target": "<b>Personal overview in Input Manager:</b>",
+      "translated_from_hash": "e9eba729ae85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Use the dropdown filter to see only the ideas assigned to you.",
+      "source_hash": "52904eff11e3",
+      "target": "Use the dropdown filter to see only the ideas assigned to you.",
+      "translated_from_hash": "52904eff11e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Switch the toggle to show inputs that still need feedback.",
+      "source_hash": "4313c1f3a66b",
+      "target": "Switch the toggle to show inputs that still need feedback.",
+      "translated_from_hash": "4313c1f3a66b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Use the dropdown to view another colleague’s assignments if needed.",
+      "source_hash": "58f6a66fb8ef",
+      "target": "Use the dropdown to view another colleague’s assignments if needed.",
+      "translated_from_hash": "58f6a66fb8ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Weekly email reminders:</b>",
+      "source_hash": "54b545fb972f",
+      "target": "<b>Weekly email reminders:</b>",
+      "translated_from_hash": "54b545fb972f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Admins and project managers receive a weekly email listing all their assigned inputs that still require feedback.",
+      "source_hash": "76bb2b382c3d",
+      "target": "Admins and project managers receive a weekly email listing all their assigned inputs that still require feedback.",
+      "translated_from_hash": "76bb2b382c3d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "An input remains in this list until feedback has been given.",
+      "source_hash": "abecb12fb4c3",
+      "target": "An input remains in this list until feedback has been given.",
+      "translated_from_hash": "abecb12fb4c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Internal communication on ideas",
+      "source_hash": "e0a92ac2a0bf",
+      "target": "Internal communication on ideas",
+      "translated_from_hash": "e0a92ac2a0bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Project managers/admins can leave internal comments on ideas",
+      "source_hash": "15cc30d8e3d7",
+      "target": "Project managers/admins can leave internal comments on ideas",
+      "translated_from_hash": "15cc30d8e3d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Internal comments are visible only to staff, not to participants",
+      "source_hash": "7e840d21a38e",
+      "target": "Internal comments are visible only to staff, not to participants",
+      "translated_from_hash": "7e840d21a38e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Find this by: <b>Project → Ideation/Proposal phase → Click an idea → Internal Comments</b>",
+      "source_hash": "60ff90f1250d",
+      "target": "Find this by: <b>Project → Ideation/Proposal phase → Click an idea → Internal Comments</b>",
+      "translated_from_hash": "60ff90f1250d",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

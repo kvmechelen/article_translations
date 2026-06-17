@@ -1,0 +1,457 @@
+{
+  "article_id": "527575",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Bulk import ideas/surveys via FormSync",
+      "source_hash": "bdf7b11e4b85",
+      "target": "Bulk import ideas/surveys via FormSync",
+      "translated_from_hash": "bdf7b11e4b85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What is FormSync OCR?",
+      "source_hash": "3666c6e4911b",
+      "target": "What is FormSync OCR?",
+      "translated_from_hash": "3666c6e4911b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "FormSync bridges the gap between offline participation and your digital platform. Imagine running a workshop, handing out printed surveys, or collecting handwritten ideas at a community event. With FormSync, those paper responses don’t stay stuck on paper.",
+      "source_hash": "68e93b62980d",
+      "target": "FormSync bridges the gap between offline participation and your digital platform. Imagine running a workshop, handing out printed surveys, or collecting handwritten ideas at a community event. With FormSync, those paper responses don’t stay stuck on paper.",
+      "translated_from_hash": "68e93b62980d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Here’s how it works:",
+      "source_hash": "145c3c313511",
+      "target": "Here’s how it works:",
+      "translated_from_hash": "145c3c313511",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Generate a printable PDF version of your survey or ideation form",
+      "source_hash": "3c1b0a1a7581",
+      "target": "Generate a printable PDF version of your survey or ideation form",
+      "translated_from_hash": "3c1b0a1a7581",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Distribute it offline: at meetings, events or door-to-door",
+      "source_hash": "286cdd08ab69",
+      "target": "Distribute it offline: at meetings, events or door-to-door",
+      "translated_from_hash": "286cdd08ab69",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Collect &amp; scan the completed forms",
+      "source_hash": "c982d830510f",
+      "target": "Collect &amp; scan the completed forms",
+      "translated_from_hash": "c982d830510f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Import them back into your platform using OCR (optical character recognition) or via an Excel template",
+      "source_hash": "33860af19350",
+      "target": "Import them back into your platform using OCR (optical character recognition) or via an Excel template",
+      "translated_from_hash": "33860af19350",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "The system reads responses, matches them to the original form, and lets you review and approve them before they appear online. That way, insights from residents who prefer pen and paper are captured alongside digital contributions, ensuring no voice is left out.",
+      "source_hash": "5f4b289dc92d",
+      "target": "The system reads responses, matches them to the original form, and lets you review and approve them before they appear online. That way, insights from residents who prefer pen and paper are captured alongside digital contributions, ensuring no voice is left out.",
+      "translated_from_hash": "5f4b289dc92d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "ℹ️ Availability depends on your subscription plan.",
+      "source_hash": "ce25b283f264",
+      "target": "ℹ️ Availability depends on your subscription plan.",
+      "translated_from_hash": "ce25b283f264",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "How to create a downloadable PDF?",
+      "source_hash": "0b29fe633b47",
+      "target": "How to create a downloadable PDF?",
+      "translated_from_hash": "0b29fe633b47",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Create a Survey or Collect input and feedback phase",
+      "source_hash": "71a935590949",
+      "target": "Create a Survey or Collect input and feedback phase",
+      "translated_from_hash": "71a935590949",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Build the form in Edit survey or Edit input form",
+      "source_hash": "59079306679c",
+      "target": "Build the form in Edit survey or Edit input form",
+      "translated_from_hash": "59079306679c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "(Optional for survey) Enable <b>Collect demographic questions by adding a new page to the end of the survey</b> in <b>Phase → Phase access and user data → Demographic questions asked to users</b> to place registration questions on the last PDF page",
+      "source_hash": "140063fb7d84",
+      "target": "(Optional for survey) Enable <b>Collect demographic questions by adding a new page to the end of the survey</b> in <b>Phase → Phase access and user data → Demographic questions asked to users</b> to place registration questions on the last PDF page",
+      "translated_from_hash": "140063fb7d84",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Click <b>Download as PDF</b> (see screenshot above)",
+      "source_hash": "563447569010",
+      "target": "Click <b>Download as PDF</b> (see screenshot above)",
+      "translated_from_hash": "563447569010",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "(Optional) Customize front and last page of the PDF template",
+      "source_hash": "0cb59d7269e2",
+      "target": "(Optional) Customize front and last page of the PDF template",
+      "translated_from_hash": "0cb59d7269e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "⚠️ After downloading, do not change the online form or the PDF; they must remain identical for import.",
+      "source_hash": "79d99932628e",
+      "target": "⚠️ After downloading, do not change the online form or the PDF; they must remain identical for import.",
+      "translated_from_hash": "79d99932628e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to upload a PDF via FormSync?",
+      "source_hash": "df45b16a3fb2",
+      "target": "How to upload a PDF via FormSync?",
+      "translated_from_hash": "df45b16a3fb2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Go to <b>Project → Insights</b> <b>→ Import →</b> <b>Import</b> (top-right)",
+      "source_hash": "458e522594b8",
+      "target": "Go to <b>Project → Insights</b> <b>→ Import →</b> <b>Import</b> (top-right)",
+      "translated_from_hash": "458e522594b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "In Input Importer, click <b>Import</b> → <b>Click to select a file</b>",
+      "source_hash": "469c270e16a1",
+      "target": "In Input Importer, click <b>Import</b> → <b>Click to select a file</b>",
+      "translated_from_hash": "469c270e16a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Choose <b>Paper forms OCR</b> (one language per upload) and select the correct language",
+      "source_hash": "a837b72e2f73",
+      "target": "Choose <b>Paper forms OCR</b> (one language per upload) and select the correct language",
+      "translated_from_hash": "a837b72e2f73",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Make sure to toggle <b>This file contains multiple scanned forms</b> if your PDF contains multiple surveys and add the number of pages per single input",
+      "source_hash": "4481a4ed60d9",
+      "target": "Make sure to toggle <b>This file contains multiple scanned forms</b> if your PDF contains multiple surveys and add the number of pages per single input",
+      "translated_from_hash": "4481a4ed60d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Make sure to toggle <b>The uploaded form was created with the \"Personal data\" section</b> if your survey contained demographic questions",
+      "source_hash": "19224d4adecd",
+      "target": "Make sure to toggle <b>The uploaded form was created with the \"Personal data\" section</b> if your survey contained demographic questions",
+      "translated_from_hash": "19224d4adecd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Wait for processing; items appear in the left panel.",
+      "source_hash": "7aa702591a34",
+      "target": "Wait for processing; items appear in the left panel.",
+      "translated_from_hash": "7aa702591a34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "ℹ️ <b>Best practices:</b>",
+      "source_hash": "74f6de10dc3f",
+      "target": "ℹ️ <b>Best practices:</b>",
+      "translated_from_hash": "74f6de10dc3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Use the <b>platform-generated PDF</b> template only.",
+      "source_hash": "0517ef2ff8eb",
+      "target": "Use the <b>platform-generated PDF</b> template only.",
+      "translated_from_hash": "0517ef2ff8eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Scan with a <b>scanner or scanning app</b> (not camera), same page size, ≤ <b>100 pages</b> per upload.",
+      "source_hash": "525a1e47f45a",
+      "target": "Scan with a <b>scanner or scanning app</b> (not camera), same page size, ≤ <b>100 pages</b> per upload.",
+      "translated_from_hash": "525a1e47f45a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Exclude responses that <b>deviate from the question format</b> (e.g., handwritten notes next to MCQ).",
+      "source_hash": "de51ac630bf4",
+      "target": "Exclude responses that <b>deviate from the question format</b> (e.g., handwritten notes next to MCQ).",
+      "translated_from_hash": "de51ac630bf4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "How to review and approve imports? (see video above)",
+      "source_hash": "da6df23f1ea5",
+      "target": "How to review and approve imports? (see video above)",
+      "translated_from_hash": "da6df23f1ea5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "In Input Importer, select a response (left).",
+      "source_hash": "e2414c261792",
+      "target": "In Input Importer, select a response (left).",
+      "translated_from_hash": "e2414c261792",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Review parsed answers (middle) and the scanned PDF preview (right, for OCR uploads).",
+      "source_hash": "246151f5f185",
+      "target": "Review parsed answers (middle) and the scanned PDF preview (right, for OCR uploads).",
+      "translated_from_hash": "246151f5f185",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Adjust email and User consent if needed.",
+      "source_hash": "787c775bfc44",
+      "target": "Adjust email and User consent if needed.",
+      "translated_from_hash": "787c775bfc44",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Click <b>Approve</b> to finalize; proceed to the next item.",
+      "source_hash": "0b11a9462c64",
+      "target": "Click <b>Approve</b> to finalize; proceed to the next item.",
+      "translated_from_hash": "0b11a9462c64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Approved ideas/inputs are created on the platform and tagged imported.",
+      "source_hash": "30adc760316f",
+      "target": "Approved ideas/inputs are created on the platform and tagged imported.",
+      "translated_from_hash": "30adc760316f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Limitations on FormSync",
+      "source_hash": "f4a1715cf50b",
+      "target": "Limitations on FormSync",
+      "translated_from_hash": "f4a1715cf50b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Supported vs. Unsupported Question Types",
+      "source_hash": "0df360da8676",
+      "target": "Supported vs. Unsupported Question Types",
+      "translated_from_hash": "0df360da8676",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Supported (PDF download):</b> All question types can be printed.",
+      "source_hash": "306a1f9f1d82",
+      "target": "<b>Supported (PDF download):</b> All question types can be printed.",
+      "translated_from_hash": "306a1f9f1d82",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Supported (PDF upload/import):</b> Be aware that while all survey questions types can be downloaded as PDF not all survey question types can be imported back using our scanning technology. The following question types are not yet supported for import:",
+      "source_hash": "fc4b504dffa3",
+      "target": "<b>Supported (PDF upload/import):</b> Be aware that while all survey questions types can be downloaded as PDF not all survey question types can be imported back using our scanning technology. The following question types are not yet supported for import:",
+      "translated_from_hash": "fc4b504dffa3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Mapping questions (Drop Pin, Draw Route, Draw Area, ESRI file upload)",
+      "source_hash": "38acfc1ee8e5",
+      "target": "Mapping questions (Drop Pin, Draw Route, Draw Area, ESRI file upload)",
+      "translated_from_hash": "38acfc1ee8e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "File upload questions",
+      "source_hash": "426896360e79",
+      "target": "File upload questions",
+      "translated_from_hash": "426896360e79",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "If your PDF survey template includes these questions, when you upload the template back these question types will be uploaded back as \"no answer\"",
+      "source_hash": "f25874b0ef97",
+      "target": "If your PDF survey template includes these questions, when you upload the template back these question types will be uploaded back as \"no answer\"",
+      "translated_from_hash": "f25874b0ef97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "File &amp; Scan requirements",
+      "source_hash": "faf6839fee29",
+      "target": "File &amp; Scan requirements",
+      "translated_from_hash": "faf6839fee29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "To avoid errors during upload, please ensure the following:",
+      "source_hash": "076c039d65ef",
+      "target": "To avoid errors during upload, please ensure the following:",
+      "translated_from_hash": "076c039d65ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Use the unaltered platform PDF template (no layout edits)",
+      "source_hash": "d8d9c18fe869",
+      "target": "Use the unaltered platform PDF template (no layout edits)",
+      "translated_from_hash": "d8d9c18fe869",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Keep online form unchanged after PDF generation",
+      "source_hash": "f3a0528748ab",
+      "target": "Keep online form unchanged after PDF generation",
+      "translated_from_hash": "f3a0528748ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Scan pages with consistent size and adequate contrast",
+      "source_hash": "410437a734bb",
+      "target": "Scan pages with consistent size and adequate contrast",
+      "translated_from_hash": "410437a734bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Upload ≤ 100 pages per batch",
+      "source_hash": "61ace16652d5",
+      "target": "Upload ≤ 100 pages per batch",
+      "translated_from_hash": "61ace16652d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Use one language per upload",
+      "source_hash": "9a3eed411361",
+      "target": "Use one language per upload",
+      "translated_from_hash": "9a3eed411361",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "article_id": "527632",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_8cc0746d22\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0006@@</p><ul><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p><ul><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\">@@body:0011@@</p></li></ul></li></ul></li><li><p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li></ul></li></ul><h1 id=\"h_301ec6833e\">@@body:0015@@</h1><ul><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><h1 id=\"h_6780303342\">@@body:0019@@</h1><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ul><h1 id=\"h_b01882696f\">@@body:0024@@</h1><p class=\"no-margin\">@@body:0025@@</p><ul><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li></ul><h1 id=\"h_d127f0331f\">@@body:0029@@</h1><p class=\"no-margin\">@@body:0030@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Login and Registration issues",
+      "hash": "4e120f831a40"
+    },
+    "description": {
+      "field": "description",
+      "text": "Are you encountering a login or registration issue? Follow the next steps to resolve the issue in no time!",
+      "hash": "f736c5570b5f"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "How to resolve common registration issues?",
+      "hash": "da92a810a512"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "<b>Common scenarios:</b>",
+      "hash": "b15e0ab908be"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Email already in use (pending invitation):",
+      "hash": "e5b01b0f4344"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Delete the pending invite via <b>Users &gt; Invite users &gt; All invitations</b>",
+      "hash": "58507b4d3111"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Ask the user to register again via the homepage",
+      "hash": "a26ee68e742d"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Invitation not received:",
+      "hash": "0c017f60b1b3"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Ask the user to check spam folder",
+      "hash": "dc4cffb27706"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "If not found, either:",
+      "hash": "82bcfb5f291c"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Delete the invitation and let the user register normally",
+      "hash": "6535bfb3c15b"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Or retrieve the invitation token from the invitation export file",
+      "hash": "b6267e5dc507"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "and share the invite link: <code>yourplatformurl.com/invite</code>",
+      "hash": "fe49391f8a28"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Admin/Manager invites:",
+      "hash": "d6c1aa59dd29"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Let them register as normal users",
+      "hash": "eac2d63d035a"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Grant their role afterward via <b>User options</b> or <b>Project settings</b>",
+      "hash": "14753479a065"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "How to resolve verification email not received?",
+      "hash": "ddd36062132a"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Ask the user to check spam",
+      "hash": "fd8d324fc02e"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Ensure <code>notification@mail-eu.citizenlab.co</code> is not blocked",
+      "hash": "834dc2c90506"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Contact support if necessary",
+      "hash": "8d5866a8a6c5"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "How to resolve issues with resetting your password?",
+      "hash": "3d480a0a9853"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Click <b>Forgot password?</b> on the login screen",
+      "hash": "b8d36a3924f5"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Enter the email address",
+      "hash": "24ee2221dd08"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Check inbox for reset link (valid for 1 hour)",
+      "hash": "58fe0d7af7c3"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "If not received, check spam or contact support",
+      "hash": "f04dea503a2c"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "How to resolve being stuck in a registration loop?",
+      "hash": "504c594dbc22"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Unverified accounts can’t reset passwords or re-register.",
+      "hash": "61b89fcb7b20"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Users who didn’t verify their email can’t reset their password",
+      "hash": "6fa1ace14397"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "They also can’t register again with the same email",
+      "hash": "aeeb0872b869"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Admins must contact support to delete the stuck user account",
+      "hash": "0955e1089e32"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "How to resolve issues with a user not being able to access their profile settings?",
+      "hash": "70cdec2aeb7e"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Unverified users cannot access their account settings. Ask them to verify their email first.",
+      "hash": "5a935744b7d8"
+    }
+  }
+}

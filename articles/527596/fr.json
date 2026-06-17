@@ -1,0 +1,673 @@
+{
+  "article_id": "527596",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Creating an external survey project",
+      "source_hash": "16c6d88a8123",
+      "target": "Creating an external survey project",
+      "translated_from_hash": "16c6d88a8123",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "When should you use external surveys?",
+      "source_hash": "21f22734dc8e",
+      "target": "When should you use external surveys?",
+      "translated_from_hash": "21f22734dc8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "External survey tools are useful when you need advanced features not offered by the Go Vocal survey builder or if your organization is already using third-party survey tools.",
+      "source_hash": "7010b061b1d9",
+      "target": "External survey tools are useful when you need advanced features not offered by the Go Vocal survey builder or if your organization is already using third-party survey tools.",
+      "translated_from_hash": "7010b061b1d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "However, we recommend using Go Vocal’s built-in survey tool whenever possible for:",
+      "source_hash": "881165411211",
+      "target": "However, we recommend using Go Vocal’s built-in survey tool whenever possible for:",
+      "translated_from_hash": "881165411211",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "In-platform data analysis",
+      "source_hash": "98829e0a2aca",
+      "target": "In-platform data analysis",
+      "translated_from_hash": "98829e0a2aca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "In-platform reporting",
+      "source_hash": "721ce671a950",
+      "target": "In-platform reporting",
+      "translated_from_hash": "721ce671a950",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Direct linkage with registration data",
+      "source_hash": "23e1d953be8f",
+      "target": "Direct linkage with registration data",
+      "translated_from_hash": "23e1d953be8f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "A consistent user experience",
+      "source_hash": "b8c950cdbc80",
+      "target": "A consistent user experience",
+      "translated_from_hash": "b8c950cdbc80",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Which external survey tools are supported by govocal?",
+      "source_hash": "615c471cd281",
+      "target": "Which external survey tools are supported by govocal?",
+      "translated_from_hash": "615c471cd281",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "You can embed surveys from the following services (depending on your plan):",
+      "source_hash": "a9ac90323840",
+      "target": "You can embed surveys from the following services (depending on your plan):",
+      "translated_from_hash": "a9ac90323840",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Typeform (recommended)",
+      "source_hash": "3530290cc57f",
+      "target": "Typeform (recommended)",
+      "translated_from_hash": "3530290cc57f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Google Forms",
+      "source_hash": "805259086913",
+      "target": "Google Forms",
+      "translated_from_hash": "805259086913",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Enalyzer",
+      "source_hash": "5841d2fac8c9",
+      "target": "Enalyzer",
+      "translated_from_hash": "5841d2fac8c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Qualtrics",
+      "source_hash": "28d3793c1e35",
+      "target": "Qualtrics",
+      "translated_from_hash": "28d3793c1e35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Microsoft Forms",
+      "source_hash": "7645f2073fc8",
+      "target": "Microsoft Forms",
+      "translated_from_hash": "7645f2073fc8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "SurveyXact",
+      "source_hash": "01286ed385cc",
+      "target": "SurveyXact",
+      "translated_from_hash": "01286ed385cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "SurveyMonkey",
+      "source_hash": "1f160392c8bd",
+      "target": "SurveyMonkey",
+      "translated_from_hash": "1f160392c8bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Snap Surveys",
+      "source_hash": "65e36f945302",
+      "target": "Snap Surveys",
+      "translated_from_hash": "65e36f945302",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "SmartSurvey",
+      "source_hash": "453dcc2bb218",
+      "target": "SmartSurvey",
+      "translated_from_hash": "453dcc2bb218",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "If your desired tool doesn’t appear in the platform dropdown, contact support via the chat bubble or email <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> to enable it.",
+      "source_hash": "293048640af7",
+      "target": "If your desired tool doesn’t appear in the platform dropdown, contact support via the chat bubble or email <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> to enable it.",
+      "translated_from_hash": "293048640af7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Where to find your embed URL for your external survey?",
+      "source_hash": "bb18b813ff49",
+      "target": "Where to find your embed URL for your external survey?",
+      "translated_from_hash": "bb18b813ff49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Typeform",
+      "source_hash": "2bcaf210c1ce",
+      "target": "Typeform",
+      "translated_from_hash": "2bcaf210c1ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Copy the public survey URL. Hidden fields (like user ID or email) can be added.",
+      "source_hash": "75c5610a6a15",
+      "target": "Copy the public survey URL. Hidden fields (like user ID or email) can be added.",
+      "translated_from_hash": "75c5610a6a15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Google Forms",
+      "source_hash": "805259086913",
+      "target": "Google Forms",
+      "translated_from_hash": "805259086913",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Click <b>Send</b> → Select <code>&lt; &gt;</code> icon → Copy Embed HTML",
+      "source_hash": "798565957477",
+      "target": "Click <b>Send</b> → Select <code>&lt; &gt;</code> icon → Copy Embed HTML",
+      "translated_from_hash": "798565957477",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Remove <code>&lt;iframe ... src=\"</code> at the start",
+      "source_hash": "722b412f4979",
+      "target": "Remove <code>&lt;iframe ... src=\"</code> at the start",
+      "translated_from_hash": "722b412f4979",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Remove everything starting from <code>\" width=</code> at the end",
+      "source_hash": "d8ff5741651b",
+      "target": "Remove everything starting from <code>\" width=</code> at the end",
+      "translated_from_hash": "d8ff5741651b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Final URL should look like:",
+      "source_hash": "685e27edf5b2",
+      "target": "Final URL should look like:",
+      "translated_from_hash": "685e27edf5b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<code>https://docs.google.com/forms/d/e/.../viewform?embedded=true</code>",
+      "source_hash": "7337315841f9",
+      "target": "<code>https://docs.google.com/forms/d/e/.../viewform?embedded=true</code>",
+      "translated_from_hash": "7337315841f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "💡 Limit scale questions to 6 options for mobile-friendly display.",
+      "source_hash": "785fafdbbea0",
+      "target": "💡 Limit scale questions to 6 options for mobile-friendly display.",
+      "translated_from_hash": "785fafdbbea0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "SurveyXact",
+      "source_hash": "01286ed385cc",
+      "target": "SurveyXact",
+      "translated_from_hash": "01286ed385cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "In SurveyXact, go to <b>Distribution</b> &gt; <b>Self-creation</b>",
+      "source_hash": "9fbbf9ec16b8",
+      "target": "In SurveyXact, go to <b>Distribution</b> &gt; <b>Self-creation</b>",
+      "translated_from_hash": "9fbbf9ec16b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Enable it and copy the link from the <b>Link</b> tab",
+      "source_hash": "751d1a443b1c",
+      "target": "Enable it and copy the link from the <b>Link</b> tab",
+      "translated_from_hash": "751d1a443b1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Example:",
+      "source_hash": "872887e563e7",
+      "target": "Example:",
+      "translated_from_hash": "872887e563e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<code>http://www.survey-xact.dk/LinkCollector?key=XYZ123</code>",
+      "source_hash": "bb4e73d21103",
+      "target": "<code>http://www.survey-xact.dk/LinkCollector?key=XYZ123</code>",
+      "translated_from_hash": "bb4e73d21103",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Enalyzer",
+      "source_hash": "5841d2fac8c9",
+      "target": "Enalyzer",
+      "translated_from_hash": "5841d2fac8c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Click <b>Share Link</b> to copy the embed URL",
+      "source_hash": "c85df3b65109",
+      "target": "Click <b>Share Link</b> to copy the embed URL",
+      "translated_from_hash": "c85df3b65109",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Example:",
+      "source_hash": "872887e563e7",
+      "target": "Example:",
+      "translated_from_hash": "872887e563e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<code>https://surveys.enalyzer.com?pid=abc123</code>",
+      "source_hash": "96a2f315820a",
+      "target": "<code>https://surveys.enalyzer.com?pid=abc123</code>",
+      "translated_from_hash": "96a2f315820a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "SmartSurvey",
+      "source_hash": "453dcc2bb218",
+      "target": "SmartSurvey",
+      "translated_from_hash": "453dcc2bb218",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "First try the link under <b>Collect</b>",
+      "source_hash": "4b52d6cfa2fe",
+      "target": "First try the link under <b>Collect</b>",
+      "translated_from_hash": "4b52d6cfa2fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "If it doesn’t work, go to <b>Web Embed</b> and select <i>“my embed code is not working”</i>",
+      "source_hash": "e791787e16f9",
+      "target": "If it doesn’t work, go to <b>Web Embed</b> and select <i>“my embed code is not working”</i>",
+      "translated_from_hash": "e791787e16f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Use the provided link and <b>enable framing</b> under <b>Settings</b>",
+      "source_hash": "88e3e43a5546",
+      "target": "Use the provided link and <b>enable framing</b> under <b>Settings</b>",
+      "translated_from_hash": "88e3e43a5546",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "How to embed an external survey?",
+      "source_hash": "9d7abbd3d3ce",
+      "target": "How to embed an external survey?",
+      "translated_from_hash": "9d7abbd3d3ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>Create your survey</b>",
+      "source_hash": "9af7901590f5",
+      "target": "<b>Create your survey</b>",
+      "translated_from_hash": "9af7901590f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Use your preferred external tool to build your survey.",
+      "source_hash": "e4d3f2d3c75f",
+      "target": "Use your preferred external tool to build your survey.",
+      "translated_from_hash": "e4d3f2d3c75f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "<b>Set up your project or timeline phase</b>",
+      "source_hash": "aee5e2c20a88",
+      "target": "<b>Set up your project or timeline phase</b>",
+      "translated_from_hash": "aee5e2c20a88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "In Go Vocal, create a new project or a phase.",
+      "source_hash": "15bbd22668c8",
+      "target": "In Go Vocal, create a new project or a phase.",
+      "translated_from_hash": "15bbd22668c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Choose <b>Create a survey</b> as the participation method.",
+      "source_hash": "4804e0c189d5",
+      "target": "Choose <b>Create a survey</b> as the participation method.",
+      "translated_from_hash": "4804e0c189d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Choose the survey option <b>External survey</b>",
+      "source_hash": "f34fcbb64a0a",
+      "target": "Choose the survey option <b>External survey</b>",
+      "translated_from_hash": "f34fcbb64a0a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Paste the Embed URL</b>",
+      "source_hash": "ec265f5aa282",
+      "target": "<b>Paste the Embed URL</b>",
+      "translated_from_hash": "ec265f5aa282",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Select your survey tool from the dropdown.",
+      "source_hash": "6c99ba2d44a6",
+      "target": "Select your survey tool from the dropdown.",
+      "translated_from_hash": "6c99ba2d44a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Paste the cleaned embed URL into the input field.",
+      "source_hash": "945a2622bf62",
+      "target": "Paste the cleaned embed URL into the input field.",
+      "translated_from_hash": "945a2622bf62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Click <b>Save</b>.",
+      "source_hash": "b983d161b2a2",
+      "target": "Click <b>Save</b>.",
+      "translated_from_hash": "b983d161b2a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "ℹ️ You must provide the survey URL when creating the phase; it can’t be added later. Set the project to <i>draft</i> if the survey isn’t ready yet.",
+      "source_hash": "1594353d2df7",
+      "target": "ℹ️ You must provide the survey URL when creating the phase; it can’t be added later. Set the project to <i>draft</i> if the survey isn’t ready yet.",
+      "translated_from_hash": "1594353d2df7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "4. <b>(Optional) Link user data in Typeform</b>",
+      "source_hash": "49651fcc9ce2",
+      "target": "4. <b>(Optional) Link user data in Typeform</b>",
+      "translated_from_hash": "49651fcc9ce2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Typeform supports hidden fields to track user emails or IDs.",
+      "source_hash": "2128f97b20cd",
+      "target": "Typeform supports hidden fields to track user emails or IDs.",
+      "translated_from_hash": "2128f97b20cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Results can be downloaded directly from Go Vocal.",
+      "source_hash": "43267bce868b",
+      "target": "Results can be downloaded directly from Go Vocal.",
+      "translated_from_hash": "43267bce868b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "See: <i>Using Hidden Fields in Typeform</i>",
+      "source_hash": "0647fadafc98",
+      "target": "See: <i>Using Hidden Fields in Typeform</i>",
+      "translated_from_hash": "0647fadafc98",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Phase access and user data</b> for external surveys",
+      "source_hash": "feabf28b2c1a",
+      "target": "<b>Phase access and user data</b> for external surveys",
+      "translated_from_hash": "feabf28b2c1a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "The external survey method offers 2 types of <b>Authentication</b> for who can take the survey:",
+      "source_hash": "cc385f701f25",
+      "target": "The external survey method offers 2 types of <b>Authentication</b> for who can take the survey:",
+      "translated_from_hash": "cc385f701f25",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<b>Email confirmation</b>",
+      "source_hash": "a3db689d6e8b",
+      "target": "<b>Email confirmation</b>",
+      "translated_from_hash": "a3db689d6e8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>Account creation</b>",
+      "source_hash": "593294dd0204",
+      "target": "<b>Account creation</b>",
+      "translated_from_hash": "593294dd0204",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "If you prefer <b>Authentication = None</b>, use the in-platform survey tool instead. If not, follow this workaround:",
+      "source_hash": "68bc5fd4d9e6",
+      "target": "If you prefer <b>Authentication = None</b>, use the in-platform survey tool instead. If not, follow this workaround:",
+      "translated_from_hash": "68bc5fd4d9e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "In the <b>Setup</b> tab, change the participation method to <b>Share information</b> instead of <b>External survey</b>.",
+      "source_hash": "accfae7022b6",
+      "target": "In the <b>Setup</b> tab, change the participation method to <b>Share information</b> instead of <b>External survey</b>.",
+      "translated_from_hash": "accfae7022b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Then, you can choose one of the following:",
+      "source_hash": "672cb21ad751",
+      "target": "Then, you can choose one of the following:",
+      "translated_from_hash": "672cb21ad751",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "<b>Option 1:</b> Create a button in the phase description:",
+      "source_hash": "4120b5e1d558",
+      "target": "<b>Option 1:</b> Create a button in the phase description:",
+      "translated_from_hash": "4120b5e1d558",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Click the link icon and paste your external survey link.",
+      "source_hash": "265cda816ed3",
+      "target": "Click the link icon and paste your external survey link.",
+      "translated_from_hash": "265cda816ed3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "<b>Option 2:</b> Go to the <b>Report</b> tab and create a new blank report:",
+      "source_hash": "1dafb8ee687b",
+      "target": "<b>Option 2:</b> Go to the <b>Report</b> tab and create a new blank report:",
+      "translated_from_hash": "1dafb8ee687b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Drag and drop the embed widget.",
+      "source_hash": "ce2ec2b27f2c",
+      "target": "Drag and drop the embed widget.",
+      "translated_from_hash": "ce2ec2b27f2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Add the embed URL of the external survey.",
+      "source_hash": "e545ce474500",
+      "target": "Add the embed URL of the external survey.",
+      "translated_from_hash": "e545ce474500",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Save the report and exit.",
+      "source_hash": "669b4727cb73",
+      "target": "Save the report and exit.",
+      "translated_from_hash": "669b4727cb73",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Toggle \"visible\" to embed the external survey on the phase.",
+      "source_hash": "df408b321346",
+      "target": "Toggle \"visible\" to embed the external survey on the phase.",
+      "translated_from_hash": "df408b321346",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

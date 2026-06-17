@@ -1,0 +1,430 @@
+{
+  "article_id": "527649",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Bulk import ideas/surveys via Excel",
+      "source_hash": "1f0d1e5d46ed",
+      "target": "Bulk import ideas/surveys via Excel",
+      "translated_from_hash": "1f0d1e5d46ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Importing offline results can be done in bulk via excel",
+      "source_hash": "1e5d798b4666",
+      "target": "Importing offline results can be done in bulk via excel",
+      "translated_from_hash": "1e5d798b4666",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is bulk importing via Excel?",
+      "source_hash": "8346a1b8cb31",
+      "target": "What is bulk importing via Excel?",
+      "translated_from_hash": "8346a1b8cb31",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Sometimes you collect ideas or survey responses outside of Go Vocal, for example, during an offline workshop or through another tool. To make sure you can still use these results on the platform, we provide a way to import them in bulk using a fillable Excel template.",
+      "source_hash": "ae72ac70b75f",
+      "target": "Sometimes you collect ideas or survey responses outside of Go Vocal, for example, during an offline workshop or through another tool. To make sure you can still use these results on the platform, we provide a way to import them in bulk using a fillable Excel template.",
+      "translated_from_hash": "ae72ac70b75f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "This feature allows you to:",
+      "source_hash": "268610ec12f2",
+      "target": "This feature allows you to:",
+      "translated_from_hash": "268610ec12f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Bring external data into the platform.",
+      "source_hash": "0fd459133e34",
+      "target": "Bring external data into the platform.",
+      "translated_from_hash": "0fd459133e34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Share results with your users.",
+      "source_hash": "8a191a6166f9",
+      "target": "Share results with your users.",
+      "translated_from_hash": "8a191a6166f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Take advantage of Go Vocal’s features (like analysis, tagging, or reporting).",
+      "source_hash": "b6cddc266b6a",
+      "target": "Take advantage of Go Vocal’s features (like analysis, tagging, or reporting).",
+      "translated_from_hash": "b6cddc266b6a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Because the upload process requires a strict format, this article will guide you through it in three steps:",
+      "source_hash": "4bb9888336bf",
+      "target": "Because the upload process requires a strict format, this article will guide you through it in three steps:",
+      "translated_from_hash": "4bb9888336bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Accessing the Excel template",
+      "source_hash": "54a9b0154e6f",
+      "target": "Accessing the Excel template",
+      "translated_from_hash": "54a9b0154e6f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Filling out the Excel template",
+      "source_hash": "58c949f2d3c3",
+      "target": "Filling out the Excel template",
+      "translated_from_hash": "58c949f2d3c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Uploading the filled-in Excel file",
+      "source_hash": "895ffc886a18",
+      "target": "Uploading the filled-in Excel file",
+      "translated_from_hash": "895ffc886a18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "How to access the excel template?",
+      "source_hash": "939403363432",
+      "target": "How to access the excel template?",
+      "translated_from_hash": "939403363432",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "For Ideas/Inputs (Ideation Phase):",
+      "source_hash": "d292c5b252d5",
+      "target": "For Ideas/Inputs (Ideation Phase):",
+      "translated_from_hash": "d292c5b252d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Go to the <b>Input form</b> tab of the phase → click <b>Download an Excel Template</b>.",
+      "source_hash": "3615ac3f920a",
+      "target": "Go to the <b>Input form</b> tab of the phase → click <b>Download an Excel Template</b>.",
+      "translated_from_hash": "3615ac3f920a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "For Surveys:",
+      "source_hash": "51f98302924c",
+      "target": "For Surveys:",
+      "translated_from_hash": "51f98302924c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Go to the <b>Survey Form</b> tab → click the <b>three-dot menu</b> → select <b>Download an Excel Template</b>.",
+      "source_hash": "9dcb4a698389",
+      "target": "Go to the <b>Survey Form</b> tab → click the <b>three-dot menu</b> → select <b>Download an Excel Template</b>.",
+      "translated_from_hash": "9dcb4a698389",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "How to fill out the excel template?",
+      "source_hash": "849a215351dd",
+      "target": "How to fill out the excel template?",
+      "translated_from_hash": "849a215351dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Example row:</b> Row 2 shows how the template must be filled in. Follow it exactly — the system is <b>case sensitive</b>.",
+      "source_hash": "ee8473b2c6a5",
+      "target": "<b>Example row:</b> Row 2 shows how the template must be filled in. Follow it exactly — the system is <b>case sensitive</b>.",
+      "translated_from_hash": "ee8473b2c6a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Personal Data (Name, Email, Permission):</b>",
+      "source_hash": "16022f4c073a",
+      "target": "<b>Personal Data (Name, Email, Permission):</b>",
+      "translated_from_hash": "16022f4c073a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "These columns are optional - if left blank the input will be imported anonymously",
+      "source_hash": "4addb76c1244",
+      "target": "These columns are optional - if left blank the input will be imported anonymously",
+      "translated_from_hash": "4addb76c1244",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Add an <b>“X”</b> in the Permission column to upload personal details",
+      "source_hash": "b6d5d388b18f",
+      "target": "Add an <b>“X”</b> in the Permission column to upload personal details",
+      "translated_from_hash": "b6d5d388b18f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Remove any trailing spaces in email addresses",
+      "source_hash": "6ec13a47fc88",
+      "target": "Remove any trailing spaces in email addresses",
+      "translated_from_hash": "6ec13a47fc88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Date published </b>",
+      "source_hash": "0419d2c741c4",
+      "target": "<b>Date published </b>",
+      "translated_from_hash": "0419d2c741c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "This column is optional - if left blank the system will add the date of import by default",
+      "source_hash": "d47a41e0b912",
+      "target": "This column is optional - if left blank the system will add the date of import by default",
+      "translated_from_hash": "d47a41e0b912",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Use hyphens (<code>YYYY-MM-DD</code>) instead of slashes (<code>/</code>). You may need to set the cell to <b>text format</b>.",
+      "source_hash": "cee5432f2e22",
+      "target": "Use hyphens (<code>YYYY-MM-DD</code>) instead of slashes (<code>/</code>). You may need to set the cell to <b>text format</b>.",
+      "translated_from_hash": "cee5432f2e22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Title:</b> Max 80 characters.",
+      "source_hash": "e55b8107f175",
+      "target": "<b>Title:</b> Max 80 characters.",
+      "translated_from_hash": "e55b8107f175",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Coordinates:</b> Must follow the exact format from the example.",
+      "source_hash": "b51e4c6b3248",
+      "target": "<b>Coordinates:</b> Must follow the exact format from the example.",
+      "translated_from_hash": "b51e4c6b3248",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Multi-choice &amp; Tags:</b> Must exactly match platform wording (capitalization, spacing). Separate multiple entries with a semicolon <code>;</code>.",
+      "source_hash": "ce2f3ee99d20",
+      "target": "<b>Multi-choice &amp; Tags:</b> Must exactly match platform wording (capitalization, spacing). Separate multiple entries with a semicolon <code>;</code>.",
+      "translated_from_hash": "ce2f3ee99d20",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Single-choice:</b> Must exactly match platform wording.",
+      "source_hash": "b6504986c662",
+      "target": "<b>Single-choice:</b> Must exactly match platform wording.",
+      "translated_from_hash": "b6504986c662",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Image URL:</b> Only one image per idea. Link must end with <code>.jpeg</code>, <code>.jpg</code>, or <code>.png</code>.",
+      "source_hash": "7f870ea8c27d",
+      "target": "<b>Image URL:</b> Only one image per idea. Link must end with <code>.jpeg</code>, <code>.jpg</code>, or <code>.png</code>.",
+      "translated_from_hash": "7f870ea8c27d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "How to import the excel file?",
+      "source_hash": "4c32cd9041c1",
+      "target": "How to import the excel file?",
+      "translated_from_hash": "4c32cd9041c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>For Ideas:</b> Go to the <b>Input Manager</b> tab → click <b>Import</b> → <b>click Import</b> again (top right).",
+      "source_hash": "f6cc361c43b1",
+      "target": "<b>For Ideas:</b> Go to the <b>Input Manager</b> tab → click <b>Import</b> → <b>click Import</b> again (top right).",
+      "translated_from_hash": "f6cc361c43b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>For Surveys:</b> Go to the <b>Insights</b> tab → click <b>Import</b> → <b>click Import</b> again (top right).",
+      "source_hash": "7d8e38748d17",
+      "target": "<b>For Surveys:</b> Go to the <b>Insights</b> tab → click <b>Import</b> → <b>click Import</b> again (top right).",
+      "translated_from_hash": "7d8e38748d17",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Then:",
+      "source_hash": "fa36c4e4f0f6",
+      "target": "Then:",
+      "translated_from_hash": "fa36c4e4f0f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Select <b>Import Excel file</b>.",
+      "source_hash": "c76a856992fe",
+      "target": "Select <b>Import Excel file</b>.",
+      "translated_from_hash": "c76a856992fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "If your file contains personal data (name, email, etc.), check the <b>consent box</b>.",
+      "source_hash": "fe22157a29ea",
+      "target": "If your file contains personal data (name, email, etc.), check the <b>consent box</b>.",
+      "translated_from_hash": "fe22157a29ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Imported entries will first appear as <b>drafts</b> in the Importer UI.",
+      "source_hash": "51c9926d5065",
+      "target": "Imported entries will first appear as <b>drafts</b> in the Importer UI.",
+      "translated_from_hash": "51c9926d5065",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Once you <b>Approve</b>, they will be published into the phase and visible in results/input manager.",
+      "source_hash": "4bb4e56d98f2",
+      "target": "Once you <b>Approve</b>, they will be published into the phase and visible in results/input manager.",
+      "translated_from_hash": "4bb4e56d98f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "ℹ️ For ideation: approved imported entries are automatically tagged with “imported”.",
+      "source_hash": "8738545616ea",
+      "target": "ℹ️ For ideation: approved imported entries are automatically tagged with “imported”.",
+      "translated_from_hash": "8738545616ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "What are the limiations of bulk importing via excel?",
+      "source_hash": "8e54f1b376da",
+      "target": "What are the limiations of bulk importing via excel?",
+      "translated_from_hash": "8e54f1b376da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "The following <b>cannot</b> be uploaded via Excel:",
+      "source_hash": "72ce3e4b891f",
+      "target": "The following <b>cannot</b> be uploaded via Excel:",
+      "translated_from_hash": "72ce3e4b891f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "File uploads/attachments",
+      "source_hash": "fcd5ae7c2fff",
+      "target": "File uploads/attachments",
+      "translated_from_hash": "fcd5ae7c2fff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Matrix questions",
+      "source_hash": "5143d128ce64",
+      "target": "Matrix questions",
+      "translated_from_hash": "5143d128ce64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Ranking questions",
+      "source_hash": "63e5e4f74d88",
+      "target": "Ranking questions",
+      "translated_from_hash": "63e5e4f74d88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Mapping questions",
+      "source_hash": "b577304ca64e",
+      "target": "Mapping questions",
+      "translated_from_hash": "b577304ca64e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "⚠️ Do not add columns/questions manually to the Excel file. Always add them first in the online form, then re-download the updated template.",
+      "source_hash": "5815b52955ab",
+      "target": "⚠️ Do not add columns/questions manually to the Excel file. Always add them first in the online form, then re-download the updated template.",
+      "translated_from_hash": "5815b52955ab",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

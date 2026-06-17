@@ -1,0 +1,286 @@
+{
+  "article_id": "609603",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Finding Common Ground",
+      "source_hash": "fcbed66b76f8",
+      "target": "Finding Common Ground",
+      "translated_from_hash": "fcbed66b76f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the Common Ground method",
+      "source_hash": "edb418c4a190",
+      "target": "What is the Common Ground method",
+      "translated_from_hash": "edb418c4a190",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The Common Ground method helps manage large-scale consultations with thousands of contributions by distilling the conversation into concise, trade-off statements that participants react to—agree, unsure, or disagree. It transforms overwhelming feedback into a clear map of where people align and where opinions diverge, turning the flood of input into something actionable for decision-makers. It's not a poll—it’s a structured process that bridges open ideation and deeper deliberation.",
+      "source_hash": "bcfd9752cf3c",
+      "target": "The Common Ground method helps manage large-scale consultations with thousands of contributions by distilling the conversation into concise, trade-off statements that participants react to—agree, unsure, or disagree. It transforms overwhelming feedback into a clear map of where people align and where opinions diverge, turning the flood of input into something actionable for decision-makers. It's not a poll—it’s a structured process that bridges open ideation and deeper deliberation.",
+      "translated_from_hash": "bcfd9752cf3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Key Features of Common Ground Method",
+      "source_hash": "a7e4fadffbff",
+      "target": "Key Features of Common Ground Method",
+      "translated_from_hash": "a7e4fadffbff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Encourage participants to make choices</b>: Use trade-off statements to help participants weigh competing arguments and make clear decisions.",
+      "source_hash": "42a5ddc55207",
+      "target": "<b>Encourage participants to make choices</b>: Use trade-off statements to help participants weigh competing arguments and make clear decisions.",
+      "translated_from_hash": "42a5ddc55207",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Find consensus fast</b>: Quickly identify high-agreement, divisive, or neutral statements that can move directly to action.",
+      "source_hash": "6e285ccada81",
+      "target": "<b>Find consensus fast</b>: Quickly identify high-agreement, divisive, or neutral statements that can move directly to action.",
+      "translated_from_hash": "6e285ccada81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Increase trust &amp; transparency</b>: Participants see live results, demonstrating how their voice contributes to the collective community view.",
+      "source_hash": "5ee0eb6e3718",
+      "target": "<b>Increase trust &amp; transparency</b>: Participants see live results, demonstrating how their voice contributes to the collective community view.",
+      "translated_from_hash": "5ee0eb6e3718",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Low lift, high insight</b>: Easy to set up for teams and intuitive for residents to use, providing immediate, actionable insights.",
+      "source_hash": "24daad4f6543",
+      "target": "<b>Low lift, high insight</b>: Easy to set up for teams and intuitive for residents to use, providing immediate, actionable insights.",
+      "translated_from_hash": "24daad4f6543",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Use cases of the Common Ground method",
+      "source_hash": "10b8a6ed4b29",
+      "target": "Use cases of the Common Ground method",
+      "translated_from_hash": "10b8a6ed4b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Pre-deliberation: </b>seed the conversation through ideation &amp; summarize into position statements with sensemaking",
+      "source_hash": "dd15e30848f2",
+      "target": "<b>Pre-deliberation: </b>seed the conversation through ideation &amp; summarize into position statements with sensemaking",
+      "translated_from_hash": "dd15e30848f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Pro-tip: Leverage Sense-making, and Ask AI to generate statements. Recommended amount: 25 statements.",
+      "source_hash": "26aaf2f60e4c",
+      "target": "Pro-tip: Leverage Sense-making, and Ask AI to generate statements. Recommended amount: 25 statements.",
+      "translated_from_hash": "26aaf2f60e4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Prompt: \"Generate up to 25 trade-off questions (max 120 chars) from key ideation topics for agree / unsure / disagree responses.”",
+      "source_hash": "830582827ce2",
+      "target": "Prompt: \"Generate up to 25 trade-off questions (max 120 chars) from key ideation topics for agree / unsure / disagree responses.”",
+      "translated_from_hash": "830582827ce2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Deliberation:</b> find common ground on trade-off statements for agree/unsure/disagree responses.",
+      "source_hash": "3d1db3602ed9",
+      "target": "<b>Deliberation:</b> find common ground on trade-off statements for agree/unsure/disagree responses.",
+      "translated_from_hash": "3d1db3602ed9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Post-deliberation: </b>follow up phase to resolve disagreement, uncertainty",
+      "source_hash": "ceb303ac79df",
+      "target": "<b>Post-deliberation: </b>follow up phase to resolve disagreement, uncertainty",
+      "translated_from_hash": "ceb303ac79df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How to set up the Common Ground method and add inputs?",
+      "source_hash": "d85e5389acfd",
+      "target": "How to set up the Common Ground method and add inputs?",
+      "translated_from_hash": "d85e5389acfd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "1. create a new phase",
+      "source_hash": "fec09e0cdf25",
+      "target": "1. create a new phase",
+      "translated_from_hash": "fec09e0cdf25",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "2. select the participation method \"find common ground\"",
+      "source_hash": "24a04b6e55eb",
+      "target": "2. select the participation method \"find common ground\"",
+      "translated_from_hash": "24a04b6e55eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "3. go to the input manager tab of the phase and either add new statements by press of <b>+Add new input </b>OR import statements from previous projects (you won't be able to choose which ones it will import all inputs for previous project but you can always delete the ones you don't need)",
+      "source_hash": "45a07a72dce0",
+      "target": "3. go to the input manager tab of the phase and either add new statements by press of <b>+Add new input </b>OR import statements from previous projects (you won't be able to choose which ones it will import all inputs for previous project but you can always delete the ones you don't need)",
+      "translated_from_hash": "45a07a72dce0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "⚠️ Currently it’s not possible to add images to statements.",
+      "source_hash": "f04addb21c68",
+      "target": "⚠️ Currently it’s not possible to add images to statements.",
+      "translated_from_hash": "f04addb21c68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "5. Users can now agree or disagree to all the statements in the project page",
+      "source_hash": "ca1ab9be929c",
+      "target": "5. Users can now agree or disagree to all the statements in the project page",
+      "translated_from_hash": "ca1ab9be929c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Important information about submission:",
+      "source_hash": "a58b08e27429",
+      "target": "Important information about submission:",
+      "translated_from_hash": "a58b08e27429",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Participants' names are not visible to the public on the input itself. However, admins can view the name when clicking on an input in the input manager.",
+      "source_hash": "9abecd936338",
+      "target": "Participants' names are not visible to the public on the input itself. However, admins can view the name when clicking on an input in the input manager.",
+      "translated_from_hash": "9abecd936338",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Once votes are cast, they are final and cannot be edited.",
+      "source_hash": "60c2aefcb27c",
+      "target": "Once votes are cast, they are final and cannot be edited.",
+      "translated_from_hash": "60c2aefcb27c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "How to visualise and download results of the Common Ground method?",
+      "source_hash": "b93d3d5de2b4",
+      "target": "How to visualise and download results of the Common Ground method?",
+      "translated_from_hash": "b93d3d5de2b4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Your participants, yourself and all allowed users can visualize results in real time from the front end by press <b>Results</b> tab next to the <b>Statement</b> tab",
+      "source_hash": "517eaeacdf15",
+      "target": "Your participants, yourself and all allowed users can visualize results in real time from the front end by press <b>Results</b> tab next to the <b>Statement</b> tab",
+      "translated_from_hash": "517eaeacdf15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Results are visible to all users as long as they are available, even before participation.",
+      "source_hash": "723436461429",
+      "target": "Results are visible to all users as long as they are available, even before participation.",
+      "translated_from_hash": "723436461429",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Currently, there’s no option to hide results. All admins and users with access to the project can view the results.",
+      "source_hash": "e97398700110",
+      "target": "Currently, there’s no option to hide results. All admins and users with access to the project can view the results.",
+      "translated_from_hash": "e97398700110",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "You can download the results by going to the <b>Insights</b> tab of the phase &gt; <b>download as PDF or Word</b>",
+      "source_hash": "d22442b4fa28",
+      "target": "You can download the results by going to the <b>Insights</b> tab of the phase &gt; <b>download as PDF or Word</b>",
+      "translated_from_hash": "d22442b4fa28",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Access rights and user action on the Common Ground method",
+      "source_hash": "625155a3de1a",
+      "target": "Access rights and user action on the Common Ground method",
+      "translated_from_hash": "625155a3de1a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "In the <b>Phase Access and User Data</b> tab of your phase, you can configure which users are allowed to vote and submit input. You can choose to restrict input submissions to admins and project managers only, or allow users to submit their own inputs. This enables the creation of a live, evolving set of statements that other users can browse through.",
+      "source_hash": "ff82633c6c61",
+      "target": "In the <b>Phase Access and User Data</b> tab of your phase, you can configure which users are allowed to vote and submit input. You can choose to restrict input submissions to admins and project managers only, or allow users to submit their own inputs. This enables the creation of a live, evolving set of statements that other users can browse through.",
+      "translated_from_hash": "ff82633c6c61",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

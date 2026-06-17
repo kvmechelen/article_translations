@@ -1,0 +1,403 @@
+{
+  "article_id": "527561",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Using the text box editor",
+      "source_hash": "4d7f6867c482",
+      "target": "Using the text box editor",
+      "translated_from_hash": "4d7f6867c482",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "The text field allows you manipulate text, images & videos in a flexible way",
+      "source_hash": "9c823169614c",
+      "target": "The text field allows you manipulate text, images & videos in a flexible way",
+      "translated_from_hash": "9c823169614c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is our text editor?",
+      "source_hash": "45ca77f48b17",
+      "target": "What is our text editor?",
+      "translated_from_hash": "45ca77f48b17",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The text editor is where you create and format your content. It’s a WYSIWYG (“What You See Is What You Get”) editor, meaning your content appears the same during editing as it will when published. Below, you’ll find how to format text, add media, and manage images in the editor.",
+      "source_hash": "b26448c50669",
+      "target": "The text editor is where you create and format your content. It’s a WYSIWYG (“What You See Is What You Get”) editor, meaning your content appears the same during editing as it will when published. Below, you’ll find how to format text, add media, and manage images in the editor.",
+      "translated_from_hash": "b26448c50669",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "How to format content in the text box?",
+      "source_hash": "0c983f350dba",
+      "target": "How to format content in the text box?",
+      "translated_from_hash": "0c983f350dba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Apply text formatting:</b>",
+      "source_hash": "9c09d673ceb0",
+      "target": "<b>Apply text formatting:</b>",
+      "translated_from_hash": "9c09d673ceb0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Use the toolbar at the top of the editor to format text:",
+      "source_hash": "46e295642702",
+      "target": "Use the toolbar at the top of the editor to format text:",
+      "translated_from_hash": "46e295642702",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Bold</b>: Select text and click the <b>B</b> icon",
+      "source_hash": "4e0bc33b30c6",
+      "target": "<b>Bold</b>: Select text and click the <b>B</b> icon",
+      "translated_from_hash": "4e0bc33b30c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Italics</b>: Use the <b>I</b> icon for emphasis",
+      "source_hash": "f1a11373d27b",
+      "target": "<b>Italics</b>: Use the <b>I</b> icon for emphasis",
+      "translated_from_hash": "f1a11373d27b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Headers</b>: Choose heading styles to structure your content",
+      "source_hash": "dbbebcdc16a2",
+      "target": "<b>Headers</b>: Choose heading styles to structure your content",
+      "translated_from_hash": "dbbebcdc16a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Lists</b>: Create bullet or numbered lists for easier readability",
+      "source_hash": "510efd28cc5d",
+      "target": "<b>Lists</b>: Create bullet or numbered lists for easier readability",
+      "translated_from_hash": "510efd28cc5d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Insert links:</b>",
+      "source_hash": "327dc9cf069c",
+      "target": "<b>Insert links:</b>",
+      "translated_from_hash": "327dc9cf069c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Highlight the text you want to link.",
+      "source_hash": "b9eec8326e0c",
+      "target": "Highlight the text you want to link.",
+      "translated_from_hash": "b9eec8326e0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Click the <b>link icon</b>.",
+      "source_hash": "853655ca9654",
+      "target": "Click the <b>link icon</b>.",
+      "translated_from_hash": "853655ca9654",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Enter or paste the destination URL.",
+      "source_hash": "383fd9a5d6bd",
+      "target": "Enter or paste the destination URL.",
+      "translated_from_hash": "383fd9a5d6bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Create a button: </b>",
+      "source_hash": "67a4b291e289",
+      "target": "<b>Create a button: </b>",
+      "translated_from_hash": "67a4b291e289",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Highlight the text you want to link.",
+      "source_hash": "b9eec8326e0c",
+      "target": "Highlight the text you want to link.",
+      "translated_from_hash": "b9eec8326e0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Click the <b>link icon</b>.",
+      "source_hash": "853655ca9654",
+      "target": "Click the <b>link icon</b>.",
+      "translated_from_hash": "853655ca9654",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "select the <b>Add Button</b> option",
+      "source_hash": "f61ff210d299",
+      "target": "select the <b>Add Button</b> option",
+      "translated_from_hash": "f61ff210d299",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Enter or paste the destination URL.",
+      "source_hash": "383fd9a5d6bd",
+      "target": "Enter or paste the destination URL.",
+      "translated_from_hash": "383fd9a5d6bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Align content:</b>",
+      "source_hash": "3d76ffb245ca",
+      "target": "<b>Align content:</b>",
+      "translated_from_hash": "3d76ffb245ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Use the alignment icons to align text or elements left, center, or right",
+      "source_hash": "0ab9ae558837",
+      "target": "Use the alignment icons to align text or elements left, center, or right",
+      "translated_from_hash": "0ab9ae558837",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "How to add media in the text box?",
+      "source_hash": "06bbd4ff2b4d",
+      "target": "How to add media in the text box?",
+      "translated_from_hash": "06bbd4ff2b4d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Add an image:</b>",
+      "source_hash": "a80f071f82e5",
+      "target": "<b>Add an image:</b>",
+      "translated_from_hash": "a80f071f82e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Click the <b>image icon</b> in the toolbar.",
+      "source_hash": "f88ef775009b",
+      "target": "Click the <b>image icon</b> in the toolbar.",
+      "translated_from_hash": "f88ef775009b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Upload a new image or select an existing one.",
+      "source_hash": "380bf35c9b56",
+      "target": "Upload a new image or select an existing one.",
+      "translated_from_hash": "380bf35c9b56",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Add alt text to an image:</b>",
+      "source_hash": "d5b20e0eb4fb",
+      "target": "<b>Add alt text to an image:</b>",
+      "translated_from_hash": "d5b20e0eb4fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "click on the image and press on the T icon that appears",
+      "source_hash": "81ae3299e59a",
+      "target": "click on the image and press on the T icon that appears",
+      "translated_from_hash": "81ae3299e59a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "a pop up will appear to add alt-text and image title",
+      "source_hash": "518e0d78bf57",
+      "target": "a pop up will appear to add alt-text and image title",
+      "translated_from_hash": "518e0d78bf57",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Add a video:</b>",
+      "source_hash": "846890099d97",
+      "target": "<b>Add a video:</b>",
+      "translated_from_hash": "846890099d97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Click the <b>video icon</b> (only available in standard editors, <i>not in email editors</i>).",
+      "source_hash": "08811d735d44",
+      "target": "Click the <b>video icon</b> (only available in standard editors, <i>not in email editors</i>).",
+      "translated_from_hash": "08811d735d44",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Paste the video URL to embed it.",
+      "source_hash": "3b21272fbf4e",
+      "target": "Paste the video URL to embed it.",
+      "translated_from_hash": "3b21272fbf4e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "ℹ️ : The custom email text editor has fewer features. It does not include a video icon. To add a video in an email:",
+      "source_hash": "47a3bbbe0735",
+      "target": "ℹ️ : The custom email text editor has fewer features. It does not include a video icon. To add a video in an email:",
+      "translated_from_hash": "47a3bbbe0735",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Hyperlink a piece of text with the video URL",
+      "source_hash": "ce837e521cfa",
+      "target": "Hyperlink a piece of text with the video URL",
+      "translated_from_hash": "ce837e521cfa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Or upload an image and hyperlink it with the video URL",
+      "source_hash": "9c0dcc2937f3",
+      "target": "Or upload an image and hyperlink it with the video URL",
+      "translated_from_hash": "9c0dcc2937f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "How to delete images from the text box?",
+      "source_hash": "cb4e58f3e1b5",
+      "target": "How to delete images from the text box?",
+      "translated_from_hash": "cb4e58f3e1b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Two methods for removing images from the text editor.",
+      "source_hash": "853d11284d13",
+      "target": "Two methods for removing images from the text editor.",
+      "translated_from_hash": "853d11284d13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>Path 1:</b>",
+      "source_hash": "e0994f97ca30",
+      "target": "<b>Path 1:</b>",
+      "translated_from_hash": "e0994f97ca30",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Click and drag until the image is selected",
+      "source_hash": "32e3c7ce0102",
+      "target": "Click and drag until the image is selected",
+      "translated_from_hash": "32e3c7ce0102",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Press <b>Backspace</b>",
+      "source_hash": "76957d749718",
+      "target": "Press <b>Backspace</b>",
+      "translated_from_hash": "76957d749718",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Path 2 (for large images):</b>",
+      "source_hash": "7f90113f4bdc",
+      "target": "<b>Path 2 (for large images):</b>",
+      "translated_from_hash": "7f90113f4bdc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Resize the image from a corner",
+      "source_hash": "5dde2c00cfbf",
+      "target": "Resize the image from a corner",
+      "translated_from_hash": "5dde2c00cfbf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Click just to the right of the image",
+      "source_hash": "f325491cfcf1",
+      "target": "Click just to the right of the image",
+      "translated_from_hash": "f325491cfcf1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Press <b>Backspace</b> to delete",
+      "source_hash": "51417b3972c0",
+      "target": "Press <b>Backspace</b> to delete",
+      "translated_from_hash": "51417b3972c0",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

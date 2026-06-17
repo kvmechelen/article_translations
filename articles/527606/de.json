@@ -1,0 +1,403 @@
+{
+  "article_id": "527606",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Representation Dashboard",
+      "source_hash": "d2fe1d4d44bf",
+      "target": "Representation Dashboard",
+      "translated_from_hash": "d2fe1d4d44bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the representation dashboard?",
+      "source_hash": "8835c2e05ed2",
+      "target": "What is the representation dashboard?",
+      "translated_from_hash": "8835c2e05ed2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The Representation Dashboard helps you understand how well your online participation reflects the wider community. It compares key demographic indicators, such as age, gender, or location, from your platform’s participants against overall community data.",
+      "source_hash": "b276a19638b9",
+      "target": "The Representation Dashboard helps you understand how well your online participation reflects the wider community. It compares key demographic indicators, such as age, gender, or location, from your platform’s participants against overall community data.",
+      "translated_from_hash": "b276a19638b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "By visualizing these comparisons, you can quickly identify which groups are well represented and which might be underrepresented in your platform or specific projects. This makes it easier to spot participation gaps, improve outreach efforts, and ensure that the voices contributing online reflect the diversity of your community.",
+      "source_hash": "449af20a1da8",
+      "target": "By visualizing these comparisons, you can quickly identify which groups are well represented and which might be underrepresented in your platform or specific projects. This makes it easier to spot participation gaps, improve outreach efforts, and ensure that the voices contributing online reflect the diversity of your community.",
+      "translated_from_hash": "449af20a1da8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "What is the representation score?",
+      "source_hash": "65b1105af504",
+      "target": "What is the representation score?",
+      "translated_from_hash": "65b1105af504",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "The Representation Score provides a quick way to see how well your platform’s participants reflect your target population for a specific demographic characteristic, such as gender, age, or education.",
+      "source_hash": "bdc9f1450818",
+      "target": "The Representation Score provides a quick way to see how well your platform’s participants reflect your target population for a specific demographic characteristic, such as gender, age, or education.",
+      "translated_from_hash": "bdc9f1450818",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "How the score is calculated",
+      "source_hash": "7f1cf72f536d",
+      "target": "How the score is calculated",
+      "translated_from_hash": "7f1cf72f536d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "The calculation happens in two steps:",
+      "source_hash": "e4822d79789a",
+      "target": "The calculation happens in two steps:",
+      "translated_from_hash": "e4822d79789a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Calculate participation rates",
+      "source_hash": "f25f2ad3a1f5",
+      "target": "Calculate participation rates",
+      "translated_from_hash": "f25f2ad3a1f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "For each demographic group, determine the proportion of people in that group (within the target population) who participated on your platform.",
+      "source_hash": "52360e541776",
+      "target": "For each demographic group, determine the proportion of people in that group (within the target population) who participated on your platform.",
+      "translated_from_hash": "52360e541776",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<i>Example: if 100 out of 1,000 people with education level A participated, the participation rate is 0.1 (10%).</i>",
+      "source_hash": "4afb35636bd0",
+      "target": "<i>Example: if 100 out of 1,000 people with education level A participated, the participation rate is 0.1 (10%).</i>",
+      "translated_from_hash": "4afb35636bd0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Compare the highest and lowest rates",
+      "source_hash": "28aa44dbf8cc",
+      "target": "Compare the highest and lowest rates",
+      "translated_from_hash": "28aa44dbf8cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Divide the lowest participation rate by the highest participation rate.",
+      "source_hash": "ce541b61869f",
+      "target": "Divide the lowest participation rate by the highest participation rate.",
+      "translated_from_hash": "ce541b61869f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "The result — expressed as a percentage — is your Representation Score.",
+      "source_hash": "5da14267803b",
+      "target": "The result — expressed as a percentage — is your Representation Score.",
+      "translated_from_hash": "5da14267803b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<i>Example:</i>",
+      "source_hash": "102715a47c1c",
+      "target": "<i>Example:</i>",
+      "translated_from_hash": "102715a47c1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<i>Education A: 0.10</i>",
+      "source_hash": "74a6a71de2a4",
+      "target": "<i>Education A: 0.10</i>",
+      "translated_from_hash": "74a6a71de2a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<i>Education B: 0.075</i>",
+      "source_hash": "0f703aa02139",
+      "target": "<i>Education B: 0.075</i>",
+      "translated_from_hash": "0f703aa02139",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<i>Education C: 0.08</i>",
+      "source_hash": "b58ec542303d",
+      "target": "<i>Education C: 0.08</i>",
+      "translated_from_hash": "b58ec542303d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<i>Lowest rate ÷ highest rate = 0.075 / 0.10 = <b>0.75 (75%)</b></i>",
+      "source_hash": "a4856d20c27d",
+      "target": "<i>Lowest rate ÷ highest rate = 0.075 / 0.10 = <b>0.75 (75%)</b></i>",
+      "translated_from_hash": "a4856d20c27d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "A score of 100% means perfect representation, all groups participate equally. Lower scores indicate that some groups are underrepresented relative to others.",
+      "source_hash": "52681e118b38",
+      "target": "A score of 100% means perfect representation, all groups participate equally. Lower scores indicate that some groups are underrepresented relative to others.",
+      "translated_from_hash": "52681e118b38",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Important notes",
+      "source_hash": "ddc2d03c2a49",
+      "target": "Important notes",
+      "translated_from_hash": "ddc2d03c2a49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "The score is sensitive to the lowest participation rate. If one group has a rate of zero, the overall score will also be zero.",
+      "source_hash": "13e5dc240c29",
+      "target": "The score is sensitive to the lowest participation rate. If one group has a rate of zero, the overall score will also be zero.",
+      "translated_from_hash": "13e5dc240c29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Small sample sizes or questions with many answer options can distort the score, since one low-participation group can significantly reduce it.",
+      "source_hash": "4ed2b8b7defc",
+      "target": "Small sample sizes or questions with many answer options can distort the score, since one low-participation group can significantly reduce it.",
+      "translated_from_hash": "4ed2b8b7defc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "You can add your municipality’s <b>general population size</b> under <b>Settings → Platform → Population</b>, to ensure accurate rate calculations.",
+      "source_hash": "2f7613515f0c",
+      "target": "You can add your municipality’s <b>general population size</b> under <b>Settings → Platform → Population</b>, to ensure accurate rate calculations.",
+      "translated_from_hash": "2f7613515f0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "How to use the representation dashboard?",
+      "source_hash": "d0929a43b9f9",
+      "target": "How to use the representation dashboard?",
+      "translated_from_hash": "d0929a43b9f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "1. Accessing the Dashboard",
+      "source_hash": "706b6647c85c",
+      "target": "1. Accessing the Dashboard",
+      "translated_from_hash": "706b6647c85c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "You can find the Representation Dashboard as a new tab in the Dashboards section.",
+      "source_hash": "87dba70ccbe9",
+      "target": "You can find the Representation Dashboard as a new tab in the Dashboards section.",
+      "translated_from_hash": "87dba70ccbe9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "From here, you can submit your census data by clicking Submit base data, or Edit base data if you’ve already added information.",
+      "source_hash": "b3d832bcf154",
+      "target": "From here, you can submit your census data by clicking Submit base data, or Edit base data if you’ve already added information.",
+      "translated_from_hash": "b3d832bcf154",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "ℹ️ You won’t be able to see your platform data until you upload your census information.",
+      "source_hash": "b070599c4bf9",
+      "target": "ℹ️ You won’t be able to see your platform data until you upload your census information.",
+      "translated_from_hash": "b070599c4bf9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "2. Adding Your Census Data",
+      "source_hash": "16e5088bca85",
+      "target": "2. Adding Your Census Data",
+      "translated_from_hash": "16e5088bca85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Select the demographic questions you want to compare and input your census information. When you’re done, click <b>Save</b> and return to the dashboard, your data will now appear alongside the platform data.",
+      "source_hash": "fcbb2d2abdb8",
+      "target": "Select the demographic questions you want to compare and input your census information. When you’re done, click <b>Save</b> and return to the dashboard, your data will now appear alongside the platform data.",
+      "translated_from_hash": "fcbb2d2abdb8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "By default, the following registration questions can be used for comparison:",
+      "source_hash": "64473b6510f5",
+      "target": "By default, the following registration questions can be used for comparison:",
+      "translated_from_hash": "64473b6510f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Gender",
+      "source_hash": "a04630ef8bc3",
+      "target": "Gender",
+      "translated_from_hash": "a04630ef8bc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Age",
+      "source_hash": "39b7370f30a3",
+      "target": "Age",
+      "translated_from_hash": "39b7370f30a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Education",
+      "source_hash": "512ab3c6b986",
+      "target": "Education",
+      "translated_from_hash": "512ab3c6b986",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Place of residence",
+      "source_hash": "bf998d75122e",
+      "target": "Place of residence",
+      "translated_from_hash": "bf998d75122e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "You can also include any <b>multiple-choice (select one)</b> question from your registration form. To add a new question, go to <b>Settings → Registration</b> and create a new registration field.",
+      "source_hash": "f755dd506f18",
+      "target": "You can also include any <b>multiple-choice (select one)</b> question from your registration form. To add a new question, go to <b>Settings → Registration</b> and create a new registration field.",
+      "translated_from_hash": "f755dd506f18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "3. Updating or Removing Data",
+      "source_hash": "3e861c9692f1",
+      "target": "3. Updating or Removing Data",
+      "translated_from_hash": "3e861c9692f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "To update your census data, click <b>Edit base data</b>, make your changes, and save.",
+      "source_hash": "f4846cec21c5",
+      "target": "To update your census data, click <b>Edit base data</b>, make your changes, and save.",
+      "translated_from_hash": "f4846cec21c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "To <b>remove</b> a question from the dashboard, simply toggle all fields off.",
+      "source_hash": "c84db7819cd0",
+      "target": "To <b>remove</b> a question from the dashboard, simply toggle all fields off.",
+      "translated_from_hash": "c84db7819cd0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "4. Using Percentages as Base Numbers",
+      "source_hash": "d43c4faa979e",
+      "target": "4. Using Percentages as Base Numbers",
+      "translated_from_hash": "d43c4faa979e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "You can enter percentages instead of raw numbers. If your data includes decimals, just round to the nearest whole number, the dashboard will display them correctly.",
+      "source_hash": "30a9afce2112",
+      "target": "You can enter percentages instead of raw numbers. If your data includes decimals, just round to the nearest whole number, the dashboard will display them correctly.",
+      "translated_from_hash": "30a9afce2112",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "ℹ️ The reference data shown in the graph represents percentages, not absolute numbers.",
+      "source_hash": "05ba359a940a",
+      "target": "ℹ️ The reference data shown in the graph represents percentages, not absolute numbers.",
+      "translated_from_hash": "05ba359a940a",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

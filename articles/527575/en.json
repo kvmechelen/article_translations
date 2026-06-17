@@ -1,0 +1,258 @@
+{
+  "article_id": "527575",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<p class=\"no-margin\">@@body:0001@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_9c9e69d627\">@@body:0002@@</h1><p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\">@@body:0004@@</p><ol><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li></ol><p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_119589dee9\">@@body:0011@@</h1><div class=\"intercom-container\"><img height=\"587\" src=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/133237688/6956b53f1847e71a76621fca1f12/image.png?expires=1781805600&amp;signature=949e82a4ae0856d048ad25451a2a70ff870eed700ebef3836e214bc9184d79de&amp;req=0dZsx1v9qj8glxv2%2Btxgpsy9isoqOlnIoeHAfNta4w%2FhHyezNa8H6UumG6AU%0AjG7NnXGRW9KwOj9SRmXWHqY4XQ%3D%3D%0A\" style=\"height: auto;\" width=\"1251\"/></div><p class=\"no-margin\"></p>\n<ol><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0017@@</p></li></ol><h1 id=\"h_30749fe30d\">@@body:0018@@</h1><div class=\"intercom-h2b-video\"><iframe allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" mozallowfullscreen=\"\" src=\"https://www.loom.com/embed/c0c8bb1fd3324e498146554f97fc2348\" webkitallowfullscreen=\"\"></iframe></div><ol><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p><ol><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ol></li><li><p class=\"no-margin\">@@body:0024@@</p></li></ol><p class=\"no-margin\">@@body:0025@@</p><p class=\"no-margin\">@@body:0026@@</p><ul><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_d7511371e5\">@@body:0029@@</h1><ul><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li></ul><h1 id=\"h_79d2c2b37f\">@@body:0035@@</h1><h2 id=\"h_f0e6b161c1\">@@body:0036@@</h2><p class=\"no-margin\">@@body:0037@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0038@@</p><ul><li><p class=\"no-margin\">@@body:0039@@</p></li><li><p class=\"no-margin\">@@body:0040@@</p></li></ul><p class=\"no-margin\">@@body:0041@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_654f655f49\">@@body:0042@@</h2><p class=\"no-margin\">@@body:0043@@</p><ul><li><p class=\"no-margin\">@@body:0044@@</p></li><li><p class=\"no-margin\">@@body:0045@@</p></li><li><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p></li><li><p class=\"no-margin\">@@body:0048@@</p></li></ul><p class=\"no-margin\"></p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Bulk import ideas/surveys via FormSync",
+      "hash": "bdf7b11e4b85"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "<i>This article is machine translated from english</i>",
+      "hash": "71361155ecf7"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "What is FormSync OCR?",
+      "hash": "3666c6e4911b"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "FormSync bridges the gap between offline participation and your digital platform. Imagine running a workshop, handing out printed surveys, or collecting handwritten ideas at a community event. With FormSync, those paper responses don’t stay stuck on paper.",
+      "hash": "68e93b62980d"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Here’s how it works:",
+      "hash": "145c3c313511"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Generate a printable PDF version of your survey or ideation form",
+      "hash": "3c1b0a1a7581"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Distribute it offline: at meetings, events or door-to-door",
+      "hash": "286cdd08ab69"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Collect &amp; scan the completed forms",
+      "hash": "c982d830510f"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Import them back into your platform using OCR (optical character recognition) or via an Excel template",
+      "hash": "33860af19350"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "The system reads responses, matches them to the original form, and lets you review and approve them before they appear online. That way, insights from residents who prefer pen and paper are captured alongside digital contributions, ensuring no voice is left out.",
+      "hash": "5f4b289dc92d"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "ℹ️ Availability depends on your subscription plan.",
+      "hash": "ce25b283f264"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "How to create a downloadable PDF?",
+      "hash": "0b29fe633b47"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Create a Survey or Collect input and feedback phase",
+      "hash": "71a935590949"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Build the form in Edit survey or Edit input form",
+      "hash": "59079306679c"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "(Optional for survey) Enable <b>Collect demographic questions by adding a new page to the end of the survey</b> in <b>Phase → Phase access and user data → Demographic questions asked to users</b> to place registration questions on the last PDF page",
+      "hash": "140063fb7d84"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Click <b>Download as PDF</b> (see screenshot above)",
+      "hash": "563447569010"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "(Optional) Customize front and last page of the PDF template",
+      "hash": "0cb59d7269e2"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "⚠️ After downloading, do not change the online form or the PDF; they must remain identical for import.",
+      "hash": "79d99932628e"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "How to upload a PDF via FormSync?",
+      "hash": "df45b16a3fb2"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Go to <b>Project → Insights</b> <b>→ Import →</b> <b>Import</b> (top-right)",
+      "hash": "458e522594b8"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "In Input Importer, click <b>Import</b> → <b>Click to select a file</b>",
+      "hash": "469c270e16a1"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Choose <b>Paper forms OCR</b> (one language per upload) and select the correct language",
+      "hash": "a837b72e2f73"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Make sure to toggle <b>This file contains multiple scanned forms</b> if your PDF contains multiple surveys and add the number of pages per single input",
+      "hash": "4481a4ed60d9"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Make sure to toggle <b>The uploaded form was created with the \"Personal data\" section</b> if your survey contained demographic questions",
+      "hash": "19224d4adecd"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Wait for processing; items appear in the left panel.",
+      "hash": "7aa702591a34"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "ℹ️ <b>Best practices:</b>",
+      "hash": "74f6de10dc3f"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Use the <b>platform-generated PDF</b> template only.",
+      "hash": "0517ef2ff8eb"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Scan with a <b>scanner or scanning app</b> (not camera), same page size, ≤ <b>100 pages</b> per upload.",
+      "hash": "525a1e47f45a"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Exclude responses that <b>deviate from the question format</b> (e.g., handwritten notes next to MCQ).",
+      "hash": "de51ac630bf4"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "How to review and approve imports? (see video above)",
+      "hash": "da6df23f1ea5"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "In Input Importer, select a response (left).",
+      "hash": "e2414c261792"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Review parsed answers (middle) and the scanned PDF preview (right, for OCR uploads).",
+      "hash": "246151f5f185"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Adjust email and User consent if needed.",
+      "hash": "787c775bfc44"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Click <b>Approve</b> to finalize; proceed to the next item.",
+      "hash": "0b11a9462c64"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Approved ideas/inputs are created on the platform and tagged imported.",
+      "hash": "30adc760316f"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Limitations on FormSync",
+      "hash": "f4a1715cf50b"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Supported vs. Unsupported Question Types",
+      "hash": "0df360da8676"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "<b>Supported (PDF download):</b> All question types can be printed.",
+      "hash": "306a1f9f1d82"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>Supported (PDF upload/import):</b> Be aware that while all survey questions types can be downloaded as PDF not all survey question types can be imported back using our scanning technology. The following question types are not yet supported for import:",
+      "hash": "fc4b504dffa3"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Mapping questions (Drop Pin, Draw Route, Draw Area, ESRI file upload)",
+      "hash": "38acfc1ee8e5"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "File upload questions",
+      "hash": "426896360e79"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "If your PDF survey template includes these questions, when you upload the template back these question types will be uploaded back as \"no answer\"",
+      "hash": "f25874b0ef97"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "File &amp; Scan requirements",
+      "hash": "faf6839fee29"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "To avoid errors during upload, please ensure the following:",
+      "hash": "076c039d65ef"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Use the unaltered platform PDF template (no layout edits)",
+      "hash": "d8d9c18fe869"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "Keep online form unchanged after PDF generation",
+      "hash": "f3a0528748ab"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Scan pages with consistent size and adequate contrast",
+      "hash": "410437a734bb"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "Upload ≤ 100 pages per batch",
+      "hash": "61ace16652d5"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "Use one language per upload",
+      "hash": "9a3eed411361"
+    }
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "article_id": "527631",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Setting up SSO login options and user/identity verification methods",
+      "source_hash": "3c2c555aa5f8",
+      "target": "Setting up SSO login options and user/identity verification methods",
+      "translated_from_hash": "3c2c555aa5f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are SSO and verification methods?",
+      "source_hash": "000b8e53dc1c",
+      "target": "What are SSO and verification methods?",
+      "translated_from_hash": "000b8e53dc1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "By default, users must confirm their email via a code to create an account. This manual verification can be a barrier to participation. With SSO (Single Sign-On) options like Google, Facebook, or Microsoft Entra, users can register and log in with a single click, making the process faster and more user-friendly.",
+      "source_hash": "707f430c8a14",
+      "target": "By default, users must confirm their email via a code to create an account. This manual verification can be a barrier to participation. With SSO (Single Sign-On) options like Google, Facebook, or Microsoft Entra, users can register and log in with a single click, making the process faster and more user-friendly.",
+      "translated_from_hash": "707f430c8a14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "For projects that require stronger identity verification, you can add:",
+      "source_hash": "736acb5cd1ba",
+      "target": "For projects that require stronger identity verification, you can add:",
+      "translated_from_hash": "736acb5cd1ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Unique code verification for specific participants",
+      "source_hash": "938b70d2a2f2",
+      "target": "Unique code verification for specific participants",
+      "translated_from_hash": "938b70d2a2f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "National ID authentication systems (available in select countries)",
+      "source_hash": "dbf661c90cf9",
+      "target": "National ID authentication systems (available in select countries)",
+      "translated_from_hash": "dbf661c90cf9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Access to these features depends on your subscription plan.",
+      "source_hash": "3a95091685e3",
+      "target": "Access to these features depends on your subscription plan.",
+      "translated_from_hash": "3a95091685e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Different SSO and verification methods",
+      "source_hash": "1201ab3b01ee",
+      "target": "Different SSO and verification methods",
+      "translated_from_hash": "1201ab3b01ee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Google and Facebook login (free)",
+      "source_hash": "c72fb060d527",
+      "target": "Google and Facebook login (free)",
+      "translated_from_hash": "c72fb060d527",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "These options provide an easy, low-barrier login experience. When enabled:",
+      "source_hash": "0fdc4250fc12",
+      "target": "These options provide an easy, low-barrier login experience. When enabled:",
+      "translated_from_hash": "0fdc4250fc12",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Users can register or log in by clicking a single button.",
+      "source_hash": "4bb7201e2df0",
+      "target": "Users can register or log in by clicking a single button.",
+      "translated_from_hash": "4bb7201e2df0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Their email is automatically verified through the selected provider (Google or Facebook).",
+      "source_hash": "c3fc095ccbbb",
+      "target": "Their email is automatically verified through the selected provider (Google or Facebook).",
+      "translated_from_hash": "c3fc095ccbbb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "To enable these options, contact the Support team using the chat bubble in your platform.",
+      "source_hash": "80cb99ae18d5",
+      "target": "To enable these options, contact the Support team using the chat bubble in your platform.",
+      "translated_from_hash": "80cb99ae18d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Microsoft Entra login (with additional fees)",
+      "source_hash": "f4adf0531dfc",
+      "target": "Microsoft Entra login (with additional fees)",
+      "translated_from_hash": "f4adf0531dfc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "This is ideal if your organization already uses Microsoft accounts internally.",
+      "source_hash": "587378e2eac7",
+      "target": "This is ideal if your organization already uses Microsoft accounts internally.",
+      "translated_from_hash": "587378e2eac7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Options:",
+      "source_hash": "367431fd664b",
+      "target": "Options:",
+      "translated_from_hash": "367431fd664b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Add Microsoft Entra login to a public page for general use (as a log in option or through a link below the log in options as shown in the images below)",
+      "source_hash": "522f50128ae4",
+      "target": "Add Microsoft Entra login to a public page for general use (as a log in option or through a link below the log in options as shown in the images below)",
+      "translated_from_hash": "522f50128ae4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Restrict it to a private URL visible only to your staff",
+      "source_hash": "57bfb7f4c436",
+      "target": "Restrict it to a private URL visible only to your staff",
+      "translated_from_hash": "57bfb7f4c436",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "To set it up, send the following to Support:",
+      "source_hash": "bd4de1b29b3f",
+      "target": "To set it up, send the following to Support:",
+      "translated_from_hash": "bd4de1b29b3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Directory (tenant) ID",
+      "source_hash": "1dc4abe27594",
+      "target": "Directory (tenant) ID",
+      "translated_from_hash": "1dc4abe27594",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Application (client) ID",
+      "source_hash": "576111a7aee1",
+      "target": "Application (client) ID",
+      "translated_from_hash": "576111a7aee1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Login mechanism name (e.g., “Sign up with city account”)",
+      "source_hash": "21587bb63e12",
+      "target": "Login mechanism name (e.g., “Sign up with city account”)",
+      "translated_from_hash": "21587bb63e12",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "(Optional) Logo URL for the login button",
+      "source_hash": "c2cd92bd6c85",
+      "target": "(Optional) Logo URL for the login button",
+      "translated_from_hash": "c2cd92bd6c85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Support will activate the login option for you.",
+      "source_hash": "84748f678667",
+      "target": "Support will activate the login option for you.",
+      "translated_from_hash": "84748f678667",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "National identity authentication systems",
+      "source_hash": "8ac90433a8b1",
+      "target": "National identity authentication systems",
+      "translated_from_hash": "8ac90433a8b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "We support integration with several national systems for secure identity verification:",
+      "source_hash": "3a3703ccea2a",
+      "target": "We support integration with several national systems for secure identity verification:",
+      "translated_from_hash": "3a3703ccea2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Belgium:</b> CSAM (e-ID, itsme)",
+      "source_hash": "9900f1d451d5",
+      "target": "<b>Belgium:</b> CSAM (e-ID, itsme)",
+      "translated_from_hash": "9900f1d451d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>France:</b> FranceConnect",
+      "source_hash": "787e98eb1382",
+      "target": "<b>France:</b> FranceConnect",
+      "translated_from_hash": "787e98eb1382",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Chile:</b> COW",
+      "source_hash": "7dd7ce6c3ee3",
+      "target": "<b>Chile:</b> COW",
+      "translated_from_hash": "7dd7ce6c3ee3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Denmark:</b> NemID",
+      "source_hash": "69aa499b9232",
+      "target": "<b>Denmark:</b> NemID",
+      "translated_from_hash": "69aa499b9232",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Austria</b>: ID-Austria",
+      "source_hash": "b0fd4253eb76",
+      "target": "<b>Austria</b>: ID-Austria",
+      "translated_from_hash": "b0fd4253eb76",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Common use cases:",
+      "source_hash": "abbf5c9a65df",
+      "target": "Common use cases:",
+      "translated_from_hash": "abbf5c9a65df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Limit participation to citizens of a specific country",
+      "source_hash": "20235c396809",
+      "target": "Limit participation to citizens of a specific country",
+      "translated_from_hash": "20235c396809",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Prevent users from creating multiple accounts",
+      "source_hash": "7d692e06e35a",
+      "target": "Prevent users from creating multiple accounts",
+      "translated_from_hash": "7d692e06e35a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Ensure participants register using their real identity",
+      "source_hash": "9981beb586a6",
+      "target": "Ensure participants register using their real identity",
+      "translated_from_hash": "9981beb586a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Setup process:",
+      "source_hash": "6761e8bcd447",
+      "target": "Setup process:",
+      "translated_from_hash": "6761e8bcd447",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Contact Support at least 2–3 months in advance to plan the integration.",
+      "source_hash": "d5b847219183",
+      "target": "Contact Support at least 2–3 months in advance to plan the integration.",
+      "translated_from_hash": "d5b847219183",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Our team will work with you and national authorities to get the necessary permissions.",
+      "source_hash": "5c66bedefa99",
+      "target": "Our team will work with you and national authorities to get the necessary permissions.",
+      "translated_from_hash": "5c66bedefa99",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Once configured, users will verify themselves via the national system when registering or attempting to interact with a restricted project.",
+      "source_hash": "10ff20e44e40",
+      "target": "Once configured, users will verify themselves via the national system when registering or attempting to interact with a restricted project.",
+      "translated_from_hash": "10ff20e44e40",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "⚠️ We do not store or access national ID numbers. The national system handles all authentication.",
+      "source_hash": "bf8fec9a5175",
+      "target": "⚠️ We do not store or access national ID numbers. The national system handles all authentication.",
+      "translated_from_hash": "bf8fec9a5175",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "⚠️ We may receive basic information (like first name, last name, email) to populate the user’s profile, additional data like age or residence is not transferred.",
+      "source_hash": "63ac431ff44b",
+      "target": "⚠️ We may receive basic information (like first name, last name, email) to populate the user’s profile, additional data like age or residence is not transferred.",
+      "translated_from_hash": "63ac431ff44b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "After setup:",
+      "source_hash": "9c4fb945ff78",
+      "target": "After setup:",
+      "translated_from_hash": "9c4fb945ff78",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Create a <b>smart group</b> for verified users via national authentication.",
+      "source_hash": "3ce6cad7e0d1",
+      "target": "Create a <b>smart group</b> for verified users via national authentication.",
+      "translated_from_hash": "3ce6cad7e0d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Limit project visibility or participation based on this group.",
+      "source_hash": "7ac79d1363f8",
+      "target": "Limit project visibility or participation based on this group.",
+      "translated_from_hash": "7ac79d1363f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "In France, <b>FranceConnect</b> can also be used as an SSO method, users don’t need to create a new account on your platform.",
+      "source_hash": "f89a08370826",
+      "target": "In France, <b>FranceConnect</b> can also be used as an SSO method, users don’t need to create a new account on your platform.",
+      "translated_from_hash": "f89a08370826",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "When to use which method?",
+      "source_hash": "0ad95042b727",
+      "target": "When to use which method?",
+      "translated_from_hash": "0ad95042b727",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Method",
+      "source_hash": "52a0f9b65b27",
+      "target": "Method",
+      "translated_from_hash": "52a0f9b65b27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Ideal for",
+      "source_hash": "f7cb5647f0c5",
+      "target": "Ideal for",
+      "translated_from_hash": "f7cb5647f0c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Requirements",
+      "source_hash": "e0cdd07f6a27",
+      "target": "Requirements",
+      "translated_from_hash": "e0cdd07f6a27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Google/Facebook SSO",
+      "source_hash": "c38501810eb9",
+      "target": "Google/Facebook SSO",
+      "translated_from_hash": "c38501810eb9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Fast and simple sign-up",
+      "source_hash": "621b1715ee4b",
+      "target": "Fast and simple sign-up",
+      "translated_from_hash": "621b1715ee4b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "No setup required beyond Support request",
+      "source_hash": "839f04bff079",
+      "target": "No setup required beyond Support request",
+      "translated_from_hash": "839f04bff079",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Microsoft Entra SSO",
+      "source_hash": "acd5d48e7340",
+      "target": "Microsoft Entra SSO",
+      "translated_from_hash": "acd5d48e7340",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Staff or internal login",
+      "source_hash": "015d2478b14b",
+      "target": "Staff or internal login",
+      "translated_from_hash": "015d2478b14b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Microsoft Tenant + App ID + Setup",
+      "source_hash": "d6ff959d0610",
+      "target": "Microsoft Tenant + App ID + Setup",
+      "translated_from_hash": "d6ff959d0610",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "National Authentication",
+      "source_hash": "1c78e4653aa0",
+      "target": "National Authentication",
+      "translated_from_hash": "1c78e4653aa0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Secure ID verification for citizens",
+      "source_hash": "2bc3fbc078ea",
+      "target": "Secure ID verification for citizens",
+      "translated_from_hash": "2bc3fbc078ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Country-specific setup + early planning",
+      "source_hash": "f87811513cd1",
+      "target": "Country-specific setup + early planning",
+      "translated_from_hash": "f87811513cd1",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

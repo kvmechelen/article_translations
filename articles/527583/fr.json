@@ -1,0 +1,502 @@
+{
+  "article_id": "527583",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Enabling anonymous participation",
+      "source_hash": "37f3d5d53dba",
+      "target": "Enabling anonymous participation",
+      "translated_from_hash": "37f3d5d53dba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Configure the level of anonymity and provide residents with the option to conceal their identities.",
+      "source_hash": "2632f86a61ec",
+      "target": "Configure the level of anonymity and provide residents with the option to conceal their identities.",
+      "translated_from_hash": "2632f86a61ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is anonymous participation?",
+      "source_hash": "f752ec4d3d58",
+      "target": "What is anonymous participation?",
+      "translated_from_hash": "f752ec4d3d58",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Anonymous participation allows residents to <b>hide their identity</b> when contributing to your platform. It's designed to:",
+      "source_hash": "ac6357de7727",
+      "target": "Anonymous participation allows residents to <b>hide their identity</b> when contributing to your platform. It's designed to:",
+      "translated_from_hash": "ac6357de7727",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "<b>Promote inclusivity</b> for residents who may feel hesitant sharing under their real name.",
+      "source_hash": "cbc95244badc",
+      "target": "<b>Promote inclusivity</b> for residents who may feel hesitant sharing under their real name.",
+      "translated_from_hash": "cbc95244badc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Encourage open dialogue</b> and more honest input.",
+      "source_hash": "8dbe75a4bb0b",
+      "target": "<b>Encourage open dialogue</b> and more honest input.",
+      "translated_from_hash": "8dbe75a4bb0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "There are <b>two types of anonymity</b>:",
+      "source_hash": "a031fe9b0240",
+      "target": "There are <b>two types of anonymity</b>:",
+      "translated_from_hash": "a031fe9b0240",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Voluntary anonymity:</b> available for ideation, proposals, and commenting; users can <i>choose</i> to post anonymously.",
+      "source_hash": "f69933da95a8",
+      "target": "<b>Voluntary anonymity:</b> available for ideation, proposals, and commenting; users can <i>choose</i> to post anonymously.",
+      "translated_from_hash": "f69933da95a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Mandated anonymity:</b> applies to surveys; all survey data is anonymized by default.",
+      "source_hash": "592684c3960f",
+      "target": "<b>Mandated anonymity:</b> applies to surveys; all survey data is anonymized by default.",
+      "translated_from_hash": "592684c3960f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How to enable anonymous participation for ideation, proposals, and commenting?",
+      "source_hash": "2aec05ed27d7",
+      "target": "How to enable anonymous participation for ideation, proposals, and commenting?",
+      "translated_from_hash": "2aec05ed27d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "By default, all phases are non‑anonymous until you enable it. Admins/project managers can decide per phase whether anonymity is allowed.",
+      "source_hash": "56773a6d4ef9",
+      "target": "By default, all phases are non‑anonymous until you enable it. Admins/project managers can decide per phase whether anonymity is allowed.",
+      "translated_from_hash": "56773a6d4ef9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Go to project phase settings on the <b>Set Up</b> tab",
+      "source_hash": "0dd61f1e2523",
+      "target": "Go to project phase settings on the <b>Set Up</b> tab",
+      "translated_from_hash": "0dd61f1e2523",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Find the toggle <b>\"Allow users to participate anonymously.\"</b>",
+      "source_hash": "58ef7bf1dda8",
+      "target": "Find the toggle <b>\"Allow users to participate anonymously.\"</b>",
+      "translated_from_hash": "58ef7bf1dda8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Turn it ON for the phase or module where you want to allow anonymity.",
+      "source_hash": "befae9086e0a",
+      "target": "Turn it ON for the phase or module where you want to allow anonymity.",
+      "translated_from_hash": "befae9086e0a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Users can now <b>choose</b> to hide their identity for that project phase.",
+      "source_hash": "7067c2898f27",
+      "target": "Users can now <b>choose</b> to hide their identity for that project phase.",
+      "translated_from_hash": "7067c2898f27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How does anonymity work for ideation, proposals, and commenting?",
+      "source_hash": "fb79ac4ea425",
+      "target": "How does anonymity work for ideation, proposals, and commenting?",
+      "translated_from_hash": "fb79ac4ea425",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "What happens when anonymity is enabled?",
+      "source_hash": "ddcc6c5c8b51",
+      "target": "What happens when anonymity is enabled?",
+      "translated_from_hash": "ddcc6c5c8b51",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Residents can <b>choose</b> to submit ideas, proposals, or comments anonymously.",
+      "source_hash": "1612159bc85c",
+      "target": "Residents can <b>choose</b> to submit ideas, proposals, or comments anonymously.",
+      "translated_from_hash": "1612159bc85c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "The contribution will <b>not be linked</b> to the user's profile (even admins cannot see who posted it).",
+      "source_hash": "ccff39933bc6",
+      "target": "The contribution will <b>not be linked</b> to the user's profile (even admins cannot see who posted it).",
+      "translated_from_hash": "ccff39933bc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Users see a <b>message prompt</b> reminding them they are posting anonymously.",
+      "source_hash": "4f2eeac5bad6",
+      "target": "Users see a <b>message prompt</b> reminding them they are posting anonymously.",
+      "translated_from_hash": "4f2eeac5bad6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Anonymous user data",
+      "source_hash": "9f3a6c5bc474",
+      "target": "Anonymous user data",
+      "translated_from_hash": "9f3a6c5bc474",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Anonymous posts <b>cannot be tied to demographic data</b>, making reporting less detailed.",
+      "source_hash": "297c0eac6661",
+      "target": "Anonymous posts <b>cannot be tied to demographic data</b>, making reporting less detailed.",
+      "translated_from_hash": "297c0eac6661",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Each anonymous submission receives a <b>unique ID</b>, shared on the confirmation page and email, so users can reference their submission if needed.",
+      "source_hash": "54078d47aad7",
+      "target": "Each anonymous submission receives a <b>unique ID</b>, shared on the confirmation page and email, so users can reference their submission if needed.",
+      "translated_from_hash": "54078d47aad7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Content moderation",
+      "source_hash": "0d239d37a0dd",
+      "target": "Content moderation",
+      "translated_from_hash": "0d239d37a0dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Profanity filters, spam detection, and inappropriate content detectors <b>still work</b> on anonymous posts.",
+      "source_hash": "8122ee62b6e0",
+      "target": "Profanity filters, spam detection, and inappropriate content detectors <b>still work</b> on anonymous posts.",
+      "translated_from_hash": "8122ee62b6e0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Admins and moderators can <b>moderate content</b> (delete, edit, flag) exactly as they do with named contributions.",
+      "source_hash": "17e789b979e2",
+      "target": "Admins and moderators can <b>moderate content</b> (delete, edit, flag) exactly as they do with named contributions.",
+      "translated_from_hash": "17e789b979e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Participating without a username",
+      "source_hash": "0c65daaa1a0b",
+      "target": "Participating without a username",
+      "translated_from_hash": "0c65daaa1a0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Some interactions (e.g., commenting) require a username.",
+      "source_hash": "4e4837073409",
+      "target": "Some interactions (e.g., commenting) require a username.",
+      "translated_from_hash": "4e4837073409",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Users can <b>delete their first and last name</b> in their profile → they will appear as either:",
+      "source_hash": "c9feec643a28",
+      "target": "Users can <b>delete their first and last name</b> in their profile → they will appear as either:",
+      "translated_from_hash": "c9feec643a28",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>User1234</b> (random number) OR",
+      "source_hash": "6bfb8c0da9f9",
+      "target": "<b>User1234</b> (random number) OR",
+      "translated_from_hash": "6bfb8c0da9f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Elephant Cat</b> (random animal name).",
+      "source_hash": "3c2a312d0f5b",
+      "target": "<b>Elephant Cat</b> (random animal name).",
+      "translated_from_hash": "3c2a312d0f5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "you can decide on the options above in the general <b>Settings</b> tab of the platform &gt; <b>General </b>tab &gt; <b>User name display (for users with email confirmed only)</b>",
+      "source_hash": "1e0b31c8d979",
+      "target": "you can decide on the options above in the general <b>Settings</b> tab of the platform &gt; <b>General </b>tab &gt; <b>User name display (for users with email confirmed only)</b>",
+      "translated_from_hash": "1e0b31c8d979",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "This username behavior also applies to residents using the <b>Email confirmation</b> access right.",
+      "source_hash": "0b5b97b3297d",
+      "target": "This username behavior also applies to residents using the <b>Email confirmation</b> access right.",
+      "translated_from_hash": "0b5b97b3297d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "How to enable anonymous participation for surveys?",
+      "source_hash": "1693221354c6",
+      "target": "How to enable anonymous participation for surveys?",
+      "translated_from_hash": "1693221354c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "1. Go to project phase tab <b>Phase access and user data</b>",
+      "source_hash": "577120f0ef50",
+      "target": "1. Go to project phase tab <b>Phase access and user data</b>",
+      "translated_from_hash": "577120f0ef50",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "2. in the <b>User data collection </b>section you can then enable full anonymity or partial anonymity",
+      "source_hash": "901ecad0744f",
+      "target": "2. in the <b>User data collection </b>section you can then enable full anonymity or partial anonymity",
+      "translated_from_hash": "901ecad0744f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "full anonymity is possible by selecting the option <b>Exclude both personally identifiable data and demographics from the results (full anonymity)</b>",
+      "source_hash": "22c75d5f207b",
+      "target": "full anonymity is possible by selecting the option <b>Exclude both personally identifiable data and demographics from the results (full anonymity)</b>",
+      "translated_from_hash": "22c75d5f207b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "partial anonymity is possible by selection the option <b>Exclude personally identifiable data but include demographic data in the results</b>",
+      "source_hash": "1beb660819f7",
+      "target": "partial anonymity is possible by selection the option <b>Exclude personally identifiable data but include demographic data in the results</b>",
+      "translated_from_hash": "1beb660819f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "How does anonymity work for surveys?",
+      "source_hash": "7b83318db9dd",
+      "target": "How does anonymity work for surveys?",
+      "translated_from_hash": "7b83318db9dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Exclude both personally identifiable data and demographics from the results (full anonymity)",
+      "source_hash": "9d5165285333",
+      "target": "Exclude both personally identifiable data and demographics from the results (full anonymity)",
+      "translated_from_hash": "9d5165285333",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "When you select this option no demographic data is recorded and stored. On the survey's confirmation (end) page, participants may still see an optional prompt to create an account or stay anonymous, together with a unique submission code. This prompt is part of the standard end-of-survey flow (optional registration) and is independent of the survey's anonymity setting: with full anonymity enabled, every response stays anonymous whether or not the participant creates an account. The code simply lets a participant reference their own submission later if needed.",
+      "source_hash": "3322bec3963e",
+      "target": "When you select this option no demographic data is recorded and stored. On the survey's confirmation (end) page, participants may still see an optional prompt to create an account or stay anonymous, together with a unique submission code. This prompt is part of the standard end-of-survey flow (optional registration) and is independent of the survey's anonymity setting: with full anonymity enabled, every response stays anonymous whether or not the participant creates an account. The code simply lets a participant reference their own submission later if needed.",
+      "translated_from_hash": "3322bec3963e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Exclude personally identifiable data but include demographic data in the results",
+      "source_hash": "0ad26ddf0ff7",
+      "target": "Exclude personally identifiable data but include demographic data in the results",
+      "translated_from_hash": "0ad26ddf0ff7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "When you select this option name/email data is not recorded by demographic data such as gender/age/... is collected and stored and can be used for analysis of the data. You will find this data in the <b>Audience</b> tab &gt; <b>Demographics</b>",
+      "source_hash": "513b0c528280",
+      "target": "When you select this option name/email data is not recorded by demographic data such as gender/age/... is collected and stored and can be used for analysis of the data. You will find this data in the <b>Audience</b> tab &gt; <b>Demographics</b>",
+      "translated_from_hash": "513b0c528280",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "These demographic questions can be asked before participation OR in the last page of the survey. You can select which option in the section below",
+      "source_hash": "fda4b5acad3e",
+      "target": "These demographic questions can be asked before participation OR in the last page of the survey. You can select which option in the section below",
+      "translated_from_hash": "fda4b5acad3e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "How anonymity interacts with access rights",
+      "source_hash": "8d7c949b98d0",
+      "target": "How anonymity interacts with access rights",
+      "translated_from_hash": "8d7c949b98d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Anonymous participation is a <b>privacy layer</b> on top of access rights, not a replacement.",
+      "source_hash": "4a350d4b0558",
+      "target": "Anonymous participation is a <b>privacy layer</b> on top of access rights, not a replacement.",
+      "translated_from_hash": "4a350d4b0558",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "If a phase uses <b>Email confirmation</b>, users already appear without a first/last name, anonymity reinforces that.",
+      "source_hash": "5d9ba251c692",
+      "target": "If a phase uses <b>Email confirmation</b>, users already appear without a first/last name, anonymity reinforces that.",
+      "translated_from_hash": "5d9ba251c692",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "If a phase requires <b>Account creation</b>, users can still post anonymously, but their profile won't be visible on their contributions.",
+      "source_hash": "dd5d079ecafd",
+      "target": "If a phase requires <b>Account creation</b>, users can still post anonymously, but their profile won't be visible on their contributions.",
+      "translated_from_hash": "dd5d079ecafd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "This clarifies the relationship for admins so they understand <b>anonymity doesn't override who can access or participate</b>, it just hides the contributor's identity.",
+      "source_hash": "296c247a4af8",
+      "target": "This clarifies the relationship for admins so they understand <b>anonymity doesn't override who can access or participate</b>, it just hides the contributor's identity.",
+      "translated_from_hash": "296c247a4af8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "How to manage anonymous participation?",
+      "source_hash": "a24763f6070b",
+      "target": "How to manage anonymous participation?",
+      "translated_from_hash": "a24763f6070b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<b>Moderate as usual:</b> all moderation tools remain functional.",
+      "source_hash": "3dfe354e1ddb",
+      "target": "<b>Moderate as usual:</b> all moderation tools remain functional.",
+      "translated_from_hash": "3dfe354e1ddb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Remind users</b> what anonymity means:",
+      "source_hash": "6ba22ff63c9e",
+      "target": "<b>Remind users</b> what anonymity means:",
+      "translated_from_hash": "6ba22ff63c9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Their <b>demographics won't be tracked</b>.",
+      "source_hash": "eaa982b66b9d",
+      "target": "Their <b>demographics won't be tracked</b>.",
+      "translated_from_hash": "eaa982b66b9d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Their post is tied only to a <b>unique ID</b>, not their account.",
+      "source_hash": "8a8dd9f7af86",
+      "target": "Their post is tied only to a <b>unique ID</b>, not their account.",
+      "translated_from_hash": "8a8dd9f7af86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<i>Need more help or support? Contact our Support Team via the <a class=\"intercom-content-link\" href=\"https://support.citizenlab.co/en/articles/6348810-how-the-citizenlab-support-team-can-help-you\" target=\"_blank\">chat bubble</a>.</i>",
+      "source_hash": "e55b3b09e65b",
+      "target": "<i>Need more help or support? Contact our Support Team via the <a class=\"intercom-content-link\" href=\"https://support.citizenlab.co/en/articles/6348810-how-the-citizenlab-support-team-can-help-you\" target=\"_blank\">chat bubble</a>.</i>",
+      "translated_from_hash": "e55b3b09e65b",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "article_id": "527588",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_35e2ef41e2\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_4ed13f3ea9\">@@body:0008@@</h1><p class=\"no-margin\">@@body:0009@@</p><ul><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372688/7af287582b02d3e3de5a06a95fbe/upload_4315771634324592567.png?expires=1781805600&amp;signature=84d629d303591ba4842c3a1e5daa283a7994fcdce4f41329f134a72c9e4e87ee&amp;req=2dVswlr8pD9k2hj99dpg6kxIhh2LUnnY6%2BQ4n6%2FGoz8Gg8ZqWzyvdR2ChEbl%0AmSLZ0zyehEpbQh3qNxamyfKo%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li></ul><p class=\"no-margin\">@@body:0016@@</p><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><h1 id=\"h_cc4d4a4ec6\">@@body:0019@@</h1><p class=\"no-margin\">@@body:0020@@</p><ol><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li></ol><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372695/06c2512a8b7cc93d4b7ad07d40e1/upload_1167992956737142159.png?expires=1781805600&amp;signature=179b2e66de9bdc43a89412c813c34d9973936711bd44f7f379c93624336a8809&amp;req=2dVswlr8pTJk2hj99dpg6nXbyT3QYlLlO4RHmWR2XLtPf8Cj0TXH9scHJXZh%0A6ctnRXeAu3Lg33QO7G2IN0tT%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0025@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0026@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0027@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0028@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_6c09567f37\">@@body:0029@@</h1><p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\">@@body:0031@@</p><p class=\"no-margin\">@@body:0032@@</p><p class=\"no-margin\">@@body:0033@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372696/a66cf3e39224161401bb7fb22641/upload_17424796329537268464.png?expires=1781805600&amp;signature=639e1998803b694555671bc184a1e84b4ba0bfac20a69d1b97bf1055f0e1e94f&amp;req=2dVswlr8pTFk2hj99dpg6vBCJIOfunIMRgrjLS%2BlkgZIhs8IPnOVQmgNsxC4%0Az6mghCB2iyfC9twnRj4j33P6%0A\"/></div><p class=\"no-margin\"></p>\n<h1 id=\"h_10469db96e\">@@body:0034@@</h1><p class=\"no-margin\">@@body:0035@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0036@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0037@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0038@@</p><ul><li><p class=\"no-margin\">@@body:0039@@</p></li><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li></ul><p class=\"no-margin\">@@body:0042@@</p><ul><li><p class=\"no-margin\">@@body:0043@@</p></li><li><p class=\"no-margin\">@@body:0044@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Tag, copy and move ideas and posts",
+      "hash": "ad97476a5909"
+    },
+    "description": {
+      "field": "description",
+      "text": "Moving input between phases and projects.",
+      "hash": "046fb8519c1b"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Why moving and copying inputs?",
+      "hash": "f41e2c3758cd"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "There are many reasons why you might want to reuse or highlight contributions, some examples are:",
+      "hash": "2fc47b68f971"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Present winners in a new phase after jury evaluation",
+      "hash": "a912e2a0f932"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Prepare a pre-selection for citizens to vote on",
+      "hash": "1ea60b05f0ef"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Showcase high-quality ideas in later stages",
+      "hash": "a76f0df49675"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Copying and moving input helps carry ideas forward in the project timeline or into other projects.",
+      "hash": "562fcc8058f1"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "⚠️ : Moving input doesn’t create a new idea, the same input simply appears in multiple phases. If you edit it later, the change applies everywhere it appears. This also means that if you move an input to another project it doesn't live in both projects, it only lives in the one it was moved to.",
+      "hash": "5df44ec5b109"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Input manager overview",
+      "hash": "993421adaf3d"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "The Input Manager exists at two levels:",
+      "hash": "93eb6f0cd197"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Platform-level:</b> Backoffice → Input Manager",
+      "hash": "e813ed339944"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Project-level:</b> Ideation, proposals, or voting phase → Input Manager",
+      "hash": "c809b6aa1f89"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Functionality:</b>",
+      "hash": "422cbd404f35"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Default view is <i>Timeline</i>, showing which phase inputs belong to",
+      "hash": "bb655f6a24a8"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Numbers below contributions indicate assigned phases",
+      "hash": "27dfae80db00"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Drag-and-drop bulk actions let you assign up to 10 inputs at once",
+      "hash": "da1609888b23"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Limitations:</b>",
+      "hash": "af1b0e97da34"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Proposal submissions do not appear in the platform-level Input Manager",
+      "hash": "9b3eba64bcd3"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Proposals can only be managed through the project-level Input Manager",
+      "hash": "5d88fd6192ba"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "How to move or copy inputs between phases?",
+      "hash": "4f8c2e72e8c3"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Inputs can be moved between ideation phases (phases using the <i>Collect input and feedback</i> or <i>Proposals, petitions or initiatives</i> method, or voting phases ( phases using the <i>Conduct a voting or prioritization exercise </i>method).",
+      "hash": "101592a69d0c"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Ensure your targeted phases are using the <i>Collect input and feedback</i> or <i>Proposals, petitions or initiatives</i> OR <i>Conduct a voting or prioritization exercise </i>methods.",
+      "hash": "b67e755c658c"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "In the Admin panel, open the project and select the phase where the current inputs is in",
+      "hash": "29d85cc6688c"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Click <b>Input Manager </b>tab.",
+      "hash": "b6233e798e32"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "In the <i>Timeline</i> view, select the input you want to copy or move.",
+      "hash": "4d451b6bd506"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>To copy</b>: keep the input in multiple phases by selecting multiple blue number bubbles below the input, which corresponds to the phases you want the input in",
+      "hash": "3be055ae9dec"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "<b>To move</b>: remove it from the original phase and add it to another by de-selecting the current blue number bubble and select the correct blue number bubble below the input, which corresponds to the phases you want the input in.",
+      "hash": "1410f841f7d1"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "<b>To unassign input and remove it from all phases</b>: deselect all blue number bubble below the input. The input moves to the <i>All Phases</i> tab until reassigned.",
+      "hash": "fcd3fe34a57d"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<b>To bulk move up to 10 inputs</b>: select them and click and drag to the desired phase listed on the left.",
+      "hash": "36efedda6128"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "How to add tags to inputs?",
+      "hash": "89a1534b4f4e"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "<b>Step 1</b>: go to the <b>Input Manager</b> of the phase where you want to add tags to your inputs",
+      "hash": "ba994c1e6d9b"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>Step 2</b>: go to the <b>Tags</b> section of the Input Manager",
+      "hash": "346fbaf0ad67"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "<b>Step 3</b>: select the inputs that you want to assign a tag to by clicking the square box",
+      "hash": "f6053cbefe97"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "<b>Step 4</b>: drag-and-drop any of the selected inputs to a tag and all the selected inputs will be assigned this tag",
+      "hash": "56aa4ffec3b0"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "How to move input between projects?",
+      "hash": "886fa6561036"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "<b>Step 1</b>: Go to the <b>platform‑level Input Manager</b>.",
+      "hash": "868b7c96dde5"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>Step 2</b>: Drag and drop the input onto the <b>destination project</b>.",
+      "hash": "6a15d88e38bd"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "ℹ️ : Drag‑and‑drop only works this way: inputs → projects (not projects → inputs).",
+      "hash": "cf812057bf5d"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>Step 3</b>: Manually assign the input to the right <b>phase</b> in the new project:",
+      "hash": "f35df2a60cbe"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Go to the new project via the <b>Projects</b> tab.",
+      "hash": "4eccff2af4b2"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Click the correct <b>phase number</b> under the input to place it.",
+      "hash": "7daf3e99175b"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "If you don’t assign a phase, it defaults to <b>All Phases</b> and won’t show up in any phase view.",
+      "hash": "579b7e15a75b"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "ℹ️ Notes:",
+      "hash": "be4d2018a68d"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "The URL of the contribution doesn’t change when it moves between projects.",
+      "hash": "c9dba9184b4e"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Inputs from proposals can not be moved to ideation projects and vice versa.",
+      "hash": "4c7327d17a56"
+    }
+  }
+}

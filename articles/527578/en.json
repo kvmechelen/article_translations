@@ -1,0 +1,203 @@
+{
+  "article_id": "527578",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_009b3e4cc6\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_debbd1dfa0\">@@body:0007@@</h1><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372450/cebe3300ca49c86185321508fe61/image.png-expires%3D1768395600-req%3DdSgmEs18lYNbXfMW1HO4zVVJVRRIOlSoyjZNMMg9eMBwwYNaHl8ZH3mce8db-0AwPoA-0A-signature%3Dfabec7ad02113549be537880f12da464fa0198d0f81cb9bdff05ad817336ed26?expires=1781805600&amp;signature=1ac97f1b5051345c89c41c04035458e8712ae1bc50a8bef0b500e23fb43b98ce&amp;req=2dVswlr%2BqTdk2hj99dpg6r6PEKZmc6HUHkRk1Mzv7LJlNmb0lSkRVl5oabRL%0A5aNT6X5zP1h4tUFTeMJQNfOC%0A\"/></div><ol><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p><ul><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul></li></ol><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_21cdd9a2af\">@@body:0013@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372459/344ad014398da83a0eb0d0100071/upload_10953855800712356690.png?expires=1781805600&amp;signature=97f5d20acef0cb9c8242243a8b351f813773ad87ef116ada157d4c9309e70506&amp;req=2dVswlr%2BqT5k2hj99dpg6kiHlRbubIjca%2BbHGUIvO844iXFElDWgfiJUHSLT%0ARTHzBwhyStIJATSlI6OSzapH%0A\"/></div><ol><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li></ol><p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_0545074bc7\">@@body:0018@@</h1><ol><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p><ul><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ol><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_bf20dc0417\">@@body:0025@@</h1><ol><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\">@@body:0030@@</p></li></ol><p class=\"no-margin\">@@body:0031@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_99a7606ff7\">@@body:0032@@</h1><p class=\"no-margin\">@@body:0033@@</p><ul><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li><li><p class=\"no-margin\">@@body:0036@@</p></li></ul><p class=\"no-margin\">@@body:0037@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Use GoVocal Data in PowerBI",
+      "hash": "a966ba2ec51c"
+    },
+    "description": {
+      "field": "description",
+      "text": "How to use the PowerBI templates to access GoVocal Data in your PowerBI Workspace",
+      "hash": "8ac0770dbd67"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What are PowerBI templates?",
+      "hash": "c58271fd27b2"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The GoVocal Power BI templates help you visualize engagement data in your own Power BI environment via API integration.",
+      "hash": "6d89add6e3ff"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "There are two available templates:",
+      "hash": "85622cd32a07"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Report template (.pbit): Creates a prebuilt Power BI report using your platform data",
+      "hash": "941e21c33f8e"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Dataflow template (.json): Sets up a Power BI dataflow to retrieve and transform platform data",
+      "hash": "9fc0dd8369be"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<b>ℹ️ </b>Access to this feature depends on your plan and is only available to Premium customers.",
+      "hash": "f7fd0b7edc62"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "How to download PowerBI templates?",
+      "hash": "50408b494f27"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Go to the Tools page in the back office",
+      "hash": "fb21e992c213"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Click <b>Download templates</b> to access:",
+      "hash": "a4cceec1ffc6"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<code>.pbit</code> report template",
+      "hash": "acabc7ffa946"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<code>.json</code> dataflow template",
+      "hash": "7370f9b487e8"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Each template is preconfigured to connect with the GoVocal API once credentials are added.",
+      "hash": "7cd932156ca8"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "How to use the report template? (.pbit)",
+      "hash": "d86394ae8e3c"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Open the <code>.pbit</code> file in Power BI Desktop",
+      "hash": "4160e528b3ed"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "When prompted, enter your API client ID and secret (learn how to create API credentials below)",
+      "hash": "6e0cc65dfba6"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "The data model and default dashboards will load automatically",
+      "hash": "8f96cd3edb53"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "You can customize the report further by editing visuals and queries in Power BI.",
+      "hash": "d7206d67aeb1"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "How to use the dataflow template? (.json)",
+      "hash": "c37db12f1b8e"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Open the <code>.json</code> file in a text editor",
+      "hash": "4f00f630e962"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Replace:",
+      "hash": "447541c54764"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<code>##CLIENT_ID##</code> → your API client ID",
+      "hash": "21924c276845"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<code>##CLIENT_SECRET##</code> → your API client secret",
+      "hash": "782ef2676184"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Upload the updated file to Power BI to set up the dataflow",
+      "hash": "e967a82f382c"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "This setup allows for recurring refreshes and centralized data modeling in Power BI service.",
+      "hash": "93aa06e72749"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "How to create API credentials?",
+      "hash": "1720dff969f2"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Go to the Tools page in the back office",
+      "hash": "fb21e992c213"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Click <b>Manage API Keys</b>",
+      "hash": "eb98b796dbad"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Click <b>Create new token</b>",
+      "hash": "33a3552784f4"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Copy the ID and Secret",
+      "hash": "54c1c9c71900"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "⚠️ The secret is only shown once, so store it securely",
+      "hash": "3d93efa7c4c5"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "You will use this client ID and secret in both the <code>.pbit</code> and <code>.json</code> templates.",
+      "hash": "2bdb1d5001bd"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "API limitation and documentation",
+      "hash": "4096ba95fee9"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "The public API is read-only, meaning you can only fetch (not modify) data.",
+      "hash": "bd459bf8aa9f"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Suitable for dashboards, analysis, and reporting",
+      "hash": "cd8c79a34ae0"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Not intended for write/delete operations",
+      "hash": "cabdec4426d3"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Full API documentation is available in the back office under <b>Tools &gt; API Documentation</b>",
+      "hash": "f50fd0acdedf"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Need support? Reach out to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "hash": "aed87c22e274"
+    }
+  }
+}

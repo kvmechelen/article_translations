@@ -1,0 +1,198 @@
+{
+  "article_id": "527643",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_63c9cafd4a\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><p class=\"no-margin\">@@body:0007@@</p><ul><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul><h1 id=\"h_d91e1d45c4\">@@body:0012@@</h1><ol><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li></ol><p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_9c421896a2\">@@body:0018@@</h1><ul><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul><h1 id=\"h_7ecb193d8e\">@@body:0022@@</h1><ol><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90374138/557343b7a02e2fac8f47665a0966/setup-FB-pixel.jpg-expires%3D1768395600-req%3DdSgkHs12mIJXX-2FMW1HO4zfwh6hq1zsiFd1jTU-2F2RyhoOsguHt9YncIE7uXI1-0AGxof-0A-signature%3D98dc5f7b63edf28d452950b8718fda0e5763914736afafa69eb4ccfe45d98555?expires=1781805600&amp;signature=5f86b7737fbc8b9f6be1d97f7b4d0cf2e7fa8831c0cfc5df7e6af2265fae6289&amp;req=2dVswlz7rz9k2hj99dpg6rJQQS%2FE8VyKBq5KoHMOUNT1kUpo2nRMG9ZxTrSw%0AZoyWOn7p1wPhm9YPZgZ4gzZC%0A\"/></div><p class=\"no-margin\"></p>\n</li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90374149/f5c5357e2e57728c6e9df60d66b1/upload_10255516501667221417.jpg?expires=1781805600&amp;signature=7cc365bb39a0001caeafb74efcd1ffda32c9b0cdeb55c1b9809cec08d5ee1cfd&amp;req=2dVswlz7qD5k2hj99dpg6kjW%2Bxg4lYzIvgxbb9eIZO6F1o0U5sgSiPesyek5%0AIhJ89MrSel1WLaDRAZjwspKi%0A\"/></div><p class=\"no-margin\"></p>\n</li><li><p class=\"no-margin\">@@body:0027@@</p></li></ol><p class=\"no-margin\">@@body:0028@@</p><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_3633a02055\">@@body:0030@@</h1><p class=\"no-margin\">@@body:0031@@</p><p class=\"no-margin\">@@body:0032@@</p><ul><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li></ul><p class=\"no-margin\">@@body:0035@@</p><p class=\"no-margin\">@@body:0036@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Google Analytics, Siteimprove and Facebook Pixel",
+      "hash": "e6f558dea9ec"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What are tracking integrations and which do we support?",
+      "hash": "4f15782995f1"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "You can integrate your platform with external analytics tools such as Google Analytics (UA and GA4), Facebook Pixel, or Siteimprove by submitting the correct tracking code.",
+      "hash": "3bad2c1fd302"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "These integrations allow you to:",
+      "hash": "bc805f3ebb7a"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Track visitor demographics and behavior",
+      "hash": "5041a340849d"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Connect your platform with external dashboards",
+      "hash": "8877a35bb2c2"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Monitor and optimize campaign effectiveness",
+      "hash": "0b0c433535f8"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Supported integration types:",
+      "hash": "8b38292bd9e6"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Google Analytics (UA or GA4 Tracking ID)",
+      "hash": "0b66c6933b8c"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Google Tag Manager (custom HTML)",
+      "hash": "868da5db3700"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Facebook Pixel (manual code)",
+      "hash": "405f69c7e73e"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Siteimprove (custom HTML tag)",
+      "hash": "a353b90dd1e7"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "How to add Google Analytics to your platform?",
+      "hash": "7c9cbffaee9f"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Locate your Google Tracking ID (either UA-code or GA4-code).",
+      "hash": "0b88667e1085"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Send it to us at via the chat bubble",
+      "hash": "1c0c1dab21e9"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "We’ll implement the code on your platform and confirm once active.",
+      "hash": "3ae7fda04dc7"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "You can also send us a Google Tag Manager HTML snippet if you prefer managing tags through GTM.",
+      "hash": "89e7b1b93b51"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Need help? Where to find your <a class=\"intercom-content-link\" href=\"https://support.google.com/analytics/answer/1008080#trackingID\" target=\"_blank\">Google Tracking ID</a>",
+      "hash": "ad0d3313508e"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "How to add siteimprove to your platform?",
+      "hash": "f34e0ba0c5b7"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Get your Siteimprove HTML tag from your Siteimprove admin.",
+      "hash": "6964d3630ca7"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Email the full HTML tag to support via the chat bubble",
+      "hash": "f4275873674e"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "We’ll embed it on your platform and confirm setup.",
+      "hash": "124d57aed2bb"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "How to add facebook pixel to your platform?",
+      "hash": "77d3e5153fde"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Go to <b>Events Manager</b> in your Facebook Business account.",
+      "hash": "aed43370d400"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Select your pixel, then click <b>Set Up &gt; Install Pixel</b>.",
+      "hash": "8f6d7e239c54"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Choose <b>Manually add pixel code to website</b>.",
+      "hash": "3b238aa0f979"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Copy the entire main Pixel code.",
+      "hash": "cf1e0a5615a0"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Send the full HTML code to support via the chat bubble.",
+      "hash": "404881641d58"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Once installed, Facebook will begin tracking events on your platform.",
+      "hash": "fc4726f50b3f"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Learn more: <a class=\"intercom-content-link\" href=\"https://www.facebook.com/business/help/952192354843755\" target=\"_blank\">Where to find your Facebook Pixel code</a>",
+      "hash": "e94ff7dc335d"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Who installs the tracking codes for your platform?",
+      "hash": "6dd5dee6660f"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Our team handles the integration of all tracking codes for you.",
+      "hash": "fbeb7634276b"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Simply send:",
+      "hash": "b12ce9a87335"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Your Google Tracking ID, or",
+      "hash": "21da41a07756"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "A custom HTML snippet (for Siteimprove, GTM, Facebook Pixel, etc.)",
+      "hash": "16fb5ec9288a"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "to support via the chat bubble and we’ll take care of the rest.",
+      "hash": "1f3c20461519"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "No action is required on your end beyond sharing the correct code.",
+      "hash": "3ed6b7b064e5"
+    }
+  }
+}

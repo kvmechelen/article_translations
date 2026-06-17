@@ -1,0 +1,228 @@
+{
+  "article_id": "527606",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_8c1e346bf7\">@@body:0001@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373169/f64a50fd84146233f37230ef6390/upload_4262597614797943177.png?expires=1781805600&amp;signature=6011d63ea8a60fa3bd97926fb6295d8722c1500600db492ecb1003e05bb2f50d&amp;req=2dVswlv7qj5k2hj99dpg6vbOuDLc0ctm%2FWWQ4%2Bz7AwU8MMtsH36PSWTjrFs%2B%0A6UhwEMOO%2BU1myRnA%2Bd4krbvb%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_2699e72d79\">@@body:0004@@</h1><p class=\"no-margin\">@@body:0005@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_877e8a6e3e\">@@body:0006@@</h2><p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_dac6761d0f\">@@body:0008@@</h2><p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_352436784b\">@@body:0011@@</h2><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\">@@body:0014@@</p><ul><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li></ul><p class=\"no-margin\">@@body:0018@@</p><p class=\"no-margin\">@@body:0019@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_d3043c1a49\">@@body:0020@@</h2><ul><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ul><h1 id=\"h_c65a888afa\">@@body:0024@@</h1><h2 id=\"h_4247c5481e\">@@body:0025@@</h2><p class=\"no-margin\">@@body:0026@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0027@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0028@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_deba9c448e\">@@body:0029@@</h2><p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0031@@</p><ul><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li></ul><p class=\"no-margin\">@@body:0036@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_cecb8a050b\">@@body:0037@@</h2><ul><li><p class=\"no-margin\">@@body:0038@@</p></li><li><p class=\"no-margin\">@@body:0039@@</p></li></ul><h2 id=\"h_60361c56e9\">@@body:0040@@</h2><p class=\"no-margin\">@@body:0041@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0042@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Representation Dashboard",
+      "hash": "d2fe1d4d44bf"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the representation dashboard?",
+      "hash": "8835c2e05ed2"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The Representation Dashboard helps you understand how well your online participation reflects the wider community. It compares key demographic indicators, such as age, gender, or location, from your platform’s participants against overall community data.",
+      "hash": "b276a19638b9"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "By visualizing these comparisons, you can quickly identify which groups are well represented and which might be underrepresented in your platform or specific projects. This makes it easier to spot participation gaps, improve outreach efforts, and ensure that the voices contributing online reflect the diversity of your community.",
+      "hash": "449af20a1da8"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "What is the representation score?",
+      "hash": "65b1105af504"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "The Representation Score provides a quick way to see how well your platform’s participants reflect your target population for a specific demographic characteristic, such as gender, age, or education.",
+      "hash": "bdc9f1450818"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "How the score is calculated",
+      "hash": "7f1cf72f536d"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "The calculation happens in two steps:",
+      "hash": "e4822d79789a"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Calculate participation rates",
+      "hash": "f25f2ad3a1f5"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "For each demographic group, determine the proportion of people in that group (within the target population) who participated on your platform.",
+      "hash": "52360e541776"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<i>Example: if 100 out of 1,000 people with education level A participated, the participation rate is 0.1 (10%).</i>",
+      "hash": "4afb35636bd0"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Compare the highest and lowest rates",
+      "hash": "28aa44dbf8cc"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Divide the lowest participation rate by the highest participation rate.",
+      "hash": "ce541b61869f"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "The result — expressed as a percentage — is your Representation Score.",
+      "hash": "5da14267803b"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<i>Example:</i>",
+      "hash": "102715a47c1c"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "<i>Education A: 0.10</i>",
+      "hash": "74a6a71de2a4"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<i>Education B: 0.075</i>",
+      "hash": "0f703aa02139"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<i>Education C: 0.08</i>",
+      "hash": "b58ec542303d"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<i>Lowest rate ÷ highest rate = 0.075 / 0.10 = <b>0.75 (75%)</b></i>",
+      "hash": "a4856d20c27d"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "A score of 100% means perfect representation, all groups participate equally. Lower scores indicate that some groups are underrepresented relative to others.",
+      "hash": "52681e118b38"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Important notes",
+      "hash": "ddc2d03c2a49"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "The score is sensitive to the lowest participation rate. If one group has a rate of zero, the overall score will also be zero.",
+      "hash": "13e5dc240c29"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Small sample sizes or questions with many answer options can distort the score, since one low-participation group can significantly reduce it.",
+      "hash": "4ed2b8b7defc"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "You can add your municipality’s <b>general population size</b> under <b>Settings → Platform → Population</b>, to ensure accurate rate calculations.",
+      "hash": "2f7613515f0c"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "How to use the representation dashboard?",
+      "hash": "d0929a43b9f9"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "1. Accessing the Dashboard",
+      "hash": "706b6647c85c"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "You can find the Representation Dashboard as a new tab in the Dashboards section.",
+      "hash": "87dba70ccbe9"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "From here, you can submit your census data by clicking Submit base data, or Edit base data if you’ve already added information.",
+      "hash": "b3d832bcf154"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "ℹ️ You won’t be able to see your platform data until you upload your census information.",
+      "hash": "b070599c4bf9"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "2. Adding Your Census Data",
+      "hash": "16e5088bca85"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Select the demographic questions you want to compare and input your census information. When you’re done, click <b>Save</b> and return to the dashboard, your data will now appear alongside the platform data.",
+      "hash": "fcbb2d2abdb8"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "By default, the following registration questions can be used for comparison:",
+      "hash": "64473b6510f5"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Gender",
+      "hash": "a04630ef8bc3"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Age",
+      "hash": "39b7370f30a3"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Education",
+      "hash": "512ab3c6b986"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Place of residence",
+      "hash": "bf998d75122e"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "You can also include any <b>multiple-choice (select one)</b> question from your registration form. To add a new question, go to <b>Settings → Registration</b> and create a new registration field.",
+      "hash": "f755dd506f18"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "3. Updating or Removing Data",
+      "hash": "3e861c9692f1"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "To update your census data, click <b>Edit base data</b>, make your changes, and save.",
+      "hash": "f4846cec21c5"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "To <b>remove</b> a question from the dashboard, simply toggle all fields off.",
+      "hash": "c84db7819cd0"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "4. Using Percentages as Base Numbers",
+      "hash": "d43c4faa979e"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "You can enter percentages instead of raw numbers. If your data includes decimals, just round to the nearest whole number, the dashboard will display them correctly.",
+      "hash": "30a9afce2112"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "ℹ️ The reference data shown in the graph represents percentages, not absolute numbers.",
+      "hash": "05ba359a940a"
+    }
+  }
+}

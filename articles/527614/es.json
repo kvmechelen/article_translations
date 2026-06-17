@@ -1,0 +1,142 @@
+{
+  "article_id": "527614",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Customizing the policies on your platform",
+      "source_hash": "76bef31bfc9c",
+      "target": "Customizing the policies on your platform",
+      "translated_from_hash": "76bef31bfc9c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Add your organisational items to your policy pages",
+      "source_hash": "ede36cac5b0c",
+      "target": "Add your organisational items to your policy pages",
+      "translated_from_hash": "ede36cac5b0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "How to edit the terms and conditions?",
+      "source_hash": "db0bb9b5a169",
+      "target": "How to edit the terms and conditions?",
+      "translated_from_hash": "db0bb9b5a169",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Go to <b>Settings &gt; Policies</b>",
+      "source_hash": "a39f534ac746",
+      "target": "Go to <b>Settings &gt; Policies</b>",
+      "translated_from_hash": "a39f534ac746",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Select <b>Terms and Conditions</b>",
+      "source_hash": "3e606d21fbca",
+      "target": "Select <b>Terms and Conditions</b>",
+      "translated_from_hash": "3e606d21fbca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Update the text as needed",
+      "source_hash": "2b0da3b4336a",
+      "target": "Update the text as needed",
+      "translated_from_hash": "2b0da3b4336a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Optionally, upload attachments (e.g. organizational documents)",
+      "source_hash": "a87a956f719b",
+      "target": "Optionally, upload attachments (e.g. organizational documents)",
+      "translated_from_hash": "a87a956f719b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Click <b>Save</b> at the bottom",
+      "source_hash": "4b10dede97ba",
+      "target": "Click <b>Save</b> at the bottom",
+      "translated_from_hash": "4b10dede97ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Users must accept these terms during registration.",
+      "source_hash": "8f73763cc103",
+      "target": "Users must accept these terms during registration.",
+      "translated_from_hash": "8f73763cc103",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How to edit the privacy policy?",
+      "source_hash": "35499aae429b",
+      "target": "How to edit the privacy policy?",
+      "translated_from_hash": "35499aae429b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Go to <b>Settings &gt; Policies</b>",
+      "source_hash": "a39f534ac746",
+      "target": "Go to <b>Settings &gt; Policies</b>",
+      "translated_from_hash": "a39f534ac746",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Select <b>Privacy Policy</b>",
+      "source_hash": "7b87311fe11d",
+      "target": "Select <b>Privacy Policy</b>",
+      "translated_from_hash": "7b87311fe11d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Update the text as needed",
+      "source_hash": "2b0da3b4336a",
+      "target": "Update the text as needed",
+      "translated_from_hash": "2b0da3b4336a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Optionally, add supporting documents (e.g. how your org handles data)",
+      "source_hash": "8d182d946fe0",
+      "target": "Optionally, add supporting documents (e.g. how your org handles data)",
+      "translated_from_hash": "8d182d946fe0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Click <b>Save</b> at the bottom",
+      "source_hash": "4b10dede97ba",
+      "target": "Click <b>Save</b> at the bottom",
+      "translated_from_hash": "4b10dede97ba",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

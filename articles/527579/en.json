@@ -1,0 +1,128 @@
+{
+  "article_id": "527579",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<p class=\"no-margin\">@@body:0001@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<hr/><p class=\"no-margin\"></p>\n<h1 id=\"h_f65c41c85b\">@@body:0003@@</h1><p class=\"no-margin\">@@body:0004@@</p><ul><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li></ul><p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_32e379e329\">@@body:0009@@</h1><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_512a2287eb\">@@body:0011@@</h1><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_4b50485073\">@@body:0014@@</h1><p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_0e38d3f3b5\">@@body:0018@@</h1><p class=\"no-margin\">@@body:0019@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_fe56735f6a\">@@body:0020@@</h1><p class=\"no-margin\">@@body:0021@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372471/486143a2e3a8cbd48e7586bfa159/Untitled1.png-expires%3D1768395600-req%3DfCMmFMh8nIhWFb4f3HP0gL75fqqdLFkYFgoa3Or9D7xpEDUegnikmq3Cxil-2F-0AE5c-3D-0A-signature%3Df41c241338033791467ad076a21d2dd00f970655fe533fd78837a15c2af624a4?expires=1781805600&amp;signature=f417b1f143e90accf64a2a8671674186384a42a682c3893ffed98c9307474cf7&amp;req=2dVswlr%2BqzZk2hj99dpg6sJO7dC5wvisfdtkyfKG%2BDgknyrfHocQX8E%2BXDVl%0AKPWIEX7DmR%2FuFMqmtFr0A5FN%0A\"/></div><hr/><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0022@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Following projects, ideas, areas or tags",
+      "hash": "02e38457095b"
+    },
+    "description": {
+      "field": "description",
+      "text": "Keep visitors in the loop by giving them the option to follow some key elements.",
+      "hash": "367271daa92d"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "To make it easer for visitors of your platform to follow along, they have the option to follow some key elements to stay in the loop. When they follow them, important updates will be sent to them. Users can manage all the items they follow from their user profile at all times, as well as by unfollowing them from the item’s page.",
+      "hash": "c09f5804240d"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Visitors are triggered to leave their email and confirm it to start following. This keeps the barrier low but gives them a simple way to receive updates.",
+      "hash": "b2016026b644"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Which communication will this trigger?",
+      "hash": "fbec260ef230"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Users will receive updates on projects, ideas, proposals, area’s and tag:",
+      "hash": "d3bc6e4ce7ca"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Project: when the project enters a new phase - all users that follow that project will receive a notification. The <b>“new phase email”</b> must first be enabled in the general automated email settings, located under the <b>“Messaging”</b> tab in the back office. This setting controls whether the “new phase email” option is available across the platform. Once it's enabled, you can choose to activate or deactivate the notification for each individual phase by toggling the switch at the bottom of that phase’s settings.",
+      "hash": "bc7ef7c2bf0b"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Idea &amp; Proposal: when the idea receives a new update or status change. We don’t notify users for every comment, this only happens when you actively engage in the conversation.",
+      "hash": "5d9dd5ffe24c"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Area &amp; tag: when a new project is launched in an area or tag of your interest all users following that tag or area will receive an email that a new project was published.",
+      "hash": "196f051da773"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "ℹ️ If access rights are set to anonymous, participation in the project will not lead to a follow since the account cannot be linked",
+      "hash": "8d1ab7694a1a"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Auto-follow",
+      "hash": "31dc172792a7"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "As soon as a user engages with a project, idea or proposal, they automatically become a follower.",
+      "hash": "ac816bc2b2c6"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Participation notifications to users",
+      "hash": "dcfc21488b97"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Users that participate or follow an ideation project will not be notified every-time someone else posts a new idea. They will only get notified for comments and replies to comments within an idea they follow or already commented in. So every time a user posts a comment on an existing idea or replies to a comment within an existing idea, the users that follow the idea and comments will recieve an notification.",
+      "hash": "169cb03b7b7f"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Users following a project will get weekly update of \"whats been going on\" where they will see the new ideas submitted by others",
+      "hash": "1b2bdd87d8b6"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Notifying users of restricted visibility and access rights",
+      "hash": "2901aafd045d"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "If you create a project that is only visible to a selected smart group, publishing the new project will not trigger a notification to that selected group unless you select project tags which these users may also follow.",
+      "hash": "b071f34051bf"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "The best way is to accompany the newly published project with a custom email to that group saying that a new project has been published for them.",
+      "hash": "f5e81c59dddf"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/2389093-sending-emails-to-your-users-and-following-up-on-the-results\" target=\"_blank\">To send out emails from the platform to a selected group check out this article. </a>",
+      "hash": "e572ffe2c6dd"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Smart Groups for the follow function",
+      "hash": "0a144f6e1125"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "You can create smart groups with the ‘Followed by’ attribute. This allows you to send out manual campaigns to all followers.",
+      "hash": "b4884dc6d1da"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Capture user interest during registration",
+      "hash": "c96ffa26de7e"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "You can request users to share their interests during the onboarding. Go to <b>Settings → Registration</b> and enable this to make sure users can start following area’s and tags during onboarding. This helps a lot if you want to launch a new project by tapping into an existing audience.",
+      "hash": "8c10c60370e2"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<i>Do you have further questions or need help? Contact our Support Team via the <a class=\"intercom-content-link\" href=\"https://support.citizenlab.co/en/articles/6348810-how-the-citizenlab-support-team-can-help-you\" target=\"_blank\">chat bubble</a>. </i>💬",
+      "hash": "4550a96dbe22"
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "article_id": "527603",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Project Launch Checklist",
+      "source_hash": "d741f7f50d42",
+      "target": "Project Launch Checklist",
+      "translated_from_hash": "d741f7f50d42",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Must do's or highly recommended steps before you launch a project",
+      "source_hash": "552b4d7fb9de",
+      "target": "Must do's or highly recommended steps before you launch a project",
+      "translated_from_hash": "552b4d7fb9de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Why a project launch checklist?",
+      "source_hash": "f02349efbee7",
+      "target": "Why a project launch checklist?",
+      "translated_from_hash": "f02349efbee7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Before you publish a project, review this checklist to ensure nothing critical is missed. Completing these steps makes your project more engaging, easier to manage, and clearer for participants.",
+      "source_hash": "658aec45939f",
+      "target": "Before you publish a project, review this checklist to ensure nothing critical is missed. Completing these steps makes your project more engaging, easier to manage, and clearer for participants.",
+      "translated_from_hash": "658aec45939f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Completing these steps ensures:",
+      "source_hash": "20c86a5edbc0",
+      "target": "Completing these steps ensures:",
+      "translated_from_hash": "20c86a5edbc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Participants see a <b>well-branded, clear project</b>.",
+      "source_hash": "9b96837ff232",
+      "target": "Participants see a <b>well-branded, clear project</b>.",
+      "translated_from_hash": "9b96837ff232",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "You avoid rework after launch (e.g., editing access rights or fixing missing descriptions).",
+      "source_hash": "951635d5cc05",
+      "target": "You avoid rework after launch (e.g., editing access rights or fixing missing descriptions).",
+      "translated_from_hash": "951635d5cc05",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Responsibilities are clear, someone is accountable for each aspect of the project.",
+      "source_hash": "93051ca0eb09",
+      "target": "Responsibilities are clear, someone is accountable for each aspect of the project.",
+      "translated_from_hash": "93051ca0eb09",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Project launch checklist",
+      "source_hash": "a03ef68270f3",
+      "target": "Project launch checklist",
+      "translated_from_hash": "a03ef68270f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Double-check if all the user data relevant for your project is a required registration field",
+      "source_hash": "ee14406b0561",
+      "target": "Double-check if all the user data relevant for your project is a required registration field",
+      "translated_from_hash": "ee14406b0561",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "User info relevant for your project should be asked during the platform registration flow.",
+      "source_hash": "063595c11aee",
+      "target": "User info relevant for your project should be asked during the platform registration flow.",
+      "translated_from_hash": "063595c11aee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Customize project tags, areas and statuses",
+      "source_hash": "7a3cc830a5e2",
+      "target": "Customize project tags, areas and statuses",
+      "translated_from_hash": "7a3cc830a5e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Review and adjust tags, areas and ensure status handling is clear.",
+      "source_hash": "2fc773229dc1",
+      "target": "Review and adjust tags, areas and ensure status handling is clear.",
+      "translated_from_hash": "2fc773229dc1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Grant access to the right groups of users",
+      "source_hash": "26547a003b45",
+      "target": "Grant access to the right groups of users",
+      "translated_from_hash": "26547a003b45",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Also check if the info you need is asked during the platform registration flow.",
+      "source_hash": "bfb694f08ef9",
+      "target": "Also check if the info you need is asked during the platform registration flow.",
+      "translated_from_hash": "bfb694f08ef9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Add a timeline to your projects and a description to each project phase",
+      "source_hash": "684c33d2ae9d",
+      "target": "Add a timeline to your projects and a description to each project phase",
+      "translated_from_hash": "684c33d2ae9d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Don't leave the description of a timeline phase empty.",
+      "source_hash": "507236a1154f",
+      "target": "Don't leave the description of a timeline phase empty.",
+      "translated_from_hash": "507236a1154f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Customize the input form (for ideation projects)",
+      "source_hash": "ac47b875f952",
+      "target": "Customize the input form (for ideation projects)",
+      "translated_from_hash": "ac47b875f952",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "You can customize the way to collect input in an ideation project.",
+      "source_hash": "617ca8be245a",
+      "target": "You can customize the way to collect input in an ideation project.",
+      "translated_from_hash": "617ca8be245a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Customize your project map (if relevant)",
+      "source_hash": "05d1e709155b",
+      "target": "Customize your project map (if relevant)",
+      "translated_from_hash": "05d1e709155b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "You can change the zoom level of and add layers to the map that shows in your project.",
+      "source_hash": "8b8dd9874762",
+      "target": "You can change the zoom level of and add layers to the map that shows in your project.",
+      "translated_from_hash": "8b8dd9874762",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Enhance project design with Content Builder",
+      "source_hash": "14d4a138382f",
+      "target": "Enhance project design with Content Builder",
+      "translated_from_hash": "14d4a138382f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Use flexible layouts, multi-media content and third-party embeds in your project descriptions.",
+      "source_hash": "41d6591bdf56",
+      "target": "Use flexible layouts, multi-media content and third-party embeds in your project descriptions.",
+      "translated_from_hash": "41d6591bdf56",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Double-check automated emails",
+      "source_hash": "6ef6c65157a9",
+      "target": "Double-check automated emails",
+      "translated_from_hash": "6ef6c65157a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Define which automated emails people should or should not receive from your project.",
+      "source_hash": "2f7ceca7efdb",
+      "target": "Define which automated emails people should or should not receive from your project.",
+      "translated_from_hash": "2f7ceca7efdb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Assign project responsibilities",
+      "source_hash": "ce80a5637443",
+      "target": "Assign project responsibilities",
+      "translated_from_hash": "ce80a5637443",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Distribute responsibilities internally. Each project can have its own manager.",
+      "source_hash": "2f26bc234a3c",
+      "target": "Distribute responsibilities internally. Each project can have its own manager.",
+      "translated_from_hash": "2f26bc234a3c",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

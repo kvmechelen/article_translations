@@ -1,0 +1,263 @@
+{
+  "article_id": "527639",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_3dc29f8b35\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><ul><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li></ul><h1 id=\"h_c88459528c\">@@body:0010@@</h1><h2 id=\"h_168306e4d0\">@@body:0011@@</h2><ul><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li></ul><h2 id=\"h_040b8014ed\">@@body:0015@@</h2><ul><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><h2 id=\"h_91c33aee96\">@@body:0019@@</h2><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul><h2 id=\"h_fcf319c64c\">@@body:0022@@</h2><ul><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li></ul><h2 id=\"h_273cc77a91\">@@body:0025@@</h2><ul><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li></ul><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_3c903ef094\">@@body:0030@@</h1><p class=\"no-margin\">@@body:0031@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_8efcb95524\">@@body:0032@@</h2><ul><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li></ul><h2 id=\"h_db07488dbe\">@@body:0035@@</h2><ul><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul><p class=\"no-margin\">@@body:0039@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_3000130bf7\">@@body:0040@@</h1><p class=\"no-margin\">@@body:0041@@</p><ol><li><p class=\"no-margin\">@@body:0042@@</p></li><li><p class=\"no-margin\">@@body:0043@@</p><ul><li><p class=\"no-margin\">@@body:0044@@</p></li><li><p class=\"no-margin\">@@body:0045@@</p></li><li><p class=\"no-margin\">@@body:0046@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0047@@</p></li><li><p class=\"no-margin\">@@body:0048@@</p></li></ol><p class=\"no-margin\">@@body:0049@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Optimizing metadata for SEO and Social Sharing",
+      "hash": "b55dac6b5c45"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is metadata?",
+      "hash": "1311bc565a87"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Metadata is descriptive information about your platform content that appears in search engines or on social media previews. It includes:",
+      "hash": "8e55b0289a4b"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "The meta title (page headline)",
+      "hash": "b9981afd9ed1"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "The meta description (preview text)",
+      "hash": "dad3c8d343e9"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "The preview image",
+      "hash": "ec699716f006"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "These tags are not visible on the platform itself, but they influence how people discover and click on your platform externally. Proper metadata improves:",
+      "hash": "0659e3e1ad7e"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Your platform’s visibility (SEO)",
+      "hash": "e4a90453ee7e"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "How trustworthy and clear it looks when shared",
+      "hash": "ebe700aaab0f"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Engagement and click-through rates",
+      "hash": "9b90e1484ed6"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "What is default metadata on the platform?",
+      "hash": "1c70aaf7e26e"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Platform homepage",
+      "hash": "2d3f6ce3d674"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Title: <i>Citizen engagement platform of [Organization Name] | GoVocal</i>",
+      "hash": "c5eea4437a0b"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Description: <i>Welcome to the online citizen engagement platform of [Organization Name]. Explore local projects and vote on your favourite ideas. Come participate in the discussions!</i>",
+      "hash": "76d0ff403117"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Image: Platform header image",
+      "hash": "4189241029d3"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Projects overview",
+      "hash": "910d616e28c7"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Title: <i>Projects • [Organization Name]</i>",
+      "hash": "5c51ec2a8667"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Description: <i>Explore all ongoing projects...</i>",
+      "hash": "9d0ad158c3d6"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Image: Platform header image",
+      "hash": "4189241029d3"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Individual project page",
+      "hash": "710f36414d1d"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Title: <i>Project • [Project Title]</i>",
+      "hash": "db0886ee9418"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Image: Project banner image",
+      "hash": "6d0d7a3fbd70"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Ideas overview",
+      "hash": "c78faa0eefc3"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Title: <i>All Ideas • [Organization Name]</i>",
+      "hash": "96c8ee191fc4"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Description: <i>Explore all ideas posted...</i>",
+      "hash": "93c80221fcbf"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Individual idea",
+      "hash": "3d74f8dd497c"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Title: <i>Idea • [Idea Title]</i>",
+      "hash": "a12999b0716a"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "If shared by author: <i>Support my idea: [Idea Title]</i>",
+      "hash": "efc43e8e49a7"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Image: User-uploaded image",
+      "hash": "2fcdd983ba91"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "These defaults update dynamically based on the page being viewed to optimize discoverability.",
+      "hash": "844f37e5559f"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Tips on how to improve search engine ranking",
+      "hash": "8d34329edc42"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Search engines use many factors to rank pages, but two areas you can influence are metadata and content popularity.",
+      "hash": "46f0867e7644"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Metadata tips:",
+      "hash": "608eff47e1f8"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Use clear, descriptive titles and descriptions",
+      "hash": "17aef515f936"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Include relevant keywords (e.g. city name, voting, participation)",
+      "hash": "c31b737120a1"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Content popularity tips:",
+      "hash": "57f80a79fb54"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Publish content regularly (e.g. ideas, updates, events)",
+      "hash": "cd3c3266248c"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Share links on reliable channels (e.g. newsletters, social media)",
+      "hash": "b6197c06aed3"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Encourage backlinking from official websites",
+      "hash": "828f1db6aa1c"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Avoid spamming, quality matters more than quantity.",
+      "hash": "11537fcf1037"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "How to customize your platforms metadata?",
+      "hash": "a3a960a4e65d"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "<b>Steps:</b>",
+      "hash": "79ea6cc10451"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Identify which page(s) you want to update (e.g., homepage, a project, idea page).",
+      "hash": "60cfe3ce6a0c"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "Prepare the new metadata:",
+      "hash": "0207017e7c79"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Title",
+      "hash": "7e8cd2056da7"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "Description",
+      "hash": "526e0087cc3f"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Optional preview image (where applicable)",
+      "hash": "a91858b2afb0"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "Open the chat bubble on the bottom right of your platform.",
+      "hash": "01404005d12e"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "Contact the Go Vocal support team and provide the new metadata.",
+      "hash": "a849202ec972"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "They will update the tags on your behalf.",
+      "hash": "71c2965eef81"
+    }
+  }
+}

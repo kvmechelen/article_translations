@@ -1,0 +1,283 @@
+{
+  "article_id": "527556",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_119f1e0cfe\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_f83f77f593\">@@body:0003@@</h2><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><h2 id=\"h_321294cb7f\">@@body:0007@@</h2><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372062/69b8db234fe405104f3f5f1f70ee/upload_7011645771406764287.png?expires=1781805600&amp;signature=c298d4e65144b48f1f44f27ca767a0d4aceb26142273c89ca4e64056426a54c9&amp;req=2dVswlr6qjVk2hj99dpg6p7qfZcijaBWt16T%2BlRifBRuEr%2F4yg3zdu3qmcT%2B%0AQMh9RMfPmplo%2F%2FGPb7hJI7tz%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0008@@</p><ol><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li></ol><p class=\"no-margin\">@@body:0013@@</p><ul><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li></ul><h2 id=\"h_26083acb3d\">@@body:0018@@</h2><p class=\"no-margin\">@@body:0019@@</p><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li></ul><p class=\"no-margin\">@@body:0027@@</p><ol><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li></ol><h2 id=\"h_3e388e6f62\">@@body:0033@@</h2><ul><li><p class=\"no-margin\">@@body:0034@@</p><ul><li><p class=\"no-margin\">@@body:0035@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0036@@</p><ul><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul></li></ul><h2 id=\"h_038007f3ad\">@@body:0039@@</h2><p class=\"no-margin\">@@body:0040@@</p><ul><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li><li><p class=\"no-margin\">@@body:0043@@</p></li></ul><p class=\"no-margin\">@@body:0044@@</p><ul><li><p class=\"no-margin\">@@body:0045@@</p></li><li><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p></li></ul><h2 id=\"h_b34a7cb4d7\">@@body:0048@@</h2><ul><li><p class=\"no-margin\">@@body:0049@@</p></li><li><p class=\"no-margin\">@@body:0050@@</p></li><li><p class=\"no-margin\">@@body:0051@@</p></li><li><p class=\"no-margin\">@@body:0052@@</p></li></ul><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0053@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Project Manager Starter Guide",
+      "hash": "54056226b979"
+    },
+    "description": {
+      "field": "description",
+      "text": "This article brings an elaborated guide for configuring, starting and managing your projects as a project manager.",
+      "hash": "1905ad33a3f7"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "How to build your first project?",
+      "hash": "da481a2bb04c"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "This guide introduces the main steps of managing projects on the Go Vocal platform:",
+      "hash": "ed80a3bb792d"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "1. Logging in and exploring the back end.",
+      "hash": "c635681949c1"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Use the invitation email from your administrator, or go to your platform and click Log in.",
+      "hash": "2d4497cf8348"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "If prompted, take the onboarding tour to explore features.",
+      "hash": "2e7c20102f92"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "If the tour does not appear, contact support to activate it.",
+      "hash": "2a7f848ef86f"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "2. Creating and configuring a project.",
+      "hash": "f46df4ad9936"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Steps:</b>",
+      "hash": "79ea6cc10451"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Go to the Projects tab.",
+      "hash": "4687e73f3b30"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Click New Project and choose from scratch or from a template.",
+      "hash": "aa7404958da1"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Enter project name, tags, areas, and upload pictures.",
+      "hash": "d3be56e773c0"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Save your project.",
+      "hash": "45986b166559"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Project settings on the General tab:</b>",
+      "hash": "8a42e83473dc"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>Set up:</b> update title, tags, areas, images, and URL (slug), and write a short description or use the content builder for advanced formatting.",
+      "hash": "dc94618107f6"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "<b>Input Tags:</b> if using ideation, define tags for categorizing inputs.",
+      "hash": "daee7f97cfba"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Access rights:</b> control visibility, default assignee, and project managers.",
+      "hash": "a5564c2c95db"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Data:</b> remove test inputs before publishing.",
+      "hash": "3661982a0578"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "3. Planning your project phases and participation methods.",
+      "hash": "c6b3e9ba4b50"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "In the Timeline tab you can configure our timeline, phases and participation methods. Each phase of the timeline has a phase start/end date and a participation method. Common methods include:",
+      "hash": "5ef0a3aa3965"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<b>Collect input and feedback:</b> gather ideas on a list or map, with voting and commenting.",
+      "hash": "208f647b5881"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>Proposals, petitions, initiatives:</b> allow citizens to submit and support proposals.",
+      "hash": "5f389311e1ca"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Surveys:</b> collect private feedback.",
+      "hash": "9b9b14c129b4"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Voting/prioritization:</b> participants vote or rank options (e.g., participatory budgeting).",
+      "hash": "dd84a7c185fc"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "<b>Share information:</b> provide updates and results.",
+      "hash": "26eb950bf781"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>Volunteering:</b> recruit participants for activities.",
+      "hash": "09896733c569"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "<b>Document annotation:</b> collect feedback directly on documents.",
+      "hash": "cf687b162f19"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "<b>Example timeline:</b>",
+      "hash": "0c130f36745a"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Collect ideas.",
+      "hash": "9bc39cf98403"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Analyze results.",
+      "hash": "9bfba3bf411d"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Provide updates.",
+      "hash": "54ffa7d29c5c"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Invite voting or prioritization.",
+      "hash": "9f02ba728914"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Share final report.",
+      "hash": "0c3be5f09bf2"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "4. Testing and launching your project.",
+      "hash": "bafc16df319d"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "<b>Test the project</b>:",
+      "hash": "f7cd5abaad64"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "(Premium/Enterprise) use <b>Share</b> to generate a test link for internal review.",
+      "hash": "f5f8c6601c37"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>Launch the project</b>:",
+      "hash": "98a601df9488"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Click <b>Publish</b> to go live immediately, or",
+      "hash": "1e064f1443ae"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Click <b>Request Approval</b> (Premium/Enterprise) to submit for admin/folder manager approval.",
+      "hash": "d5230a47cd1f"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "5. Managing participants and inputs.",
+      "hash": "4efe3643c2ed"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "<b>Communicate with participants:</b>",
+      "hash": "ecd8d816f42c"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "Use the <b>Audience</b> tab to look at your project demographics, download the list of participants and monitor traffic",
+      "hash": "73a35f1dd54f"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Send direct emails via the <b>Messaging</b> tab.",
+      "hash": "042bf9b03e64"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "for each phase use the <b>Notifications</b> tab to turn automatic emails on and off",
+      "hash": "71e47d4db719"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "<b>Manage inputs:</b>",
+      "hash": "955e0ed90ec1"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "Use the <b>Input Manager</b> to assign or reassign inputs.",
+      "hash": "e4aa057cc1c9"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Move or copy inputs between phases if needed.",
+      "hash": "801235460fd8"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "Ensure someone is responsible for processing posts in your project settings <b>General</b> tab &gt; <b>Access rights</b>.",
+      "hash": "55dbfdaea67c"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "6. Analyzing results and closing the project.",
+      "hash": "2ee82bb3ef70"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "Add a final <b>Information phase</b> to publish outcomes.",
+      "hash": "78fb486095fd"
+    },
+    "body:0050": {
+      "field": "body",
+      "text": "Use the <b>Report builder</b> to summarize results.",
+      "hash": "9c89c043a799"
+    },
+    "body:0051": {
+      "field": "body",
+      "text": "Apply the <b>AI Sensemaking</b> tool to analyze large volumes of input.",
+      "hash": "7c61d8a94450"
+    },
+    "body:0052": {
+      "field": "body",
+      "text": "Publish the report so participants are informed of the final decision.",
+      "hash": "cc9072f8ecae"
+    },
+    "body:0053": {
+      "field": "body",
+      "text": "ℹ️ For more information on the participation methods on our platform to use read: <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">Overview of our Participation methods</a>",
+      "hash": "cdcdebf70ed2"
+    }
+  }
+}

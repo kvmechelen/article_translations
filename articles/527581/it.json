@@ -1,0 +1,592 @@
+{
+  "article_id": "527581",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Voting and Prioritization Methods for Enhanced Decision-Making",
+      "source_hash": "2af76d36bb63",
+      "target": "Voting and Prioritization Methods for Enhanced Decision-Making",
+      "translated_from_hash": "2af76d36bb63",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "A wide range of voting methods designed to facilitate a more inclusive, nuanced, and effective decision-making process.",
+      "source_hash": "e19a34e8c787",
+      "target": "A wide range of voting methods designed to facilitate a more inclusive, nuanced, and effective decision-making process.",
+      "translated_from_hash": "e19a34e8c787",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the voting and prioritization method?",
+      "source_hash": "954045d269c0",
+      "target": "What is the voting and prioritization method?",
+      "translated_from_hash": "954045d269c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The platform offers a flexible voting and prioritization framework to support inclusive and nuanced decision-making.",
+      "source_hash": "26a73747df5d",
+      "target": "The platform offers a flexible voting and prioritization framework to support inclusive and nuanced decision-making.",
+      "translated_from_hash": "26a73747df5d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Admins can choose from multiple voting types:",
+      "source_hash": "8aaca8a3bb7b",
+      "target": "Admins can choose from multiple voting types:",
+      "translated_from_hash": "8aaca8a3bb7b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Approval Voting</b>",
+      "source_hash": "8b34b0f13e18",
+      "target": "<b>Approval Voting</b>",
+      "translated_from_hash": "8b34b0f13e18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Cumulative Voting</b>",
+      "source_hash": "f33636cca344",
+      "target": "<b>Cumulative Voting</b>",
+      "translated_from_hash": "f33636cca344",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Participatory Budgeting</b>",
+      "source_hash": "40d7fb775047",
+      "target": "<b>Participatory Budgeting</b>",
+      "translated_from_hash": "40d7fb775047",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "To gather community preferences in the most relevant way.",
+      "source_hash": "ab0741373ec4",
+      "target": "To gather community preferences in the most relevant way.",
+      "translated_from_hash": "ab0741373ec4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "ℹ️ Voting and participatory budgeting games on our platform are by default anonymous, if you want more information on who voted contact the support team via the chat.",
+      "source_hash": "19dd2c46982b",
+      "target": "ℹ️ Voting and participatory budgeting games on our platform are by default anonymous, if you want more information on who voted contact the support team via the chat.",
+      "translated_from_hash": "19dd2c46982b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "How to add voting options?",
+      "source_hash": "b05181f63d93",
+      "target": "How to add voting options?",
+      "translated_from_hash": "b05181f63d93",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>If YOU create the options:</b>",
+      "source_hash": "7c305c9976f8",
+      "target": "<b>If YOU create the options:</b>",
+      "translated_from_hash": "7c305c9976f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Click <b>+ New Idea</b> in the voting phase.",
+      "source_hash": "cd9494e81777",
+      "target": "Click <b>+ New Idea</b> in the voting phase.",
+      "translated_from_hash": "cd9494e81777",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Fill out the <b>input form</b> (editable in the “Input Form” tab).",
+      "source_hash": "188e9689e222",
+      "target": "Fill out the <b>input form</b> (editable in the “Input Form” tab).",
+      "translated_from_hash": "188e9689e222",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Option appears in the <b>Input Manager</b> and front office.",
+      "source_hash": "24ee2b987f48",
+      "target": "Option appears in the <b>Input Manager</b> and front office.",
+      "translated_from_hash": "24ee2b987f48",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>If options come from a previous phase:</b>",
+      "source_hash": "a69cf1375dc6",
+      "target": "<b>If options come from a previous phase:</b>",
+      "translated_from_hash": "a69cf1375dc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Open <b>Input Manager</b> in the previous ideation phase.",
+      "source_hash": "8c7d34fe594f",
+      "target": "Open <b>Input Manager</b> in the previous ideation phase.",
+      "translated_from_hash": "8c7d34fe594f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "look for the blue bubble number below the input, click the number that represents the voting phase ahead to <b>move items forward</b>.",
+      "source_hash": "976c56197494",
+      "target": "look for the blue bubble number below the input, click the number that represents the voting phase ahead to <b>move items forward</b>.",
+      "translated_from_hash": "976c56197494",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "(Budgeting only) Add a <b>cost</b> to each option.",
+      "source_hash": "b5142f1b95b1",
+      "target": "(Budgeting only) Add a <b>cost</b> to each option.",
+      "translated_from_hash": "b5142f1b95b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "💡<b>(<i>Optional) Add a filter</i>:</b>",
+      "source_hash": "f32e1c3b6a2f",
+      "target": "💡<b>(<i>Optional) Add a filter</i>:</b>",
+      "translated_from_hash": "f32e1c3b6a2f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "When you have a large amount of options to vote on, it might be useful to add a filter to your inputs. This filter applies to tags given to the inputs, so before enabling the filter make sure that all inputs have a tag assigned to them. You can read more about how to add tags in our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527588-tag-copy-and-move-ideas-and-posts\" target=\"_blank\">here</a>.",
+      "source_hash": "ceab9dad8d97",
+      "target": "When you have a large amount of options to vote on, it might be useful to add a filter to your inputs. This filter applies to tags given to the inputs, so before enabling the filter make sure that all inputs have a tag assigned to them. You can read more about how to add tags in our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527588-tag-copy-and-move-ideas-and-posts\" target=\"_blank\">here</a>.",
+      "translated_from_hash": "ceab9dad8d97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "You can enable filtering in the <b>Setup</b> tab of your phase.",
+      "source_hash": "61d9f0a54677",
+      "target": "You can enable filtering in the <b>Setup</b> tab of your phase.",
+      "translated_from_hash": "61d9f0a54677",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Different voting methods",
+      "source_hash": "ede4b21a2b9f",
+      "target": "Different voting methods",
+      "translated_from_hash": "ede4b21a2b9f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Approval Voting (One Vote per Option)",
+      "source_hash": "f687e00bc4ba",
+      "target": "Approval Voting (One Vote per Option)",
+      "translated_from_hash": "f687e00bc4ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Participants cast a single vote for each option they support.",
+      "source_hash": "188212e54790",
+      "target": "Participants cast a single vote for each option they support.",
+      "translated_from_hash": "188212e54790",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Promotes broad participation and reduces polarization.",
+      "source_hash": "0070fe29dd90",
+      "target": "Promotes broad participation and reduces polarization.",
+      "translated_from_hash": "0070fe29dd90",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "No strategic vote manipulation—simple, accessible, fair.",
+      "source_hash": "246bc2d05e58",
+      "target": "No strategic vote manipulation—simple, accessible, fair.",
+      "translated_from_hash": "246bc2d05e58",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Cumulative Voting (Multiple Votes per Option)",
+      "source_hash": "225785196238",
+      "target": "Cumulative Voting (Multiple Votes per Option)",
+      "translated_from_hash": "225785196238",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Participants get a budget of votes to allocate across multiple options",
+      "source_hash": "a8ca59cbc3c5",
+      "target": "Participants get a budget of votes to allocate across multiple options",
+      "translated_from_hash": "a8ca59cbc3c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Allows nuanced expression of priorities",
+      "source_hash": "ba133bbd23c1",
+      "target": "Allows nuanced expression of priorities",
+      "translated_from_hash": "ba133bbd23c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Optional: set a maximum votes per option to prevent “vote stacking” by small groups",
+      "source_hash": "e6014e82b554",
+      "target": "Optional: set a maximum votes per option to prevent “vote stacking” by small groups",
+      "translated_from_hash": "e6014e82b554",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Participatory Budgeting (Basket Exercise)",
+      "source_hash": "d66fc098cecf",
+      "target": "Participatory Budgeting (Basket Exercise)",
+      "translated_from_hash": "d66fc098cecf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Participants allocate a budget across options with assigned costs/values.",
+      "source_hash": "853d8b09622c",
+      "target": "Participants allocate a budget across options with assigned costs/values.",
+      "translated_from_hash": "853d8b09622c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Encourages financial responsibility and trade-off thinking.",
+      "source_hash": "3af451ef6a6b",
+      "target": "Encourages financial responsibility and trade-off thinking.",
+      "translated_from_hash": "3af451ef6a6b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Can be displayed in a currency (e.g., €) or a custom unit (“tokens”) - ask the support team to change these for you.",
+      "source_hash": "52a5ca5d0cba",
+      "target": "Can be displayed in a currency (e.g., €) or a custom unit (“tokens”) - ask the support team to change these for you.",
+      "translated_from_hash": "52a5ca5d0cba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "💡 <b>Tip:</b> When running a participatory budgeting project, make sure every idea you include has a budget assigned. To add a budget to an idea:",
+      "source_hash": "210c86116089",
+      "target": "💡 <b>Tip:</b> When running a participatory budgeting project, make sure every idea you include has a budget assigned. To add a budget to an idea:",
+      "translated_from_hash": "210c86116089",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Go to <b>Phase Settings</b> → <b>Input Manager</b>.",
+      "source_hash": "0121c8073d80",
+      "target": "Go to <b>Phase Settings</b> → <b>Input Manager</b>.",
+      "translated_from_hash": "0121c8073d80",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Select the <b>Input</b> (idea) you want.",
+      "source_hash": "ce6e3fe08a7c",
+      "target": "Select the <b>Input</b> (idea) you want.",
+      "translated_from_hash": "ce6e3fe08a7c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Click <b>Edit</b>, then <b>Next</b> until you reach the <b>Budget</b> field.",
+      "source_hash": "0a8e2da183e5",
+      "target": "Click <b>Edit</b>, then <b>Next</b> until you reach the <b>Budget</b> field.",
+      "translated_from_hash": "0a8e2da183e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Enter the budget amount and save.",
+      "source_hash": "b1c94721caaa",
+      "target": "Enter the budget amount and save.",
+      "translated_from_hash": "b1c94721caaa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Guiding participants during voting",
+      "source_hash": "5323338299c3",
+      "target": "Guiding participants during voting",
+      "translated_from_hash": "5323338299c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Users see clear voting instructions (cannot be edited).",
+      "source_hash": "a9ff7c8e0015",
+      "target": "Users see clear voting instructions (cannot be edited).",
+      "translated_from_hash": "a9ff7c8e0015",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "After voting ends, participants are directed to view results.",
+      "source_hash": "11f22ac0ea03",
+      "target": "After voting ends, participants are directed to view results.",
+      "translated_from_hash": "11f22ac0ea03",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Admins can choose whether results are:",
+      "source_hash": "46064b785625",
+      "target": "Admins can choose whether results are:",
+      "translated_from_hash": "46064b785625",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Automatically shared when voting ends, or",
+      "source_hash": "1fae34564fd8",
+      "target": "Automatically shared when voting ends, or",
+      "translated_from_hash": "1fae34564fd8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Held back for manual release.",
+      "source_hash": "21933a66950c",
+      "target": "Held back for manual release.",
+      "translated_from_hash": "21933a66950c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "How to manage and monitor votes?",
+      "source_hash": "8469e0057181",
+      "target": "How to manage and monitor votes?",
+      "translated_from_hash": "8469e0057181",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Live Monitoring",
+      "source_hash": "8a3945ff6086",
+      "target": "Live Monitoring",
+      "translated_from_hash": "8a3945ff6086",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "View votes in real time in the Input Manager.",
+      "source_hash": "4b2c5a078fb7",
+      "target": "View votes in real time in the Input Manager.",
+      "translated_from_hash": "4b2c5a078fb7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Online votes and offline votes appear in separate columns.",
+      "source_hash": "a6af9edbc002",
+      "target": "Online votes and offline votes appear in separate columns.",
+      "translated_from_hash": "a6af9edbc002",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Only admins and project managers can monitor the votes in real-time.",
+      "source_hash": "29b22dd8e08e",
+      "target": "Only admins and project managers can monitor the votes in real-time.",
+      "translated_from_hash": "29b22dd8e08e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Adding Offline Votes",
+      "source_hash": "26e74ac061ab",
+      "target": "Adding Offline Votes",
+      "translated_from_hash": "26e74ac061ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Go to <b>Input Manager</b> → select an option → manually enter offline votes.",
+      "source_hash": "94f378e39b96",
+      "target": "Go to <b>Input Manager</b> → select an option → manually enter offline votes.",
+      "translated_from_hash": "94f378e39b96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "How to export and report on voting results?",
+      "source_hash": "e33760b53070",
+      "target": "How to export and report on voting results?",
+      "translated_from_hash": "e33760b53070",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Export votes per user or votes per contribution via Input Manager.",
+      "source_hash": "e460d25b252d",
+      "target": "Export votes per user or votes per contribution via Input Manager.",
+      "translated_from_hash": "e460d25b252d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Results can be shared publicly or held for internal analysis. You can enable or disable automatic sharing of results in the 'Setup' of your Phase Settings by toggling the 'auto share results' toggle.",
+      "source_hash": "ddf1f11e54c7",
+      "target": "Results can be shared publicly or held for internal analysis. You can enable or disable automatic sharing of results in the 'Setup' of your Phase Settings by toggling the 'auto share results' toggle.",
+      "translated_from_hash": "ddf1f11e54c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Voting phase automatically closes when its end date is reached (set in Phase Settings).",
+      "source_hash": "5dc35dd16497",
+      "target": "Voting phase automatically closes when its end date is reached (set in Phase Settings).",
+      "translated_from_hash": "5dc35dd16497",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "How to close the voting phase?",
+      "source_hash": "16aaf2536e58",
+      "target": "How to close the voting phase?",
+      "translated_from_hash": "16aaf2536e58",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "When the phase date ends, voting stops automatically.",
+      "source_hash": "b3911516f2e4",
+      "target": "When the phase date ends, voting stops automatically.",
+      "translated_from_hash": "b3911516f2e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Results are shown based on the setting in Phase Settings.",
+      "source_hash": "cfedf6faaa0e",
+      "target": "Results are shown based on the setting in Phase Settings.",
+      "translated_from_hash": "cfedf6faaa0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "If results are not automatically shared, admins can manually release them later.",
+      "source_hash": "678b368bf2ea",
+      "target": "If results are not automatically shared, admins can manually release them later.",
+      "translated_from_hash": "678b368bf2ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Voting limitations and best practices",
+      "source_hash": "1c30681dba14",
+      "target": "Voting limitations and best practices",
+      "translated_from_hash": "1c30681dba14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "“Cast your vote” instructions or the “Submit\" button cannot be edited.",
+      "source_hash": "679ad7674f65",
+      "target": "“Cast your vote” instructions or the “Submit\" button cannot be edited.",
+      "translated_from_hash": "679ad7674f65",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "For budget voting, currency settings apply platform-wide (not per project).",
+      "source_hash": "25193e1ecb2b",
+      "target": "For budget voting, currency settings apply platform-wide (not per project).",
+      "translated_from_hash": "25193e1ecb2b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Encourage admins to test a voting phase early—phase must be active to test.",
+      "source_hash": "87bf6d77db00",
+      "target": "Encourage admins to test a voting phase early—phase must be active to test.",
+      "translated_from_hash": "87bf6d77db00",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "article_id": "527578",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Use GoVocal Data in PowerBI",
+      "source_hash": "a966ba2ec51c",
+      "target": "Use GoVocal Data in PowerBI",
+      "translated_from_hash": "a966ba2ec51c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "How to use the PowerBI templates to access GoVocal Data in your PowerBI Workspace",
+      "source_hash": "8ac0770dbd67",
+      "target": "How to use the PowerBI templates to access GoVocal Data in your PowerBI Workspace",
+      "translated_from_hash": "8ac0770dbd67",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are PowerBI templates?",
+      "source_hash": "c58271fd27b2",
+      "target": "What are PowerBI templates?",
+      "translated_from_hash": "c58271fd27b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The GoVocal Power BI templates help you visualize engagement data in your own Power BI environment via API integration.",
+      "source_hash": "6d89add6e3ff",
+      "target": "The GoVocal Power BI templates help you visualize engagement data in your own Power BI environment via API integration.",
+      "translated_from_hash": "6d89add6e3ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "There are two available templates:",
+      "source_hash": "85622cd32a07",
+      "target": "There are two available templates:",
+      "translated_from_hash": "85622cd32a07",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Report template (.pbit): Creates a prebuilt Power BI report using your platform data",
+      "source_hash": "941e21c33f8e",
+      "target": "Report template (.pbit): Creates a prebuilt Power BI report using your platform data",
+      "translated_from_hash": "941e21c33f8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Dataflow template (.json): Sets up a Power BI dataflow to retrieve and transform platform data",
+      "source_hash": "9fc0dd8369be",
+      "target": "Dataflow template (.json): Sets up a Power BI dataflow to retrieve and transform platform data",
+      "translated_from_hash": "9fc0dd8369be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>ℹ️ </b>Access to this feature depends on your plan and is only available to Premium customers.",
+      "source_hash": "f7fd0b7edc62",
+      "target": "<b>ℹ️ </b>Access to this feature depends on your plan and is only available to Premium customers.",
+      "translated_from_hash": "f7fd0b7edc62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "How to download PowerBI templates?",
+      "source_hash": "50408b494f27",
+      "target": "How to download PowerBI templates?",
+      "translated_from_hash": "50408b494f27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Go to the Tools page in the back office",
+      "source_hash": "fb21e992c213",
+      "target": "Go to the Tools page in the back office",
+      "translated_from_hash": "fb21e992c213",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Click <b>Download templates</b> to access:",
+      "source_hash": "a4cceec1ffc6",
+      "target": "Click <b>Download templates</b> to access:",
+      "translated_from_hash": "a4cceec1ffc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<code>.pbit</code> report template",
+      "source_hash": "acabc7ffa946",
+      "target": "<code>.pbit</code> report template",
+      "translated_from_hash": "acabc7ffa946",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<code>.json</code> dataflow template",
+      "source_hash": "7370f9b487e8",
+      "target": "<code>.json</code> dataflow template",
+      "translated_from_hash": "7370f9b487e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Each template is preconfigured to connect with the GoVocal API once credentials are added.",
+      "source_hash": "7cd932156ca8",
+      "target": "Each template is preconfigured to connect with the GoVocal API once credentials are added.",
+      "translated_from_hash": "7cd932156ca8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "How to use the report template? (.pbit)",
+      "source_hash": "d86394ae8e3c",
+      "target": "How to use the report template? (.pbit)",
+      "translated_from_hash": "d86394ae8e3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Open the <code>.pbit</code> file in Power BI Desktop",
+      "source_hash": "4160e528b3ed",
+      "target": "Open the <code>.pbit</code> file in Power BI Desktop",
+      "translated_from_hash": "4160e528b3ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "When prompted, enter your API client ID and secret (learn how to create API credentials below)",
+      "source_hash": "6e0cc65dfba6",
+      "target": "When prompted, enter your API client ID and secret (learn how to create API credentials below)",
+      "translated_from_hash": "6e0cc65dfba6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "The data model and default dashboards will load automatically",
+      "source_hash": "8f96cd3edb53",
+      "target": "The data model and default dashboards will load automatically",
+      "translated_from_hash": "8f96cd3edb53",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "You can customize the report further by editing visuals and queries in Power BI.",
+      "source_hash": "d7206d67aeb1",
+      "target": "You can customize the report further by editing visuals and queries in Power BI.",
+      "translated_from_hash": "d7206d67aeb1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to use the dataflow template? (.json)",
+      "source_hash": "c37db12f1b8e",
+      "target": "How to use the dataflow template? (.json)",
+      "translated_from_hash": "c37db12f1b8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Open the <code>.json</code> file in a text editor",
+      "source_hash": "4f00f630e962",
+      "target": "Open the <code>.json</code> file in a text editor",
+      "translated_from_hash": "4f00f630e962",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Replace:",
+      "source_hash": "447541c54764",
+      "target": "Replace:",
+      "translated_from_hash": "447541c54764",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<code>##CLIENT_ID##</code> → your API client ID",
+      "source_hash": "21924c276845",
+      "target": "<code>##CLIENT_ID##</code> → your API client ID",
+      "translated_from_hash": "21924c276845",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<code>##CLIENT_SECRET##</code> → your API client secret",
+      "source_hash": "782ef2676184",
+      "target": "<code>##CLIENT_SECRET##</code> → your API client secret",
+      "translated_from_hash": "782ef2676184",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Upload the updated file to Power BI to set up the dataflow",
+      "source_hash": "e967a82f382c",
+      "target": "Upload the updated file to Power BI to set up the dataflow",
+      "translated_from_hash": "e967a82f382c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "This setup allows for recurring refreshes and centralized data modeling in Power BI service.",
+      "source_hash": "93aa06e72749",
+      "target": "This setup allows for recurring refreshes and centralized data modeling in Power BI service.",
+      "translated_from_hash": "93aa06e72749",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "How to create API credentials?",
+      "source_hash": "1720dff969f2",
+      "target": "How to create API credentials?",
+      "translated_from_hash": "1720dff969f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Go to the Tools page in the back office",
+      "source_hash": "fb21e992c213",
+      "target": "Go to the Tools page in the back office",
+      "translated_from_hash": "fb21e992c213",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Click <b>Manage API Keys</b>",
+      "source_hash": "eb98b796dbad",
+      "target": "Click <b>Manage API Keys</b>",
+      "translated_from_hash": "eb98b796dbad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Click <b>Create new token</b>",
+      "source_hash": "33a3552784f4",
+      "target": "Click <b>Create new token</b>",
+      "translated_from_hash": "33a3552784f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Copy the ID and Secret",
+      "source_hash": "54c1c9c71900",
+      "target": "Copy the ID and Secret",
+      "translated_from_hash": "54c1c9c71900",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "⚠️ The secret is only shown once, so store it securely",
+      "source_hash": "3d93efa7c4c5",
+      "target": "⚠️ The secret is only shown once, so store it securely",
+      "translated_from_hash": "3d93efa7c4c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "You will use this client ID and secret in both the <code>.pbit</code> and <code>.json</code> templates.",
+      "source_hash": "2bdb1d5001bd",
+      "target": "You will use this client ID and secret in both the <code>.pbit</code> and <code>.json</code> templates.",
+      "translated_from_hash": "2bdb1d5001bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "API limitation and documentation",
+      "source_hash": "4096ba95fee9",
+      "target": "API limitation and documentation",
+      "translated_from_hash": "4096ba95fee9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "The public API is read-only, meaning you can only fetch (not modify) data.",
+      "source_hash": "bd459bf8aa9f",
+      "target": "The public API is read-only, meaning you can only fetch (not modify) data.",
+      "translated_from_hash": "bd459bf8aa9f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Suitable for dashboards, analysis, and reporting",
+      "source_hash": "cd8c79a34ae0",
+      "target": "Suitable for dashboards, analysis, and reporting",
+      "translated_from_hash": "cd8c79a34ae0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Not intended for write/delete operations",
+      "source_hash": "cabdec4426d3",
+      "target": "Not intended for write/delete operations",
+      "translated_from_hash": "cabdec4426d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Full API documentation is available in the back office under <b>Tools &gt; API Documentation</b>",
+      "source_hash": "f50fd0acdedf",
+      "target": "Full API documentation is available in the back office under <b>Tools &gt; API Documentation</b>",
+      "translated_from_hash": "f50fd0acdedf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Need support? Reach out to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "source_hash": "aed87c22e274",
+      "target": "Need support? Reach out to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "translated_from_hash": "aed87c22e274",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

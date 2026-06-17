@@ -1,0 +1,637 @@
+{
+  "article_id": "527580",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "AI Analysis",
+      "source_hash": "c8438a13b9dd",
+      "target": "AI Analysis",
+      "translated_from_hash": "c8438a13b9dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "AI analysis overview",
+      "source_hash": "ee16b8529db3",
+      "target": "AI analysis overview",
+      "translated_from_hash": "ee16b8529db3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The AI Analysis feature helps admins quickly understand, categorize, and analyze large volumes of resident input. It works for both ideation and surveys, offering:",
+      "source_hash": "570b5ea2c13b",
+      "target": "The AI Analysis feature helps admins quickly understand, categorize, and analyze large volumes of resident input. It works for both ideation and surveys, offering:",
+      "translated_from_hash": "570b5ea2c13b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Qualitative analysis:</b> Summarizing textual input from ideas, comments, or survey responses",
+      "source_hash": "88b0f0faef2c",
+      "target": "<b>Qualitative analysis:</b> Summarizing textual input from ideas, comments, or survey responses",
+      "translated_from_hash": "88b0f0faef2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Quantitative analysis</b> : Exploring correlations between demographics, tags, and survey responses",
+      "source_hash": "41ec3f11ec6e",
+      "target": "<b>Quantitative analysis</b> : Exploring correlations between demographics, tags, and survey responses",
+      "translated_from_hash": "41ec3f11ec6e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "ℹ️ Access to this feature depends on your plan.",
+      "source_hash": "3927e100e8ce",
+      "target": "ℹ️ Access to this feature depends on your plan.",
+      "translated_from_hash": "3927e100e8ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "AI analysis interface",
+      "source_hash": "720be2222e55",
+      "target": "AI analysis interface",
+      "translated_from_hash": "720be2222e55",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "The interface has four main columns:",
+      "source_hash": "7a7065f07981",
+      "target": "The interface has four main columns:",
+      "translated_from_hash": "7a7065f07981",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Tag Management:</b> Create and manage tags to group inputs",
+      "source_hash": "ec769cb7ae86",
+      "target": "<b>Tag Management:</b> Create and manage tags to group inputs",
+      "translated_from_hash": "ec769cb7ae86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Input List:</b> Shows all contributions to analyze",
+      "source_hash": "1edbda82062b",
+      "target": "<b>Input List:</b> Shows all contributions to analyze",
+      "translated_from_hash": "1edbda82062b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>User &amp; Filter View:</b> View anonymized user responses, apply filters, or drill into comments",
+      "source_hash": "504cb83232bf",
+      "target": "<b>User &amp; Filter View:</b> View anonymized user responses, apply filters, or drill into comments",
+      "translated_from_hash": "504cb83232bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Summaries &amp; Questions:</b> Summarize filtered inputs or ask AI for insights",
+      "source_hash": "ee1b67173b13",
+      "target": "<b>Summaries &amp; Questions:</b> Summarize filtered inputs or ask AI for insights",
+      "translated_from_hash": "ee1b67173b13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "How to use AI analysis for ideation/proposals?",
+      "source_hash": "579b06f77909",
+      "target": "How to use AI analysis for ideation/proposals?",
+      "translated_from_hash": "579b06f77909",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Go to the project’s <b>Input Manager</b>",
+      "source_hash": "c3eacf628c8b",
+      "target": "Go to the project’s <b>Input Manager</b>",
+      "translated_from_hash": "c3eacf628c8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Click the blue <b>Open AI Analysis</b> widget",
+      "source_hash": "7a2492d7ac99",
+      "target": "Click the blue <b>Open AI Analysis</b> widget",
+      "translated_from_hash": "7a2492d7ac99",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Summarize inputs and comments (scroll to the comment section in column 3)",
+      "source_hash": "1c2be225a2e9",
+      "target": "Summarize inputs and comments (scroll to the comment section in column 3)",
+      "translated_from_hash": "1c2be225a2e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Use filters (e.g., by demographics) to narrow focus before summarizing",
+      "source_hash": "7dd873c4de32",
+      "target": "Use filters (e.g., by demographics) to narrow focus before summarizing",
+      "translated_from_hash": "7dd873c4de32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to use AI analysis for surveys?",
+      "source_hash": "83b5ba7d9898",
+      "target": "How to use AI analysis for surveys?",
+      "translated_from_hash": "83b5ba7d9898",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Go to the <b>Survey Results</b> page",
+      "source_hash": "4d4781845bf3",
+      "target": "Go to the <b>Survey Results</b> page",
+      "translated_from_hash": "4d4781845bf3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Scroll down to the question you want to analyze",
+      "source_hash": "2d25c887d996",
+      "target": "Scroll down to the question you want to analyze",
+      "translated_from_hash": "2d25c887d996",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Click <b>Explore </b>to add the questions to the analysis",
+      "source_hash": "ff190cbdabe4",
+      "target": "Click <b>Explore </b>to add the questions to the analysis",
+      "translated_from_hash": "ff190cbdabe4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Optionally, add follow-up questions for deeper analysis",
+      "source_hash": "39a1e098f3e6",
+      "target": "Optionally, add follow-up questions for deeper analysis",
+      "translated_from_hash": "39a1e098f3e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "How to filter and preview inputs?",
+      "source_hash": "85fae79fe31d",
+      "target": "How to filter and preview inputs?",
+      "translated_from_hash": "85fae79fe31d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Filter by timeframe, engagement level, or demographics",
+      "source_hash": "cbdc7af17ea1",
+      "target": "Filter by timeframe, engagement level, or demographics",
+      "translated_from_hash": "cbdc7af17ea1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Preview how answers distribute across demographics (only for users who completed their profile)",
+      "source_hash": "f280d69ca663",
+      "target": "Preview how answers distribute across demographics (only for users who completed their profile)",
+      "translated_from_hash": "f280d69ca663",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "ℹ️ Engagement level filter is only available for ideation/proposals projects",
+      "source_hash": "cb10b8ec066c",
+      "target": "ℹ️ Engagement level filter is only available for ideation/proposals projects",
+      "translated_from_hash": "cb10b8ec066c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "How to use summarize and ask a question?",
+      "source_hash": "14e7960f2df8",
+      "target": "How to use summarize and ask a question?",
+      "translated_from_hash": "14e7960f2df8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Use <b>Summarize</b> to create a digest of selected inputs",
+      "source_hash": "0a7d9d04be53",
+      "target": "Use <b>Summarize</b> to create a digest of selected inputs",
+      "translated_from_hash": "0a7d9d04be53",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Use <b>Ask a Question</b> to probe further",
+      "source_hash": "e04d008b18ae",
+      "target": "Use <b>Ask a Question</b> to probe further",
+      "translated_from_hash": "e04d008b18ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Check in-line references and validate with original inputs",
+      "source_hash": "465fa32e03d2",
+      "target": "Check in-line references and validate with original inputs",
+      "translated_from_hash": "465fa32e03d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Drag summaries into platform or project reports (summaries appear in the “AI” tab)",
+      "source_hash": "85a838a72ecd",
+      "target": "Drag summaries into platform or project reports (summaries appear in the “AI” tab)",
+      "translated_from_hash": "85a838a72ecd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Tagging methods in AI analysis",
+      "source_hash": "732a89d6e65e",
+      "target": "Tagging methods in AI analysis",
+      "translated_from_hash": "732a89d6e65e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Tagging helps cluster and interpret user input. The tool supports:",
+      "source_hash": "608fad8b996a",
+      "target": "Tagging helps cluster and interpret user input. The tool supports:",
+      "translated_from_hash": "608fad8b996a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Fully automated tagging:</b> AI assigns common tags.",
+      "source_hash": "ad51379ddb1d",
+      "target": "<b>Fully automated tagging:</b> AI assigns common tags.",
+      "translated_from_hash": "ad51379ddb1d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "<b>By label:</b> Create your own tags.",
+      "source_hash": "b9f85250069f",
+      "target": "<b>By label:</b> Create your own tags.",
+      "translated_from_hash": "b9f85250069f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>By example:</b> Provide manual examples to teach AI tagging.",
+      "source_hash": "19f899db58f1",
+      "target": "<b>By example:</b> Provide manual examples to teach AI tagging.",
+      "translated_from_hash": "19f899db58f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Sentiment tagging:</b> Mark input as positive or negative.",
+      "source_hash": "bd782ed394ff",
+      "target": "<b>Sentiment tagging:</b> Mark input as positive or negative.",
+      "translated_from_hash": "bd782ed394ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Language detection:</b> Identify the input language.",
+      "source_hash": "ae745e31e3b5",
+      "target": "<b>Language detection:</b> Identify the input language.",
+      "translated_from_hash": "ae745e31e3b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Manual tagging:</b> For full control, you can tag every input manually.",
+      "source_hash": "cad64b490728",
+      "target": "<b>Manual tagging:</b> For full control, you can tag every input manually.",
+      "translated_from_hash": "cad64b490728",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "What are auto insights?",
+      "source_hash": "eb497ca7eb22",
+      "target": "What are auto insights?",
+      "translated_from_hash": "eb497ca7eb22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Auto‑Insights connects tags, demographics, and survey questions to uncover patterns.",
+      "source_hash": "ba18404ce61e",
+      "target": "Auto‑Insights connects tags, demographics, and survey questions to uncover patterns.",
+      "translated_from_hash": "ba18404ce61e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Displays key correlations (e.g., which age group engages with which tag)",
+      "source_hash": "d2e13ac2a350",
+      "target": "Displays key correlations (e.g., which age group engages with which tag)",
+      "translated_from_hash": "d2e13ac2a350",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Includes a heatmap view, with boxes marked if a correlation is statistically significant",
+      "source_hash": "a3de877da8f7",
+      "target": "Includes a heatmap view, with boxes marked if a correlation is statistically significant",
+      "translated_from_hash": "a3de877da8f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Unit of analysis can be switched between:",
+      "source_hash": "b0dabb67c85e",
+      "target": "Unit of analysis can be switched between:",
+      "translated_from_hash": "b0dabb67c85e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Inputs (contributions)",
+      "source_hash": "ab283b16c9e5",
+      "target": "Inputs (contributions)",
+      "translated_from_hash": "ab283b16c9e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Likes",
+      "source_hash": "cca0662f9ddd",
+      "target": "Likes",
+      "translated_from_hash": "cca0662f9ddd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Dislikes",
+      "source_hash": "c9d5a333a663",
+      "target": "Dislikes",
+      "translated_from_hash": "c9d5a333a663",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Participants",
+      "source_hash": "0e27279b3302",
+      "target": "Participants",
+      "translated_from_hash": "0e27279b3302",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<b>Difference:</b>",
+      "source_hash": "2411df153c2d",
+      "target": "<b>Difference:</b>",
+      "translated_from_hash": "2411df153c2d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "In <b>ideation</b>, Auto‑Insights connects demographics to tags",
+      "source_hash": "de8e2ca2bcf6",
+      "target": "In <b>ideation</b>, Auto‑Insights connects demographics to tags",
+      "translated_from_hash": "de8e2ca2bcf6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "In <b>surveys</b>, Auto‑Insights links demographics, tags, and survey questions",
+      "source_hash": "9bd852668902",
+      "target": "In <b>surveys</b>, Auto‑Insights links demographics, tags, and survey questions",
+      "translated_from_hash": "9bd852668902",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "You can get into the auto-insights by pressing <b>explore</b> below the demographic information of the AI tool interface.",
+      "source_hash": "7dfc757a8df9",
+      "target": "You can get into the auto-insights by pressing <b>explore</b> below the demographic information of the AI tool interface.",
+      "translated_from_hash": "7dfc757a8df9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Why is human oversight recommended?",
+      "source_hash": "10b3d7467933",
+      "target": "Why is human oversight recommended?",
+      "translated_from_hash": "10b3d7467933",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "The <b>Summarize</b> and <b>Ask a Question</b> tools generate quick insights but require human oversight.",
+      "source_hash": "46fe079f7de8",
+      "target": "The <b>Summarize</b> and <b>Ask a Question</b> tools generate quick insights but require human oversight.",
+      "translated_from_hash": "46fe079f7de8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Summaries include clickable references to original inputs for transparency",
+      "source_hash": "4d685a163a34",
+      "target": "Summaries include clickable references to original inputs for transparency",
+      "translated_from_hash": "4d685a163a34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Overloading the AI with too many inputs can reduce accuracy—filters &amp; tags help",
+      "source_hash": "59031f311209",
+      "target": "Overloading the AI with too many inputs can reduce accuracy—filters &amp; tags help",
+      "translated_from_hash": "59031f311209",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Missing in-line references may happen for reasons like:",
+      "source_hash": "62e71989e45c",
+      "target": "Missing in-line references may happen for reasons like:",
+      "translated_from_hash": "62e71989e45c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Contextual relevance</b> (references not needed)",
+      "source_hash": "92a4e5b92a68",
+      "target": "<b>Contextual relevance</b> (references not needed)",
+      "translated_from_hash": "92a4e5b92a68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Balancing readability</b> (avoiding excessive citations)",
+      "source_hash": "b88a1ae0e63c",
+      "target": "<b>Balancing readability</b> (avoiding excessive citations)",
+      "translated_from_hash": "b88a1ae0e63c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<b>System refinements</b> (constantly improving)",
+      "source_hash": "4a8b2a070aa3",
+      "target": "<b>System refinements</b> (constantly improving)",
+      "translated_from_hash": "4a8b2a070aa3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "⚠️ Summaries are not 100% accurate. Always cross-check key findings with the original data.",
+      "source_hash": "bc3c21e638c7",
+      "target": "⚠️ Summaries are not 100% accurate. Always cross-check key findings with the original data.",
+      "translated_from_hash": "bc3c21e638c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "AI Masterclass",
+      "source_hash": "54811560576b",
+      "target": "AI Masterclass",
+      "translated_from_hash": "54811560576b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "For a complete demonstration of our AI Analysis tool, check out the recording of our AI Masterclass. Select your language for the appropriate recording.",
+      "source_hash": "1b32894cf245",
+      "target": "For a complete demonstration of our AI Analysis tool, check out the recording of our AI Masterclass. Select your language for the appropriate recording.",
+      "translated_from_hash": "1b32894cf245",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/92271d4a-01f9-460a-8a4b-ed1c09239bd7\" target=\"_blank\">English</a> (North America)",
+      "source_hash": "17f840630ff6",
+      "target": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/92271d4a-01f9-460a-8a4b-ed1c09239bd7\" target=\"_blank\">English</a> (North America)",
+      "translated_from_hash": "17f840630ff6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/c2cc3878-85f9-4406-8c45-fdf995451381\" target=\"_blank\">English</a> (UK)",
+      "source_hash": "9b239709d6f3",
+      "target": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/c2cc3878-85f9-4406-8c45-fdf995451381\" target=\"_blank\">English</a> (UK)",
+      "translated_from_hash": "9b239709d6f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/a7534ce7-62f1-4f3b-9a99-80b6b2ba0eb6\" target=\"_blank\">Dutch</a>",
+      "source_hash": "3ef855d84f15",
+      "target": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/a7534ce7-62f1-4f3b-9a99-80b6b2ba0eb6\" target=\"_blank\">Dutch</a>",
+      "translated_from_hash": "3ef855d84f15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/c0b4ed92-df4e-495c-8a8e-0aaa64a07c18\" target=\"_blank\">German</a>",
+      "source_hash": "e4ec4cc50e5c",
+      "target": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/c0b4ed92-df4e-495c-8a8e-0aaa64a07c18\" target=\"_blank\">German</a>",
+      "translated_from_hash": "e4ec4cc50e5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/7c4947a5-5014-437e-95fa-2f11ef1c9c69\" target=\"_blank\">French</a><br/>​<br/>​",
+      "source_hash": "6f25e5b854da",
+      "target": "<a class=\"intercom-content-link\" href=\"https://community.govocal.com/events/7c4947a5-5014-437e-95fa-2f11ef1c9c69\" target=\"_blank\">French</a><br/>​<br/>​",
+      "translated_from_hash": "6f25e5b854da",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

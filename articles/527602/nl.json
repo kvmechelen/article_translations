@@ -1,0 +1,1060 @@
+{
+  "article_id": "527602",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Creating an in-platform survey",
+      "source_hash": "0d8c6ddbcac3",
+      "target": "Creating an in-platform survey",
+      "translated_from_hash": "0d8c6ddbcac3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "You can build survey using our in-house developed survey tool",
+      "source_hash": "76c70548432f",
+      "target": "You can build survey using our in-house developed survey tool",
+      "translated_from_hash": "76c70548432f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What is the in-platform survey tool?",
+      "source_hash": "41b6ba3da1e9",
+      "target": "What is the in-platform survey tool?",
+      "translated_from_hash": "41b6ba3da1e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The GoVocal in-platform survey tool lets admins and project managers create and manage surveys entirely within the platform, no external tools required. It supports:",
+      "source_hash": "4005818e39b1",
+      "target": "The GoVocal in-platform survey tool lets admins and project managers create and manage surveys entirely within the platform, no external tools required. It supports:",
+      "translated_from_hash": "4005818e39b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "A wide variety of question types (short answer, multiple choice, linear scale, mapping questions, etc.)",
+      "source_hash": "b8bc647c42f3",
+      "target": "A wide variety of question types (short answer, multiple choice, linear scale, mapping questions, etc.)",
+      "translated_from_hash": "b8bc647c42f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Real-time result tracking and Excel exports",
+      "source_hash": "ab1c635d8fa3",
+      "target": "Real-time result tracking and Excel exports",
+      "translated_from_hash": "ab1c635d8fa3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Optional logic to personalize survey flows",
+      "source_hash": "2b931edc0244",
+      "target": "Optional logic to personalize survey flows",
+      "translated_from_hash": "2b931edc0244",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Full integration with platform access rights and anonymity settings",
+      "source_hash": "d17be124d732",
+      "target": "Full integration with platform access rights and anonymity settings",
+      "translated_from_hash": "d17be124d732",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "It’s designed to lower barriers for participation, consolidate data collection, and streamline reporting.",
+      "source_hash": "fb98c5fa30f9",
+      "target": "It’s designed to lower barriers for participation, consolidate data collection, and streamline reporting.",
+      "translated_from_hash": "fb98c5fa30f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "What are the key capabilities of the survey tool?",
+      "source_hash": "7e163f78b208",
+      "target": "What are the key capabilities of the survey tool?",
+      "translated_from_hash": "7e163f78b208",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Different Question Types:</b> from short/long text to advanced mapping and ESRI shapefile upload",
+      "source_hash": "ff754c7dca32",
+      "target": "<b>Different Question Types:</b> from short/long text to advanced mapping and ESRI shapefile upload",
+      "translated_from_hash": "ff754c7dca32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Pages:</b> organize long surveys into sections; include normal pages or map-based pages with contextual layers",
+      "source_hash": "63f506c9c65c",
+      "target": "<b>Pages:</b> organize long surveys into sections; include normal pages or map-based pages with contextual layers",
+      "translated_from_hash": "63f506c9c65c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Logic:</b> route users to relevant questions or pages based on answers",
+      "source_hash": "d70d12ea1542",
+      "target": "<b>Logic:</b> route users to relevant questions or pages based on answers",
+      "translated_from_hash": "d70d12ea1542",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Anonymity toggle:</b> allow anonymous submissions (see: <i>Enabling anonymous participation</i>)",
+      "source_hash": "19654bcd2d64",
+      "target": "<b>Anonymity toggle:</b> allow anonymous submissions (see: <i>Enabling anonymous participation</i>)",
+      "translated_from_hash": "19654bcd2d64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Reporting:</b> generate project reports, download raw data, and visualize mapping questions",
+      "source_hash": "5264fa4bebde",
+      "target": "<b>Reporting:</b> generate project reports, download raw data, and visualize mapping questions",
+      "translated_from_hash": "5264fa4bebde",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Limitations:</b> some question types (e.g. mapping, file upload) can’t be bulk-imported (see: <i>Bulk import paper ideas)</i>",
+      "source_hash": "47653444d7c1",
+      "target": "<b>Limitations:</b> some question types (e.g. mapping, file upload) can’t be bulk-imported (see: <i>Bulk import paper ideas)</i>",
+      "translated_from_hash": "47653444d7c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Saved answers if you exit early:</b> if you wish to exist the survey and come back later your answers will be saved so you don't have to start again from scratch! and email will also be sent to you to remind you to finish and submit the survey you started.",
+      "source_hash": "3c65899007e9",
+      "target": "<b>Saved answers if you exit early:</b> if you wish to exist the survey and come back later your answers will be saved so you don't have to start again from scratch! and email will also be sent to you to remind you to finish and submit the survey you started.",
+      "translated_from_hash": "3c65899007e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "What are the different question types?",
+      "source_hash": "2e3427bc7da4",
+      "target": "What are the different question types?",
+      "translated_from_hash": "2e3427bc7da4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Every question can be:",
+      "source_hash": "76fa473901ee",
+      "target": "Every question can be:",
+      "translated_from_hash": "76fa473901ee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Mandatory or optional",
+      "source_hash": "7522f74d2fd3",
+      "target": "Mandatory or optional",
+      "translated_from_hash": "7522f74d2fd3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "in the settings of each question type if you scroll to the bottom there is a toggle that you can turn on called <b>Make answering this question required</b> - you can toggle it on to make the question required or leave it off to make the question optional",
+      "source_hash": "b8d4453d8206",
+      "target": "in the settings of each question type if you scroll to the bottom there is a toggle that you can turn on called <b>Make answering this question required</b> - you can toggle it on to make the question required or leave it off to make the question optional",
+      "translated_from_hash": "b8d4453d8206",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Given a title, description, and extra instructions",
+      "source_hash": "aa006caf59f3",
+      "target": "Given a title, description, and extra instructions",
+      "translated_from_hash": "aa006caf59f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Supported question types:",
+      "source_hash": "6b88da6f17a8",
+      "target": "Supported question types:",
+      "translated_from_hash": "6b88da6f17a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Short answer / Long answer</b> (with AI summarization if enabled)",
+      "source_hash": "25b0a8d22da8",
+      "target": "<b>Short answer / Long answer</b> (with AI summarization if enabled)",
+      "translated_from_hash": "25b0a8d22da8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Single choice</b> (radio buttons; supports “Other,” randomize order, dropdown view)",
+      "source_hash": "6865898ffdd0",
+      "target": "<b>Single choice</b> (radio buttons; supports “Other,” randomize order, dropdown view)",
+      "translated_from_hash": "6865898ffdd0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Multiple choice</b> (checkboxes; supports “Other,” randomize, dropdown view)",
+      "source_hash": "6baef47bbdb0",
+      "target": "<b>Multiple choice</b> (checkboxes; supports “Other,” randomize, dropdown view)",
+      "translated_from_hash": "6baef47bbdb0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Image choice</b> (choose between images; can limit required selections)",
+      "source_hash": "cb1264f5377e",
+      "target": "<b>Image choice</b> (choose between images; can limit required selections)",
+      "translated_from_hash": "cb1264f5377e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Linear scale</b> (e.g., 1–5 ratings)",
+      "source_hash": "b45ad2a50eca",
+      "target": "<b>Linear scale</b> (e.g., 1–5 ratings)",
+      "translated_from_hash": "b45ad2a50eca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Matrix</b> (rows &amp; columns; less mobile‑friendly, design carefully)",
+      "source_hash": "624717f05f31",
+      "target": "<b>Matrix</b> (rows &amp; columns; less mobile‑friendly, design carefully)",
+      "translated_from_hash": "624717f05f31",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Ranking</b> (drag‑and‑drop or number input for priority order)",
+      "source_hash": "80c738ff309c",
+      "target": "<b>Ranking</b> (drag‑and‑drop or number input for priority order)",
+      "translated_from_hash": "80c738ff309c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Rating</b> (star ratings up to 10)",
+      "source_hash": "dd63a64310b3",
+      "target": "<b>Rating</b> (star ratings up to 10)",
+      "translated_from_hash": "dd63a64310b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Sentiment scale</b> (emoji‑based feeling capture)",
+      "source_hash": "7a985cf1dc1f",
+      "target": "<b>Sentiment scale</b> (emoji‑based feeling capture)",
+      "translated_from_hash": "7a985cf1dc1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Number</b> (numeric only)",
+      "source_hash": "875c893d24d8",
+      "target": "<b>Number</b> (numeric only)",
+      "translated_from_hash": "875c893d24d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>File upload</b> (up to 50MB; files stored as URLs in exports)",
+      "source_hash": "05dd40d85820",
+      "target": "<b>File upload</b> (up to 50MB; files stored as URLs in exports)",
+      "translated_from_hash": "05dd40d85820",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Only 1 file can be uploaded per question. To allow for more files, create a new file upload question",
+      "source_hash": "1e67f4dee4e5",
+      "target": "Only 1 file can be uploaded per question. To allow for more files, create a new file upload question",
+      "translated_from_hash": "1e67f4dee4e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "⚠️ Ranking, Matrix, File Upload, and all Mapping questions cannot be uploaded back via offline imports.",
+      "source_hash": "3804661a334f",
+      "target": "⚠️ Ranking, Matrix, File Upload, and all Mapping questions cannot be uploaded back via offline imports.",
+      "translated_from_hash": "3804661a334f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Mapping question types (Map‑Based Survey Toolbox):",
+      "source_hash": "59f4ea8b5d63",
+      "target": "Mapping question types (Map‑Based Survey Toolbox):",
+      "translated_from_hash": "59f4ea8b5d63",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Drop Pin",
+      "source_hash": "ed1c975015b0",
+      "target": "Drop Pin",
+      "translated_from_hash": "ed1c975015b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Draw Route/Line",
+      "source_hash": "2b7a4d8ba038",
+      "target": "Draw Route/Line",
+      "translated_from_hash": "2b7a4d8ba038",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Draw Area/Polygon",
+      "source_hash": "eac95514738e",
+      "target": "Draw Area/Polygon",
+      "translated_from_hash": "eac95514738e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "ESRI Shapefile Upload",
+      "source_hash": "8a46bbd730f4",
+      "target": "ESRI Shapefile Upload",
+      "translated_from_hash": "8a46bbd730f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "ℹ️ Notes on mapping questions:",
+      "source_hash": "c9084f01d6df",
+      "target": "ℹ️ Notes on mapping questions:",
+      "translated_from_hash": "c9084f01d6df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Each mapping question collects <b>one input per map</b>.<br/>→ To gather multiple inputs on the same map, create multiple mapping questions.",
+      "source_hash": "154a8bf037a5",
+      "target": "Each mapping question collects <b>one input per map</b>.<br/>→ To gather multiple inputs on the same map, create multiple mapping questions.",
+      "translated_from_hash": "154a8bf037a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Every mapping question and map layout can be configured individually to highlight different areas.",
+      "source_hash": "0bab855c36a1",
+      "target": "Every mapping question and map layout can be configured individually to highlight different areas.",
+      "translated_from_hash": "0bab855c36a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "To customize your map, click <b>“Configure map”</b>, you can:",
+      "source_hash": "c29469953611",
+      "target": "To customize your map, click <b>“Configure map”</b>, you can:",
+      "translated_from_hash": "c29469953611",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Adjust the <b>default center</b> and <b>zoom level</b>",
+      "source_hash": "bb5c76d30f02",
+      "target": "Adjust the <b>default center</b> and <b>zoom level</b>",
+      "translated_from_hash": "bb5c76d30f02",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Add <b>GeoJSON layers</b>, or <b>ESRI maps</b> if your account has access to this feature",
+      "source_hash": "8b76dbb6514c",
+      "target": "Add <b>GeoJSON layers</b>, or <b>ESRI maps</b> if your account has access to this feature",
+      "translated_from_hash": "8b76dbb6514c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "⚠️ When using an ESRI-map, you can not use the on-click functionality on ESRI's side as this conflicts with our platform's on-click behaviour.",
+      "source_hash": "2157d12d50aa",
+      "target": "⚠️ When using an ESRI-map, you can not use the on-click functionality on ESRI's side as this conflicts with our platform's on-click behaviour.",
+      "translated_from_hash": "2157d12d50aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "How to create or duplicate a survey?",
+      "source_hash": "84a39419b8b6",
+      "target": "How to create or duplicate a survey?",
+      "translated_from_hash": "84a39419b8b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Create a survey",
+      "source_hash": "fff8f050fdb9",
+      "target": "Create a survey",
+      "translated_from_hash": "fff8f050fdb9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Create a project &amp; choose “Create a survey”</b>",
+      "source_hash": "1059c72600dc",
+      "target": "<b>Create a project &amp; choose “Create a survey”</b>",
+      "translated_from_hash": "1059c72600dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "In the project creation flow, select <b>Create a survey</b> as the engagement method",
+      "source_hash": "532e9fe93e68",
+      "target": "In the project creation flow, select <b>Create a survey</b> as the engagement method",
+      "translated_from_hash": "532e9fe93e68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Or, to add a survey to an existing project, go to the project's <b>Phases</b> tab, click <b>Add phase</b>, and select <b>Survey</b> as the engagement method",
+      "source_hash": "a956ff3cd18d",
+      "target": "Or, to add a survey to an existing project, go to the project's <b>Phases</b> tab, click <b>Add phase</b>, and select <b>Survey</b> as the engagement method",
+      "translated_from_hash": "a956ff3cd18d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<b>Build the survey structure</b>",
+      "source_hash": "f54fbd2d017d",
+      "target": "<b>Build the survey structure</b>",
+      "translated_from_hash": "f54fbd2d017d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Navigate to the Survey Form tab",
+      "source_hash": "17230c9bd228",
+      "target": "Navigate to the Survey Form tab",
+      "translated_from_hash": "17230c9bd228",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Click <b>Edit survey form</b> to open the builder",
+      "source_hash": "49915502ead4",
+      "target": "Click <b>Edit survey form</b> to open the builder",
+      "translated_from_hash": "49915502ead4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Add pages (normal or map-based) and drag in questions",
+      "source_hash": "84948a481413",
+      "target": "Add pages (normal or map-based) and drag in questions",
+      "translated_from_hash": "84948a481413",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Customize the input form</b>",
+      "source_hash": "bff1fb1a0286",
+      "target": "<b>Customize the input form</b>",
+      "translated_from_hash": "bff1fb1a0286",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Add titles, descriptions, videos, or images to pages",
+      "source_hash": "ee303f438216",
+      "target": "Add titles, descriptions, videos, or images to pages",
+      "translated_from_hash": "ee303f438216",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Configure questions (mandatory/optional, randomized choices, “other” field)",
+      "source_hash": "37039c9820e7",
+      "target": "Configure questions (mandatory/optional, randomized choices, “other” field)",
+      "translated_from_hash": "37039c9820e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<b>(Optional) Add demographic questions</b>",
+      "source_hash": "aaf0ffab3102",
+      "target": "<b>(Optional) Add demographic questions</b>",
+      "translated_from_hash": "aaf0ffab3102",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Toggle on <b>Demographic questions asked to users</b> in <b>phase settings</b> &gt; <b>Phase access and user data</b> to capture demographic data at the end of the survey",
+      "source_hash": "d4549c13d0f3",
+      "target": "Toggle on <b>Demographic questions asked to users</b> in <b>phase settings</b> &gt; <b>Phase access and user data</b> to capture demographic data at the end of the survey",
+      "translated_from_hash": "d4549c13d0f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>Test &amp; preview the survey</b>",
+      "source_hash": "5457eced950a",
+      "target": "<b>Test &amp; preview the survey</b>",
+      "translated_from_hash": "5457eced950a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Use the <b>View Survey</b> button to preview.",
+      "source_hash": "83341a93df70",
+      "target": "Use the <b>View Survey</b> button to preview.",
+      "translated_from_hash": "83341a93df70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Submit test responses, then delete test data before launch.",
+      "source_hash": "c9969aa995c0",
+      "target": "Submit test responses, then delete test data before launch.",
+      "translated_from_hash": "c9969aa995c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "<b>Open the survey for answers</b>",
+      "source_hash": "61cb1bfe71f6",
+      "target": "<b>Open the survey for answers</b>",
+      "translated_from_hash": "61cb1bfe71f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Go to the <b>Insights</b> tab of your survey phase, then turn on the <code>Open for answers</code> toggle at the top of the page.",
+      "source_hash": "f4c21f20e383",
+      "target": "Go to the <b>Insights</b> tab of your survey phase, then turn on the <code>Open for answers</code> toggle at the top of the page.",
+      "translated_from_hash": "f4c21f20e383",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Duplicate an existing survey",
+      "source_hash": "27101f2ae7a0",
+      "target": "Duplicate an existing survey",
+      "translated_from_hash": "27101f2ae7a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Configure a new project/phase as a survey",
+      "source_hash": "701c0b2fcdeb",
+      "target": "Configure a new project/phase as a survey",
+      "translated_from_hash": "701c0b2fcdeb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Navigate to Survey Form",
+      "source_hash": "3c8811841ff0",
+      "target": "Navigate to Survey Form",
+      "translated_from_hash": "3c8811841ff0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Click <b>Duplicate another survey</b> and choose from your existing surveys",
+      "source_hash": "c494c8aea30c",
+      "target": "Click <b>Duplicate another survey</b> and choose from your existing surveys",
+      "translated_from_hash": "c494c8aea30c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "How to apply logic to a survey?",
+      "source_hash": "77fe5137b246",
+      "target": "How to apply logic to a survey?",
+      "translated_from_hash": "77fe5137b246",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "<b>Question‑level logic:</b> Route users to different pages based on answers (single‑select or linear scale only).",
+      "source_hash": "f703233d825e",
+      "target": "<b>Question‑level logic:</b> Route users to different pages based on answers (single‑select or linear scale only).",
+      "translated_from_hash": "f703233d825e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "<b>Page‑level logic:</b> Decide what the next page is, regardless of responses.",
+      "source_hash": "fc294d23ca7b",
+      "target": "<b>Page‑level logic:</b> Decide what the next page is, regardless of responses.",
+      "translated_from_hash": "fc294d23ca7b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "<b>Special options:</b>",
+      "source_hash": "3dfb99732088",
+      "target": "<b>Special options:</b>",
+      "translated_from_hash": "3dfb99732088",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "“If any other question” logic (one option routes differently; all others go elsewhere)",
+      "source_hash": "8fd5a64ddcc5",
+      "target": "“If any other question” logic (one option routes differently; all others go elsewhere)",
+      "translated_from_hash": "8fd5a64ddcc5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "“If not answered” logic (fallback page)",
+      "source_hash": "942054d5d635",
+      "target": "“If not answered” logic (fallback page)",
+      "translated_from_hash": "942054d5d635",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "⚠️ <b>Survey Logic Limitations</b>",
+      "source_hash": "51dfcacf6139",
+      "target": "⚠️ <b>Survey Logic Limitations</b>",
+      "translated_from_hash": "51dfcacf6139",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Our survey logic helps you control which <b>page</b> respondents see next based on their answers. However, there are some important limitations to keep in mind:",
+      "source_hash": "32c2a82bc1b7",
+      "target": "Our survey logic helps you control which <b>page</b> respondents see next based on their answers. However, there are some important limitations to keep in mind:",
+      "translated_from_hash": "32c2a82bc1b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "<b>Logic only triggers when clicking “Next”</b><br/>Logic is evaluated when respondents move to the next page, not instantly after answering a question.",
+      "source_hash": "ba2f9c9805cb",
+      "target": "<b>Logic only triggers when clicking “Next”</b><br/>Logic is evaluated when respondents move to the next page, not instantly after answering a question.",
+      "translated_from_hash": "ba2f9c9805cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "<b>No backward logic</b><br/>You can’t send respondents back to a previous page using logic.",
+      "source_hash": "d256c5bdde53",
+      "target": "<b>No backward logic</b><br/>You can’t send respondents back to a previous page using logic.",
+      "translated_from_hash": "d256c5bdde53",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "<b>No intra-page logic</b><br/>Logic always applies to <i>pages</i>, not individual questions.<br/>→ If you want logic to jump to a specific question, place that question on its own page.",
+      "source_hash": "4a9fac9caebb",
+      "target": "<b>No intra-page logic</b><br/>Logic always applies to <i>pages</i>, not individual questions.<br/>→ If you want logic to jump to a specific question, place that question on its own page.",
+      "translated_from_hash": "4a9fac9caebb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "<b>Supported question types</b><br/>Logic can only be applied to <b>single-select</b> and <b>linear scale</b> questions.<br/>Multi-select, ranking, matrix, number, and mapping questions <b>do not support logic</b>.",
+      "source_hash": "23568a5c3e49",
+      "target": "<b>Supported question types</b><br/>Logic can only be applied to <b>single-select</b> and <b>linear scale</b> questions.<br/>Multi-select, ranking, matrix, number, and mapping questions <b>do not support logic</b>.",
+      "translated_from_hash": "23568a5c3e49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "<b>Required questions</b><br/>Any single-select or linear scale question with logic is automatically marked as <b>required</b>.",
+      "source_hash": "d41d91be2c15",
+      "target": "<b>Required questions</b><br/>Any single-select or linear scale question with logic is automatically marked as <b>required</b>.",
+      "translated_from_hash": "d41d91be2c15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "How to manage survey results?",
+      "source_hash": "70d0e1e3161f",
+      "target": "How to manage survey results?",
+      "translated_from_hash": "70d0e1e3161f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "See all answers in real‑time under <b>Insights </b>tab.",
+      "source_hash": "aa875a2d1a3a",
+      "target": "See all answers in real‑time under <b>Insights </b>tab.",
+      "translated_from_hash": "aa875a2d1a3a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "Export data as Excel by pressing on the dots next to the <b>Open for responses</b> toggle (includes URLs to images/files)",
+      "source_hash": "f60fb353c2a7",
+      "target": "Export data as Excel by pressing on the dots next to the <b>Open for responses</b> toggle (includes URLs to images/files)",
+      "translated_from_hash": "f60fb353c2a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "To see individual survey responses: you have to download the survey results. This will give you an excel sheet with individual responses listed in a row",
+      "source_hash": "966917908142",
+      "target": "To see individual survey responses: you have to download the survey results. This will give you an excel sheet with individual responses listed in a row",
+      "translated_from_hash": "966917908142",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "Deleting survey submissions",
+      "source_hash": "f55da9bf1e57",
+      "target": "Deleting survey submissions",
+      "translated_from_hash": "f55da9bf1e57",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "To delete specific survey submissions, contact support and provide the submission ID of the submissions you want to delete.",
+      "source_hash": "05f0938c0556",
+      "target": "To delete specific survey submissions, contact support and provide the submission ID of the submissions you want to delete.",
+      "translated_from_hash": "05f0938c0556",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "The submission ID can be found when you export the survey results to .xslx. The first column, title ID, is the submission ID.",
+      "source_hash": "28e4b7c084be",
+      "target": "The submission ID can be found when you export the survey results to .xslx. The first column, title ID, is the submission ID.",
+      "translated_from_hash": "28e4b7c084be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0091": {
+      "field": "body",
+      "source": "Reporting Options",
+      "source_hash": "24c4a6e450c5",
+      "target": "Reporting Options",
+      "translated_from_hash": "24c4a6e450c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0092": {
+      "field": "body",
+      "source": "Use the Project Report feature to create sharable reports (PDF or online)",
+      "source_hash": "09f613845eae",
+      "target": "Use the Project Report feature to create sharable reports (PDF or online)",
+      "translated_from_hash": "09f613845eae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0093": {
+      "field": "body",
+      "source": "<b>Visualize answers:</b>",
+      "source_hash": "06d70d3402c0",
+      "target": "<b>Visualize answers:</b>",
+      "translated_from_hash": "06d70d3402c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0094": {
+      "field": "body",
+      "source": "Rating &amp; Linear Scale: % breakdown",
+      "source_hash": "a6cc461f24ba",
+      "target": "Rating &amp; Linear Scale: % breakdown",
+      "translated_from_hash": "a6cc461f24ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0095": {
+      "field": "body",
+      "source": "Ranking: Average position (+ “View Details”)",
+      "source_hash": "af4896f97b5a",
+      "target": "Ranking: Average position (+ “View Details”)",
+      "translated_from_hash": "af4896f97b5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0096": {
+      "field": "body",
+      "source": "Mapping: Aggregated map view (Drop Pins support heatmap display)",
+      "source_hash": "4f665ce5b66b",
+      "target": "Mapping: Aggregated map view (Drop Pins support heatmap display)",
+      "translated_from_hash": "4f665ce5b66b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0097": {
+      "field": "body",
+      "source": "For advanced mapping analysis, export GeoJSON/ESRI data and use tools like Mapshaper.",
+      "source_hash": "ca60e183a4a7",
+      "target": "For advanced mapping analysis, export GeoJSON/ESRI data and use tools like Mapshaper.",
+      "translated_from_hash": "ca60e183a4a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0098": {
+      "field": "body",
+      "source": "For further exploring these features, see our support articles:",
+      "source_hash": "e25ec962c527",
+      "target": "For further exploring these features, see our support articles:",
+      "translated_from_hash": "e25ec962c527",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0099": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Creating Reports with Report Builder</a>",
+      "source_hash": "947471aee760",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Creating Reports with Report Builder</a>",
+      "translated_from_hash": "947471aee760",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0100": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence\" target=\"_blank\">Map Consultations</a>",
+      "source_hash": "7e76bc87373d",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence\" target=\"_blank\">Map Consultations</a>",
+      "translated_from_hash": "7e76bc87373d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0101": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence\" target=\"_blank\">Using ESRI/ArcGIS maps</a>",
+      "source_hash": "c25ea6074101",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence\" target=\"_blank\">Using ESRI/ArcGIS maps</a>",
+      "translated_from_hash": "c25ea6074101",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0102": {
+      "field": "body",
+      "source": "Survey limitations",
+      "source_hash": "db2150b58a33",
+      "target": "Survey limitations",
+      "translated_from_hash": "db2150b58a33",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0103": {
+      "field": "body",
+      "source": "<b>No draft phases:</b> Once added, a phase is visible. However, you can toggle <code>Open for responses</code> off, even when the phase is active",
+      "source_hash": "c257adb887d3",
+      "target": "<b>No draft phases:</b> Once added, a phase is visible. However, you can toggle <code>Open for responses</code> off, even when the phase is active",
+      "translated_from_hash": "c257adb887d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0104": {
+      "field": "body",
+      "source": "<b>Offline upload limitations:</b> Ranking, Matrix, File Upload, and Mapping questions cannot be imported back into the platform",
+      "source_hash": "d503acdeea04",
+      "target": "<b>Offline upload limitations:</b> Ranking, Matrix, File Upload, and Mapping questions cannot be imported back into the platform",
+      "translated_from_hash": "d503acdeea04",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0105": {
+      "field": "body",
+      "source": "<b>Editing surveys live:</b> You can edit at any time, but deleting questions deletes all existing responses",
+      "source_hash": "b4d157845216",
+      "target": "<b>Editing surveys live:</b> You can edit at any time, but deleting questions deletes all existing responses",
+      "translated_from_hash": "b4d157845216",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0106": {
+      "field": "body",
+      "source": "Survey overlap with other features",
+      "source_hash": "854fe4999430",
+      "target": "Survey overlap with other features",
+      "translated_from_hash": "854fe4999430",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0107": {
+      "field": "body",
+      "source": "<b>Overlap with Map Consultations:</b>",
+      "source_hash": "91b63446132b",
+      "target": "<b>Overlap with Map Consultations:</b>",
+      "translated_from_hash": "91b63446132b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0108": {
+      "field": "body",
+      "source": "Surveys can include mapping questions, but these are more structured (one pin/line/area per question)",
+      "source_hash": "fdd5f9e39262",
+      "target": "Surveys can include mapping questions, but these are more structured (one pin/line/area per question)",
+      "translated_from_hash": "fdd5f9e39262",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0109": {
+      "field": "body",
+      "source": "Ideation Map phases allow multiple pins and open discussion",
+      "source_hash": "6201be6e81a0",
+      "target": "Ideation Map phases allow multiple pins and open discussion",
+      "translated_from_hash": "6201be6e81a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0110": {
+      "field": "body",
+      "source": "Use surveys for structured data collection; use map consultations for open, community-driven inputs",
+      "source_hash": "65b777f4de03",
+      "target": "Use surveys for structured data collection; use map consultations for open, community-driven inputs",
+      "translated_from_hash": "65b777f4de03",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0111": {
+      "field": "body",
+      "source": "<b>Overlap with Anonymous Participation:</b>",
+      "source_hash": "ca9de237bc6b",
+      "target": "<b>Overlap with Anonymous Participation:</b>",
+      "translated_from_hash": "ca9de237bc6b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0112": {
+      "field": "body",
+      "source": "Surveys can allow anonymous answers; users get a unique submission ID to request deletion if needed",
+      "source_hash": "53ffdb06726f",
+      "target": "Surveys can allow anonymous answers; users get a unique submission ID to request deletion if needed",
+      "translated_from_hash": "53ffdb06726f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0113": {
+      "field": "body",
+      "source": "<b>Overlap with Access Rights:</b>",
+      "source_hash": "600fc22ed036",
+      "target": "<b>Overlap with Access Rights:</b>",
+      "translated_from_hash": "600fc22ed036",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0114": {
+      "field": "body",
+      "source": "If surveys have <b>Authentication</b> set to <b>None</b> (no login/email), we can’t block duplicate submissions because we don’t know who submitted them, and we don’t collect IP addresses. Storing IP addresses would violate GDPR, so we can't do that. To prevent duplicate submissions, <b>Authentication</b> must be set to either <b>account creation</b> or <b>email verification</b>.",
+      "source_hash": "2279074c2e99",
+      "target": "If surveys have <b>Authentication</b> set to <b>None</b> (no login/email), we can’t block duplicate submissions because we don’t know who submitted them, and we don’t collect IP addresses. Storing IP addresses would violate GDPR, so we can't do that. To prevent duplicate submissions, <b>Authentication</b> must be set to either <b>account creation</b> or <b>email verification</b>.",
+      "translated_from_hash": "2279074c2e99",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0115": {
+      "field": "body",
+      "source": "Requiring email or account creation enforces one submission per user",
+      "source_hash": "9a9dfef5cd16",
+      "target": "Requiring email or account creation enforces one submission per user",
+      "translated_from_hash": "9a9dfef5cd16",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

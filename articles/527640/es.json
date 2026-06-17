@@ -1,0 +1,466 @@
+{
+  "article_id": "527640",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Accessibility on the Govocal platform",
+      "source_hash": "ab469eca19f4",
+      "target": "Accessibility on the Govocal platform",
+      "translated_from_hash": "ab469eca19f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Your platform complies with WCAG 2.2 AA accessibility standards.",
+      "source_hash": "5e884681e4c9",
+      "target": "Your platform complies with WCAG 2.2 AA accessibility standards.",
+      "translated_from_hash": "5e884681e4c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Our commitment to accessibility",
+      "source_hash": "a1628c01d1fc",
+      "target": "Our commitment to accessibility",
+      "translated_from_hash": "a1628c01d1fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "GoVocal platforms are designed with accessibility in mind and comply with the <b><a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\">WCAG 2.2 AA</a></b><a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\"> standards</a>. This means the platform is built to be usable by people with various disabilities, including visual, auditory, motor, and cognitive impairments.",
+      "source_hash": "7a24e75c4ff8",
+      "target": "GoVocal platforms are designed with accessibility in mind and comply with the <b><a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\">WCAG 2.2 AA</a></b><a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\"> standards</a>. This means the platform is built to be usable by people with various disabilities, including visual, auditory, motor, and cognitive impairments.",
+      "translated_from_hash": "7a24e75c4ff8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "We undergo regular third-party audits on our demo environment, which uses the same codebase as your platform. Based on audit feedback and user input, we make ongoing improvements. Each platform includes an accessibility statement, linked in the footer, outlining features and known limitations.",
+      "source_hash": "2a62d04be05a",
+      "target": "We undergo regular third-party audits on our demo environment, which uses the same codebase as your platform. Based on audit feedback and user input, we make ongoing improvements. Each platform includes an accessibility statement, linked in the footer, outlining features and known limitations.",
+      "translated_from_hash": "2a62d04be05a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "We are committed to continually enhancing platform accessibility. If you notice any barriers or have suggestions, reach out to <b><a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a></b>. Your input helps us improve the experience for everyone.",
+      "source_hash": "8026d7a71ede",
+      "target": "We are committed to continually enhancing platform accessibility. If you notice any barriers or have suggestions, reach out to <b><a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a></b>. Your input helps us improve the experience for everyone.",
+      "translated_from_hash": "8026d7a71ede",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "You can also download our detailed accessibility report to learn more here:",
+      "source_hash": "b5b69c06dcf1",
+      "target": "You can also download our detailed accessibility report to learn more here:",
+      "translated_from_hash": "b5b69c06dcf1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/138058298/353aa9835a8e8821503e411fb19b/AnySurfer+Report.pdf?expires=1778004000&amp;signature=29804179bd91bd7f78419627946fab1e7d69459a871a3d5bce453179a89fda7c&amp;req=0dZnxV3yrj4glxv0%2B9pgpnvFnPLKvVJp4MpxHiOdjX0oYOj90admxIqH%2Bm9E%0A\" target=\"_blank\">AnySurfer Report.pdf</a>",
+      "source_hash": "02a7ba6571b4",
+      "target": "<a class=\"intercom-content-link\" href=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/138058298/353aa9835a8e8821503e411fb19b/AnySurfer+Report.pdf?expires=1778004000&amp;signature=29804179bd91bd7f78419627946fab1e7d69459a871a3d5bce453179a89fda7c&amp;req=0dZnxV3yrj4glxv0%2B9pgpnvFnPLKvVJp4MpxHiOdjX0oYOj90admxIqH%2Bm9E%0A\" target=\"_blank\">AnySurfer Report.pdf</a>",
+      "translated_from_hash": "02a7ba6571b4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "What is accessibility in practice?",
+      "source_hash": "ba49c7c950be",
+      "target": "What is accessibility in practice?",
+      "translated_from_hash": "ba49c7c950be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Full Keyboard Navigation:</b> Users can navigate the entire platform without a mouse.",
+      "source_hash": "07d9d8434cdb",
+      "target": "<b>Full Keyboard Navigation:</b> Users can navigate the entire platform without a mouse.",
+      "translated_from_hash": "07d9d8434cdb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Screen Reader Compatibility:</b> Content and interactions are designed to work with screen readers.",
+      "source_hash": "56d4c91b0fda",
+      "target": "<b>Screen Reader Compatibility:</b> Content and interactions are designed to work with screen readers.",
+      "translated_from_hash": "56d4c91b0fda",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Alt-Text Support:</b> Admins can add descriptive alt-text to images in the backend.",
+      "source_hash": "42907f80cf4d",
+      "target": "<b>Alt-Text Support:</b> Admins can add descriptive alt-text to images in the backend.",
+      "translated_from_hash": "42907f80cf4d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Color Contrast Warnings:</b> The platform ensures strong contrast for fixed colors, and warns if chosen custom colors don’t meet contrast requirements.",
+      "source_hash": "ae07c2e4f3f2",
+      "target": "<b>Color Contrast Warnings:</b> The platform ensures strong contrast for fixed colors, and warns if chosen custom colors don’t meet contrast requirements.",
+      "translated_from_hash": "ae07c2e4f3f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Responsive Design:</b> The platform adapts to all screen sizes and devices.",
+      "source_hash": "ac606ebf47de",
+      "target": "<b>Responsive Design:</b> The platform adapts to all screen sizes and devices.",
+      "translated_from_hash": "ac606ebf47de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "For a full list of requirements, consult the official <a class=\"intercom-content-link\" href=\"https://www.w3.org/WAI/standards-guidelines/wcag/\" target=\"_blank\">WCAG 2.2 guidelines</a>.",
+      "source_hash": "27603113e251",
+      "target": "For a full list of requirements, consult the official <a class=\"intercom-content-link\" href=\"https://www.w3.org/WAI/standards-guidelines/wcag/\" target=\"_blank\">WCAG 2.2 guidelines</a>.",
+      "translated_from_hash": "27603113e251",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Can I edit the default accessibility policy page?",
+      "source_hash": "43b27447d20a",
+      "target": "Can I edit the default accessibility policy page?",
+      "translated_from_hash": "43b27447d20a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "While the built-in accessibility page cannot be edited directly, you can replace it with a custom version via a simple workaround.",
+      "source_hash": "bee3b6a8d7f7",
+      "target": "While the built-in accessibility page cannot be edited directly, you can replace it with a custom version via a simple workaround.",
+      "translated_from_hash": "bee3b6a8d7f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Why is the Accessibility Page Locked?",
+      "source_hash": "73999d87b5e5",
+      "target": "Why is the Accessibility Page Locked?",
+      "translated_from_hash": "73999d87b5e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "To ensure compliance with international <a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\">WCAG 2.2 AA standards</a>, the default accessibility page on your platform is locked and cannot be edited through the admin interface.",
+      "source_hash": "d730a8662c64",
+      "target": "To ensure compliance with international <a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\">WCAG 2.2 AA standards</a>, the default accessibility page on your platform is locked and cannot be edited through the admin interface.",
+      "translated_from_hash": "d730a8662c64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "This content was developed in collaboration with <a class=\"intercom-content-link\" href=\"https://www.anysurfer.be/en\" target=\"_blank\">AnySurfer</a>, a Belgian agency specialising in digital accessibility, and reflects the shared commitment of GoVocal to accessible design.",
+      "source_hash": "cd546d89ba1f",
+      "target": "This content was developed in collaboration with <a class=\"intercom-content-link\" href=\"https://www.anysurfer.be/en\" target=\"_blank\">AnySurfer</a>, a Belgian agency specialising in digital accessibility, and reflects the shared commitment of GoVocal to accessible design.",
+      "translated_from_hash": "cd546d89ba1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Workaround: Replacing the Page with a Custom Version",
+      "source_hash": "cb09e8682d1c",
+      "target": "Workaround: Replacing the Page with a Custom Version",
+      "translated_from_hash": "cb09e8682d1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "You can still provide your own policy or link to an external one by following these steps:",
+      "source_hash": "4a6523c6ca13",
+      "target": "You can still provide your own policy or link to an external one by following these steps:",
+      "translated_from_hash": "4a6523c6ca13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Create a new page</b>",
+      "source_hash": "b285d0e87fdb",
+      "target": "<b>Create a new page</b>",
+      "translated_from_hash": "b285d0e87fdb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "In the admin back-office, go to:",
+      "source_hash": "6c13127e6570",
+      "target": "In the admin back-office, go to:",
+      "translated_from_hash": "6c13127e6570",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Pages &amp; Menu</b> → <b>Create new page</b>",
+      "source_hash": "aa3d424d5534",
+      "target": "<b>Pages &amp; Menu</b> → <b>Create new page</b>",
+      "translated_from_hash": "aa3d424d5534",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Copy &amp; edit content</b>",
+      "source_hash": "4eb1df182f03",
+      "target": "<b>Copy &amp; edit content</b>",
+      "translated_from_hash": "4eb1df182f03",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Copy the text from the current Accessibility Policy page, paste it into the new page, and make your desired edits.",
+      "source_hash": "93db35fd22df",
+      "target": "Copy the text from the current Accessibility Policy page, paste it into the new page, and make your desired edits.",
+      "translated_from_hash": "93db35fd22df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Publish your custom page</b>",
+      "source_hash": "4e2832a0f760",
+      "target": "<b>Publish your custom page</b>",
+      "translated_from_hash": "4e2832a0f760",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Once you're happy with the content, publish the new page.",
+      "source_hash": "e318f3060cab",
+      "target": "Once you're happy with the content, publish the new page.",
+      "translated_from_hash": "e318f3060cab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Contact Support</b>",
+      "source_hash": "d1d142fde78e",
+      "target": "<b>Contact Support</b>",
+      "translated_from_hash": "d1d142fde78e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Send the URL of your custom page to the GoVocal support team via the chat bubble.",
+      "source_hash": "03d1cd6e9e21",
+      "target": "Send the URL of your custom page to the GoVocal support team via the chat bubble.",
+      "translated_from_hash": "03d1cd6e9e21",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Support will replace the footer link to point to your new page.",
+      "source_hash": "714262fe0ad5",
+      "target": "Support will replace the footer link to point to your new page.",
+      "translated_from_hash": "714262fe0ad5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Notes on the workaround",
+      "source_hash": "84c35d61bd9b",
+      "target": "Notes on the workaround",
+      "translated_from_hash": "84c35d61bd9b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "This method does not affect accessibility compliance of the platform itself, only the wording and presentation of the accessibility statement.",
+      "source_hash": "df04070d259a",
+      "target": "This method does not affect accessibility compliance of the platform itself, only the wording and presentation of the accessibility statement.",
+      "translated_from_hash": "df04070d259a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "You may also use this method to link out to an external accessibility statement, such as a page on your municipal or organisational website.",
+      "source_hash": "070970cf41d3",
+      "target": "You may also use this method to link out to an external accessibility statement, such as a page on your municipal or organisational website.",
+      "translated_from_hash": "070970cf41d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "What you can do to support accessibility?",
+      "source_hash": "09209bd985eb",
+      "target": "What you can do to support accessibility?",
+      "translated_from_hash": "09209bd985eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "<b>Create Accessible Content:</b>",
+      "source_hash": "3960f32bff18",
+      "target": "<b>Create Accessible Content:</b>",
+      "translated_from_hash": "3960f32bff18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Use clear and concise language",
+      "source_hash": "29abce725841",
+      "target": "Use clear and concise language",
+      "translated_from_hash": "29abce725841",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Apply structured headings (H1, H2, etc.) for logical navigation",
+      "source_hash": "3dd839384e71",
+      "target": "Apply structured headings (H1, H2, etc.) for logical navigation",
+      "translated_from_hash": "3dd839384e71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Add alt-text to images",
+      "source_hash": "ca5d196b53cb",
+      "target": "Add alt-text to images",
+      "translated_from_hash": "ca5d196b53cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Upload Accessible Documents:</b>",
+      "source_hash": "1b65bb84bb59",
+      "target": "<b>Upload Accessible Documents:</b>",
+      "translated_from_hash": "1b65bb84bb59",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Ensure PDFs have a readable order, tags, and alt-text for images",
+      "source_hash": "dde0596404e3",
+      "target": "Ensure PDFs have a readable order, tags, and alt-text for images",
+      "translated_from_hash": "dde0596404e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>Include Media Alternatives:</b>",
+      "source_hash": "9a0bf20eee6b",
+      "target": "<b>Include Media Alternatives:</b>",
+      "translated_from_hash": "9a0bf20eee6b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Provide captions for videos and transcripts for audio",
+      "source_hash": "d5878ebc7202",
+      "target": "Provide captions for videos and transcripts for audio",
+      "translated_from_hash": "d5878ebc7202",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<b>Test Regularly:</b>",
+      "source_hash": "58cfa47dea8c",
+      "target": "<b>Test Regularly:</b>",
+      "translated_from_hash": "58cfa47dea8c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Use screen readers or other assistive tech to test your platform",
+      "source_hash": "790a10bb9113",
+      "target": "Use screen readers or other assistive tech to test your platform",
+      "translated_from_hash": "790a10bb9113",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>Train Your Team:</b>",
+      "source_hash": "dcf7b4a76bf4",
+      "target": "<b>Train Your Team:</b>",
+      "translated_from_hash": "dcf7b4a76bf4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Educate staff on accessibility best practices",
+      "source_hash": "409e73c3fe81",
+      "target": "Educate staff on accessibility best practices",
+      "translated_from_hash": "409e73c3fe81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Do we support external accessibility tools?",
+      "source_hash": "3aa3fe6a5f88",
+      "target": "Do we support external accessibility tools?",
+      "translated_from_hash": "3aa3fe6a5f88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "We understand some clients may want to add external accessibility overlays or tools. However, because our platform is built with accessibility from the ground up, additional tools may conflict with the user experience or even introduce bugs.",
+      "source_hash": "11e3b0e03709",
+      "target": "We understand some clients may want to add external accessibility overlays or tools. However, because our platform is built with accessibility from the ground up, additional tools may conflict with the user experience or even introduce bugs.",
+      "translated_from_hash": "11e3b0e03709",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "For a consistent, high-quality experience, we do not support third-party accessibility tool integrations.",
+      "source_hash": "89b85be31d27",
+      "target": "For a consistent, high-quality experience, we do not support third-party accessibility tool integrations.",
+      "translated_from_hash": "89b85be31d27",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

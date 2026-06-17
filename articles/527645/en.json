@@ -1,0 +1,228 @@
+{
+  "article_id": "527645",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_bb5ef8d65f\">@@body:0001@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90374193/9a0194fea4c2962391abff1ccef6/upload_14773779937656481648.png?expires=1781805600&amp;signature=a5f44d77b740e2d7318c242c89809a0ec2703b0c822975fb962d565ec40f7ab2&amp;req=2dVswlz7pTRk2hj99dpg6jyLkILcy%2Fi59ibK6AGbxgklQ5rT3Rh7%2Bdug1Sor%0AikjOAh8GrQ7I2Fy620klmHQy%0A\"/></div><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0004@@</p><ul><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li></ul><p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_2a03bcd340\">@@body:0011@@</h1><p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li></ul><p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0018@@</p><ul><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul><p class=\"no-margin\">@@body:0022@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_2624bc21b5\">@@body:0023@@</h1><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_d10144acf6\">@@body:0025@@</h2><ul><li><p class=\"no-margin\">@@body:0026@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90374202/665e6d26b5e56256cf4462afb4dd/upload_13183062918368957576.png?expires=1781805600&amp;signature=097bd34170d9773a5812cc1cae478579ffe4f128ea0838d15894524283c0482f&amp;req=2dVswlz4rDVk2hj99dpg6oA%2BQInB1xXu%2Ba7XnODtxSN6NPkl3wGTEd7%2F1FHA%0AvlLjtp5TZsHAc6NIQI47qJ3p%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0027@@</p><ul><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li></ul></li></ul><p class=\"no-margin\">@@body:0032@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_eca75ad492\">@@body:0033@@</h2><ol><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li></ol><p class=\"no-margin\">@@body:0036@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0037@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_324a098530\">@@body:0038@@</h2><p class=\"no-margin\">@@body:0039@@</p><ul><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Linking ideas on other websites via our interactive widget",
+      "hash": "fc6f65126182"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is an interactive widget?",
+      "hash": "3c7ae642b6d5"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Your website is often the first digital handshake with your citizens, the place where people come to learn, engage, and connect with your organisation or municipality. It’s your online business card.",
+      "hash": "8ce04fce5f74"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "That’s why linking your website to your participation platform is so powerful. It guides your visitors from information to action, from reading to contributing ideas.",
+      "hash": "faf17c4988da"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "There are several ways to create this link:",
+      "hash": "bbe9ab557a41"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "An interactive widget (the most engaging option)",
+      "hash": "11bf6df5666d"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "A clickable, formatted image",
+      "hash": "897dd8542bc4"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "A clickable icon",
+      "hash": "82257366b075"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Or even a simple text link",
+      "hash": "e04127e25c5f"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "But the star of the show is the interactive widget, a small, designed frame on your site that automatically displays ideas from your participation platform, complete with a clear call-to-action button.",
+      "hash": "1985e1b2f0b8"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "ℹ️ The widget will only showcase ideas submitted within ideation and proposal projects. It does not showcase the projects themselves, only the ideas submitted in them.",
+      "hash": "095a405730f1"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Why use an interactive widget?",
+      "hash": "954f58e059e0"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "An interactive widget allows you to:",
+      "hash": "5b4da3044fd3"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Show live content</b>: Automatically display the latest or most popular ideas from your platform.",
+      "hash": "ba5c3788fd48"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>Encourage participation</b>: Turn passive readers into active contributors through visible, enticing calls-to-action.",
+      "hash": "ce5026e487c0"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "<b>Stay on-brand</b>: Customize fonts, colors, and dimensions to seamlessly fit your site’s design.",
+      "hash": "670b7317bb49"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Target relevance</b>: Highlight projects or topics (like “sports” or “mobility”) that match specific pages on your site.",
+      "hash": "dedb15f7e5dc"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "In short, it’s not just a link, it’s an <i>invitation to engage</i>.",
+      "hash": "651c9eef2fef"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "If your website layout doesn’t allow for a widget, there are creative alternatives:",
+      "hash": "c3bacec86ee3"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Add a clickable icon next to your social media icons (using the GoVocal logo or an “idea” symbol).",
+      "hash": "9424593f2f9e"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Use a banner or visual image linked to the platform.",
+      "hash": "52b2ffb56464"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Or simply hyperlink a piece of text, like an article title or announcement.",
+      "hash": "2069ef2fa7e9"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Each option helps connect your audience to the participation platform in a way that suits your site.",
+      "hash": "d87371f280f7"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "How to set up your interactive widget?",
+      "hash": "97120e999f37"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "💡 Start from what fits your website’s design and user flow, but always keep your goal in mind: the more interactive and visible your link, the more citizens you’ll attract to your participation platform.",
+      "hash": "bc58e51a62ab"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Step 1: Create your widget",
+      "hash": "51bf98dccaad"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Go to your platform’s <b>admin side</b> →<b> Tools</b> → <b>Manage Widgets</b>",
+      "hash": "5587acfa69b8"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Customize every element:",
+      "hash": "092f84a6fc2f"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<b>Selection of ideas</b>: show recent, popular, or tagged ideas (e.g. “sports”)",
+      "hash": "1b74aaba2c15"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "<b>Copy</b>: adjust title, subtitle, and button text, keep it specific and engaging",
+      "hash": "9cbeb84e81b1"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "<b>Call-to-action</b>: link to the landing page or a specific project",
+      "hash": "989e89bf6b6f"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>Design</b>: tweak font, size, colors, and dimensions to match your site",
+      "hash": "52083f4b556f"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "You can preview your design under <b>Preview</b> before publishing.",
+      "hash": "5c95615a5df6"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Step 2: Install it on your website",
+      "hash": "bef93f2db67e"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Once you’re done, the system generates a unique HTML code.",
+      "hash": "6a57b87b35a0"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Copy and paste this code (or send it to your web builder) to embed it where you want the widget to appear.",
+      "hash": "ea0e926d5fcb"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "You can create as many widgets as you like, for different projects, departments, or pages.",
+      "hash": "7629b8b80362"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Each new widget gets its own unique code, and previously created ones remain unaffected.",
+      "hash": "8eeca1466f56"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Step 3: (optional) Explore alternatives",
+      "hash": "9bc22146256d"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "If your homepage is already crowded or design constraints limit space:",
+      "hash": "255b939758d6"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "<b>Clickable icon</b> → Add it beside your social icons, linking to your platform",
+      "hash": "ed3868ac816b"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "<b>Clickable image</b> → Use a banner or visual that draws attention",
+      "hash": "ec5f7b56f2c2"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "<b>Text link</b> → Simple, but effective for articles or announcements",
+      "hash": "b1abf03bee45"
+    }
+  }
+}

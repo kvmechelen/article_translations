@@ -1,0 +1,403 @@
+{
+  "article_id": "527645",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Linking ideas on other websites via our interactive widget",
+      "source_hash": "fc6f65126182",
+      "target": "Linking ideas on other websites via our interactive widget",
+      "translated_from_hash": "fc6f65126182",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is an interactive widget?",
+      "source_hash": "3c7ae642b6d5",
+      "target": "What is an interactive widget?",
+      "translated_from_hash": "3c7ae642b6d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Your website is often the first digital handshake with your citizens, the place where people come to learn, engage, and connect with your organisation or municipality. It’s your online business card.",
+      "source_hash": "8ce04fce5f74",
+      "target": "Your website is often the first digital handshake with your citizens, the place where people come to learn, engage, and connect with your organisation or municipality. It’s your online business card.",
+      "translated_from_hash": "8ce04fce5f74",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "That’s why linking your website to your participation platform is so powerful. It guides your visitors from information to action, from reading to contributing ideas.",
+      "source_hash": "faf17c4988da",
+      "target": "That’s why linking your website to your participation platform is so powerful. It guides your visitors from information to action, from reading to contributing ideas.",
+      "translated_from_hash": "faf17c4988da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "There are several ways to create this link:",
+      "source_hash": "bbe9ab557a41",
+      "target": "There are several ways to create this link:",
+      "translated_from_hash": "bbe9ab557a41",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "An interactive widget (the most engaging option)",
+      "source_hash": "11bf6df5666d",
+      "target": "An interactive widget (the most engaging option)",
+      "translated_from_hash": "11bf6df5666d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "A clickable, formatted image",
+      "source_hash": "897dd8542bc4",
+      "target": "A clickable, formatted image",
+      "translated_from_hash": "897dd8542bc4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "A clickable icon",
+      "source_hash": "82257366b075",
+      "target": "A clickable icon",
+      "translated_from_hash": "82257366b075",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Or even a simple text link",
+      "source_hash": "e04127e25c5f",
+      "target": "Or even a simple text link",
+      "translated_from_hash": "e04127e25c5f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "But the star of the show is the interactive widget, a small, designed frame on your site that automatically displays ideas from your participation platform, complete with a clear call-to-action button.",
+      "source_hash": "1985e1b2f0b8",
+      "target": "But the star of the show is the interactive widget, a small, designed frame on your site that automatically displays ideas from your participation platform, complete with a clear call-to-action button.",
+      "translated_from_hash": "1985e1b2f0b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "ℹ️ The widget will only showcase ideas submitted within ideation and proposal projects. It does not showcase the projects themselves, only the ideas submitted in them.",
+      "source_hash": "095a405730f1",
+      "target": "ℹ️ The widget will only showcase ideas submitted within ideation and proposal projects. It does not showcase the projects themselves, only the ideas submitted in them.",
+      "translated_from_hash": "095a405730f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Why use an interactive widget?",
+      "source_hash": "954f58e059e0",
+      "target": "Why use an interactive widget?",
+      "translated_from_hash": "954f58e059e0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "An interactive widget allows you to:",
+      "source_hash": "5b4da3044fd3",
+      "target": "An interactive widget allows you to:",
+      "translated_from_hash": "5b4da3044fd3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Show live content</b>: Automatically display the latest or most popular ideas from your platform.",
+      "source_hash": "ba5c3788fd48",
+      "target": "<b>Show live content</b>: Automatically display the latest or most popular ideas from your platform.",
+      "translated_from_hash": "ba5c3788fd48",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Encourage participation</b>: Turn passive readers into active contributors through visible, enticing calls-to-action.",
+      "source_hash": "ce5026e487c0",
+      "target": "<b>Encourage participation</b>: Turn passive readers into active contributors through visible, enticing calls-to-action.",
+      "translated_from_hash": "ce5026e487c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Stay on-brand</b>: Customize fonts, colors, and dimensions to seamlessly fit your site’s design.",
+      "source_hash": "670b7317bb49",
+      "target": "<b>Stay on-brand</b>: Customize fonts, colors, and dimensions to seamlessly fit your site’s design.",
+      "translated_from_hash": "670b7317bb49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Target relevance</b>: Highlight projects or topics (like “sports” or “mobility”) that match specific pages on your site.",
+      "source_hash": "dedb15f7e5dc",
+      "target": "<b>Target relevance</b>: Highlight projects or topics (like “sports” or “mobility”) that match specific pages on your site.",
+      "translated_from_hash": "dedb15f7e5dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "In short, it’s not just a link, it’s an <i>invitation to engage</i>.",
+      "source_hash": "651c9eef2fef",
+      "target": "In short, it’s not just a link, it’s an <i>invitation to engage</i>.",
+      "translated_from_hash": "651c9eef2fef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "If your website layout doesn’t allow for a widget, there are creative alternatives:",
+      "source_hash": "c3bacec86ee3",
+      "target": "If your website layout doesn’t allow for a widget, there are creative alternatives:",
+      "translated_from_hash": "c3bacec86ee3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Add a clickable icon next to your social media icons (using the GoVocal logo or an “idea” symbol).",
+      "source_hash": "9424593f2f9e",
+      "target": "Add a clickable icon next to your social media icons (using the GoVocal logo or an “idea” symbol).",
+      "translated_from_hash": "9424593f2f9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Use a banner or visual image linked to the platform.",
+      "source_hash": "52b2ffb56464",
+      "target": "Use a banner or visual image linked to the platform.",
+      "translated_from_hash": "52b2ffb56464",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Or simply hyperlink a piece of text, like an article title or announcement.",
+      "source_hash": "2069ef2fa7e9",
+      "target": "Or simply hyperlink a piece of text, like an article title or announcement.",
+      "translated_from_hash": "2069ef2fa7e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Each option helps connect your audience to the participation platform in a way that suits your site.",
+      "source_hash": "d87371f280f7",
+      "target": "Each option helps connect your audience to the participation platform in a way that suits your site.",
+      "translated_from_hash": "d87371f280f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "How to set up your interactive widget?",
+      "source_hash": "97120e999f37",
+      "target": "How to set up your interactive widget?",
+      "translated_from_hash": "97120e999f37",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "💡 Start from what fits your website’s design and user flow, but always keep your goal in mind: the more interactive and visible your link, the more citizens you’ll attract to your participation platform.",
+      "source_hash": "bc58e51a62ab",
+      "target": "💡 Start from what fits your website’s design and user flow, but always keep your goal in mind: the more interactive and visible your link, the more citizens you’ll attract to your participation platform.",
+      "translated_from_hash": "bc58e51a62ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Step 1: Create your widget",
+      "source_hash": "51bf98dccaad",
+      "target": "Step 1: Create your widget",
+      "translated_from_hash": "51bf98dccaad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Go to your platform’s <b>admin side</b> →<b> Tools</b> → <b>Manage Widgets</b>",
+      "source_hash": "5587acfa69b8",
+      "target": "Go to your platform’s <b>admin side</b> →<b> Tools</b> → <b>Manage Widgets</b>",
+      "translated_from_hash": "5587acfa69b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Customize every element:",
+      "source_hash": "092f84a6fc2f",
+      "target": "Customize every element:",
+      "translated_from_hash": "092f84a6fc2f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Selection of ideas</b>: show recent, popular, or tagged ideas (e.g. “sports”)",
+      "source_hash": "1b74aaba2c15",
+      "target": "<b>Selection of ideas</b>: show recent, popular, or tagged ideas (e.g. “sports”)",
+      "translated_from_hash": "1b74aaba2c15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Copy</b>: adjust title, subtitle, and button text, keep it specific and engaging",
+      "source_hash": "9cbeb84e81b1",
+      "target": "<b>Copy</b>: adjust title, subtitle, and button text, keep it specific and engaging",
+      "translated_from_hash": "9cbeb84e81b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Call-to-action</b>: link to the landing page or a specific project",
+      "source_hash": "989e89bf6b6f",
+      "target": "<b>Call-to-action</b>: link to the landing page or a specific project",
+      "translated_from_hash": "989e89bf6b6f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Design</b>: tweak font, size, colors, and dimensions to match your site",
+      "source_hash": "52083f4b556f",
+      "target": "<b>Design</b>: tweak font, size, colors, and dimensions to match your site",
+      "translated_from_hash": "52083f4b556f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "You can preview your design under <b>Preview</b> before publishing.",
+      "source_hash": "5c95615a5df6",
+      "target": "You can preview your design under <b>Preview</b> before publishing.",
+      "translated_from_hash": "5c95615a5df6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Step 2: Install it on your website",
+      "source_hash": "bef93f2db67e",
+      "target": "Step 2: Install it on your website",
+      "translated_from_hash": "bef93f2db67e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Once you’re done, the system generates a unique HTML code.",
+      "source_hash": "6a57b87b35a0",
+      "target": "Once you’re done, the system generates a unique HTML code.",
+      "translated_from_hash": "6a57b87b35a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Copy and paste this code (or send it to your web builder) to embed it where you want the widget to appear.",
+      "source_hash": "ea0e926d5fcb",
+      "target": "Copy and paste this code (or send it to your web builder) to embed it where you want the widget to appear.",
+      "translated_from_hash": "ea0e926d5fcb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "You can create as many widgets as you like, for different projects, departments, or pages.",
+      "source_hash": "7629b8b80362",
+      "target": "You can create as many widgets as you like, for different projects, departments, or pages.",
+      "translated_from_hash": "7629b8b80362",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Each new widget gets its own unique code, and previously created ones remain unaffected.",
+      "source_hash": "8eeca1466f56",
+      "target": "Each new widget gets its own unique code, and previously created ones remain unaffected.",
+      "translated_from_hash": "8eeca1466f56",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Step 3: (optional) Explore alternatives",
+      "source_hash": "9bc22146256d",
+      "target": "Step 3: (optional) Explore alternatives",
+      "translated_from_hash": "9bc22146256d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "If your homepage is already crowded or design constraints limit space:",
+      "source_hash": "255b939758d6",
+      "target": "If your homepage is already crowded or design constraints limit space:",
+      "translated_from_hash": "255b939758d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "<b>Clickable icon</b> → Add it beside your social icons, linking to your platform",
+      "source_hash": "ed3868ac816b",
+      "target": "<b>Clickable icon</b> → Add it beside your social icons, linking to your platform",
+      "translated_from_hash": "ed3868ac816b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>Clickable image</b> → Use a banner or visual that draws attention",
+      "source_hash": "ec5f7b56f2c2",
+      "target": "<b>Clickable image</b> → Use a banner or visual that draws attention",
+      "translated_from_hash": "ec5f7b56f2c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "<b>Text link</b> → Simple, but effective for articles or announcements",
+      "source_hash": "b1abf03bee45",
+      "target": "<b>Text link</b> → Simple, but effective for articles or announcements",
+      "translated_from_hash": "b1abf03bee45",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

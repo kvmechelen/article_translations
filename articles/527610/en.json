@@ -1,0 +1,213 @@
+{
+  "article_id": "527610",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_bf51fa9798\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373221/5e7810330d9dd124001fc78a031f/upload_16314360165265107845.png?expires=1781805600&amp;signature=e57f3a9c187a83eca03cd22f8ac4f66a4987cb21ed0b0cad6ac5a7f1d42d725a&amp;req=2dVswlv4rjZk2hj99dpg6t2lczIEr2LdXME00snucedOzS7Oj7B72gw5o5SX%0Asl9%2FAg8VtgJhy1lEMv%2FLtuOq%0A\"/></div><p class=\"no-margin\"></p>\n<h1 id=\"h_1f54546a6d\">@@body:0003@@</h1><p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_92b1defb46\">@@body:0005@@</h1><p class=\"no-margin\">@@body:0006@@</p><ul><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li></ul><h1 id=\"h_a5c5ceaff6\">@@body:0013@@</h1><ul><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><h2 id=\"h_1ea3005b08\">@@body:0019@@</h2><p class=\"no-margin\">@@body:0020@@</p><ul><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li><li><p class=\"no-margin\">@@body:0036@@</p></li></ul><p class=\"no-margin\">@@body:0037@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_070de97450\">@@body:0038@@</h2><p class=\"no-margin\">@@body:0039@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "How the GoVocal Support Team can help you",
+      "hash": "8f28c7700a5f"
+    },
+    "description": {
+      "field": "description",
+      "text": "Reach out to our support team for issues, feedback or product guidance.",
+      "hash": "8829e77a1fab"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "When and how to contact the Govocal support team?",
+      "hash": "39aa7147f892"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Platform admins and project managers can reach out to the GoVocal Support Team for assistance, bug reports, feature requests, and platform tasks. The fastest way to get help is through the chat bubble in the admin panel. Emails sent to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> will also be converted into support tickets.",
+      "hash": "3e72564cd1dd"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "How to use the chatbot for quick support?",
+      "hash": "e1ad72c2dbc7"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "The chatbot is accessible from the platform back office (visible only to admins and managers). It’s optimized to solve recurring problems quickly. If the chatbot cannot resolve your issue, it will forward the conversation to a human support agent.",
+      "hash": "74b35051a210"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Tips for effective communication with the support team",
+      "hash": "ea80a45c5d01"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Whether you’re using the chatbot or contacting the support team, clear communication helps resolve issues faster:",
+      "hash": "95b34d43ab83"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Be specific about your issue and use relevant keywords.",
+      "hash": "d05cb4ca98c6"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Explain the goal you’re trying to achieve.",
+      "hash": "18719e9d0fb3"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Share any error messages (screenshots or copy-paste).",
+      "hash": "ee827910b9e4"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Mention steps you’ve already tried.",
+      "hash": "3f1f57c695c2"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Clarify the difference between expected and actual results.",
+      "hash": "f7b9e465695d"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Stick to one question at a time.",
+      "hash": "893deeb38022"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Types of requests we can handle for you",
+      "hash": "efddc12a6c48"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>General Assistance</b>: When you're not sure how something works and would like some more guidance on a certain feature.",
+      "hash": "6f307e755122"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "<b>Bug Reports</b>: Issues where something doesn't function properly. These are escalated to the development team and tracked for updates.",
+      "hash": "eb65b850811e"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Issues</b>: Non-blocking problems that could work better. These are logged for future improvements but no fixed timeline is guaranteed.",
+      "hash": "7b048038914c"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Feature Requests</b>: Suggestions for things not currently available on the platform. These are tracked for product roadmap consideration.",
+      "hash": "ec23c3af3979"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Support Tasks</b>: Requests for backend changes or admin-level actions that require technical intervention from our team.",
+      "hash": "e4ac1ef45183"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Common support tasks",
+      "hash": "1af61528058a"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Admins may request support for tasks that are not directly manageable via the interface. These tasks include, but are not limited to:",
+      "hash": "d3321b62bfe2"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Setting up a new domain or subdomain",
+      "hash": "41534428c4c7"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Renewing HTTPS certificates",
+      "hash": "5485ec71985b"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Enabling social login (Facebook, Google)",
+      "hash": "36e3d2652538"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Integrating external survey providers",
+      "hash": "aac9cef23a1f"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Bulk deleting users or languages",
+      "hash": "116d4d1e6a60"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Configuring analytics and tracking tools",
+      "hash": "7db7abf337ee"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Disabling search engine indexing",
+      "hash": "72e4afa6d98d"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Importing official feedback or registration field options",
+      "hash": "86e1a50c4fbd"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Adding or customizing cookie policies",
+      "hash": "29d98b199577"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Configuring custom fonts or email addresses",
+      "hash": "0936415409f6"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Enabling automatic translations (e.g. Weglot)",
+      "hash": "263a6c4cb612"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Adding social media feeds to the homepage",
+      "hash": "7d80525bb4e3"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Change the title of the browser tab in search engines",
+      "hash": "0831c9c46fe3"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Setting up national ID or SSO login integrations",
+      "hash": "2601037c1098"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Enabling Hoplr login integration",
+      "hash": "89e7786ca430"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Shorten a URL to remove \"/projects/\" in the URL",
+      "hash": "7067ca7f8d91"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "ℹ️ Some tasks are only available to premium clients. Time to process your request begins <b>after</b> all required data is submitted in the correct format. If a file or form is incomplete, we’ll return it to you before the countdown starts.",
+      "hash": "e11557a98fab"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Support Office Hours",
+      "hash": "1c2fec360153"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "For higher tiered clients we also offer office hours Tuesdays and Thursdays. Simply ask the chat for an office hour and if you are on the right price plan you will be able to book 15min with our support team!",
+      "hash": "d49f0748d21b"
+    }
+  }
+}

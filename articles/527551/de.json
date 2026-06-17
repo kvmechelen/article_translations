@@ -1,0 +1,304 @@
+{
+  "article_id": "527551",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Using the inspiration hub",
+      "source_hash": "4fbddde5d4b8",
+      "target": "Using the inspiration hub",
+      "translated_from_hash": "4fbddde5d4b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "A source of inspiration",
+      "source_hash": "13d8d8c6ef00",
+      "target": "A source of inspiration",
+      "translated_from_hash": "13d8d8c6ef00",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the inspiration hub?",
+      "source_hash": "d46290285104",
+      "target": "What is the inspiration hub?",
+      "translated_from_hash": "d46290285104",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The goal of the inspiration hub is to offer a searchable collection of successful public consultation projects from municipalities across the world. It allows you to explore practical examples of public consultation initiatives, see what worked for others, and adapt proven approaches to your own community.",
+      "source_hash": "b0926daf8268",
+      "target": "The goal of the inspiration hub is to offer a searchable collection of successful public consultation projects from municipalities across the world. It allows you to explore practical examples of public consultation initiatives, see what worked for others, and adapt proven approaches to your own community.",
+      "translated_from_hash": "b0926daf8268",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "You can browse projects from a network of over 500 municipalities, filtering by consultation method, city size, and more.",
+      "source_hash": "12df0afcedb4",
+      "target": "You can browse projects from a network of over 500 municipalities, filtering by consultation method, city size, and more.",
+      "translated_from_hash": "12df0afcedb4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Your Government Success Manager will update this page monthly with \"Projects of the Month\", ensuring you stay up-to-date with the latest initiatives.",
+      "source_hash": "7f5933b1d557",
+      "target": "Your Government Success Manager will update this page monthly with \"Projects of the Month\", ensuring you stay up-to-date with the latest initiatives.",
+      "translated_from_hash": "7f5933b1d557",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "How to access and navigate the inspiration hub?",
+      "source_hash": "29a751c715b5",
+      "target": "How to access and navigate the inspiration hub?",
+      "translated_from_hash": "29a751c715b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Find the Inspiration Hub tab in the left‑hand panel of your platform's back office.",
+      "source_hash": "2c4d0fcc6626",
+      "target": "Find the Inspiration Hub tab in the left‑hand panel of your platform's back office.",
+      "translated_from_hash": "2c4d0fcc6626",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "The top section showcases highlighted projects chosen by your Government Success Manager.",
+      "source_hash": "26e11210fc6d",
+      "target": "The top section showcases highlighted projects chosen by your Government Success Manager.",
+      "translated_from_hash": "26e11210fc6d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Below, browse all published projects (default filter = your country).",
+      "source_hash": "c5919eba3eb6",
+      "target": "Below, browse all published projects (default filter = your country).",
+      "translated_from_hash": "c5919eba3eb6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Filter Options",
+      "source_hash": "dcd87fabe8cd",
+      "target": "Filter Options",
+      "translated_from_hash": "dcd87fabe8cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Country:</b> Browse projects from a specific country.",
+      "source_hash": "cf152e24e3bd",
+      "target": "<b>Country:</b> Browse projects from a specific country.",
+      "translated_from_hash": "cf152e24e3bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Method:</b> Filter by participation method used.",
+      "source_hash": "78e0ab391b34",
+      "target": "<b>Method:</b> Filter by participation method used.",
+      "translated_from_hash": "78e0ab391b34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Population size:</b> Large, medium, or small municipalities.",
+      "source_hash": "e28f9074175f",
+      "target": "<b>Population size:</b> Large, medium, or small municipalities.",
+      "translated_from_hash": "e28f9074175f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Date:</b> See projects from a chosen timeframe.",
+      "source_hash": "9d2c0239b14a",
+      "target": "<b>Date:</b> See projects from a chosen timeframe.",
+      "translated_from_hash": "9d2c0239b14a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Topic:</b> Drill into specific themes or categories.",
+      "source_hash": "9bc29150f401",
+      "target": "<b>Topic:</b> Drill into specific themes or categories.",
+      "translated_from_hash": "9bc29150f401",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "What do you see on a project page?",
+      "source_hash": "bd4fe11a2ccb",
+      "target": "What do you see on a project page?",
+      "translated_from_hash": "bd4fe11a2ccb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "When you open a project in the in-product library, you'll have access to a wealth of information, including:",
+      "source_hash": "c2dbd90b23cc",
+      "target": "When you open a project in the in-product library, you'll have access to a wealth of information, including:",
+      "translated_from_hash": "c2dbd90b23cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>A note</b>: For some projects, your Government Success Managers may include a note highlighting essential learning points related to the project.",
+      "source_hash": "f2af31606c17",
+      "target": "<b>A note</b>: For some projects, your Government Success Managers may include a note highlighting essential learning points related to the project.",
+      "translated_from_hash": "f2af31606c17",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Description</b>: A brief overview explaining what the project aimed to accomplish, providing quick insight into its purpose.",
+      "source_hash": "21c3806ca630",
+      "target": "<b>Description</b>: A brief overview explaining what the project aimed to accomplish, providing quick insight into its purpose.",
+      "translated_from_hash": "21c3806ca630",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Phases and methods</b>: A detailed list of all phases and methods used throughout the project, complete with their timelines.",
+      "source_hash": "0cfc9df77104",
+      "target": "<b>Phases and methods</b>: A detailed list of all phases and methods used throughout the project, complete with their timelines.",
+      "translated_from_hash": "0cfc9df77104",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Platform Link</b>: A direct hyperlink that takes you to the platform where the project was carried out, making it easy to explore further.",
+      "source_hash": "c65639972f88",
+      "target": "<b>Platform Link</b>: A direct hyperlink that takes you to the platform where the project was carried out, making it easy to explore further.",
+      "translated_from_hash": "c65639972f88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Inspiration hub FAQ",
+      "source_hash": "aea361d785e2",
+      "target": "Inspiration hub FAQ",
+      "translated_from_hash": "aea361d785e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Will my draft project appear in the Inspiration Hub?",
+      "source_hash": "5d5937295024",
+      "target": "Will my draft project appear in the Inspiration Hub?",
+      "translated_from_hash": "5d5937295024",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "No. Only published projects are shown.",
+      "source_hash": "8fe06a8ec885",
+      "target": "No. Only published projects are shown.",
+      "translated_from_hash": "8fe06a8ec885",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Is my project visible to all other platforms?",
+      "source_hash": "e1aad3bf2f10",
+      "target": "Is my project visible to all other platforms?",
+      "translated_from_hash": "e1aad3bf2f10",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Yes, published projects appear to all platforms, unless you opt out. Projects you set to unlisted are excluded from the Inspiration Hub.",
+      "source_hash": "f4b7419c8574",
+      "target": "Yes, published projects appear to all platforms, unless you opt out. Projects you set to unlisted are excluded from the Inspiration Hub.",
+      "translated_from_hash": "f4b7419c8574",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Contact your Government Success Manager or Support to hide a project or your entire platform.",
+      "source_hash": "a7da7238f3c0",
+      "target": "Contact your Government Success Manager or Support to hide a project or your entire platform.",
+      "translated_from_hash": "a7da7238f3c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Who can see the Inspiration Hub?",
+      "source_hash": "5f5d35f8bb82",
+      "target": "Who can see the Inspiration Hub?",
+      "translated_from_hash": "5f5d35f8bb82",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Both platform admins and project/folder managers can access it.",
+      "source_hash": "b547c569ec66",
+      "target": "Both platform admins and project/folder managers can access it.",
+      "translated_from_hash": "b547c569ec66",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Are project comments shared across platforms?",
+      "source_hash": "e877b537b198",
+      "target": "Are project comments shared across platforms?",
+      "translated_from_hash": "e877b537b198",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Yes, comments are visible to admins &amp; managers from other platforms to foster exchange and learning.",
+      "source_hash": "cd33ebd1608b",
+      "target": "Yes, comments are visible to admins &amp; managers from other platforms to foster exchange and learning.",
+      "translated_from_hash": "cd33ebd1608b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "They are not visible to the general public.",
+      "source_hash": "3f7ad710e64c",
+      "target": "They are not visible to the general public.",
+      "translated_from_hash": "3f7ad710e64c",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

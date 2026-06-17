@@ -1,0 +1,223 @@
+{
+  "article_id": "527622",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_396d1694ce\">@@body:0001@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373510/b14db7d878334f25427232206f1e/upload_18372599358715550607.png?expires=1781805600&amp;signature=34ed0eb02a30bf2917de07af8de1e0710ee3552f726d99459d1ec67f0c5b9be2&amp;req=2dVswlv%2FrTdk2hj99dpg6tcq0FEarP48CV2Jz2De0tYtYb5jqSVihCfJPmzA%0AIq33t9TppxAEn5mPe7ADRnZ8%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_0572b01ad2\">@@body:0006@@</h1><p class=\"no-margin\">@@body:0007@@</p><ol><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li></ol><p class=\"no-margin\"></p>\n<h1 id=\"h_7f80f1094a\">@@body:0013@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373524/111c07fccb47f14f3c6cb5c9b6e1/upload_6377528984870810774.png?expires=1781805600&amp;signature=8e0f39a6def4b10687802ca477c8bd435154ec6cf10baf0f28a750388b575430&amp;req=2dVswlv%2FrjNk2hj99dpg6urQL4GuKjxKijREFqQ6X9jjPMLDVfGVup5ShMgJ%0AQAXxARt4gT5YCHBAKoHZwpDq%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p><ul><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_cfdaae2815\">@@body:0019@@</h1><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_5994daa70b\">@@body:0023@@</h1><ul><li><p class=\"no-margin\">@@body:0024@@</p><ul><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li></ul><p class=\"no-margin\">@@body:0027@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_f2b95e3358\">@@body:0028@@</h1><p class=\"no-margin\">@@body:0029@@</p><ul><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_aa33d09259\">@@body:0033@@</h1><p class=\"no-margin\">@@body:0034@@</p><ul><li><p class=\"no-margin\">@@body:0035@@</p></li><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_3f1cb452bb\">@@body:0039@@</h1><p class=\"no-margin\">@@body:0040@@</p><p class=\"no-margin\">@@body:0041@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Organizing a volunteering project",
+      "hash": "7ce1a6ee107e"
+    },
+    "description": {
+      "field": "description",
+      "text": "Allow participants to sign up as a volunteer for a specific project",
+      "hash": "88c2593caee4"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What are volunteering projects?",
+      "hash": "5b754ac772ff"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The Volunteering participation method allows municipalities and organizations to list volunteering opportunities and make it easy for citizens to sign up for specific actions.",
+      "hash": "ad311da1e9d9"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Participants can browse opportunities, sign up, and receive instructions.",
+      "hash": "4d79a70564c8"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Admins can manage sign-ups, share next steps, and track engagement.",
+      "hash": "bb6c201ba9de"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Can be used as a standalone project or as a phase in a larger project timeline.",
+      "hash": "7f59e5b15025"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "How to set up a volunteering project?",
+      "hash": "18cd74b4abd3"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Steps to create a volunteering project:</b>",
+      "hash": "7619cac96978"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Create a new project</b> → choose the <b>Volunteering participation method</b>",
+      "hash": "178a423124ae"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "<b>Add volunteering opportunities</b> (e.g., event help, grocery assistance)",
+      "hash": "df4ab1582828"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Publish the project</b> so citizens can view and sign up",
+      "hash": "8c9186ead6d7"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Enable sign-ups</b> and decide how you’ll manage applications",
+      "hash": "2b38614fcfb1"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Share practical info</b> (insurance, legal disclaimers, conditions)",
+      "hash": "24e31cedb599"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "How to add volunteering opportunities?",
+      "hash": "dc039dcca1e5"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Add opportunities in the back office (one per “action” or “cause”).",
+      "hash": "e2d2ed50c032"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Examples:",
+      "hash": "1889f03338b7"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "“Help organize a city clean-up event.”",
+      "hash": "25827000732d"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "“Assist elderly residents with groceries.”",
+      "hash": "b7da768fb647"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Each opportunity appears as a <b>signup button</b> on the front end.",
+      "hash": "b03316f519e5"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Promoting volunteering projects",
+      "hash": "ae7a96224609"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Use email newsletters, social media, and local outreach to drive sign-ups",
+      "hash": "1aab4efac4f7"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Link to the volunteering project page directly",
+      "hash": "0800a992aa3c"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Consider featuring “highlighted opportunities” to increase visibility",
+      "hash": "c2f868cf0814"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "How to manage volunteers?",
+      "hash": "b5fac4d128bd"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "When a user signs up:",
+      "hash": "80bd803fdfc4"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "You receive a notification.",
+      "hash": "a8751afc7439"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Send them <b>follow-up instructions</b> (manual or automated).",
+      "hash": "771651d44f8f"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "💡 Pre‑prepare email templates for efficiency.",
+      "hash": "32a766f55fd9"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Alternative use cases for volunteering",
+      "hash": "63e279e639d7"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "The <b>Volunteering module</b> is flexible, it can support:",
+      "hash": "a90a4bf6bb61"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "<b>Panel or committee sign-ups</b> (e.g., advisory boards)",
+      "hash": "ffc99fa72afe"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>Workshop registrations</b> (track who’s attending)",
+      "hash": "c1467f4bc883"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "<b>Other event participation</b> (e.g., hackathons, community meetups)",
+      "hash": "c37b6142548c"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Context and legal info regarding volunteering",
+      "hash": "c4005549a6a0"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Admins should provide clear, accessible details about:",
+      "hash": "6df54424a89d"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "<b>Insurance coverage</b> (if applicable)",
+      "hash": "5ebf515040fe"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>Health and safety regulations</b> (e.g., COVID-19)",
+      "hash": "14036b17c779"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "<b>Income/unemployment considerations</b> for volunteers",
+      "hash": "0ce101bfab34"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>Terms and conditions</b> (can be linked or embedded in the project page)",
+      "hash": "bcfbd51f8354"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Limitations on the volunteering method",
+      "hash": "f0c11a71fcde"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Currently, the <b>call-to-action button text</b> (e.g., “Sign Up”) cannot be customized. This might make it less suitable for some creative uses.<br/>​",
+      "hash": "e7375a9700dd"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "<i>Button text customization is planned for future updates.</i>",
+      "hash": "0f0059c85037"
+    }
+  }
+}

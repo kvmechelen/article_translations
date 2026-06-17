@@ -1,0 +1,169 @@
+{
+  "article_id": "527554",
+  "language": "da",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Onboarding product tours",
+      "source_hash": "0a30be77b2bc",
+      "target": "Onboarding product tours",
+      "translated_from_hash": "0a30be77b2bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are onboarding tours?",
+      "source_hash": "12e647b0790d",
+      "target": "What are onboarding tours?",
+      "translated_from_hash": "12e647b0790d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The product onboarding tours help new users quickly become familiar with the platform’s key features by offering an interactive tutorial through the backoffice of the platform.",
+      "source_hash": "d30056703a87",
+      "target": "The product onboarding tours help new users quickly become familiar with the platform’s key features by offering an interactive tutorial through the backoffice of the platform.",
+      "translated_from_hash": "d30056703a87",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "We have two onboarding tours: one for Platform Admins and one for Project Managers.",
+      "source_hash": "9118b6e0a9b8",
+      "target": "We have two onboarding tours: one for Platform Admins and one for Project Managers.",
+      "translated_from_hash": "9118b6e0a9b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "What is covered in the onboarding tours?",
+      "source_hash": "5e3e413a4ed9",
+      "target": "What is covered in the onboarding tours?",
+      "translated_from_hash": "5e3e413a4ed9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Platform Admin Tour – 8 sections:",
+      "source_hash": "f1ab7555a027",
+      "target": "Platform Admin Tour – 8 sections:",
+      "translated_from_hash": "f1ab7555a027",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Get to know the platform",
+      "source_hash": "dcecbd0b990f",
+      "target": "Get to know the platform",
+      "translated_from_hash": "dcecbd0b990f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Define your registration questions",
+      "source_hash": "cfbf0522df8b",
+      "target": "Define your registration questions",
+      "translated_from_hash": "cfbf0522df8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How to set up a project",
+      "source_hash": "c2b9e1c33540",
+      "target": "How to set up a project",
+      "translated_from_hash": "c2b9e1c33540",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "How to access the onboarding tours?",
+      "source_hash": "5a4b933cc93c",
+      "target": "How to access the onboarding tours?",
+      "translated_from_hash": "5a4b933cc93c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Open your platform dashboard.",
+      "source_hash": "561cf8e16fcc",
+      "target": "Open your platform dashboard.",
+      "translated_from_hash": "561cf8e16fcc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Find the <b>Chat bubble</b> in the bottom-right corner.",
+      "source_hash": "87706c67a54c",
+      "target": "Find the <b>Chat bubble</b> in the bottom-right corner.",
+      "translated_from_hash": "87706c67a54c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Click <b>Tasks</b>.",
+      "source_hash": "2ec4ab20fc31",
+      "target": "Click <b>Tasks</b>.",
+      "translated_from_hash": "2ec4ab20fc31",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Choose the <b>Platform Admin</b> tour.",
+      "source_hash": "b08f658dcdc3",
+      "target": "Choose the <b>Platform Admin</b> tour.",
+      "translated_from_hash": "b08f658dcdc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How to troubleshoot issues with the onboarding tours?",
+      "source_hash": "40ecd2f60c69",
+      "target": "How to troubleshoot issues with the onboarding tours?",
+      "translated_from_hash": "40ecd2f60c69",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Refresh the page if a tour doesn’t trigger or gets stuck.",
+      "source_hash": "18716add6a0d",
+      "target": "Refresh the page if a tour doesn’t trigger or gets stuck.",
+      "translated_from_hash": "18716add6a0d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "If the issue continues, <b>contact support</b>. Our support team will review your tour settings and resolve the issue.",
+      "source_hash": "36da4fe24b2a",
+      "target": "If the issue continues, <b>contact support</b>. Our support team will review your tour settings and resolve the issue.",
+      "translated_from_hash": "36da4fe24b2a",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

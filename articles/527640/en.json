@@ -1,0 +1,263 @@
+{
+  "article_id": "527640",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_d9f4826da8\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0005@@</p><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_9bb1043ee4\">@@body:0007@@</h1><ul><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li></ul><p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_ae95207c66\">@@body:0014@@</h1><p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_3848c21662\">@@body:0016@@</h2><p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0018@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_6063b4ea4e\">@@body:0019@@</h2><p class=\"no-margin\">@@body:0020@@</p><ol><li><p class=\"no-margin\">@@body:0021@@</p><p class=\"no-margin\">@@body:0022@@</p><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\">@@body:0030@@</p></li></ol><h2 id=\"h_fe89ffec8e\">@@body:0031@@</h2><ul><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li></ul><h1 id=\"h_41061a6ef1\">@@body:0034@@</h1><ul><li><p class=\"no-margin\">@@body:0035@@</p><ul><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0039@@</p><ul><li><p class=\"no-margin\">@@body:0040@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0041@@</p><ul><li><p class=\"no-margin\">@@body:0042@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0043@@</p><ul><li><p class=\"no-margin\">@@body:0044@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0045@@</p><ul><li><p class=\"no-margin\">@@body:0046@@</p></li></ul></li></ul><h1 id=\"h_f5e1994b20\">@@body:0047@@</h1><p class=\"no-margin\">@@body:0048@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0049@@</p><p class=\"no-margin\"></p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Accessibility on the Govocal platform",
+      "hash": "ab469eca19f4"
+    },
+    "description": {
+      "field": "description",
+      "text": "Your platform complies with WCAG 2.2 AA accessibility standards.",
+      "hash": "5e884681e4c9"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Our commitment to accessibility",
+      "hash": "a1628c01d1fc"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "GoVocal platforms are designed with accessibility in mind and comply with the <b><a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\">WCAG 2.2 AA</a></b><a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\"> standards</a>. This means the platform is built to be usable by people with various disabilities, including visual, auditory, motor, and cognitive impairments.",
+      "hash": "7a24e75c4ff8"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "We undergo regular third-party audits on our demo environment, which uses the same codebase as your platform. Based on audit feedback and user input, we make ongoing improvements. Each platform includes an accessibility statement, linked in the footer, outlining features and known limitations.",
+      "hash": "2a62d04be05a"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "We are committed to continually enhancing platform accessibility. If you notice any barriers or have suggestions, reach out to <b><a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a></b>. Your input helps us improve the experience for everyone.",
+      "hash": "8026d7a71ede"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "You can also download our detailed accessibility report to learn more here:",
+      "hash": "b5b69c06dcf1"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/138058298/353aa9835a8e8821503e411fb19b/AnySurfer+Report.pdf?expires=1778004000&amp;signature=29804179bd91bd7f78419627946fab1e7d69459a871a3d5bce453179a89fda7c&amp;req=0dZnxV3yrj4glxv0%2B9pgpnvFnPLKvVJp4MpxHiOdjX0oYOj90admxIqH%2Bm9E%0A\" target=\"_blank\">AnySurfer Report.pdf</a>",
+      "hash": "02a7ba6571b4"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "What is accessibility in practice?",
+      "hash": "ba49c7c950be"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Full Keyboard Navigation:</b> Users can navigate the entire platform without a mouse.",
+      "hash": "07d9d8434cdb"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "<b>Screen Reader Compatibility:</b> Content and interactions are designed to work with screen readers.",
+      "hash": "56d4c91b0fda"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Alt-Text Support:</b> Admins can add descriptive alt-text to images in the backend.",
+      "hash": "42907f80cf4d"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Color Contrast Warnings:</b> The platform ensures strong contrast for fixed colors, and warns if chosen custom colors don’t meet contrast requirements.",
+      "hash": "ae07c2e4f3f2"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Responsive Design:</b> The platform adapts to all screen sizes and devices.",
+      "hash": "ac606ebf47de"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "For a full list of requirements, consult the official <a class=\"intercom-content-link\" href=\"https://www.w3.org/WAI/standards-guidelines/wcag/\" target=\"_blank\">WCAG 2.2 guidelines</a>.",
+      "hash": "27603113e251"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Can I edit the default accessibility policy page?",
+      "hash": "43b27447d20a"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "While the built-in accessibility page cannot be edited directly, you can replace it with a custom version via a simple workaround.",
+      "hash": "bee3b6a8d7f7"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Why is the Accessibility Page Locked?",
+      "hash": "73999d87b5e5"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "To ensure compliance with international <a class=\"intercom-content-link\" href=\"https://www.w3.org/TR/WCAG22/\" target=\"_blank\">WCAG 2.2 AA standards</a>, the default accessibility page on your platform is locked and cannot be edited through the admin interface.",
+      "hash": "d730a8662c64"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "This content was developed in collaboration with <a class=\"intercom-content-link\" href=\"https://www.anysurfer.be/en\" target=\"_blank\">AnySurfer</a>, a Belgian agency specialising in digital accessibility, and reflects the shared commitment of GoVocal to accessible design.",
+      "hash": "cd546d89ba1f"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Workaround: Replacing the Page with a Custom Version",
+      "hash": "cb09e8682d1c"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "You can still provide your own policy or link to an external one by following these steps:",
+      "hash": "4a6523c6ca13"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>Create a new page</b>",
+      "hash": "b285d0e87fdb"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "In the admin back-office, go to:",
+      "hash": "6c13127e6570"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Pages &amp; Menu</b> → <b>Create new page</b>",
+      "hash": "aa3d424d5534"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "<b>Copy &amp; edit content</b>",
+      "hash": "4eb1df182f03"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Copy the text from the current Accessibility Policy page, paste it into the new page, and make your desired edits.",
+      "hash": "93db35fd22df"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "<b>Publish your custom page</b>",
+      "hash": "4e2832a0f760"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Once you're happy with the content, publish the new page.",
+      "hash": "e318f3060cab"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<b>Contact Support</b>",
+      "hash": "d1d142fde78e"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Send the URL of your custom page to the GoVocal support team via the chat bubble.",
+      "hash": "03d1cd6e9e21"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Support will replace the footer link to point to your new page.",
+      "hash": "714262fe0ad5"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Notes on the workaround",
+      "hash": "84c35d61bd9b"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "This method does not affect accessibility compliance of the platform itself, only the wording and presentation of the accessibility statement.",
+      "hash": "df04070d259a"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "You may also use this method to link out to an external accessibility statement, such as a page on your municipal or organisational website.",
+      "hash": "070970cf41d3"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "What you can do to support accessibility?",
+      "hash": "09209bd985eb"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "<b>Create Accessible Content:</b>",
+      "hash": "3960f32bff18"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Use clear and concise language",
+      "hash": "29abce725841"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Apply structured headings (H1, H2, etc.) for logical navigation",
+      "hash": "3dd839384e71"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Add alt-text to images",
+      "hash": "ca5d196b53cb"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "<b>Upload Accessible Documents:</b>",
+      "hash": "1b65bb84bb59"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Ensure PDFs have a readable order, tags, and alt-text for images",
+      "hash": "dde0596404e3"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "<b>Include Media Alternatives:</b>",
+      "hash": "9a0bf20eee6b"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Provide captions for videos and transcripts for audio",
+      "hash": "d5878ebc7202"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "<b>Test Regularly:</b>",
+      "hash": "58cfa47dea8c"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Use screen readers or other assistive tech to test your platform",
+      "hash": "790a10bb9113"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "<b>Train Your Team:</b>",
+      "hash": "dcf7b4a76bf4"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Educate staff on accessibility best practices",
+      "hash": "409e73c3fe81"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "Do we support external accessibility tools?",
+      "hash": "3aa3fe6a5f88"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "We understand some clients may want to add external accessibility overlays or tools. However, because our platform is built with accessibility from the ground up, additional tools may conflict with the user experience or even introduce bugs.",
+      "hash": "11e3b0e03709"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "For a consistent, high-quality experience, we do not support third-party accessibility tool integrations.",
+      "hash": "89b85be31d27"
+    }
+  }
+}

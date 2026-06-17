@@ -1,0 +1,188 @@
+{
+  "article_id": "527582",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_89170e776d\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-h2b-video\"><iframe allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" mozallowfullscreen=\"\" src=\"https://www.youtube.com/embed/3jO8b5BqYQo?rel=0\" webkitallowfullscreen=\"\"></iframe></div><p class=\"no-margin\"></p>\n<h1 id=\"h_386cc0f21d\">@@body:0007@@</h1><ul><li><p class=\"no-margin\">@@body:0008@@</p><ul><li><p class=\"no-margin\">@@body:0009@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0010@@</p><ul><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0014@@</p><ul><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0018@@</p><ul><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0021@@</p><ul><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ul></li></ul><h1 id=\"h_50d9f44ac7\">@@body:0024@@</h1><p class=\"no-margin\">@@body:0025@@</p><ul><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li></ul><h1 id=\"h_9e60e60f0a\">@@body:0028@@</h1><ul><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p><ul><li><p class=\"no-margin\">@@body:0033@@</p></li></ul></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372568/3fa119903c0946839afc4f74db19/upload_17583927051243224381.png?expires=1781805600&amp;signature=4468a7420a01c359f582690bc2cdb96207154bd99bd97953213a579642128d99&amp;req=2dVswlr%2Fqj9k2hj99dpg6vn1zUqbFbicdnQCaivIdo%2Fg0CmlZpJ6Za6Vdgma%0Ay%2BGUMc6JmZUF0V9BGQ8IXMkq%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0034@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Embedding Konveio PDF Documents for Collecting Feedback",
+      "hash": "eba9f7ef12f5"
+    },
+    "description": {
+      "field": "description",
+      "text": "Let stakeholder and users leave comments directly in embedded PDFs",
+      "hash": "893b44c2790d"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is Konveio and how does it integrate with govocal?",
+      "hash": "16dc22758434"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Konveio enables in-document commenting, allowing stakeholders to leave feedback directly within embedded PDFs.",
+      "hash": "cd44031d344b"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Integration is available as an add-on feature (not included in all plans).",
+      "hash": "4821b82ea4cc"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "One Konveio PDF can be embedded per phase.",
+      "hash": "1e7a4aa57449"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Contact your Government Success Manager to enable this feature and create a Konveio account.",
+      "hash": "ec698ecafd2e"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "To learn more about Konveio itself, visit Konveio’s support documentation.",
+      "hash": "7c7df1ecffe6"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "How to embed a Konveio document in a project phase?",
+      "hash": "700325abefcb"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Upload and configure the document in Konveio</b>",
+      "hash": "cb92b2faa656"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Generate the embed code from your Konveio dashboard by pressing \"share\"",
+      "hash": "178cf17c8408"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Clean the embed code</b>",
+      "hash": "434ab45eaded"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Remove the <code>&lt;iframe ... src=\"</code> at the start",
+      "hash": "9ea0a568a85a"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Remove everything after the URL (starting with <code>frameborder=</code>)",
+      "hash": "1f493ea9e8fe"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Result should be a clean embed link",
+      "hash": "d861f23fd1c0"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>Set up your project phase</b>",
+      "hash": "da813dca99d2"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Go to your project in your Go Vocal platform",
+      "hash": "43175199d4a3"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "In phase settings, choose Collect feedback on a document as the participation method",
+      "hash": "d4a407e62d86"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Paste your cleaned Konveio embed link in the designated field",
+      "hash": "ab2f5ee60653"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Configure access rights</b>",
+      "hash": "e83c66881e16"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Go to the <b>Phase access and user data</b> tab",
+      "hash": "bdd01bee3c05"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Define who can see or comment on the document",
+      "hash": "067c5dbb7e34"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>Preview the result</b>",
+      "hash": "5d144f56ca9e"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Save changes and preview the project",
+      "hash": "c14c3743c423"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Make sure the document appears correctly and that comments can be added",
+      "hash": "b370cd17f91b"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "How to access feedback from a Konveio document?",
+      "hash": "3cbf6aa44441"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "After the phase closes, visit your Konveio dashboard to:",
+      "hash": "3b920ee918c2"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "View a summary of feedback",
+      "hash": "aad2631bf223"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Download raw participation data",
+      "hash": "10cefbd6c0e7"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "How to keep Konveio documents visible after the phase ends?",
+      "hash": "06882aac2b1b"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Open the project settings, click <b>Description</b>",
+      "hash": "030ddda9f83e"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Turn on <code>Use Content Builder for description</code>",
+      "hash": "b155d6369710"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Use the embed widget to paste the same cleaned Konveio embed link into the description.",
+      "hash": "d1761b48532e"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "In your Konveio account settings, enable:",
+      "hash": "965bbb9a2462"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "<code>Archived: commenting closed, comments visible</code>",
+      "hash": "3eeaa1ba2b89"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Save changes. Your document will now remain visible with comments but without active participation",
+      "hash": "bc323692bc57"
+    }
+  }
+}

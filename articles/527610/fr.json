@@ -1,0 +1,376 @@
+{
+  "article_id": "527610",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "How the GoVocal Support Team can help you",
+      "source_hash": "8f28c7700a5f",
+      "target": "How the GoVocal Support Team can help you",
+      "translated_from_hash": "8f28c7700a5f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Reach out to our support team for issues, feedback or product guidance.",
+      "source_hash": "8829e77a1fab",
+      "target": "Reach out to our support team for issues, feedback or product guidance.",
+      "translated_from_hash": "8829e77a1fab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "When and how to contact the Govocal support team?",
+      "source_hash": "39aa7147f892",
+      "target": "When and how to contact the Govocal support team?",
+      "translated_from_hash": "39aa7147f892",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Platform admins and project managers can reach out to the GoVocal Support Team for assistance, bug reports, feature requests, and platform tasks. The fastest way to get help is through the chat bubble in the admin panel. Emails sent to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> will also be converted into support tickets.",
+      "source_hash": "3e72564cd1dd",
+      "target": "Platform admins and project managers can reach out to the GoVocal Support Team for assistance, bug reports, feature requests, and platform tasks. The fastest way to get help is through the chat bubble in the admin panel. Emails sent to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> will also be converted into support tickets.",
+      "translated_from_hash": "3e72564cd1dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "How to use the chatbot for quick support?",
+      "source_hash": "e1ad72c2dbc7",
+      "target": "How to use the chatbot for quick support?",
+      "translated_from_hash": "e1ad72c2dbc7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "The chatbot is accessible from the platform back office (visible only to admins and managers). It’s optimized to solve recurring problems quickly. If the chatbot cannot resolve your issue, it will forward the conversation to a human support agent.",
+      "source_hash": "74b35051a210",
+      "target": "The chatbot is accessible from the platform back office (visible only to admins and managers). It’s optimized to solve recurring problems quickly. If the chatbot cannot resolve your issue, it will forward the conversation to a human support agent.",
+      "translated_from_hash": "74b35051a210",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Tips for effective communication with the support team",
+      "source_hash": "ea80a45c5d01",
+      "target": "Tips for effective communication with the support team",
+      "translated_from_hash": "ea80a45c5d01",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Whether you’re using the chatbot or contacting the support team, clear communication helps resolve issues faster:",
+      "source_hash": "95b34d43ab83",
+      "target": "Whether you’re using the chatbot or contacting the support team, clear communication helps resolve issues faster:",
+      "translated_from_hash": "95b34d43ab83",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Be specific about your issue and use relevant keywords.",
+      "source_hash": "d05cb4ca98c6",
+      "target": "Be specific about your issue and use relevant keywords.",
+      "translated_from_hash": "d05cb4ca98c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Explain the goal you’re trying to achieve.",
+      "source_hash": "18719e9d0fb3",
+      "target": "Explain the goal you’re trying to achieve.",
+      "translated_from_hash": "18719e9d0fb3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Share any error messages (screenshots or copy-paste).",
+      "source_hash": "ee827910b9e4",
+      "target": "Share any error messages (screenshots or copy-paste).",
+      "translated_from_hash": "ee827910b9e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Mention steps you’ve already tried.",
+      "source_hash": "3f1f57c695c2",
+      "target": "Mention steps you’ve already tried.",
+      "translated_from_hash": "3f1f57c695c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Clarify the difference between expected and actual results.",
+      "source_hash": "f7b9e465695d",
+      "target": "Clarify the difference between expected and actual results.",
+      "translated_from_hash": "f7b9e465695d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Stick to one question at a time.",
+      "source_hash": "893deeb38022",
+      "target": "Stick to one question at a time.",
+      "translated_from_hash": "893deeb38022",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Types of requests we can handle for you",
+      "source_hash": "efddc12a6c48",
+      "target": "Types of requests we can handle for you",
+      "translated_from_hash": "efddc12a6c48",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>General Assistance</b>: When you're not sure how something works and would like some more guidance on a certain feature.",
+      "source_hash": "6f307e755122",
+      "target": "<b>General Assistance</b>: When you're not sure how something works and would like some more guidance on a certain feature.",
+      "translated_from_hash": "6f307e755122",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Bug Reports</b>: Issues where something doesn't function properly. These are escalated to the development team and tracked for updates.",
+      "source_hash": "eb65b850811e",
+      "target": "<b>Bug Reports</b>: Issues where something doesn't function properly. These are escalated to the development team and tracked for updates.",
+      "translated_from_hash": "eb65b850811e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Issues</b>: Non-blocking problems that could work better. These are logged for future improvements but no fixed timeline is guaranteed.",
+      "source_hash": "7b048038914c",
+      "target": "<b>Issues</b>: Non-blocking problems that could work better. These are logged for future improvements but no fixed timeline is guaranteed.",
+      "translated_from_hash": "7b048038914c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Feature Requests</b>: Suggestions for things not currently available on the platform. These are tracked for product roadmap consideration.",
+      "source_hash": "ec23c3af3979",
+      "target": "<b>Feature Requests</b>: Suggestions for things not currently available on the platform. These are tracked for product roadmap consideration.",
+      "translated_from_hash": "ec23c3af3979",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Support Tasks</b>: Requests for backend changes or admin-level actions that require technical intervention from our team.",
+      "source_hash": "e4ac1ef45183",
+      "target": "<b>Support Tasks</b>: Requests for backend changes or admin-level actions that require technical intervention from our team.",
+      "translated_from_hash": "e4ac1ef45183",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Common support tasks",
+      "source_hash": "1af61528058a",
+      "target": "Common support tasks",
+      "translated_from_hash": "1af61528058a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Admins may request support for tasks that are not directly manageable via the interface. These tasks include, but are not limited to:",
+      "source_hash": "d3321b62bfe2",
+      "target": "Admins may request support for tasks that are not directly manageable via the interface. These tasks include, but are not limited to:",
+      "translated_from_hash": "d3321b62bfe2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Setting up a new domain or subdomain",
+      "source_hash": "41534428c4c7",
+      "target": "Setting up a new domain or subdomain",
+      "translated_from_hash": "41534428c4c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Renewing HTTPS certificates",
+      "source_hash": "5485ec71985b",
+      "target": "Renewing HTTPS certificates",
+      "translated_from_hash": "5485ec71985b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Enabling social login (Facebook, Google)",
+      "source_hash": "36e3d2652538",
+      "target": "Enabling social login (Facebook, Google)",
+      "translated_from_hash": "36e3d2652538",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Integrating external survey providers",
+      "source_hash": "aac9cef23a1f",
+      "target": "Integrating external survey providers",
+      "translated_from_hash": "aac9cef23a1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Bulk deleting users or languages",
+      "source_hash": "116d4d1e6a60",
+      "target": "Bulk deleting users or languages",
+      "translated_from_hash": "116d4d1e6a60",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Configuring analytics and tracking tools",
+      "source_hash": "7db7abf337ee",
+      "target": "Configuring analytics and tracking tools",
+      "translated_from_hash": "7db7abf337ee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Disabling search engine indexing",
+      "source_hash": "72e4afa6d98d",
+      "target": "Disabling search engine indexing",
+      "translated_from_hash": "72e4afa6d98d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Importing official feedback or registration field options",
+      "source_hash": "86e1a50c4fbd",
+      "target": "Importing official feedback or registration field options",
+      "translated_from_hash": "86e1a50c4fbd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Adding or customizing cookie policies",
+      "source_hash": "29d98b199577",
+      "target": "Adding or customizing cookie policies",
+      "translated_from_hash": "29d98b199577",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Configuring custom fonts or email addresses",
+      "source_hash": "0936415409f6",
+      "target": "Configuring custom fonts or email addresses",
+      "translated_from_hash": "0936415409f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Enabling automatic translations (e.g. Weglot)",
+      "source_hash": "263a6c4cb612",
+      "target": "Enabling automatic translations (e.g. Weglot)",
+      "translated_from_hash": "263a6c4cb612",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Adding social media feeds to the homepage",
+      "source_hash": "7d80525bb4e3",
+      "target": "Adding social media feeds to the homepage",
+      "translated_from_hash": "7d80525bb4e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Change the title of the browser tab in search engines",
+      "source_hash": "0831c9c46fe3",
+      "target": "Change the title of the browser tab in search engines",
+      "translated_from_hash": "0831c9c46fe3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Setting up national ID or SSO login integrations",
+      "source_hash": "2601037c1098",
+      "target": "Setting up national ID or SSO login integrations",
+      "translated_from_hash": "2601037c1098",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Enabling Hoplr login integration",
+      "source_hash": "89e7786ca430",
+      "target": "Enabling Hoplr login integration",
+      "translated_from_hash": "89e7786ca430",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Shorten a URL to remove \"/projects/\" in the URL",
+      "source_hash": "7067ca7f8d91",
+      "target": "Shorten a URL to remove \"/projects/\" in the URL",
+      "translated_from_hash": "7067ca7f8d91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "ℹ️ Some tasks are only available to premium clients. Time to process your request begins <b>after</b> all required data is submitted in the correct format. If a file or form is incomplete, we’ll return it to you before the countdown starts.",
+      "source_hash": "e11557a98fab",
+      "target": "ℹ️ Some tasks are only available to premium clients. Time to process your request begins <b>after</b> all required data is submitted in the correct format. If a file or form is incomplete, we’ll return it to you before the countdown starts.",
+      "translated_from_hash": "e11557a98fab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Support Office Hours",
+      "source_hash": "1c2fec360153",
+      "target": "Support Office Hours",
+      "translated_from_hash": "1c2fec360153",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "For higher tiered clients we also offer office hours Tuesdays and Thursdays. Simply ask the chat for an office hour and if you are on the right price plan you will be able to book 15min with our support team!",
+      "source_hash": "d49f0748d21b",
+      "target": "For higher tiered clients we also offer office hours Tuesdays and Thursdays. Simply ask the chat for an office hour and if you are on the right price plan you will be able to book 15min with our support team!",
+      "translated_from_hash": "d49f0748d21b",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

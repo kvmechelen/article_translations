@@ -1,0 +1,646 @@
+{
+  "article_id": "527636",
+  "language": "da",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Setting up an online workshop",
+      "source_hash": "174f0c790412",
+      "target": "Setting up an online workshop",
+      "translated_from_hash": "174f0c790412",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "We'll guide you through the key steps of setting up your own online workshops.",
+      "source_hash": "4f53ac61edb2",
+      "target": "We'll guide you through the key steps of setting up your own online workshops.",
+      "translated_from_hash": "4f53ac61edb2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are online workshops?",
+      "source_hash": "bfb49a4c88f9",
+      "target": "What are online workshops?",
+      "translated_from_hash": "bfb49a4c88f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The Online Workshop feature enables admins to host live, interactive sessions on the platform, including breakout groups, polls, Q&amp;A, and real-time collaboration.",
+      "source_hash": "8bbbfac95dc3",
+      "target": "The Online Workshop feature enables admins to host live, interactive sessions on the platform, including breakout groups, polls, Q&amp;A, and real-time collaboration.",
+      "translated_from_hash": "8bbbfac95dc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Supports up to 50 participants",
+      "source_hash": "70ee9b91c2ff",
+      "target": "Supports up to 50 participants",
+      "translated_from_hash": "70ee9b91c2ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Works on desktop only (Chrome, Firefox, Edge)",
+      "source_hash": "931efc04004b",
+      "target": "Works on desktop only (Chrome, Firefox, Edge)",
+      "translated_from_hash": "931efc04004b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Allows for multi-step agendas and data exports",
+      "source_hash": "b369240cdd08",
+      "target": "Allows for multi-step agendas and data exports",
+      "translated_from_hash": "b369240cdd08",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "What are the different room steps?",
+      "source_hash": "9d5f0cd1d74f",
+      "target": "What are the different room steps?",
+      "translated_from_hash": "9d5f0cd1d74f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Workshops support several participation methods within each room-step. Each method determines how participants interact in that step and what appears on the right side of the screen (the video feed always remains on the left).",
+      "source_hash": "bd7eeca3f649",
+      "target": "Workshops support several participation methods within each room-step. Each method determines how participants interact in that step and what appears on the right side of the screen (the video feed always remains on the left).",
+      "translated_from_hash": "bd7eeca3f649",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Q&amp;A",
+      "source_hash": "b8b61fa19ebb",
+      "target": "Q&amp;A",
+      "translated_from_hash": "b8b61fa19ebb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Allows admins to ask questions and participants to post answers (up to 255 characters) or vote on others’ responses",
+      "source_hash": "770b7a3762cd",
+      "target": "Allows admins to ask questions and participants to post answers (up to 255 characters) or vote on others’ responses",
+      "translated_from_hash": "770b7a3762cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Posts can be shown as square cards or rectangular list items",
+      "source_hash": "c68d64f1f9c8",
+      "target": "Posts can be shown as square cards or rectangular list items",
+      "translated_from_hash": "c68d64f1f9c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Optional setting: Select <b>Copy Q&amp;A inputs from previous step</b> to carry over discussion points between steps",
+      "source_hash": "f947155f1541",
+      "target": "Optional setting: Select <b>Copy Q&amp;A inputs from previous step</b> to carry over discussion points between steps",
+      "translated_from_hash": "f947155f1541",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Info",
+      "source_hash": "170322a32f3c",
+      "target": "Info",
+      "translated_from_hash": "170322a32f3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Displays text, images, or embedded media",
+      "source_hash": "c6024d37ba3f",
+      "target": "Displays text, images, or embedded media",
+      "translated_from_hash": "c6024d37ba3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Useful for sharing instructions, context, or presentations",
+      "source_hash": "169fb93e0641",
+      "target": "Useful for sharing instructions, context, or presentations",
+      "translated_from_hash": "169fb93e0641",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Allows screen sharing and a “Full screen for all” option for better visibility during presentations",
+      "source_hash": "5dbc5b981927",
+      "target": "Allows screen sharing and a “Full screen for all” option for better visibility during presentations",
+      "translated_from_hash": "5dbc5b981927",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Breakout Rooms",
+      "source_hash": "3df2db398dbd",
+      "target": "Breakout Rooms",
+      "translated_from_hash": "3df2db398dbd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Moves participants into smaller discussion groups",
+      "source_hash": "0ec78b33272a",
+      "target": "Moves participants into smaller discussion groups",
+      "translated_from_hash": "0ec78b33272a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Options:",
+      "source_hash": "367431fd664b",
+      "target": "Options:",
+      "translated_from_hash": "367431fd664b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Self-selection (participants choose their room)",
+      "source_hash": "6039b2f699e1",
+      "target": "Self-selection (participants choose their room)",
+      "translated_from_hash": "6039b2f699e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Random assignment (admin distributes them evenly)",
+      "source_hash": "ccdef98dde64",
+      "target": "Random assignment (admin distributes them evenly)",
+      "translated_from_hash": "ccdef98dde64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Room configurations can be shared across multiple breakout rooms for easier management",
+      "source_hash": "445e00e603e5",
+      "target": "Room configurations can be shared across multiple breakout rooms for easier management",
+      "translated_from_hash": "445e00e603e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Don't forget! You will need to configure each of the smaller break out rooms with their own participation method.",
+      "source_hash": "1fa1792fd518",
+      "target": "Don't forget! You will need to configure each of the smaller break out rooms with their own participation method.",
+      "translated_from_hash": "1fa1792fd518",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Summarise Discussion",
+      "source_hash": "e6d500345f2a",
+      "target": "Summarise Discussion",
+      "translated_from_hash": "e6d500345f2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Used at the end of breakout discussions to collaboratively draft a summary",
+      "source_hash": "c60bf0fcfaf8",
+      "target": "Used at the end of breakout discussions to collaboratively draft a summary",
+      "translated_from_hash": "c60bf0fcfaf8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "All participants in that room can type/edit the shared text",
+      "source_hash": "cb8900141c08",
+      "target": "All participants in that room can type/edit the shared text",
+      "translated_from_hash": "cb8900141c08",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Report Out",
+      "source_hash": "495a1071178f",
+      "target": "Report Out",
+      "translated_from_hash": "495a1071178f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Used in the plenary room to show all breakout room summaries at once.",
+      "source_hash": "9e010ffa42f4",
+      "target": "Used in the plenary room to show all breakout room summaries at once.",
+      "translated_from_hash": "9e010ffa42f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Allows the workshop to “bring everyone back together” and display consolidated conclusions.",
+      "source_hash": "f795732916c1",
+      "target": "Allows the workshop to “bring everyone back together” and display consolidated conclusions.",
+      "translated_from_hash": "f795732916c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "How to create an online workshop?",
+      "source_hash": "e87017752aa5",
+      "target": "How to create an online workshop?",
+      "translated_from_hash": "e87017752aa5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Go to <b>Online deliberation workshops</b> in the <b>Tools</b> section of the admin panel",
+      "source_hash": "8da1a48b46ba",
+      "target": "Go to <b>Online deliberation workshops</b> in the <b>Tools</b> section of the admin panel",
+      "translated_from_hash": "8da1a48b46ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Click <b>Manage your workshops</b> → <b>+ Add workshop</b>",
+      "source_hash": "3b6152ce9327",
+      "target": "Click <b>Manage your workshops</b> → <b>+ Add workshop</b>",
+      "translated_from_hash": "3b6152ce9327",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Enter a <b>name</b>, <b>date</b>, and <b>slug</b> (used for the workshop URL)",
+      "source_hash": "fd97d2ae28ae",
+      "target": "Enter a <b>name</b>, <b>date</b>, and <b>slug</b> (used for the workshop URL)",
+      "translated_from_hash": "fd97d2ae28ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "The URL will follow the format: <a class=\"intercom-content-link\" href=\"http://yourplatform.govocal.com/workshops/slug\" target=\"_blank\">yourplatform.govocal.com/workshops/slug</a>",
+      "source_hash": "d43bffdda2b2",
+      "target": "The URL will follow the format: <a class=\"intercom-content-link\" href=\"http://yourplatform.govocal.com/workshops/slug\" target=\"_blank\">yourplatform.govocal.com/workshops/slug</a>",
+      "translated_from_hash": "d43bffdda2b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "How to define your workshop?",
+      "source_hash": "4e7ae14a3ec6",
+      "target": "How to define your workshop?",
+      "translated_from_hash": "4e7ae14a3ec6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Use the <b>Manage</b> panel → <b>+ Add step</b>",
+      "source_hash": "f143b796fff3",
+      "target": "Use the <b>Manage</b> panel → <b>+ Add step</b>",
+      "translated_from_hash": "f143b796fff3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Common steps: Welcome, discussion steps, breakout sessions, Conclusion",
+      "source_hash": "6b23c0e2e692",
+      "target": "Common steps: Welcome, discussion steps, breakout sessions, Conclusion",
+      "translated_from_hash": "6b23c0e2e692",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Steps can be reordered later",
+      "source_hash": "d6414df6e3cc",
+      "target": "Steps can be reordered later",
+      "translated_from_hash": "d6414df6e3cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "How to add rooms to your workshop?",
+      "source_hash": "ec19247bd75f",
+      "target": "How to add rooms to your workshop?",
+      "translated_from_hash": "ec19247bd75f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Add rooms via <b>+ Add room</b>.",
+      "source_hash": "ff532bfeb98e",
+      "target": "Add rooms via <b>+ Add room</b>.",
+      "translated_from_hash": "ff532bfeb98e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Types:",
+      "source_hash": "0be4fcf6f52f",
+      "target": "Types:",
+      "translated_from_hash": "0be4fcf6f52f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Plenary room (all participants together)",
+      "source_hash": "ef69800cf542",
+      "target": "Plenary room (all participants together)",
+      "translated_from_hash": "ef69800cf542",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Breakout rooms (smaller groups, 5–8 people each recommended)",
+      "source_hash": "8c93d0e3c7de",
+      "target": "Breakout rooms (smaller groups, 5–8 people each recommended)",
+      "translated_from_hash": "8c93d0e3c7de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Configure video/chat options:",
+      "source_hash": "d1568b51b82b",
+      "target": "Configure video/chat options:",
+      "translated_from_hash": "d1568b51b82b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Raise hand",
+      "source_hash": "fdde0eba3c59",
+      "target": "Raise hand",
+      "translated_from_hash": "fdde0eba3c59",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Microphone/camera on/off by default",
+      "source_hash": "030f387a0bc1",
+      "target": "Microphone/camera on/off by default",
+      "translated_from_hash": "030f387a0bc1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Screen sharing",
+      "source_hash": "74dc20e1c6c9",
+      "target": "Screen sharing",
+      "translated_from_hash": "74dc20e1c6c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "ℹ️ : Admins always have full rights regardless of room settings.",
+      "source_hash": "ded3ee769d4e",
+      "target": "ℹ️ : Admins always have full rights regardless of room settings.",
+      "translated_from_hash": "ded3ee769d4e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "How to configure room steps?",
+      "source_hash": "a123446121e3",
+      "target": "How to configure room steps?",
+      "translated_from_hash": "a123446121e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Each room-step defines what happens in which room during each step.",
+      "source_hash": "349db855c01d",
+      "target": "Each room-step defines what happens in which room during each step.",
+      "translated_from_hash": "349db855c01d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Hover at the <b>step/room intersection</b> → <b>+ Add roomstep</b>",
+      "source_hash": "91cb36d90381",
+      "target": "Hover at the <b>step/room intersection</b> → <b>+ Add roomstep</b>",
+      "translated_from_hash": "91cb36d90381",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Choose a participation method:",
+      "source_hash": "8caf302381d3",
+      "target": "Choose a participation method:",
+      "translated_from_hash": "8caf302381d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>Q&amp;A</b> → Post or vote on answers.",
+      "source_hash": "57097be82c74",
+      "target": "<b>Q&amp;A</b> → Post or vote on answers.",
+      "translated_from_hash": "57097be82c74",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<b>Poll</b> → Single/multiple choice questions.",
+      "source_hash": "c778ccd5a86e",
+      "target": "<b>Poll</b> → Single/multiple choice questions.",
+      "translated_from_hash": "c778ccd5a86e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "<b>Info</b> → Share text/images, enable screen sharing.",
+      "source_hash": "e47d1c2c9e2a",
+      "target": "<b>Info</b> → Share text/images, enable screen sharing.",
+      "translated_from_hash": "e47d1c2c9e2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "<b>Breakout rooms</b> → Self-select or random assignment.",
+      "source_hash": "ca9ba7314c7a",
+      "target": "<b>Breakout rooms</b> → Self-select or random assignment.",
+      "translated_from_hash": "ca9ba7314c7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "<b>Summarise discussion</b> → Collaboratively draft conclusions.",
+      "source_hash": "16b9830997c0",
+      "target": "<b>Summarise discussion</b> → Collaboratively draft conclusions.",
+      "translated_from_hash": "16b9830997c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Report out</b> → Display summaries from all breakout rooms.",
+      "source_hash": "34d867807b0f",
+      "target": "<b>Report out</b> → Display summaries from all breakout rooms.",
+      "translated_from_hash": "34d867807b0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "How to test and edit the workshop?",
+      "source_hash": "cd81d28194f8",
+      "target": "How to test and edit the workshop?",
+      "translated_from_hash": "cd81d28194f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Use <b>Next step</b> button or <b>timer</b> (10s, 1min, 5min countdown).",
+      "source_hash": "568c6836ec6f",
+      "target": "Use <b>Next step</b> button or <b>timer</b> (10s, 1min, 5min countdown).",
+      "translated_from_hash": "568c6836ec6f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Steps can be <b>reordered</b> in the Manage panel.",
+      "source_hash": "572940426fb3",
+      "target": "Steps can be <b>reordered</b> in the Manage panel.",
+      "translated_from_hash": "572940426fb3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "⚠️ : <i>Do not add “test” written input, it can’t be deleted easily without redoing the roomstep.</i>",
+      "source_hash": "3788989156d0",
+      "target": "⚠️ : <i>Do not add “test” written input, it can’t be deleted easily without redoing the roomstep.</i>",
+      "translated_from_hash": "3788989156d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "How to export workshop data?",
+      "source_hash": "73e8de3ea1bc",
+      "target": "How to export workshop data?",
+      "translated_from_hash": "73e8de3ea1bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Admin panel → <b>Export Data</b>",
+      "source_hash": "2b9246a23c1c",
+      "target": "Admin panel → <b>Export Data</b>",
+      "translated_from_hash": "2b9246a23c1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Downloads Excel file with a <b>tab per step</b> (polls, Q&amp;A, conclusions)",
+      "source_hash": "a9088721668d",
+      "target": "Downloads Excel file with a <b>tab per step</b> (polls, Q&amp;A, conclusions)",
+      "translated_from_hash": "a9088721668d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Workshop capacity and browser rules",
+      "source_hash": "7aaf795caac4",
+      "target": "Workshop capacity and browser rules",
+      "translated_from_hash": "7aaf795caac4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Max 50 participants",
+      "source_hash": "72cbef1b48c5",
+      "target": "Max 50 participants",
+      "translated_from_hash": "72cbef1b48c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Desktop only (no mobile/tablet)",
+      "source_hash": "d87416062ff3",
+      "target": "Desktop only (no mobile/tablet)",
+      "translated_from_hash": "d87416062ff3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Chrome, Firefox, or Edge required",
+      "source_hash": "9e2939165ab6",
+      "target": "Chrome, Firefox, or Edge required",
+      "translated_from_hash": "9e2939165ab6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "For company laptops: may require IT support for network settings",
+      "source_hash": "3369c0626589",
+      "target": "For company laptops: may require IT support for network settings",
+      "translated_from_hash": "3369c0626589",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

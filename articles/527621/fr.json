@@ -1,0 +1,232 @@
+{
+  "article_id": "527621",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Creating a poll",
+      "source_hash": "27598c6e0d7f",
+      "target": "Creating a poll",
+      "translated_from_hash": "27598c6e0d7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is a poll?",
+      "source_hash": "336435fa0031",
+      "target": "What is a poll?",
+      "translated_from_hash": "336435fa0031",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "A poll is a simple way to gather quick feedback from your community. Unlike surveys, which can include different types of questions and formats, polls focus only on single-choice or multiple-choice questions.",
+      "source_hash": "ef3c9a3455c8",
+      "target": "A poll is a simple way to gather quick feedback from your community. Unlike surveys, which can include different types of questions and formats, polls focus only on single-choice or multiple-choice questions.",
+      "translated_from_hash": "ef3c9a3455c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The key advantage of polls is their visibility and ease of use: poll questions appear directly on the project page, making it easy for users to participate without leaving the page. This makes polls a fast, accessible, and effective way to understand what your community is thinking and feeling in the moment.",
+      "source_hash": "56205846594f",
+      "target": "The key advantage of polls is their visibility and ease of use: poll questions appear directly on the project page, making it easy for users to participate without leaving the page. This makes polls a fast, accessible, and effective way to understand what your community is thinking and feeling in the moment.",
+      "translated_from_hash": "56205846594f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "How to create a poll?",
+      "source_hash": "833008dbc66f",
+      "target": "How to create a poll?",
+      "translated_from_hash": "833008dbc66f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Step 1: Creating Your Poll",
+      "source_hash": "01acf056b1b7",
+      "target": "Step 1: Creating Your Poll",
+      "translated_from_hash": "01acf056b1b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "To create a poll, go to <b>Projects &gt; Create a Project</b>, then press <b>Save</b>. In the new phase that appears, select <b>Create a survey</b> as the project type and choose <b>Quick Poll</b> as the survey option.",
+      "source_hash": "4091fdc20165",
+      "target": "To create a poll, go to <b>Projects &gt; Create a Project</b>, then press <b>Save</b>. In the new phase that appears, select <b>Create a survey</b> as the project type and choose <b>Quick Poll</b> as the survey option.",
+      "translated_from_hash": "4091fdc20165",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Polls only include single-choice or multiple-choice questions, since they are designed for quick participation. If you want to include more complex question types, we recommend using the Survey method instead.",
+      "source_hash": "44921a3d384c",
+      "target": "Polls only include single-choice or multiple-choice questions, since they are designed for quick participation. If you want to include more complex question types, we recommend using the Survey method instead.",
+      "translated_from_hash": "44921a3d384c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "When creating your first poll question, you’ll be asked to provide a title and then add options. Once your first question is saved, select <b>Cancel</b> to return and add another question.",
+      "source_hash": "5976789b839c",
+      "target": "When creating your first poll question, you’ll be asked to provide a title and then add options. Once your first question is saved, select <b>Cancel</b> to return and add another question.",
+      "translated_from_hash": "5976789b839c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Step 2: Setting Up Your Poll",
+      "source_hash": "582ebb530b2a",
+      "target": "Step 2: Setting Up Your Poll",
+      "translated_from_hash": "582ebb530b2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Anonymous participation</b>: Polls can be set to anonymous so users can vote freely without concerns about privacy. Keep in mind, participants still need a registered account on the platform to take part.",
+      "source_hash": "045a86a8a84c",
+      "target": "<b>Anonymous participation</b>: Polls can be set to anonymous so users can vote freely without concerns about privacy. Keep in mind, participants still need a registered account on the platform to take part.",
+      "translated_from_hash": "045a86a8a84c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Project description</b>: Provide clear and detailed information in the description. This helps participants make informed choices and ensures you collect valuable, reliable data.",
+      "source_hash": "977950d8ff2d",
+      "target": "<b>Project description</b>: Provide clear and detailed information in the description. This helps participants make informed choices and ensures you collect valuable, reliable data.",
+      "translated_from_hash": "977950d8ff2d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Timing</b>: Allow enough time for everyone to answer. Some users may be busy or miss the initial announcement, so plan your timeline accordingly.",
+      "source_hash": "393f4efcadd2",
+      "target": "<b>Timing</b>: Allow enough time for everyone to answer. Some users may be busy or miss the initial announcement, so plan your timeline accordingly.",
+      "translated_from_hash": "393f4efcadd2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Promotion</b>: Share your poll on other communication channels (e.g. newsletters, social media) to maximize participation.",
+      "source_hash": "dbb8caca1c59",
+      "target": "<b>Promotion</b>: Share your poll on other communication channels (e.g. newsletters, social media) to maximize participation.",
+      "translated_from_hash": "dbb8caca1c59",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How to report when using a poll?",
+      "source_hash": "56fd4bc4a9af",
+      "target": "How to report when using a poll?",
+      "translated_from_hash": "56fd4bc4a9af",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Once your poll has been completed, you can export the results by going to the Poll tab in the phase and clicking <b>Export Poll Results</b>. The data will be downloaded as an Excel file.",
+      "source_hash": "04bcd0e40c38",
+      "target": "Once your poll has been completed, you can export the results by going to the Poll tab in the phase and clicking <b>Export Poll Results</b>. The data will be downloaded as an Excel file.",
+      "translated_from_hash": "04bcd0e40c38",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "From there, you can:",
+      "source_hash": "236ab32bee58",
+      "target": "From there, you can:",
+      "translated_from_hash": "236ab32bee58",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Visualize the results</b> in your own software, then share them on the platform by creating a dedicated information phase (e.g. <i>Poll Analysis</i>).",
+      "source_hash": "130d6b29f3bc",
+      "target": "<b>Visualize the results</b> in your own software, then share them on the platform by creating a dedicated information phase (e.g. <i>Poll Analysis</i>).",
+      "translated_from_hash": "130d6b29f3bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Follow up on results</b> by adding more phases to the timeline for evaluation, comments, or volunteering opportunities. For example, a <i>Poll Evaluation</i> phase can help gather qualitative insights to better understand the “why” behind the responses.",
+      "source_hash": "e4d7d803cb74",
+      "target": "<b>Follow up on results</b> by adding more phases to the timeline for evaluation, comments, or volunteering opportunities. For example, a <i>Poll Evaluation</i> phase can help gather qualitative insights to better understand the “why” behind the responses.",
+      "translated_from_hash": "e4d7d803cb74",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Important notes:</b>",
+      "source_hash": "6d35246af61c",
+      "target": "<b>Important notes:</b>",
+      "translated_from_hash": "6d35246af61c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Poll answers can only be deleted by deleting all participation data: </b>Go to the<b> General</b> project settings of your project &gt; <b>Data </b>tab &gt; select <b>Reset all participation -</b> then all data including your test poll answers will be deleted before the project goes live. If you wish to delete individual poll results<b> </b>please contact us the support team.",
+      "source_hash": "45bf434f6d00",
+      "target": "<b>Poll answers can only be deleted by deleting all participation data: </b>Go to the<b> General</b> project settings of your project &gt; <b>Data </b>tab &gt; select <b>Reset all participation -</b> then all data including your test poll answers will be deleted before the project goes live. If you wish to delete individual poll results<b> </b>please contact us the support team.",
+      "translated_from_hash": "45bf434f6d00",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Poll analysis is not built-in</b>: the platform does not currently offer analytics features for polls.",
+      "source_hash": "27e7573f58e5",
+      "target": "<b>Poll analysis is not built-in</b>: the platform does not currently offer analytics features for polls.",
+      "translated_from_hash": "27e7573f58e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Reports are not supported</b>: you cannot use the Report Builder for polls.",
+      "source_hash": "f8013efa7be8",
+      "target": "<b>Reports are not supported</b>: you cannot use the Report Builder for polls.",
+      "translated_from_hash": "f8013efa7be8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Choice requirements</b>: There is no setting for a minimum number of answer choices. Users can select either one or multiple options depending on the question type.",
+      "source_hash": "cc8529a5d17b",
+      "target": "<b>Choice requirements</b>: There is no setting for a minimum number of answer choices. Users can select either one or multiple options depending on the question type.",
+      "translated_from_hash": "cc8529a5d17b",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

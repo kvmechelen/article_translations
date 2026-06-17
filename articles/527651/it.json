@@ -1,0 +1,934 @@
+{
+  "article_id": "527651",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Setting up your platform URL and email",
+      "source_hash": "596e1a7195a8",
+      "target": "Setting up your platform URL and email",
+      "translated_from_hash": "596e1a7195a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is a URL or domain?",
+      "source_hash": "f390346a08c0",
+      "target": "What is a URL or domain?",
+      "translated_from_hash": "f390346a08c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The <b>URL</b> is what users type into their browser or click on to reach your engagement platform, for example: <code>cityname.govocal.com</code> or <code>participate.cityname.gov</code>. Think of it as the digital “address” of your platform.",
+      "source_hash": "7575768149db",
+      "target": "The <b>URL</b> is what users type into their browser or click on to reach your engagement platform, for example: <code>cityname.govocal.com</code> or <code>participate.cityname.gov</code>. Think of it as the digital “address” of your platform.",
+      "translated_from_hash": "7575768149db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The domain is the core part of the URL, for example: in <code>participate.cityname.gov</code>, the domain is <code>cityname.gov</code>. It identifies your organization online, and it's also what appears after the <code>@</code> symbol in an email address (e.g. <a class=\"intercom-content-link\" href=\"mailto:notifications@cityname.gov\" target=\"_blank\"><code>notifications@cityname.gov</code></a>).",
+      "source_hash": "825d94efdf4c",
+      "target": "The domain is the core part of the URL, for example: in <code>participate.cityname.gov</code>, the domain is <code>cityname.gov</code>. It identifies your organization online, and it's also what appears after the <code>@</code> symbol in an email address (e.g. <a class=\"intercom-content-link\" href=\"mailto:notifications@cityname.gov\" target=\"_blank\"><code>notifications@cityname.gov</code></a>).",
+      "translated_from_hash": "825d94efdf4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Why does the domain matter?",
+      "source_hash": "5da1b44bc653",
+      "target": "Why does the domain matter?",
+      "translated_from_hash": "5da1b44bc653",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "It shapes how your platform looks and feels: people are more likely to trust and engage with a domain that matches your official branding.",
+      "source_hash": "cf3294482169",
+      "target": "It shapes how your platform looks and feels: people are more likely to trust and engage with a domain that matches your official branding.",
+      "translated_from_hash": "cf3294482169",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "It’s important for email communications: you can configure a “FROM” email like <a class=\"intercom-content-link\" href=\"mailto:notifications@participation.city.gov\" target=\"_blank\"><code>notifications@participation.city.gov</code></a> to match your platform's domain.",
+      "source_hash": "e1cf1d69414d",
+      "target": "It’s important for email communications: you can configure a “FROM” email like <a class=\"intercom-content-link\" href=\"mailto:notifications@participation.city.gov\" target=\"_blank\"><code>notifications@participation.city.gov</code></a> to match your platform's domain.",
+      "translated_from_hash": "e1cf1d69414d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "It determines how the technical connection between your domain and the platform is set up (via NS or CNAME records: more on that in the article).",
+      "source_hash": "d99f784c80e8",
+      "target": "It determines how the technical connection between your domain and the platform is set up (via NS or CNAME records: more on that in the article).",
+      "translated_from_hash": "d99f784c80e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "A good domain setup builds trust, boosts recognition, and ensures smooth platform communication and email delivery. If you're unsure which option is right for your team, your technical support or the Go Vocal team can guide you through the setup.",
+      "source_hash": "970676a21c4a",
+      "target": "A good domain setup builds trust, boosts recognition, and ensures smooth platform communication and email delivery. If you're unsure which option is right for your team, your technical support or the Go Vocal team can guide you through the setup.",
+      "translated_from_hash": "970676a21c4a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "What are the URL options for your platform?",
+      "source_hash": "ec9675476578",
+      "target": "What are the URL options for your platform?",
+      "translated_from_hash": "ec9675476578",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "You can choose from:",
+      "source_hash": "7ee55fef2512",
+      "target": "You can choose from:",
+      "translated_from_hash": "7ee55fef2512",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "1. Go Vocal subdomain",
+      "source_hash": "096446bd9da7",
+      "target": "1. Go Vocal subdomain",
+      "translated_from_hash": "096446bd9da7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "This is the quickest and easiest option. Your platform will be hosted at a URL like <code>yourname.govocal.com</code> (e.g. <code>cityname.govocal.com</code>). You choose the name that comes before <code>.govocal.com</code>, and Go Vocal handles the rest.",
+      "source_hash": "a8288e012272",
+      "target": "This is the quickest and easiest option. Your platform will be hosted at a URL like <code>yourname.govocal.com</code> (e.g. <code>cityname.govocal.com</code>). You choose the name that comes before <code>.govocal.com</code>, and Go Vocal handles the rest.",
+      "translated_from_hash": "a8288e012272",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Use this option if you want to get started quickly without any extra technical setup.",
+      "source_hash": "70539dd868ec",
+      "target": "Use this option if you want to get started quickly without any extra technical setup.",
+      "translated_from_hash": "70539dd868ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "2. Custom subdomain of your organization’s website",
+      "source_hash": "8ef5831472e6",
+      "target": "2. Custom subdomain of your organization’s website",
+      "translated_from_hash": "8ef5831472e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "This option lets you keep your platform under your main domain, like <code>engage.cityname.gov</code> or <code>participate.cityname.gov</code>.",
+      "source_hash": "c73f6ab14f8f",
+      "target": "This option lets you keep your platform under your main domain, like <code>engage.cityname.gov</code> or <code>participate.cityname.gov</code>.",
+      "translated_from_hash": "c73f6ab14f8f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "The subdomain (e.g., “engage”) shows that your platform is part of your organization.",
+      "source_hash": "11b5102cb722",
+      "target": "The subdomain (e.g., “engage”) shows that your platform is part of your organization.",
+      "translated_from_hash": "11b5102cb722",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Note that although it shares a domain, the platform is still a separate website. This method does require some DNS configuration, so your technical team should be involved.",
+      "source_hash": "a65390c7e039",
+      "target": "Note that although it shares a domain, the platform is still a separate website. This method does require some DNS configuration, so your technical team should be involved.",
+      "translated_from_hash": "a65390c7e039",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "3. Custom root domain",
+      "source_hash": "629aea4f7b82",
+      "target": "3. Custom root domain",
+      "translated_from_hash": "629aea4f7b82",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "You can choose a completely custom address, such as <code>participationcity.com</code>.",
+      "source_hash": "c7c4b7fbee33",
+      "target": "You can choose a completely custom address, such as <code>participationcity.com</code>.",
+      "translated_from_hash": "c7c4b7fbee33",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "This gives you full control and is best for unique branding.",
+      "source_hash": "e6e0e2cabd48",
+      "target": "This gives you full control and is best for unique branding.",
+      "translated_from_hash": "e6e0e2cabd48",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "However, it also requires you to purchase the domain and involves more technical steps to set up.",
+      "source_hash": "cda1e3309ec7",
+      "target": "However, it also requires you to purchase the domain and involves more technical steps to set up.",
+      "translated_from_hash": "cda1e3309ec7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Choose the option that best fits your branding goals, timeline, and internal technical capacity.",
+      "source_hash": "d53fb6ad6b6b",
+      "target": "Choose the option that best fits your branding goals, timeline, and internal technical capacity.",
+      "translated_from_hash": "d53fb6ad6b6b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "How to setup a custom URL?",
+      "source_hash": "087b418898bc",
+      "target": "How to setup a custom URL?",
+      "translated_from_hash": "087b418898bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Step 1: Register your (sub)domain",
+      "source_hash": "3304ded72f86",
+      "target": "Step 1: Register your (sub)domain",
+      "translated_from_hash": "3304ded72f86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Buy or reserve the domain/subdomain you want",
+      "source_hash": "11f2d7b3f9c2",
+      "target": "Buy or reserve the domain/subdomain you want",
+      "translated_from_hash": "11f2d7b3f9c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Inform Go Vocal support of your chosen address",
+      "source_hash": "b29d229a5b13",
+      "target": "Inform Go Vocal support of your chosen address",
+      "translated_from_hash": "b29d229a5b13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Step 2: Link to Go Vocal servers",
+      "source_hash": "209f64a540dd",
+      "target": "Step 2: Link to Go Vocal servers",
+      "translated_from_hash": "209f64a540dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Choose between:",
+      "source_hash": "8876998dc0b1",
+      "target": "Choose between:",
+      "translated_from_hash": "8876998dc0b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>NS Method</b> (preferred):",
+      "source_hash": "6d57e3e85aaa",
+      "target": "<b>NS Method</b> (preferred):",
+      "translated_from_hash": "6d57e3e85aaa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Add the following NS records:",
+      "source_hash": "1fa0aa851e2a",
+      "target": "Add the following NS records:",
+      "translated_from_hash": "1fa0aa851e2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>CNAME Method</b>:",
+      "source_hash": "e8f95c31c950",
+      "target": "<b>CNAME Method</b>:",
+      "translated_from_hash": "e8f95c31c950",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Contact support to receive 2 custom CNAMEs",
+      "source_hash": "6cc83a6e79aa",
+      "target": "Contact support to receive 2 custom CNAMEs",
+      "translated_from_hash": "6cc83a6e79aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Only use with subdomains",
+      "source_hash": "e63b8b61b4b7",
+      "target": "Only use with subdomains",
+      "translated_from_hash": "e63b8b61b4b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Avoid root domains with CNAME due to limitations",
+      "source_hash": "0ad33d817feb",
+      "target": "Avoid root domains with CNAME due to limitations",
+      "translated_from_hash": "0ad33d817feb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "ℹ️ To read more about the difference between NS and CNAME configuration, read our section on ‘Difference between NS and CNAME configuration’",
+      "source_hash": "062b480a7cc7",
+      "target": "ℹ️ To read more about the difference between NS and CNAME configuration, read our section on ‘Difference between NS and CNAME configuration’",
+      "translated_from_hash": "062b480a7cc7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Step 3: Go Vocal activates your domain",
+      "source_hash": "af2ba0f7dc17",
+      "target": "Step 3: Go Vocal activates your domain",
+      "translated_from_hash": "af2ba0f7dc17",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Once your records propagate, support will activate the domain on Go Vocal’s side.",
+      "source_hash": "6fa3c3ab1385",
+      "target": "Once your records propagate, support will activate the domain on Go Vocal’s side.",
+      "translated_from_hash": "6fa3c3ab1385",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Step 4: Set up optional redirects",
+      "source_hash": "0162bbd03c14",
+      "target": "Step 4: Set up optional redirects",
+      "translated_from_hash": "0162bbd03c14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "From <code>.govocal.com</code> → your custom domain (support can assist)",
+      "source_hash": "4e75302bc94d",
+      "target": "From <code>.govocal.com</code> → your custom domain (support can assist)",
+      "translated_from_hash": "4e75302bc94d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "From one custom domain to another (possible at extra cost)",
+      "source_hash": "ff3151295bbe",
+      "target": "From one custom domain to another (possible at extra cost)",
+      "translated_from_hash": "ff3151295bbe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<code>www.</code> redirects: Automatically included in NS setups. For CNAME, ask support.",
+      "source_hash": "ba5b10dda2fc",
+      "target": "<code>www.</code> redirects: Automatically included in NS setups. For CNAME, ask support.",
+      "translated_from_hash": "ba5b10dda2fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Differences between NS and CNAME configuration",
+      "source_hash": "cccf3480d5ee",
+      "target": "Differences between NS and CNAME configuration",
+      "translated_from_hash": "cccf3480d5ee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "To connect a custom domain or subdomain to your Go Vocal platform, you’ll need to make a technical choice:",
+      "source_hash": "fcd39deffcee",
+      "target": "To connect a custom domain or subdomain to your Go Vocal platform, you’ll need to make a technical choice:",
+      "translated_from_hash": "fcd39deffcee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>NS (Name Server) records</b>",
+      "source_hash": "03e1106804d8",
+      "target": "<b>NS (Name Server) records</b>",
+      "translated_from_hash": "03e1106804d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Recommended for most cases - Unless you have a domain hosted in the Netherlands then we recommend CNAME. Go Vocal manages the domain’s DNS, enabling quick setup, secure SSL, and easier future configurations (e.g. custom email, redirects).",
+      "source_hash": "a68711d56c23",
+      "target": "Recommended for most cases - Unless you have a domain hosted in the Netherlands then we recommend CNAME. Go Vocal manages the domain’s DNS, enabling quick setup, secure SSL, and easier future configurations (e.g. custom email, redirects).",
+      "translated_from_hash": "a68711d56c23",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "→ Best for flexibility and long-term ease.",
+      "source_hash": "d4b2959f930f",
+      "target": "→ Best for flexibility and long-term ease.",
+      "translated_from_hash": "d4b2959f930f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>CNAME records</b>",
+      "source_hash": "5edab9e74231",
+      "target": "<b>CNAME records</b>",
+      "translated_from_hash": "5edab9e74231",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Used when your organization must retain control of the domain’s DNS. It gives less flexibility and requires extra configuration steps (e.g. setting up redirects).",
+      "source_hash": "68999c1a39dc",
+      "target": "Used when your organization must retain control of the domain’s DNS. It gives less flexibility and requires extra configuration steps (e.g. setting up redirects).",
+      "translated_from_hash": "68999c1a39dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "→ Best if your internal policies restrict NS delegation.",
+      "source_hash": "4c1680f96142",
+      "target": "→ Best if your internal policies restrict NS delegation.",
+      "translated_from_hash": "4c1680f96142",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "If you're unsure which to choose, ask your technical team or reach out to Go Vocal support, we're happy to help.",
+      "source_hash": "5bb4e80371d1",
+      "target": "If you're unsure which to choose, ask your technical team or reach out to Go Vocal support, we're happy to help.",
+      "translated_from_hash": "5bb4e80371d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "How to configure a custom FROM email?",
+      "source_hash": "5bb57297e21d",
+      "target": "How to configure a custom FROM email?",
+      "translated_from_hash": "5bb57297e21d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "By default, your platform sends email notifications from:",
+      "source_hash": "1a0aa76d775a",
+      "target": "By default, your platform sends email notifications from:",
+      "translated_from_hash": "1a0aa76d775a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"mailto:notifications@mail-eu.citizenlab.co\" target=\"_blank\"><code>notifications@mail-eu.citizenlab.co</code></a>",
+      "source_hash": "2653b2d8a23e",
+      "target": "<a class=\"intercom-content-link\" href=\"mailto:notifications@mail-eu.citizenlab.co\" target=\"_blank\"><code>notifications@mail-eu.citizenlab.co</code></a>",
+      "translated_from_hash": "2653b2d8a23e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "You can customize this to match your organization’s domain, such as:",
+      "source_hash": "1d14fb731d5a",
+      "target": "You can customize this to match your organization’s domain, such as:",
+      "translated_from_hash": "1d14fb731d5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"mailto:notifications@participation.city.gov\" target=\"_blank\"><code>notifications@participation.city.gov</code></a>",
+      "source_hash": "f5359a7844ae",
+      "target": "<a class=\"intercom-content-link\" href=\"mailto:notifications@participation.city.gov\" target=\"_blank\"><code>notifications@participation.city.gov</code></a>",
+      "translated_from_hash": "f5359a7844ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "However, this depends on how your platform's domain is technically configured (via NS or CNAME records).",
+      "source_hash": "b595947f3c7f",
+      "target": "However, this depends on how your platform's domain is technically configured (via NS or CNAME records).",
+      "translated_from_hash": "b595947f3c7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Step 1: Understand domain limitations",
+      "source_hash": "42f0d07f379c",
+      "target": "Step 1: Understand domain limitations",
+      "translated_from_hash": "42f0d07f379c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Before choosing your custom email address, be aware of the following:",
+      "source_hash": "365303b65f5c",
+      "target": "Before choosing your custom email address, be aware of the following:",
+      "translated_from_hash": "365303b65f5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>The email domain must not already be in active use.</b>",
+      "source_hash": "99b206f14da7",
+      "target": "<b>The email domain must not already be in active use.</b>",
+      "translated_from_hash": "99b206f14da7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "You cannot use a domain that already has a functioning inbox — it must be reserved for sending notifications only, or it may cause conflicts with your mail server.",
+      "source_hash": "5faa2b8b14f1",
+      "target": "You cannot use a domain that already has a functioning inbox — it must be reserved for sending notifications only, or it may cause conflicts with your mail server.",
+      "translated_from_hash": "5faa2b8b14f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Step 2: Choose a domain that matches your setup",
+      "source_hash": "9d447da3f17d",
+      "target": "Step 2: Choose a domain that matches your setup",
+      "translated_from_hash": "9d447da3f17d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>If your platform uses NS records:</b>",
+      "source_hash": "a4673ab0aed9",
+      "target": "<b>If your platform uses NS records:</b>",
+      "translated_from_hash": "a4673ab0aed9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "You can use the same domain as your platform URL.",
+      "source_hash": "9cbfec1a51d0",
+      "target": "You can use the same domain as your platform URL.",
+      "translated_from_hash": "9cbfec1a51d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Example: If your platform lives at <a class=\"intercom-content-link\" href=\"https://participation.city.gov\" target=\"_blank\"><code>https://participation.city.gov</code></a>, you can use <a class=\"intercom-content-link\" href=\"mailto:notifications@participation.city.gov\" target=\"_blank\"><code>notifications@participation.city.gov</code></a>.",
+      "source_hash": "ba5c6a2e2110",
+      "target": "Example: If your platform lives at <a class=\"intercom-content-link\" href=\"https://participation.city.gov\" target=\"_blank\"><code>https://participation.city.gov</code></a>, you can use <a class=\"intercom-content-link\" href=\"mailto:notifications@participation.city.gov\" target=\"_blank\"><code>notifications@participation.city.gov</code></a>.",
+      "translated_from_hash": "ba5c6a2e2110",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "<b>If your platform uses CNAME records:</b>",
+      "source_hash": "eaac2de1a611",
+      "target": "<b>If your platform uses CNAME records:</b>",
+      "translated_from_hash": "eaac2de1a611",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "You must use a <b>different subdomain</b> for email, as using the same domain may create DNS conflicts.",
+      "source_hash": "1a3efe658a50",
+      "target": "You must use a <b>different subdomain</b> for email, as using the same domain may create DNS conflicts.",
+      "translated_from_hash": "1a3efe658a50",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Example: If your platform lives at <a class=\"intercom-content-link\" href=\"https://participation.city.gov\" target=\"_blank\"><code>https://participation.city.gov</code></a>, you can use <a class=\"intercom-content-link\" href=\"mailto:notifications@mail.participation.city.gov\" target=\"_blank\"><code>notifications@mail.participation.city.gov</code></a>.",
+      "source_hash": "bb386bd3450b",
+      "target": "Example: If your platform lives at <a class=\"intercom-content-link\" href=\"https://participation.city.gov\" target=\"_blank\"><code>https://participation.city.gov</code></a>, you can use <a class=\"intercom-content-link\" href=\"mailto:notifications@mail.participation.city.gov\" target=\"_blank\"><code>notifications@mail.participation.city.gov</code></a>.",
+      "translated_from_hash": "bb386bd3450b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Step 3: Contact support to activate it",
+      "source_hash": "2e9fe7b9cdfc",
+      "target": "Step 3: Contact support to activate it",
+      "translated_from_hash": "2e9fe7b9cdfc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Once you’ve selected your email address:",
+      "source_hash": "6448057b904b",
+      "target": "Once you’ve selected your email address:",
+      "translated_from_hash": "6448057b904b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Ensure the domain is available and not linked to an active inbox.",
+      "source_hash": "e82646923386",
+      "target": "Ensure the domain is available and not linked to an active inbox.",
+      "translated_from_hash": "e82646923386",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Send your desired FROM email to our support team at <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "source_hash": "bae02efb4b1f",
+      "target": "Send your desired FROM email to our support team at <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "translated_from_hash": "bae02efb4b1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "We’ll finalize the technical configuration and confirm once the custom email is active.",
+      "source_hash": "76f00ff72dc6",
+      "target": "We’ll finalize the technical configuration and confirm once the custom email is active.",
+      "translated_from_hash": "76f00ff72dc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "<b>Note:</b>",
+      "source_hash": "eda75fa9217d",
+      "target": "<b>Note:</b>",
+      "translated_from_hash": "eda75fa9217d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "The setup may require coordination with your IT team if DNS settings or domain ownership verification are needed.",
+      "source_hash": "9e70f62c97fe",
+      "target": "The setup may require coordination with your IT team if DNS settings or domain ownership verification are needed.",
+      "translated_from_hash": "9e70f62c97fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "How to configure a custom REPLY TO email?",
+      "source_hash": "4104fd552fd5",
+      "target": "How to configure a custom REPLY TO email?",
+      "translated_from_hash": "4104fd552fd5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "Most automated emails sent from your platform, such as invitations, project updates, or weekly overviews, are not meant to be replied to. However, users sometimes still click “Reply.” By default, these replies are directed to Go Vocal, but we do not monitor or respond to them.",
+      "source_hash": "d946a5403e45",
+      "target": "Most automated emails sent from your platform, such as invitations, project updates, or weekly overviews, are not meant to be replied to. However, users sometimes still click “Reply.” By default, these replies are directed to Go Vocal, but we do not monitor or respond to them.",
+      "translated_from_hash": "d946a5403e45",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "To ensure any replies from your users are received by your own team instead, you can customize the reply-to address.",
+      "source_hash": "6d611883e171",
+      "target": "To ensure any replies from your users are received by your own team instead, you can customize the reply-to address.",
+      "translated_from_hash": "6d611883e171",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Step 1: Check your plan",
+      "source_hash": "d866a5fd6bc5",
+      "target": "Step 1: Check your plan",
+      "translated_from_hash": "d866a5fd6bc5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "The ability to customize your platform’s reply-to email address depends on your pricing plan. If you’re not sure whether it’s included in your plan, check with your Go Vocal contact or support.",
+      "source_hash": "89774fd14ccb",
+      "target": "The ability to customize your platform’s reply-to email address depends on your pricing plan. If you’re not sure whether it’s included in your plan, check with your Go Vocal contact or support.",
+      "translated_from_hash": "89774fd14ccb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "Step 2: Request the change",
+      "source_hash": "be353ab9c54f",
+      "target": "Step 2: Request the change",
+      "translated_from_hash": "be353ab9c54f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "If your plan supports this feature:",
+      "source_hash": "9c49253a0313",
+      "target": "If your plan supports this feature:",
+      "translated_from_hash": "9c49253a0313",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "Contact the Go Vocal Support team using the chat bubble on the bottom-right corner of your platform.",
+      "source_hash": "d8acaa87d0a8",
+      "target": "Contact the Go Vocal Support team using the chat bubble on the bottom-right corner of your platform.",
+      "translated_from_hash": "d8acaa87d0a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "Let them know which reply-to email address you'd like to use.",
+      "source_hash": "47db7b0b648c",
+      "target": "Let them know which reply-to email address you'd like to use.",
+      "translated_from_hash": "47db7b0b648c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "Our team will configure the new reply-to address for you on the back end.",
+      "source_hash": "375a9841c598",
+      "target": "Our team will configure the new reply-to address for you on the back end.",
+      "translated_from_hash": "375a9841c598",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "That’s it, future replies from platform emails will now go to your own inbox instead of Go Vocal.",
+      "source_hash": "9b4418fc99e5",
+      "target": "That’s it, future replies from platform emails will now go to your own inbox instead of Go Vocal.",
+      "translated_from_hash": "9b4418fc99e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "FAQ on domain management",
+      "source_hash": "24af63fe06cb",
+      "target": "FAQ on domain management",
+      "translated_from_hash": "24af63fe06cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "Quick answers to common setup and configuration questions.",
+      "source_hash": "d26487fd49d0",
+      "target": "Quick answers to common setup and configuration questions.",
+      "translated_from_hash": "d26487fd49d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "Can I use multiple domains?",
+      "source_hash": "878d72371906",
+      "target": "Can I use multiple domains?",
+      "translated_from_hash": "878d72371906",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "No, only one domain per platform. Use redirects if needed.",
+      "source_hash": "0e180aed1a11",
+      "target": "No, only one domain per platform. Use redirects if needed.",
+      "translated_from_hash": "0e180aed1a11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "How do I add NS records?",
+      "source_hash": "5d4674073969",
+      "target": "How do I add NS records?",
+      "translated_from_hash": "5d4674073969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0091": {
+      "field": "body",
+      "source": "Use your DNS provider admin panel. Ask IT for help.",
+      "source_hash": "c95d19d7da75",
+      "target": "Use your DNS provider admin panel. Ask IT for help.",
+      "translated_from_hash": "c95d19d7da75",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0092": {
+      "field": "body",
+      "source": "Only 2 name servers allowed?",
+      "source_hash": "21aadda6d2aa",
+      "target": "Only 2 name servers allowed?",
+      "translated_from_hash": "21aadda6d2aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0093": {
+      "field": "body",
+      "source": "Add what you can. Go Vocal will verify if sufficient.",
+      "source_hash": "f637aa3c5a27",
+      "target": "Add what you can. Go Vocal will verify if sufficient.",
+      "translated_from_hash": "f637aa3c5a27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0094": {
+      "field": "body",
+      "source": "<b>Why not use A records or IP addresses?</b>",
+      "source_hash": "227778c6374b",
+      "target": "<b>Why not use A records or IP addresses?</b>",
+      "translated_from_hash": "227778c6374b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0095": {
+      "field": "body",
+      "source": "Not supported due to CDN with dynamic IPs.",
+      "source_hash": "b604e7958ddb",
+      "target": "Not supported due to CDN with dynamic IPs.",
+      "translated_from_hash": "b604e7958ddb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0096": {
+      "field": "body",
+      "source": "Need a CSR file for root certificate?",
+      "source_hash": "601b10ffc0b3",
+      "target": "Need a CSR file for root certificate?",
+      "translated_from_hash": "601b10ffc0b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0097": {
+      "field": "body",
+      "source": "Yes, Go Vocal can provide one if needed.",
+      "source_hash": "dfe9b7bd64d7",
+      "target": "Yes, Go Vocal can provide one if needed.",
+      "translated_from_hash": "dfe9b7bd64d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0098": {
+      "field": "body",
+      "source": "Dutch clients: getting the internet.nl score to 100%",
+      "source_hash": "3205601f81e3",
+      "target": "Dutch clients: getting the internet.nl score to 100%",
+      "translated_from_hash": "3205601f81e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0099": {
+      "field": "body",
+      "source": "The <a class=\"intercom-content-link\" href=\"http://internet.nl/\" target=\"_blank\">Internet.nl</a> testing tool is an initiative of the Internet Standards Platform. The platform's goal is to work together to further increase the use of modern internet standards. This will make the internet more accessible, secure, and reliable for everyone. The platform is a partnership between parties from the internet community and the Dutch government.We will do our utmost to help you achieve 100% on <a class=\"intercom-content-link\" href=\"http://internet.nl/\" target=\"_blank\">internet.nl</a>.",
+      "source_hash": "5fb20e57e427",
+      "target": "The <a class=\"intercom-content-link\" href=\"http://internet.nl/\" target=\"_blank\">Internet.nl</a> testing tool is an initiative of the Internet Standards Platform. The platform's goal is to work together to further increase the use of modern internet standards. This will make the internet more accessible, secure, and reliable for everyone. The platform is a partnership between parties from the internet community and the Dutch government.We will do our utmost to help you achieve 100% on <a class=\"intercom-content-link\" href=\"http://internet.nl/\" target=\"_blank\">internet.nl</a>.",
+      "translated_from_hash": "5fb20e57e427",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0100": {
+      "field": "body",
+      "source": "Your platform needs to be set up using CNAME records to support DNSSEC. Contact our support team to know if you are using NS or CNAME as a set up for your domain and go through the process of changing to CNAME set up if necessary.",
+      "source_hash": "34cc5ffe7675",
+      "target": "Your platform needs to be set up using CNAME records to support DNSSEC. Contact our support team to know if you are using NS or CNAME as a set up for your domain and go through the process of changing to CNAME set up if necessary.",
+      "translated_from_hash": "34cc5ffe7675",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0101": {
+      "field": "body",
+      "source": "HSTS needs to be enabled. Contact the support team to ask to enable this.",
+      "source_hash": "fe86ce34a5a1",
+      "target": "HSTS needs to be enabled. Contact the support team to ask to enable this.",
+      "translated_from_hash": "fe86ce34a5a1",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

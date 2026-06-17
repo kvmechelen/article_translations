@@ -1,0 +1,439 @@
+{
+  "article_id": "527576",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "FAQ on our AI Sensemaking tool",
+      "source_hash": "1487ef7e349f",
+      "target": "FAQ on our AI Sensemaking tool",
+      "translated_from_hash": "1487ef7e349f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Insightful FAQs: Understanding Our AI Sensemaking Tool",
+      "source_hash": "bb96dc4ba49b",
+      "target": "Insightful FAQs: Understanding Our AI Sensemaking Tool",
+      "translated_from_hash": "bb96dc4ba49b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "External providers and data processing",
+      "source_hash": "20af4ddbf815",
+      "target": "External providers and data processing",
+      "translated_from_hash": "20af4ddbf815",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "We use Microsoft Azure’s implementation of OpenAI models, specifically GPT-4 Turbo, via secure APIs. This setup ensures enterprise-level data handling.",
+      "source_hash": "ebff280cc7f6",
+      "target": "We use Microsoft Azure’s implementation of OpenAI models, specifically GPT-4 Turbo, via secure APIs. This setup ensures enterprise-level data handling.",
+      "translated_from_hash": "ebff280cc7f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "<b>Key data handling practices:</b>",
+      "source_hash": "d5dcabd15f1a",
+      "target": "<b>Key data handling practices:</b>",
+      "translated_from_hash": "d5dcabd15f1a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Purpose-limited use: Data is processed only to provide and support the AI services",
+      "source_hash": "3851af54f047",
+      "target": "Purpose-limited use: Data is processed only to provide and support the AI services",
+      "translated_from_hash": "3851af54f047",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "No direct OpenAI access: The service is hosted entirely within Microsoft Azure and does not interact with external OpenAI platforms like ChatGPT or the public OpenAI API",
+      "source_hash": "42b60aa68b81",
+      "target": "No direct OpenAI access: The service is hosted entirely within Microsoft Azure and does not interact with external OpenAI platforms like ChatGPT or the public OpenAI API",
+      "translated_from_hash": "42b60aa68b81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Regional hosting: Data is processed in the region specified by the customer. For us, that includes one of four: Europe, UK, US, or Canada",
+      "source_hash": "2d7a33736555",
+      "target": "Regional hosting: Data is processed in the region specified by the customer. For us, that includes one of four: Europe, UK, US, or Canada",
+      "translated_from_hash": "2d7a33736555",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Access control: Microsoft only accesses data for abuse monitoring purposes",
+      "source_hash": "1c9f12bd33b1",
+      "target": "Access control: Microsoft only accesses data for abuse monitoring purposes",
+      "translated_from_hash": "1c9f12bd33b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "What data is sent to these subprocessors and does it include PII?",
+      "source_hash": "4b8b92617b18",
+      "target": "What data is sent to these subprocessors and does it include PII?",
+      "translated_from_hash": "4b8b92617b18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "By default, only textual user contributions (e.g., survey answers or ideas) are sent to the AI subprocessors. These are submitted to support AI analysis features like summarization and tagging",
+      "source_hash": "b36dd56cb8fd",
+      "target": "By default, only textual user contributions (e.g., survey answers or ideas) are sent to the AI subprocessors. These are submitted to support AI analysis features like summarization and tagging",
+      "translated_from_hash": "b36dd56cb8fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "When is data sent?",
+      "source_hash": "1c7f95cffbc0",
+      "target": "When is data sent?",
+      "translated_from_hash": "1c7f95cffbc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Surveys</b>: Text is sent when an admin visits the survey results page.",
+      "source_hash": "33569e279914",
+      "target": "<b>Surveys</b>: Text is sent when an admin visits the survey results page.",
+      "translated_from_hash": "33569e279914",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Ideation</b>: Text is sent when an admin actively starts an AI analysis.",
+      "source_hash": "5f10debe4b7f",
+      "target": "<b>Ideation</b>: Text is sent when an admin actively starts an AI analysis.",
+      "translated_from_hash": "5f10debe4b7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "What kind of data is included?",
+      "source_hash": "512fb2647c70",
+      "target": "What kind of data is included?",
+      "translated_from_hash": "512fb2647c70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Only the free-text content users wrote in their contributions",
+      "source_hash": "3e0659e04a15",
+      "target": "Only the free-text content users wrote in their contributions",
+      "translated_from_hash": "3e0659e04a15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "No structural user information is shared (e.g., email, username, profile picture, demographic data)",
+      "source_hash": "886f4a687d85",
+      "target": "No structural user information is shared (e.g., email, username, profile picture, demographic data)",
+      "translated_from_hash": "886f4a687d85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "⚠️ If a user includes personal information (PII) in their own contribution text, that PII may be sent to sub-processors as part of the message content. This is not filtered out automatically.",
+      "source_hash": "cd80ed559926",
+      "target": "⚠️ If a user includes personal information (PII) in their own contribution text, that PII may be sent to sub-processors as part of the message content. This is not filtered out automatically.",
+      "translated_from_hash": "cd80ed559926",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Are these subprocessors using the data to train and improve their models?",
+      "source_hash": "b42a2e4c9bb9",
+      "target": "Are these subprocessors using the data to train and improve their models?",
+      "translated_from_hash": "b42a2e4c9bb9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "No, both sub-processors explicitly state that they are not using the data for such purpose.",
+      "source_hash": "cadc31440b2e",
+      "target": "No, both sub-processors explicitly state that they are not using the data for such purpose.",
+      "translated_from_hash": "cadc31440b2e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Where is Microsoft processing the data?",
+      "source_hash": "d3b13f6e4e71",
+      "target": "Where is Microsoft processing the data?",
+      "translated_from_hash": "d3b13f6e4e71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Microsoft allows us to specify the region of processing. We currently make use of 7 regions, where our customers use the region most local to them. The regions are:",
+      "source_hash": "ea33f9b75fa4",
+      "target": "Microsoft allows us to specify the region of processing. We currently make use of 7 regions, where our customers use the region most local to them. The regions are:",
+      "translated_from_hash": "ea33f9b75fa4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Frankfurt",
+      "source_hash": "a3fb8a4dfff4",
+      "target": "Frankfurt",
+      "translated_from_hash": "a3fb8a4dfff4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "UK",
+      "source_hash": "e7d529decf2e",
+      "target": "UK",
+      "translated_from_hash": "e7d529decf2e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "US",
+      "source_hash": "9b202ecbc6d4",
+      "target": "US",
+      "translated_from_hash": "9b202ecbc6d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Canada",
+      "source_hash": "be55ef3f4c4e",
+      "target": "Canada",
+      "translated_from_hash": "be55ef3f4c4e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Brazil",
+      "source_hash": "07f62b021771",
+      "target": "Brazil",
+      "translated_from_hash": "07f62b021771",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Paris",
+      "source_hash": "5dd272b4f316",
+      "target": "Paris",
+      "translated_from_hash": "5dd272b4f316",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Stockholm",
+      "source_hash": "b982d7ebca1e",
+      "target": "Stockholm",
+      "translated_from_hash": "b982d7ebca1e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Why are the answers of AI not in my language?",
+      "source_hash": "bb8c535a33f8",
+      "target": "Why are the answers of AI not in my language?",
+      "translated_from_hash": "bb8c535a33f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Our AI feature tries to answer as much as possible in the language of the input it’s receiving. Exceptionally, in cases where there are mixed languages, there are very few inputs, or when the AI gets it wrong, it might generate answers in the wrong language. In such cases, it mostly suffices to retry.",
+      "source_hash": "c0b6a2395b88",
+      "target": "Our AI feature tries to answer as much as possible in the language of the input it’s receiving. Exceptionally, in cases where there are mixed languages, there are very few inputs, or when the AI gets it wrong, it might generate answers in the wrong language. In such cases, it mostly suffices to retry.",
+      "translated_from_hash": "c0b6a2395b88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "⚠️ All core languages are supported with the exception of Greenlandic",
+      "source_hash": "b211a47dd9f6",
+      "target": "⚠️ All core languages are supported with the exception of Greenlandic",
+      "translated_from_hash": "b211a47dd9f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "How accurate are the generated summaries?",
+      "source_hash": "895dcb793da6",
+      "target": "How accurate are the generated summaries?",
+      "translated_from_hash": "895dcb793da6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Summarization always means discarding some details while retaining what seems most important.",
+      "source_hash": "4d5a99b7377f",
+      "target": "Summarization always means discarding some details while retaining what seems most important.",
+      "translated_from_hash": "4d5a99b7377f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "AI models are strong at identifying common elements, but deciding what is <i>most relevant</i> requires context, domain knowledge, and subjective judgment.",
+      "source_hash": "cf7fbc61bada",
+      "target": "AI models are strong at identifying common elements, but deciding what is <i>most relevant</i> requires context, domain knowledge, and subjective judgment.",
+      "translated_from_hash": "cf7fbc61bada",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Because of this, summaries can be very useful but are not 100% accurate. Human oversight remains essential.",
+      "source_hash": "6c5e69b62cd6",
+      "target": "Because of this, summaries can be very useful but are not 100% accurate. Human oversight remains essential.",
+      "translated_from_hash": "6c5e69b62cd6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "To ensure correct conclusions, our approach emphasizes responsible AI use:",
+      "source_hash": "867e764045e7",
+      "target": "To ensure correct conclusions, our approach emphasizes responsible AI use:",
+      "translated_from_hash": "867e764045e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "The human reviewer always remains in control.",
+      "source_hash": "c3cfce18079e",
+      "target": "The human reviewer always remains in control.",
+      "translated_from_hash": "c3cfce18079e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Transparency is maximized so you can verify how summaries are created.",
+      "source_hash": "c341dda6be68",
+      "target": "Transparency is maximized so you can verify how summaries are created.",
+      "translated_from_hash": "c341dda6be68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "AI provides efficiency, while humans ensure quality and accuracy.",
+      "source_hash": "6a8e0e413fcc",
+      "target": "AI provides efficiency, while humans ensure quality and accuracy.",
+      "translated_from_hash": "6a8e0e413fcc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Our platform includes several features to help you assess and improve summary quality:",
+      "source_hash": "9af462c36f88",
+      "target": "Our platform includes several features to help you assess and improve summary quality:",
+      "translated_from_hash": "9af462c36f88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "<b>Expected accuracy indication</b>: Before and after generating a summary, the system shows an accuracy estimate (percentage)",
+      "source_hash": "8ba0a5b66963",
+      "target": "<b>Expected accuracy indication</b>: Before and after generating a summary, the system shows an accuracy estimate (percentage)",
+      "translated_from_hash": "8ba0a5b66963",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>In-line references</b>: Each summary links back to the original resident inputs it is based on",
+      "source_hash": "f4ef88e6ac28",
+      "target": "<b>In-line references</b>: Each summary links back to the original resident inputs it is based on",
+      "translated_from_hash": "f4ef88e6ac28",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "<b>Full data access</b>: All project inputs remain browseable, so you can always compare summaries with raw contributions.",
+      "source_hash": "57216aef59fc",
+      "target": "<b>Full data access</b>: All project inputs remain browseable, so you can always compare summaries with raw contributions.",
+      "translated_from_hash": "57216aef59fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<b>Tagging</b>: Manually or automatically segment inputs into smaller groups for more focused, accurate summaries",
+      "source_hash": "a02444ce36da",
+      "target": "<b>Tagging</b>: Manually or automatically segment inputs into smaller groups for more focused, accurate summaries",
+      "translated_from_hash": "a02444ce36da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>Auto-tagging options</b>: Multiple methods are available; tags can always be overridden for maximum control",
+      "source_hash": "9b716d8e5813",
+      "target": "<b>Auto-tagging options</b>: Multiple methods are available; tags can always be overridden for maximum control",
+      "translated_from_hash": "9b716d8e5813",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>Source-available software</b>: The code is available on GitHub, ensuring transparency into how the tool works",
+      "source_hash": "99db585a4552",
+      "target": "<b>Source-available software</b>: The code is available on GitHub, ensuring transparency into how the tool works",
+      "translated_from_hash": "99db585a4552",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Summary: while AI-generated summaries are highly effective, they are never 100% accurate. Our design philosophy is human-centric: the AI assists with efficiency, while you retain full transparency and control over interpretation.",
+      "source_hash": "83536be96640",
+      "target": "Summary: while AI-generated summaries are highly effective, they are never 100% accurate. Our design philosophy is human-centric: the AI assists with efficiency, while you retain full transparency and control over interpretation.",
+      "translated_from_hash": "83536be96640",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

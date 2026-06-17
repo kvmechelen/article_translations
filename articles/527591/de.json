@@ -1,0 +1,835 @@
+{
+  "article_id": "527591",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Setting up the registration process and registration questions",
+      "source_hash": "ba15e4dcb74e",
+      "target": "Setting up the registration process and registration questions",
+      "translated_from_hash": "ba15e4dcb74e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Why is the registration process important?",
+      "source_hash": "45d094fb7131",
+      "target": "Why is the registration process important?",
+      "translated_from_hash": "45d094fb7131",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "A well-designed registration process is key to creating a smooth experience for new users. Keeping the form short, simple, and clear helps boost user satisfaction and reduces drop-offs.",
+      "source_hash": "460fe7bea348",
+      "target": "A well-designed registration process is key to creating a smooth experience for new users. Keeping the form short, simple, and clear helps boost user satisfaction and reduces drop-offs.",
+      "translated_from_hash": "460fe7bea348",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Before you start building your registration form, ask yourself:",
+      "source_hash": "8829034733ef",
+      "target": "Before you start building your registration form, ask yourself:",
+      "translated_from_hash": "8829034733ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "What demographic data do I <i>need</i> to collect from all users?",
+      "source_hash": "6963fe76ead1",
+      "target": "What demographic data do I <i>need</i> to collect from all users?",
+      "translated_from_hash": "6963fe76ead1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "What information is only relevant for certain participants or projects?",
+      "source_hash": "011fd61ceef5",
+      "target": "What information is only relevant for certain participants or projects?",
+      "translated_from_hash": "011fd61ceef5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "How to trigger the registration flow?",
+      "source_hash": "3552720bc6dc",
+      "target": "How to trigger the registration flow?",
+      "translated_from_hash": "3552720bc6dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>From the Homepage</b><br/>Trigger the registration flow by clicking the <i>Log In</i> or <i>Register</i> button on the homepage.",
+      "source_hash": "8b00415f19f8",
+      "target": "<b>From the Homepage</b><br/>Trigger the registration flow by clicking the <i>Log In</i> or <i>Register</i> button on the homepage.",
+      "translated_from_hash": "8b00415f19f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Using a Direct URL</b><br/>Access the registration screen directly by visiting <a class=\"intercom-content-link\" href=\"https://&lt;platform_domain&gt;/sign-up\" target=\"_blank\">https://&lt;platform_domain&gt;/sign-up</a>, which will display the registration popup.",
+      "source_hash": "85afd9b3e859",
+      "target": "<b>Using a Direct URL</b><br/>Access the registration screen directly by visiting <a class=\"intercom-content-link\" href=\"https://&lt;platform_domain&gt;/sign-up\" target=\"_blank\">https://&lt;platform_domain&gt;/sign-up</a>, which will display the registration popup.",
+      "translated_from_hash": "85afd9b3e859",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Before Participating in a Phase</b><br/>If <b>Email Confirmation</b> or <b>Account Creation</b> is set as a prerequisite for participation, the registration flow will trigger when the user clicks the participation button (e.g., <i>Submit Survey</i>, <i>Submit Idea</i>, <i>Vote</i>, etc.).",
+      "source_hash": "9088394b78a2",
+      "target": "<b>Before Participating in a Phase</b><br/>If <b>Email Confirmation</b> or <b>Account Creation</b> is set as a prerequisite for participation, the registration flow will trigger when the user clicks the participation button (e.g., <i>Submit Survey</i>, <i>Submit Idea</i>, <i>Vote</i>, etc.).",
+      "translated_from_hash": "9088394b78a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>After Participating in a Phase</b><br/>If <b>None</b> is selected as a prerequisite to participate, users can participate without registering. After submission, they will be prompted to register to stay informed.",
+      "source_hash": "26a34a6a53ca",
+      "target": "<b>After Participating in a Phase</b><br/>If <b>None</b> is selected as a prerequisite to participate, users can participate without registering. After submission, they will be prompted to register to stay informed.",
+      "translated_from_hash": "26a34a6a53ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "How to set up the registration process?",
+      "source_hash": "7be80e6afe4a",
+      "target": "How to set up the registration process?",
+      "translated_from_hash": "7be80e6afe4a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Create a smooth onboarding experience by customising your platform’s registration steps.",
+      "source_hash": "d63f3eb1ffd3",
+      "target": "Create a smooth onboarding experience by customising your platform’s registration steps.",
+      "translated_from_hash": "d63f3eb1ffd3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "The registration flow consists of three steps:",
+      "source_hash": "2d5c6a0a6001",
+      "target": "The registration flow consists of three steps:",
+      "translated_from_hash": "2d5c6a0a6001",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "User initiates the sign-up form by entering their email address",
+      "source_hash": "ff59bbb698b1",
+      "target": "User initiates the sign-up form by entering their email address",
+      "translated_from_hash": "ff59bbb698b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "User verifies their email address, then logs in successfully",
+      "source_hash": "e6ae88a78ef9",
+      "target": "User verifies their email address, then logs in successfully",
+      "translated_from_hash": "e6ae88a78ef9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "User completes their profile",
+      "source_hash": "1dfc59bca7d9",
+      "target": "User completes their profile",
+      "translated_from_hash": "1dfc59bca7d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Additionally:",
+      "source_hash": "dbfa727d0434",
+      "target": "Additionally:",
+      "translated_from_hash": "dbfa727d0434",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "You can configure demographic questions for users to fill in",
+      "source_hash": "fc2fe97ed244",
+      "target": "You can configure demographic questions for users to fill in",
+      "translated_from_hash": "fc2fe97ed244",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "You can enable following preferences",
+      "source_hash": "75e02224cc81",
+      "target": "You can enable following preferences",
+      "translated_from_hash": "75e02224cc81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Registration Flow",
+      "source_hash": "9943f6334bfa",
+      "target": "Registration Flow",
+      "translated_from_hash": "9943f6334bfa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Step 1: Sign-up form",
+      "source_hash": "0535be923d5a",
+      "target": "Step 1: Sign-up form",
+      "translated_from_hash": "0535be923d5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "You can a description to inform users via <b>Settings &gt; Registration</b> &gt; <b>Enter Email step</b>",
+      "source_hash": "c845302e1ceb",
+      "target": "You can a description to inform users via <b>Settings &gt; Registration</b> &gt; <b>Enter Email step</b>",
+      "translated_from_hash": "c845302e1ceb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Below is an example image of the view users will get to see.",
+      "source_hash": "7f8e1b65db91",
+      "target": "Below is an example image of the view users will get to see.",
+      "translated_from_hash": "7f8e1b65db91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "If the user has entered an existing email address they will in a following step be asked to enter their password. If there is no existing email address the registration flow will continue at step 2.",
+      "source_hash": "8d39dc610872",
+      "target": "If the user has entered an existing email address they will in a following step be asked to enter their password. If there is no existing email address the registration flow will continue at step 2.",
+      "translated_from_hash": "8d39dc610872",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "ℹ️ Note: You can directly link users to the sign-up form by using the following URL: <a class=\"intercom-content-link\" href=\"https://&lt;your\" target=\"_blank\">https://&lt;your</a> platform domain&gt;/sign-up",
+      "source_hash": "ec9e507d1588",
+      "target": "ℹ️ Note: You can directly link users to the sign-up form by using the following URL: <a class=\"intercom-content-link\" href=\"https://&lt;your\" target=\"_blank\">https://&lt;your</a> platform domain&gt;/sign-up",
+      "translated_from_hash": "ec9e507d1588",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Step 2: Email verification",
+      "source_hash": "a22e8699a307",
+      "target": "Step 2: Email verification",
+      "translated_from_hash": "a22e8699a307",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "By default users will be prompted to verify their email address when registering on the platform.",
+      "source_hash": "5aef0d8d72d8",
+      "target": "By default users will be prompted to verify their email address when registering on the platform.",
+      "translated_from_hash": "5aef0d8d72d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "ℹ️ Notes:",
+      "source_hash": "be4d2018a68d",
+      "target": "ℹ️ Notes:",
+      "translated_from_hash": "be4d2018a68d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "If you want to disable email verification on your platform, contact support via the chat bubble at the bottom right of your screen",
+      "source_hash": "625de4ebc5b7",
+      "target": "If you want to disable email verification on your platform, contact support via the chat bubble at the bottom right of your screen",
+      "translated_from_hash": "625de4ebc5b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Step 3: Complete your profile",
+      "source_hash": "d5c96a07f953",
+      "target": "Step 3: Complete your profile",
+      "translated_from_hash": "d5c96a07f953",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "You can a description to inform users via <b>Settings &gt; Registration</b> &gt; <b>Complete your profile step</b>",
+      "source_hash": "2db2c186acc3",
+      "target": "You can a description to inform users via <b>Settings &gt; Registration</b> &gt; <b>Complete your profile step</b>",
+      "translated_from_hash": "2db2c186acc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Below is an example image of the view users will get to see.",
+      "source_hash": "7f8e1b65db91",
+      "target": "Below is an example image of the view users will get to see.",
+      "translated_from_hash": "7f8e1b65db91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Demographic questions",
+      "source_hash": "34ecb7e571de",
+      "target": "Demographic questions",
+      "translated_from_hash": "34ecb7e571de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "After email verification, users can be shown demographic questions. These can be set as optional or required, depending on your needs.",
+      "source_hash": "c943de1688b6",
+      "target": "After email verification, users can be shown demographic questions. These can be set as optional or required, depending on your needs.",
+      "translated_from_hash": "c943de1688b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Follow preferences (optional)",
+      "source_hash": "396b05cddc0d",
+      "target": "Follow preferences (optional)",
+      "translated_from_hash": "396b05cddc0d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "If enabled, users can select topics and areas they want to receive updates about, you can add these via:",
+      "source_hash": "89d008f53462",
+      "target": "If enabled, users can select topics and areas they want to receive updates about, you can add these via:",
+      "translated_from_hash": "89d008f53462",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Settings &gt; Tags</b> (topics)",
+      "source_hash": "f2b831566d3b",
+      "target": "<b>Settings &gt; Tags</b> (topics)",
+      "translated_from_hash": "f2b831566d3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Settings &gt; Areas</b> (locations)",
+      "source_hash": "cc5ac38394ce",
+      "target": "<b>Settings &gt; Areas</b> (locations)",
+      "translated_from_hash": "cc5ac38394ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "When users select preferences they will receive email notifications when a project is published/updated that has been tagged with one of their preferences.",
+      "source_hash": "9940fde311d2",
+      "target": "When users select preferences they will receive email notifications when a project is published/updated that has been tagged with one of their preferences.",
+      "translated_from_hash": "9940fde311d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "ℹ️ Users can update their follow preferences or unsubscribe anytime via <b>Account Settings &gt; Notifications</b> or <b>Activity &gt; Following</b>.",
+      "source_hash": "278e9c399ece",
+      "target": "ℹ️ Users can update their follow preferences or unsubscribe anytime via <b>Account Settings &gt; Notifications</b> or <b>Activity &gt; Following</b>.",
+      "translated_from_hash": "278e9c399ece",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "How to customize your registration questions?",
+      "source_hash": "7d3acd9c9eea",
+      "target": "How to customize your registration questions?",
+      "translated_from_hash": "7d3acd9c9eea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Add, remove, or adjust the questions asked during user registration.",
+      "source_hash": "28c41a6b6c30",
+      "target": "Add, remove, or adjust the questions asked during user registration.",
+      "translated_from_hash": "28c41a6b6c30",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Default fields:",
+      "source_hash": "0c046bccac70",
+      "target": "Default fields:",
+      "translated_from_hash": "0c046bccac70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>Gender</b>",
+      "source_hash": "71482ece7289",
+      "target": "<b>Gender</b>",
+      "translated_from_hash": "71482ece7289",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "<b>Year of birth: </b>used for age group insights on dashboards",
+      "source_hash": "ba48a91bbff5",
+      "target": "<b>Year of birth: </b>used for age group insights on dashboards",
+      "translated_from_hash": "ba48a91bbff5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Place of residence</b>: linked to geographic areas (Areas tab in the Platform Settings), useful for access control and representation analysis",
+      "source_hash": "8fe723f983a9",
+      "target": "<b>Place of residence</b>: linked to geographic areas (Areas tab in the Platform Settings), useful for access control and representation analysis",
+      "translated_from_hash": "8fe723f983a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "You can:",
+      "source_hash": "11e6de141665",
+      "target": "You can:",
+      "translated_from_hash": "11e6de141665",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Disable any default field (toggle off).",
+      "source_hash": "d8bec4831906",
+      "target": "Disable any default field (toggle off).",
+      "translated_from_hash": "d8bec4831906",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Make any field required (click <i>Edit</i>, enable “required”).",
+      "source_hash": "655b3e510d09",
+      "target": "Make any field required (click <i>Edit</i>, enable “required”).",
+      "translated_from_hash": "655b3e510d09",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "You can add a description to clarify what you are asking.",
+      "source_hash": "bab593c5bbe1",
+      "target": "You can add a description to clarify what you are asking.",
+      "translated_from_hash": "bab593c5bbe1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Add your own custom fields:",
+      "source_hash": "5a9057eb143d",
+      "target": "Add your own custom fields:",
+      "translated_from_hash": "5a9057eb143d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "You can add these types of questions:",
+      "source_hash": "d27a7c2f4f27",
+      "target": "You can add these types of questions:",
+      "translated_from_hash": "d27a7c2f4f27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Multiple choice (single or multiple selection)",
+      "source_hash": "b882c0b5c2c6",
+      "target": "Multiple choice (single or multiple selection)",
+      "translated_from_hash": "b882c0b5c2c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Yes/No (checkbox)",
+      "source_hash": "2e3b3b549c54",
+      "target": "Yes/No (checkbox)",
+      "translated_from_hash": "2e3b3b549c54",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Short/long text",
+      "source_hash": "ba9c8b02a7a8",
+      "target": "Short/long text",
+      "translated_from_hash": "ba9c8b02a7a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Numeric",
+      "source_hash": "36752d6cd147",
+      "target": "Numeric",
+      "translated_from_hash": "36752d6cd147",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Date",
+      "source_hash": "99c40ab40592",
+      "target": "Date",
+      "translated_from_hash": "99c40ab40592",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Examples:",
+      "source_hash": "1889f03338b7",
+      "target": "Examples:",
+      "translated_from_hash": "1889f03338b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<i>Which topics are you interested in?</i> (multi-select)",
+      "source_hash": "f29b72aa61bb",
+      "target": "<i>Which topics are you interested in?</i> (multi-select)",
+      "translated_from_hash": "f29b72aa61bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<i>How many people live in your household?</i> (numeric)",
+      "source_hash": "77aecf69e110",
+      "target": "<i>How many people live in your household?</i> (numeric)",
+      "translated_from_hash": "77aecf69e110",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "⚠️ For the representativeness dashboard only single select questions can be used.",
+      "source_hash": "81d5356fc621",
+      "target": "⚠️ For the representativeness dashboard only single select questions can be used.",
+      "translated_from_hash": "81d5356fc621",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Adding options to your questions:",
+      "source_hash": "b47230c5ace8",
+      "target": "Adding options to your questions:",
+      "translated_from_hash": "b47230c5ace8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Select the question where you want to add options to",
+      "source_hash": "4f62054b79e8",
+      "target": "Select the question where you want to add options to",
+      "translated_from_hash": "4f62054b79e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Click on <b>Answer choices</b>",
+      "source_hash": "4a862f039a99",
+      "target": "Click on <b>Answer choices</b>",
+      "translated_from_hash": "4a862f039a99",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Click on <b>Add Option</b>, <b>Edit</b> or <b>Delete</b>",
+      "source_hash": "27bea625fe5e",
+      "target": "Click on <b>Add Option</b>, <b>Edit</b> or <b>Delete</b>",
+      "translated_from_hash": "27bea625fe5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "What is demographic data?",
+      "source_hash": "064c278cb9d6",
+      "target": "What is demographic data?",
+      "translated_from_hash": "064c278cb9d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Why it matters:",
+      "source_hash": "0e3374c9bf13",
+      "target": "Why it matters:",
+      "translated_from_hash": "0e3374c9bf13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "<b>Access Control</b>: Control participation based on user traits",
+      "source_hash": "7572555e4872",
+      "target": "<b>Access Control</b>: Control participation based on user traits",
+      "translated_from_hash": "7572555e4872",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "<b>Group Segmentation</b>: Sort users into smart or standard groups",
+      "source_hash": "d21d1df8d25e",
+      "target": "<b>Group Segmentation</b>: Sort users into smart or standard groups",
+      "translated_from_hash": "d21d1df8d25e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "<b>Data Consistency</b>: Only registration fields appear across all dashboards and reports",
+      "source_hash": "4ad81975f8e8",
+      "target": "<b>Data Consistency</b>: Only registration fields appear across all dashboards and reports",
+      "translated_from_hash": "4ad81975f8e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "<b>Community Representation</b>: Representativeness and demographic-based analytics",
+      "source_hash": "c2573a5aedbf",
+      "target": "<b>Community Representation</b>: Representativeness and demographic-based analytics",
+      "translated_from_hash": "c2573a5aedbf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Important notes:",
+      "source_hash": "6ad8b5b4522c",
+      "target": "Important notes:",
+      "translated_from_hash": "6ad8b5b4522c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "Only default registration fields can be used in AI analysis",
+      "source_hash": "458d5a2da0ac",
+      "target": "Only default registration fields can be used in AI analysis",
+      "translated_from_hash": "458d5a2da0ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "Only single-choice questions show up in demographic graphs",
+      "source_hash": "50d0c80d2619",
+      "target": "Only single-choice questions show up in demographic graphs",
+      "translated_from_hash": "50d0c80d2619",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "\"Year of birth\" cannot currently be used for grouping survey answers by age",
+      "source_hash": "bcae82fdf372",
+      "target": "\"Year of birth\" cannot currently be used for grouping survey answers by age",
+      "translated_from_hash": "bcae82fdf372",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "Where is this data used?",
+      "source_hash": "9559831ac00d",
+      "target": "Where is this data used?",
+      "translated_from_hash": "9559831ac00d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "<b>Reports</b>: Add demographic widgets",
+      "source_hash": "e30b4e85805e",
+      "target": "<b>Reports</b>: Add demographic widgets",
+      "translated_from_hash": "e30b4e85805e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "<b>Participation projects</b>: View demographic participation per project.",
+      "source_hash": "fe1130356723",
+      "target": "<b>Participation projects</b>: View demographic participation per project.",
+      "translated_from_hash": "fe1130356723",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "<b>AI analysis and Auto-insights</b>: Segment insights based on default demographic fields.",
+      "source_hash": "8a1ea2ce5367",
+      "target": "<b>AI analysis and Auto-insights</b>: Segment insights based on default demographic fields.",
+      "translated_from_hash": "8a1ea2ce5367",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "<b>Grouping survey answers:</b>",
+      "source_hash": "bb87015d4e3f",
+      "target": "<b>Grouping survey answers:</b>",
+      "translated_from_hash": "bb87015d4e3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "What are project level demographic questions?",
+      "source_hash": "7157e6de5a33",
+      "target": "What are project level demographic questions?",
+      "translated_from_hash": "7157e6de5a33",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "<b>How it works:</b>",
+      "source_hash": "d3a4e9f94915",
+      "target": "<b>How it works:</b>",
+      "translated_from_hash": "d3a4e9f94915",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "By default, new projects inherit platform-level registration questions",
+      "source_hash": "40531e5ecdf9",
+      "target": "By default, new projects inherit platform-level registration questions",
+      "translated_from_hash": "40531e5ecdf9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "Project managers can:",
+      "source_hash": "14608538eb14",
+      "target": "Project managers can:",
+      "translated_from_hash": "14608538eb14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "Choose which questions apply to their project",
+      "source_hash": "ad6620e57e94",
+      "target": "Choose which questions apply to their project",
+      "translated_from_hash": "ad6620e57e94",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "Mark them required or optional",
+      "source_hash": "c676bd1037d2",
+      "target": "Mark them required or optional",
+      "translated_from_hash": "c676bd1037d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "To modify this, go to the phase settings and check the <b>Phase access and user data </b>section.",
+      "source_hash": "773271c8d658",
+      "target": "To modify this, go to the phase settings and check the <b>Phase access and user data </b>section.",
+      "translated_from_hash": "773271c8d658",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "⚠️ Project managers can select registration questions that are not enabled on the platform level, however, the questions need to be created by a platform admin in the registration section of the platform settings. After this, a project manager can ask this as a specific question for their project.",
+      "source_hash": "f2d0d1556089",
+      "target": "⚠️ Project managers can select registration questions that are not enabled on the platform level, however, the questions need to be created by a platform admin in the registration section of the platform settings. After this, a project manager can ask this as a specific question for their project.",
+      "translated_from_hash": "f2d0d1556089",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "To learn more about access rights specifically, read our article: <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">Understanding Access Rights</a>",
+      "source_hash": "7ad7c50d931e",
+      "target": "To learn more about access rights specifically, read our article: <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">Understanding Access Rights</a>",
+      "translated_from_hash": "7ad7c50d931e",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

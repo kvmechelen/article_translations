@@ -1,0 +1,163 @@
+{
+  "article_id": "609603",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_605edd9cff\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<h3 id=\"h_a27a40ce25\">@@body:0003@@</h3><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li></ul><h3 id=\"h_8dfab30411\">@@body:0008@@</h3><ul><li><p class=\"no-margin\">@@body:0009@@</p><ul><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ul><div class=\"intercom-container\"><img height=\"594\" src=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/117981295/674142dde876806fc75c555968fd/Screenshot+2026-03-17+at+16_46_20.png?expires=1781805600&amp;signature=2f1cdda6b6b82729d72c7955b9be5eb96399fbdb3147e7bab036e7006b802209&amp;req=0dRozFD7rj4tlxv2%2BtxgprkJRpzuq5zbU1dAOz4cH5Bo8Otpxwrxua87hzix%0AM6o6J3l72f8qoZswZMfAqmaAxw%3D%3D%0A\" style=\"height: auto;\" width=\"1214\"/></div><p class=\"no-margin\"></p>\n<h1 id=\"h_9966948cd0\">@@body:0014@@</h1><p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\">@@body:0017@@</p><ul><li><p class=\"no-margin\">@@body:0018@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img height=\"1124\" src=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/118596780/0f03fe83450032b8ab9699aacb2a/Screenshot-2B2026-03-17-2Bat-2B16_52_50.png?expires=1781805600&amp;signature=5bc5389a98dae09db9f582544a517d5c17b1f5311f204df7a1f1a6763c6d91bf&amp;req=0dRnwFH8qz8olxv2%2BtxgpgntM2sjry1kXcxljSBygNIX6%2BjUSIINUSG3XoxS%0AqxOVoeDB2zdeCt%2FmGwxGCKixMA%3D%3D%0A\" style=\"height: auto;\" width=\"1682\"/></div></li></ul><p class=\"no-margin\">@@body:0019@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img height=\"486\" src=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/118596817/4670a0f67075d9cca4b38f3af4ad/Screenshot%2B2026-03-17%2Bat%2B16_56_22.png?expires=1781805600&amp;signature=7e5176bcdc4a1aa63c62f9af14b7fe51ca6683b6b41525560e7a45fd03018830&amp;req=0dRnwFH8pDYvlxv2%2Btxgpj6N746aGEHXLLF5EIgSlWOO8QmqHbCNXicTv3E9%0ADq6paU1rjhayud7wjlQGn9mDoQ%3D%3D%0A\" style=\"height: auto;\" width=\"958\"/></div><p class=\"no-margin\"></p>\n<h3 id=\"h_1d54601a6c\">@@body:0020@@</h3><ul><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p><p class=\"no-margin\"></p>\n</li></ul><h1 id=\"h_b3a05a0653\">@@body:0023@@</h1><ul><li><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container intercom-align-center\"><img height=\"700\" src=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/118600938/aae9e561e10eb983d8e209e28bd5/Screenshot-2B2026-03-17-2Bat-2B16_57_25.png?expires=1781805600&amp;signature=cb2747d817f17b14511e8bd3956d13457513e240084362d98a4d3c08337cc1e4&amp;req=0dRnw1j6pTQglxv2%2Btxgpj9moCC2SQHen5jDeGwkU8Hb6erAFNBbm55oAajs%0Ayt3jPgNP72vjZ3c8aSzTl7RLlA%3D%3D%0A\" style=\"height: auto;\" width=\"368\"/></div><p class=\"no-margin\"></p>\n</li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_96cabf5f52\">@@body:0028@@</h1><p class=\"no-margin\">@@body:0029@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Finding Common Ground",
+      "hash": "fcbed66b76f8"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the Common Ground method",
+      "hash": "edb418c4a190"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The Common Ground method helps manage large-scale consultations with thousands of contributions by distilling the conversation into concise, trade-off statements that participants react to—agree, unsure, or disagree. It transforms overwhelming feedback into a clear map of where people align and where opinions diverge, turning the flood of input into something actionable for decision-makers. It's not a poll—it’s a structured process that bridges open ideation and deeper deliberation.",
+      "hash": "bcfd9752cf3c"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Key Features of Common Ground Method",
+      "hash": "a7e4fadffbff"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "<b>Encourage participants to make choices</b>: Use trade-off statements to help participants weigh competing arguments and make clear decisions.",
+      "hash": "42a5ddc55207"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "<b>Find consensus fast</b>: Quickly identify high-agreement, divisive, or neutral statements that can move directly to action.",
+      "hash": "6e285ccada81"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<b>Increase trust &amp; transparency</b>: Participants see live results, demonstrating how their voice contributes to the collective community view.",
+      "hash": "5ee0eb6e3718"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Low lift, high insight</b>: Easy to set up for teams and intuitive for residents to use, providing immediate, actionable insights.",
+      "hash": "24daad4f6543"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Use cases of the Common Ground method",
+      "hash": "10b8a6ed4b29"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "<b>Pre-deliberation: </b>seed the conversation through ideation &amp; summarize into position statements with sensemaking",
+      "hash": "dd15e30848f2"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Pro-tip: Leverage Sense-making, and Ask AI to generate statements. Recommended amount: 25 statements.",
+      "hash": "26aaf2f60e4c"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Prompt: \"Generate up to 25 trade-off questions (max 120 chars) from key ideation topics for agree / unsure / disagree responses.”",
+      "hash": "830582827ce2"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Deliberation:</b> find common ground on trade-off statements for agree/unsure/disagree responses.",
+      "hash": "3d1db3602ed9"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Post-deliberation: </b>follow up phase to resolve disagreement, uncertainty",
+      "hash": "ceb303ac79df"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "How to set up the Common Ground method and add inputs?",
+      "hash": "d85e5389acfd"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "1. create a new phase",
+      "hash": "fec09e0cdf25"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "2. select the participation method \"find common ground\"",
+      "hash": "24a04b6e55eb"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "3. go to the input manager tab of the phase and either add new statements by press of <b>+Add new input </b>OR import statements from previous projects (you won't be able to choose which ones it will import all inputs for previous project but you can always delete the ones you don't need)",
+      "hash": "45a07a72dce0"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "⚠️ Currently it’s not possible to add images to statements.",
+      "hash": "f04addb21c68"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "5. Users can now agree or disagree to all the statements in the project page",
+      "hash": "ca1ab9be929c"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Important information about submission:",
+      "hash": "a58b08e27429"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Participants' names are not visible to the public on the input itself. However, admins can view the name when clicking on an input in the input manager.",
+      "hash": "9abecd936338"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Once votes are cast, they are final and cannot be edited.",
+      "hash": "60c2aefcb27c"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "How to visualise and download results of the Common Ground method?",
+      "hash": "b93d3d5de2b4"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Your participants, yourself and all allowed users can visualize results in real time from the front end by press <b>Results</b> tab next to the <b>Statement</b> tab",
+      "hash": "517eaeacdf15"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Results are visible to all users as long as they are available, even before participation.",
+      "hash": "723436461429"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Currently, there’s no option to hide results. All admins and users with access to the project can view the results.",
+      "hash": "e97398700110"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "You can download the results by going to the <b>Insights</b> tab of the phase &gt; <b>download as PDF or Word</b>",
+      "hash": "d22442b4fa28"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Access rights and user action on the Common Ground method",
+      "hash": "625155a3de1a"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "In the <b>Phase Access and User Data</b> tab of your phase, you can configure which users are allowed to vote and submit input. You can choose to restrict input submissions to admins and project managers only, or allow users to submit their own inputs. This enables the creation of a live, evolving set of statements that other users can browse through.",
+      "hash": "ff82633c6c61"
+    }
+  }
+}

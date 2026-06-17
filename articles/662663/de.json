@@ -1,0 +1,349 @@
+{
+  "article_id": "662663",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "How to archive a Go Vocal platform",
+      "source_hash": "4c347b3106c3",
+      "target": "How to archive a Go Vocal platform",
+      "translated_from_hash": "4c347b3106c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Why you may need to archive your platform",
+      "source_hash": "7be065e70c4b",
+      "target": "Why you may need to archive your platform",
+      "translated_from_hash": "7be065e70c4b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "For compliance or legal reasons, you may need to archive your Go Vocal platform and store a copy of its content. This guide explains how to configure your archiving tool to work correctly with Go Vocal.",
+      "source_hash": "0d34674d9072",
+      "target": "For compliance or legal reasons, you may need to archive your Go Vocal platform and store a copy of its content. This guide explains how to configure your archiving tool to work correctly with Go Vocal.",
+      "translated_from_hash": "0d34674d9072",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Why archiving requires extra configuration",
+      "source_hash": "fcb0e054d3b6",
+      "target": "Why archiving requires extra configuration",
+      "translated_from_hash": "fcb0e054d3b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Go Vocal's frontend is a single-page application (SPA) built with JavaScript. Most web archiving tools use a scraper that visits every page and saves the HTML. However, many of these scrapers don't execute JavaScript — or don't execute it fully enough — which results in blank pages being saved.",
+      "source_hash": "04c46d7a456a",
+      "target": "Go Vocal's frontend is a single-page application (SPA) built with JavaScript. Most web archiving tools use a scraper that visits every page and saves the HTML. However, many of these scrapers don't execute JavaScript — or don't execute it fully enough — which results in blank pages being saved.",
+      "translated_from_hash": "04c46d7a456a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "If this is the case with your scraping software, to solve this, Go Vocal provides a <b>prerendering service</b> that can serve fully rendered, static HTML to tools that identify themselves as crawlers. When the platform detects that a request comes from an archiving tool, it:",
+      "source_hash": "57d5776b0c90",
+      "target": "If this is the case with your scraping software, to solve this, Go Vocal provides a <b>prerendering service</b> that can serve fully rendered, static HTML to tools that identify themselves as crawlers. When the platform detects that a request comes from an archiving tool, it:",
+      "translated_from_hash": "57d5776b0c90",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Serves a <b>pure HTML version</b> of the page instead of the JavaScript-based SPA.",
+      "source_hash": "fc1d4c0de6b8",
+      "target": "Serves a <b>pure HTML version</b> of the page instead of the JavaScript-based SPA.",
+      "translated_from_hash": "fc1d4c0de6b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Bypasses the cookie consent manager</b>, so the actual page content is visible without user interaction.",
+      "source_hash": "567e69bb715b",
+      "target": "<b>Bypasses the cookie consent manager</b>, so the actual page content is visible without user interaction.",
+      "translated_from_hash": "567e69bb715b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How to configure your archiving tool",
+      "source_hash": "4902b4d48a19",
+      "target": "How to configure your archiving tool",
+      "translated_from_hash": "4902b4d48a19",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "A. Obtaining prerendered pages",
+      "source_hash": "6cf2efb0adc3",
+      "target": "A. Obtaining prerendered pages",
+      "translated_from_hash": "6cf2efb0adc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "You can trigger the prerendered HTML version of the platform in one of two ways.",
+      "source_hash": "ca97604e2526",
+      "target": "You can trigger the prerendered HTML version of the platform in one of two ways.",
+      "translated_from_hash": "ca97604e2526",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Option 1: Add the <code>_escaped_fragment_</code> URL parameter",
+      "source_hash": "606b1e943643",
+      "target": "Option 1: Add the <code>_escaped_fragment_</code> URL parameter",
+      "translated_from_hash": "606b1e943643",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Configure your archiving tool to append <code>_escaped_fragment_</code> as a query parameter to all your requests. For example:",
+      "source_hash": "625168a398fb",
+      "target": "Configure your archiving tool to append <code>_escaped_fragment_</code> as a query parameter to all your requests. For example:",
+      "translated_from_hash": "625168a398fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "When the platform detects this parameter, it will serve a fully rendered HTML version of the page.",
+      "source_hash": "4bec55780f8a",
+      "target": "When the platform detects this parameter, it will serve a fully rendered HTML version of the page.",
+      "translated_from_hash": "4bec55780f8a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Option 2: Use a recognized User-Agent string",
+      "source_hash": "7f7066d416a1",
+      "target": "Option 2: Use a recognized User-Agent string",
+      "translated_from_hash": "7f7066d416a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Make sure your archiving tool sends a User-Agent header that is recognized by Go Vocal. The following archiving tools are currently supported:",
+      "source_hash": "0cdea7d33269",
+      "target": "Make sure your archiving tool sends a User-Agent header that is recognized by Go Vocal. The following archiving tools are currently supported:",
+      "translated_from_hash": "0cdea7d33269",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://archiefweb.nl/\" target=\"_blank\">Archiefweb</a>",
+      "source_hash": "419d4bb48764",
+      "target": "<a class=\"intercom-content-link\" href=\"https://archiefweb.nl/\" target=\"_blank\">Archiefweb</a>",
+      "translated_from_hash": "419d4bb48764",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://webrecorder.net/browsertrix\" target=\"_blank\">Browsertrix</a>",
+      "source_hash": "422f3961219a",
+      "target": "<a class=\"intercom-content-link\" href=\"https://webrecorder.net/browsertrix\" target=\"_blank\">Browsertrix</a>",
+      "translated_from_hash": "422f3961219a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://commoncrawl.org/\" target=\"_blank\">Common Crawl</a> (CCBot)",
+      "source_hash": "10a9b2354c71",
+      "target": "<a class=\"intercom-content-link\" href=\"https://commoncrawl.org/\" target=\"_blank\">Common Crawl</a> (CCBot)",
+      "translated_from_hash": "10a9b2354c71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://github.com/internetarchive/heritrix3\" target=\"_blank\">Heritrix</a> (also used by Archive-It and many national libraries)",
+      "source_hash": "d82dfa45cae3",
+      "target": "<a class=\"intercom-content-link\" href=\"https://github.com/internetarchive/heritrix3\" target=\"_blank\">Heritrix</a> (also used by Archive-It and many national libraries)",
+      "translated_from_hash": "d82dfa45cae3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://www.httrack.com/\" target=\"_blank\">HTTrack</a>",
+      "source_hash": "71be2c6d94be",
+      "target": "<a class=\"intercom-content-link\" href=\"https://www.httrack.com/\" target=\"_blank\">HTTrack</a>",
+      "translated_from_hash": "71be2c6d94be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://archive.org/\" target=\"_blank\">Internet Archive / Wayback Machine</a>",
+      "source_hash": "287c700ea394",
+      "target": "<a class=\"intercom-content-link\" href=\"https://archive.org/\" target=\"_blank\">Internet Archive / Wayback Machine</a>",
+      "translated_from_hash": "287c700ea394",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://www.mirrorweb.com/\" target=\"_blank\">MirrorWeb</a>",
+      "source_hash": "2f18bbb33815",
+      "target": "<a class=\"intercom-content-link\" href=\"https://www.mirrorweb.com/\" target=\"_blank\">MirrorWeb</a>",
+      "translated_from_hash": "2f18bbb33815",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://www.screamingfrog.co.uk/seo-spider/\" target=\"_blank\">Screaming Frog SEO Spider</a>",
+      "source_hash": "60c9bf626f09",
+      "target": "<a class=\"intercom-content-link\" href=\"https://www.screamingfrog.co.uk/seo-spider/\" target=\"_blank\">Screaming Frog SEO Spider</a>",
+      "translated_from_hash": "60c9bf626f09",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "PageFreezer",
+      "source_hash": "4fddfedde48d",
+      "target": "PageFreezer",
+      "translated_from_hash": "4fddfedde48d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "British Library web archive",
+      "source_hash": "f5e53dabf84f",
+      "target": "British Library web archive",
+      "translated_from_hash": "f5e53dabf84f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Bibliothèque nationale de France web archive",
+      "source_hash": "f6b484f9faaa",
+      "target": "Bibliothèque nationale de France web archive",
+      "translated_from_hash": "f6b484f9faaa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "dip Webarchief",
+      "source_hash": "9636e04bc5fd",
+      "target": "dip Webarchief",
+      "translated_from_hash": "9636e04bc5fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Capsis",
+      "source_hash": "05b39cefa580",
+      "target": "Capsis",
+      "translated_from_hash": "05b39cefa580",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "User-Agent matching is <b>case-insensitive</b>.",
+      "source_hash": "168dc2c7453d",
+      "target": "User-Agent matching is <b>case-insensitive</b>.",
+      "translated_from_hash": "168dc2c7453d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "💡 <b>Tip:</b> If your archiving software allows you to set a custom User-Agent string, setting it to include the name of one of the supported tools above is the easiest way to get it working.",
+      "source_hash": "1a06976c3f60",
+      "target": "💡 <b>Tip:</b> If your archiving software allows you to set a custom User-Agent string, setting it to include the name of one of the supported tools above is the easiest way to get it working.",
+      "translated_from_hash": "1a06976c3f60",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "What if my tool isn't recognized?",
+      "source_hash": "28e8f734d83e",
+      "target": "What if my tool isn't recognized?",
+      "translated_from_hash": "28e8f734d83e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "If your archiving tool uses a User-Agent string that is not in the list above and you cannot change it, use Option 1 instead — appending <code>_escaped_fragment_</code> to your request URLs.",
+      "source_hash": "bd2a4fac08bd",
+      "target": "If your archiving tool uses a User-Agent string that is not in the list above and you cannot change it, use Option 1 instead — appending <code>_escaped_fragment_</code> to your request URLs.",
+      "translated_from_hash": "bd2a4fac08bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "If neither option works for your setup, please <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">contact support</a> and we can look into adding your tool's User-Agent to our recognized list.",
+      "source_hash": "f630e7cceb4d",
+      "target": "If neither option works for your setup, please <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">contact support</a> and we can look into adding your tool's User-Agent to our recognized list.",
+      "translated_from_hash": "f630e7cceb4d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "B. Covering all public facing content using <code>/sitemap.xml</code>",
+      "source_hash": "b210423df239",
+      "target": "B. Covering all public facing content using <code>/sitemap.xml</code>",
+      "translated_from_hash": "b210423df239",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "The platform contains some dynamic content, for example the “Load more” buttons in longer lists of projects or inputs. If your web archiving tool is configured to only act like a spider - this means it explores the platform merely by following internal links - the content behind these dynamic elements will not be discovered, as the buttons are not functional in the prerendered pages.",
+      "source_hash": "c364c3ba990b",
+      "target": "The platform contains some dynamic content, for example the “Load more” buttons in longer lists of projects or inputs. If your web archiving tool is configured to only act like a spider - this means it explores the platform merely by following internal links - the content behind these dynamic elements will not be discovered, as the buttons are not functional in the prerendered pages.",
+      "translated_from_hash": "c364c3ba990b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "To solve this, make sure your archiving tool makes use of the <code>/sitemap.xml</code> file served from your platform. It lists all pages, to make the archive complete. Most scraping software will do this out of the box, but it’s worthwhile to check.",
+      "source_hash": "1b308d6b14a5",
+      "target": "To solve this, make sure your archiving tool makes use of the <code>/sitemap.xml</code> file served from your platform. It lists all pages, to make the archive complete. Most scraping software will do this out of the box, but it’s worthwhile to check.",
+      "translated_from_hash": "1b308d6b14a5",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

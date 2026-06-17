@@ -1,0 +1,331 @@
+{
+  "article_id": "527582",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Embedding Konveio PDF Documents for Collecting Feedback",
+      "source_hash": "eba9f7ef12f5",
+      "target": "Embedding Konveio PDF Documents for Collecting Feedback",
+      "translated_from_hash": "eba9f7ef12f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Let stakeholder and users leave comments directly in embedded PDFs",
+      "source_hash": "893b44c2790d",
+      "target": "Let stakeholder and users leave comments directly in embedded PDFs",
+      "translated_from_hash": "893b44c2790d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is Konveio and how does it integrate with govocal?",
+      "source_hash": "16dc22758434",
+      "target": "What is Konveio and how does it integrate with govocal?",
+      "translated_from_hash": "16dc22758434",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Konveio enables in-document commenting, allowing stakeholders to leave feedback directly within embedded PDFs.",
+      "source_hash": "cd44031d344b",
+      "target": "Konveio enables in-document commenting, allowing stakeholders to leave feedback directly within embedded PDFs.",
+      "translated_from_hash": "cd44031d344b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Integration is available as an add-on feature (not included in all plans).",
+      "source_hash": "4821b82ea4cc",
+      "target": "Integration is available as an add-on feature (not included in all plans).",
+      "translated_from_hash": "4821b82ea4cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "One Konveio PDF can be embedded per phase.",
+      "source_hash": "1e7a4aa57449",
+      "target": "One Konveio PDF can be embedded per phase.",
+      "translated_from_hash": "1e7a4aa57449",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Contact your Government Success Manager to enable this feature and create a Konveio account.",
+      "source_hash": "ec698ecafd2e",
+      "target": "Contact your Government Success Manager to enable this feature and create a Konveio account.",
+      "translated_from_hash": "ec698ecafd2e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "To learn more about Konveio itself, visit Konveio’s support documentation.",
+      "source_hash": "7c7df1ecffe6",
+      "target": "To learn more about Konveio itself, visit Konveio’s support documentation.",
+      "translated_from_hash": "7c7df1ecffe6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "How to embed a Konveio document in a project phase?",
+      "source_hash": "700325abefcb",
+      "target": "How to embed a Konveio document in a project phase?",
+      "translated_from_hash": "700325abefcb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Upload and configure the document in Konveio</b>",
+      "source_hash": "cb92b2faa656",
+      "target": "<b>Upload and configure the document in Konveio</b>",
+      "translated_from_hash": "cb92b2faa656",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Generate the embed code from your Konveio dashboard by pressing \"share\"",
+      "source_hash": "178cf17c8408",
+      "target": "Generate the embed code from your Konveio dashboard by pressing \"share\"",
+      "translated_from_hash": "178cf17c8408",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Clean the embed code</b>",
+      "source_hash": "434ab45eaded",
+      "target": "<b>Clean the embed code</b>",
+      "translated_from_hash": "434ab45eaded",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Remove the <code>&lt;iframe ... src=\"</code> at the start",
+      "source_hash": "9ea0a568a85a",
+      "target": "Remove the <code>&lt;iframe ... src=\"</code> at the start",
+      "translated_from_hash": "9ea0a568a85a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Remove everything after the URL (starting with <code>frameborder=</code>)",
+      "source_hash": "1f493ea9e8fe",
+      "target": "Remove everything after the URL (starting with <code>frameborder=</code>)",
+      "translated_from_hash": "1f493ea9e8fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Result should be a clean embed link",
+      "source_hash": "d861f23fd1c0",
+      "target": "Result should be a clean embed link",
+      "translated_from_hash": "d861f23fd1c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Set up your project phase</b>",
+      "source_hash": "da813dca99d2",
+      "target": "<b>Set up your project phase</b>",
+      "translated_from_hash": "da813dca99d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Go to your project in your Go Vocal platform",
+      "source_hash": "43175199d4a3",
+      "target": "Go to your project in your Go Vocal platform",
+      "translated_from_hash": "43175199d4a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "In phase settings, choose Collect feedback on a document as the participation method",
+      "source_hash": "d4a407e62d86",
+      "target": "In phase settings, choose Collect feedback on a document as the participation method",
+      "translated_from_hash": "d4a407e62d86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Paste your cleaned Konveio embed link in the designated field",
+      "source_hash": "ab2f5ee60653",
+      "target": "Paste your cleaned Konveio embed link in the designated field",
+      "translated_from_hash": "ab2f5ee60653",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Configure access rights</b>",
+      "source_hash": "e83c66881e16",
+      "target": "<b>Configure access rights</b>",
+      "translated_from_hash": "e83c66881e16",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Go to the <b>Phase access and user data</b> tab",
+      "source_hash": "bdd01bee3c05",
+      "target": "Go to the <b>Phase access and user data</b> tab",
+      "translated_from_hash": "bdd01bee3c05",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Define who can see or comment on the document",
+      "source_hash": "067c5dbb7e34",
+      "target": "Define who can see or comment on the document",
+      "translated_from_hash": "067c5dbb7e34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Preview the result</b>",
+      "source_hash": "5d144f56ca9e",
+      "target": "<b>Preview the result</b>",
+      "translated_from_hash": "5d144f56ca9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Save changes and preview the project",
+      "source_hash": "c14c3743c423",
+      "target": "Save changes and preview the project",
+      "translated_from_hash": "c14c3743c423",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Make sure the document appears correctly and that comments can be added",
+      "source_hash": "b370cd17f91b",
+      "target": "Make sure the document appears correctly and that comments can be added",
+      "translated_from_hash": "b370cd17f91b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "How to access feedback from a Konveio document?",
+      "source_hash": "3cbf6aa44441",
+      "target": "How to access feedback from a Konveio document?",
+      "translated_from_hash": "3cbf6aa44441",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "After the phase closes, visit your Konveio dashboard to:",
+      "source_hash": "3b920ee918c2",
+      "target": "After the phase closes, visit your Konveio dashboard to:",
+      "translated_from_hash": "3b920ee918c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "View a summary of feedback",
+      "source_hash": "aad2631bf223",
+      "target": "View a summary of feedback",
+      "translated_from_hash": "aad2631bf223",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Download raw participation data",
+      "source_hash": "10cefbd6c0e7",
+      "target": "Download raw participation data",
+      "translated_from_hash": "10cefbd6c0e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "How to keep Konveio documents visible after the phase ends?",
+      "source_hash": "06882aac2b1b",
+      "target": "How to keep Konveio documents visible after the phase ends?",
+      "translated_from_hash": "06882aac2b1b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Open the project settings, click <b>Description</b>",
+      "source_hash": "030ddda9f83e",
+      "target": "Open the project settings, click <b>Description</b>",
+      "translated_from_hash": "030ddda9f83e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Turn on <code>Use Content Builder for description</code>",
+      "source_hash": "b155d6369710",
+      "target": "Turn on <code>Use Content Builder for description</code>",
+      "translated_from_hash": "b155d6369710",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Use the embed widget to paste the same cleaned Konveio embed link into the description.",
+      "source_hash": "d1761b48532e",
+      "target": "Use the embed widget to paste the same cleaned Konveio embed link into the description.",
+      "translated_from_hash": "d1761b48532e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "In your Konveio account settings, enable:",
+      "source_hash": "965bbb9a2462",
+      "target": "In your Konveio account settings, enable:",
+      "translated_from_hash": "965bbb9a2462",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<code>Archived: commenting closed, comments visible</code>",
+      "source_hash": "3eeaa1ba2b89",
+      "target": "<code>Archived: commenting closed, comments visible</code>",
+      "translated_from_hash": "3eeaa1ba2b89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Save changes. Your document will now remain visible with comments but without active participation",
+      "source_hash": "bc323692bc57",
+      "target": "Save changes. Your document will now remain visible with comments but without active participation",
+      "translated_from_hash": "bc323692bc57",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

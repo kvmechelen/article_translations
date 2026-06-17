@@ -1,0 +1,295 @@
+{
+  "article_id": "527632",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Login and Registration issues",
+      "source_hash": "4e120f831a40",
+      "target": "Login and Registration issues",
+      "translated_from_hash": "4e120f831a40",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Are you encountering a login or registration issue? Follow the next steps to resolve the issue in no time!",
+      "source_hash": "f736c5570b5f",
+      "target": "Are you encountering a login or registration issue? Follow the next steps to resolve the issue in no time!",
+      "translated_from_hash": "f736c5570b5f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "How to resolve common registration issues?",
+      "source_hash": "da92a810a512",
+      "target": "How to resolve common registration issues?",
+      "translated_from_hash": "da92a810a512",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "<b>Common scenarios:</b>",
+      "source_hash": "b15e0ab908be",
+      "target": "<b>Common scenarios:</b>",
+      "translated_from_hash": "b15e0ab908be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Email already in use (pending invitation):",
+      "source_hash": "e5b01b0f4344",
+      "target": "Email already in use (pending invitation):",
+      "translated_from_hash": "e5b01b0f4344",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Delete the pending invite via <b>Users &gt; Invite users &gt; All invitations</b>",
+      "source_hash": "58507b4d3111",
+      "target": "Delete the pending invite via <b>Users &gt; Invite users &gt; All invitations</b>",
+      "translated_from_hash": "58507b4d3111",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Ask the user to register again via the homepage",
+      "source_hash": "a26ee68e742d",
+      "target": "Ask the user to register again via the homepage",
+      "translated_from_hash": "a26ee68e742d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Invitation not received:",
+      "source_hash": "0c017f60b1b3",
+      "target": "Invitation not received:",
+      "translated_from_hash": "0c017f60b1b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Ask the user to check spam folder",
+      "source_hash": "dc4cffb27706",
+      "target": "Ask the user to check spam folder",
+      "translated_from_hash": "dc4cffb27706",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "If not found, either:",
+      "source_hash": "82bcfb5f291c",
+      "target": "If not found, either:",
+      "translated_from_hash": "82bcfb5f291c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Delete the invitation and let the user register normally",
+      "source_hash": "6535bfb3c15b",
+      "target": "Delete the invitation and let the user register normally",
+      "translated_from_hash": "6535bfb3c15b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Or retrieve the invitation token from the invitation export file",
+      "source_hash": "b6267e5dc507",
+      "target": "Or retrieve the invitation token from the invitation export file",
+      "translated_from_hash": "b6267e5dc507",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "and share the invite link: <code>yourplatformurl.com/invite</code>",
+      "source_hash": "fe49391f8a28",
+      "target": "and share the invite link: <code>yourplatformurl.com/invite</code>",
+      "translated_from_hash": "fe49391f8a28",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Admin/Manager invites:",
+      "source_hash": "d6c1aa59dd29",
+      "target": "Admin/Manager invites:",
+      "translated_from_hash": "d6c1aa59dd29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Let them register as normal users",
+      "source_hash": "eac2d63d035a",
+      "target": "Let them register as normal users",
+      "translated_from_hash": "eac2d63d035a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Grant their role afterward via <b>User options</b> or <b>Project settings</b>",
+      "source_hash": "14753479a065",
+      "target": "Grant their role afterward via <b>User options</b> or <b>Project settings</b>",
+      "translated_from_hash": "14753479a065",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "How to resolve verification email not received?",
+      "source_hash": "ddd36062132a",
+      "target": "How to resolve verification email not received?",
+      "translated_from_hash": "ddd36062132a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Ask the user to check spam",
+      "source_hash": "fd8d324fc02e",
+      "target": "Ask the user to check spam",
+      "translated_from_hash": "fd8d324fc02e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Ensure <code>notification@mail-eu.citizenlab.co</code> is not blocked",
+      "source_hash": "834dc2c90506",
+      "target": "Ensure <code>notification@mail-eu.citizenlab.co</code> is not blocked",
+      "translated_from_hash": "834dc2c90506",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Contact support if necessary",
+      "source_hash": "8d5866a8a6c5",
+      "target": "Contact support if necessary",
+      "translated_from_hash": "8d5866a8a6c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "How to resolve issues with resetting your password?",
+      "source_hash": "3d480a0a9853",
+      "target": "How to resolve issues with resetting your password?",
+      "translated_from_hash": "3d480a0a9853",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Click <b>Forgot password?</b> on the login screen",
+      "source_hash": "b8d36a3924f5",
+      "target": "Click <b>Forgot password?</b> on the login screen",
+      "translated_from_hash": "b8d36a3924f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Enter the email address",
+      "source_hash": "24ee2221dd08",
+      "target": "Enter the email address",
+      "translated_from_hash": "24ee2221dd08",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Check inbox for reset link (valid for 1 hour)",
+      "source_hash": "58fe0d7af7c3",
+      "target": "Check inbox for reset link (valid for 1 hour)",
+      "translated_from_hash": "58fe0d7af7c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "If not received, check spam or contact support",
+      "source_hash": "f04dea503a2c",
+      "target": "If not received, check spam or contact support",
+      "translated_from_hash": "f04dea503a2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "How to resolve being stuck in a registration loop?",
+      "source_hash": "504c594dbc22",
+      "target": "How to resolve being stuck in a registration loop?",
+      "translated_from_hash": "504c594dbc22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Unverified accounts can’t reset passwords or re-register.",
+      "source_hash": "61b89fcb7b20",
+      "target": "Unverified accounts can’t reset passwords or re-register.",
+      "translated_from_hash": "61b89fcb7b20",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Users who didn’t verify their email can’t reset their password",
+      "source_hash": "6fa1ace14397",
+      "target": "Users who didn’t verify their email can’t reset their password",
+      "translated_from_hash": "6fa1ace14397",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "They also can’t register again with the same email",
+      "source_hash": "aeeb0872b869",
+      "target": "They also can’t register again with the same email",
+      "translated_from_hash": "aeeb0872b869",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Admins must contact support to delete the stuck user account",
+      "source_hash": "0955e1089e32",
+      "target": "Admins must contact support to delete the stuck user account",
+      "translated_from_hash": "0955e1089e32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "How to resolve issues with a user not being able to access their profile settings?",
+      "source_hash": "70cdec2aeb7e",
+      "target": "How to resolve issues with a user not being able to access their profile settings?",
+      "translated_from_hash": "70cdec2aeb7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Unverified users cannot access their account settings. Ask them to verify their email first.",
+      "source_hash": "5a935744b7d8",
+      "target": "Unverified users cannot access their account settings. Ask them to verify their email first.",
+      "translated_from_hash": "5a935744b7d8",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

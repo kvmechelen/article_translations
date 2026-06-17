@@ -1,0 +1,143 @@
+{
+  "article_id": "527603",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_f1ebb84c7a\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_6f83144629\">@@body:0007@@</h1><h2 id=\"h_8e3adb7f71\">@@body:0008@@</h2><p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_e3e9545671\">@@body:0010@@</h2><p class=\"no-margin\">@@body:0011@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_2396f5313c\">@@body:0012@@</h2><p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_8f266f8260\">@@body:0014@@</h2><p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_f1a583a8a6\">@@body:0016@@</h2><p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_f023ffb26d\">@@body:0018@@</h2><p class=\"no-margin\">@@body:0019@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_7cc45275fa\">@@body:0020@@</h2><p class=\"no-margin\">@@body:0021@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_e84d9d0893\">@@body:0022@@</h2><p class=\"no-margin\">@@body:0023@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_48856a4fa0\">@@body:0024@@</h2><p class=\"no-margin\">@@body:0025@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Project Launch Checklist",
+      "hash": "d741f7f50d42"
+    },
+    "description": {
+      "field": "description",
+      "text": "Must do's or highly recommended steps before you launch a project",
+      "hash": "552b4d7fb9de"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Why a project launch checklist?",
+      "hash": "f02349efbee7"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Before you publish a project, review this checklist to ensure nothing critical is missed. Completing these steps makes your project more engaging, easier to manage, and clearer for participants.",
+      "hash": "658aec45939f"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Completing these steps ensures:",
+      "hash": "20c86a5edbc0"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Participants see a <b>well-branded, clear project</b>.",
+      "hash": "9b96837ff232"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "You avoid rework after launch (e.g., editing access rights or fixing missing descriptions).",
+      "hash": "951635d5cc05"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Responsibilities are clear, someone is accountable for each aspect of the project.",
+      "hash": "93051ca0eb09"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Project launch checklist",
+      "hash": "a03ef68270f3"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Double-check if all the user data relevant for your project is a required registration field",
+      "hash": "ee14406b0561"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "User info relevant for your project should be asked during the platform registration flow.",
+      "hash": "063595c11aee"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Customize project tags, areas and statuses",
+      "hash": "7a3cc830a5e2"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Review and adjust tags, areas and ensure status handling is clear.",
+      "hash": "2fc773229dc1"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Grant access to the right groups of users",
+      "hash": "26547a003b45"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Also check if the info you need is asked during the platform registration flow.",
+      "hash": "bfb694f08ef9"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Add a timeline to your projects and a description to each project phase",
+      "hash": "684c33d2ae9d"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Don't leave the description of a timeline phase empty.",
+      "hash": "507236a1154f"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Customize the input form (for ideation projects)",
+      "hash": "ac47b875f952"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "You can customize the way to collect input in an ideation project.",
+      "hash": "617ca8be245a"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Customize your project map (if relevant)",
+      "hash": "05d1e709155b"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "You can change the zoom level of and add layers to the map that shows in your project.",
+      "hash": "8b8dd9874762"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Enhance project design with Content Builder",
+      "hash": "14d4a138382f"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Use flexible layouts, multi-media content and third-party embeds in your project descriptions.",
+      "hash": "41d6591bdf56"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Double-check automated emails",
+      "hash": "6ef6c65157a9"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Define which automated emails people should or should not receive from your project.",
+      "hash": "2f7ceca7efdb"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Assign project responsibilities",
+      "hash": "ce80a5637443"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Distribute responsibilities internally. Each project can have its own manager.",
+      "hash": "2f26bc234a3c"
+    }
+  }
+}

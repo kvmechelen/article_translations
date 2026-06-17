@@ -1,0 +1,475 @@
+{
+  "article_id": "527618",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Customizing the homepage",
+      "source_hash": "cbccc2bbe807",
+      "target": "Customizing the homepage",
+      "translated_from_hash": "cbccc2bbe807",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Manage the looks of your homepage and make it unique to your community",
+      "source_hash": "6d61a4fbb1f1",
+      "target": "Manage the looks of your homepage and make it unique to your community",
+      "translated_from_hash": "6d61a4fbb1f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the homepage builder?",
+      "source_hash": "8d51744a0abd",
+      "target": "What is the homepage builder?",
+      "translated_from_hash": "8d51744a0abd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The homepage is the first thing users see when they visit the platform. Customizing it allows admins to:",
+      "source_hash": "147cd458f0bb",
+      "target": "The homepage is the first thing users see when they visit the platform. Customizing it allows admins to:",
+      "translated_from_hash": "147cd458f0bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Reflect the community’s identity and branding.",
+      "source_hash": "4480384b136c",
+      "target": "Reflect the community’s identity and branding.",
+      "translated_from_hash": "4480384b136c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Highlight the most important projects, events, and calls‑to‑action.",
+      "source_hash": "8fdc4d408383",
+      "target": "Highlight the most important projects, events, and calls‑to‑action.",
+      "translated_from_hash": "8fdc4d408383",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Make the platform more engaging and easier to navigate.",
+      "source_hash": "24c017968ce2",
+      "target": "Make the platform more engaging and easier to navigate.",
+      "translated_from_hash": "24c017968ce2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Only admins can customize the homepage layout. Project and folder managers do not have access to this feature.",
+      "source_hash": "d50791e2ced4",
+      "target": "Only admins can customize the homepage layout. Project and folder managers do not have access to this feature.",
+      "translated_from_hash": "d50791e2ced4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "How to access the homepage builder?",
+      "source_hash": "26316e4b60fd",
+      "target": "How to access the homepage builder?",
+      "translated_from_hash": "26316e4b60fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Go to the <b>Pages &amp; Menu</b> section in the admin panel.",
+      "source_hash": "8abf181d47ac",
+      "target": "Go to the <b>Pages &amp; Menu</b> section in the admin panel.",
+      "translated_from_hash": "8abf181d47ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Click <b>Edit</b> next to “Home.”",
+      "source_hash": "5349d79c3941",
+      "target": "Click <b>Edit</b> next to “Home.”",
+      "translated_from_hash": "5349d79c3941",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "You’ll see the Homepage Builder interface:",
+      "source_hash": "8aa06071385d",
+      "target": "You’ll see the Homepage Builder interface:",
+      "translated_from_hash": "8aa06071385d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Left panel:</b> Widgets and layout elements you can drag and drop.",
+      "source_hash": "010cf2dadf7b",
+      "target": "<b>Left panel:</b> Widgets and layout elements you can drag and drop.",
+      "translated_from_hash": "010cf2dadf7b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Center:</b> A preview of the current homepage structure.",
+      "source_hash": "c40bbcc62e47",
+      "target": "<b>Center:</b> A preview of the current homepage structure.",
+      "translated_from_hash": "c40bbcc62e47",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Right panel:</b> Settings for whichever element is selected.",
+      "source_hash": "267bc698b68b",
+      "target": "<b>Right panel:</b> Settings for whichever element is selected.",
+      "translated_from_hash": "267bc698b68b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "What are the different homepage widgets?",
+      "source_hash": "e6c955300400",
+      "target": "What are the different homepage widgets?",
+      "translated_from_hash": "e6c955300400",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Functional widgets",
+      "source_hash": "06e23c462254",
+      "target": "Functional widgets",
+      "translated_from_hash": "06e23c462254",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "The homepage widgets provide different content and functions for the homepage. Key widgets include:",
+      "source_hash": "6642a43ddef2",
+      "target": "The homepage widgets provide different content and functions for the homepage. Key widgets include:",
+      "translated_from_hash": "6642a43ddef2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Homepage banner widget:</b> Display a prominent banner at the top of the page. This banner will be displayed differently for users that are logged in vs. users that are not logged in. You can toggle this view in the right column when editing the homepage banner widget.",
+      "source_hash": "8e6c8b627cd3",
+      "target": "<b>Homepage banner widget:</b> Display a prominent banner at the top of the page. This banner will be displayed differently for users that are logged in vs. users that are not logged in. You can toggle this view in the right column when editing the homepage banner widget.",
+      "translated_from_hash": "8e6c8b627cd3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Open to participation:</b> Shows active/published projects with a current open participation phase.",
+      "source_hash": "adc501345eae",
+      "target": "<b>Open to participation:</b> Shows active/published projects with a current open participation phase.",
+      "translated_from_hash": "adc501345eae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Followed items:</b> Lists projects or tags the logged‑in user follows.",
+      "source_hash": "93bdeeb5f26b",
+      "target": "<b>Followed items:</b> Lists projects or tags the logged‑in user follows.",
+      "translated_from_hash": "93bdeeb5f26b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Finished projects:</b> Displays completed projects.",
+      "source_hash": "06e14ce63e66",
+      "target": "<b>Finished projects:</b> Displays completed projects.",
+      "translated_from_hash": "06e14ce63e66",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>In your area:</b> Shows location‑specific projects for logged‑in users.",
+      "source_hash": "34ad3173460a",
+      "target": "<b>In your area:</b> Shows location‑specific projects for logged‑in users.",
+      "translated_from_hash": "34ad3173460a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Spotlight widget:</b> Highlights selected content.",
+      "source_hash": "7b952c6fc661",
+      "target": "<b>Spotlight widget:</b> Highlights selected content.",
+      "translated_from_hash": "7b952c6fc661",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Published projects &amp; folders:</b> Lists all active projects and folders.",
+      "source_hash": "91e6c5efb654",
+      "target": "<b>Published projects &amp; folders:</b> Lists all active projects and folders.",
+      "translated_from_hash": "91e6c5efb654",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Call to action widget:</b> Encourages users to take a specific action (e.g., sign up, join a project).",
+      "source_hash": "91e61a6e4b38",
+      "target": "<b>Call to action widget:</b> Encourages users to take a specific action (e.g., sign up, join a project).",
+      "translated_from_hash": "91e61a6e4b38",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Project &amp; folders widget (legacy):</b> An older version for listing projects and folders.",
+      "source_hash": "3588fc486b56",
+      "target": "<b>Project &amp; folders widget (legacy):</b> An older version for listing projects and folders.",
+      "translated_from_hash": "3588fc486b56",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Layout widgets",
+      "source_hash": "086b806c6e90",
+      "target": "Layout widgets",
+      "translated_from_hash": "086b806c6e90",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "The homepage layout elements let admins organize widgets and content into a readable, visually appealing structure.",
+      "source_hash": "31b0164cd469",
+      "target": "The homepage layout elements let admins organize widgets and content into a readable, visually appealing structure.",
+      "translated_from_hash": "31b0164cd469",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>2 column &amp; 3 column:</b> Use for responsive layouts. Each column can be configured differently.",
+      "source_hash": "cb983ebcc472",
+      "target": "<b>2 column &amp; 3 column:</b> Use for responsive layouts. Each column can be configured differently.",
+      "translated_from_hash": "cb983ebcc472",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Whitespace:</b> Adds spacing above or below any element.",
+      "source_hash": "1a9a066169ec",
+      "target": "<b>Whitespace:</b> Adds spacing above or below any element.",
+      "translated_from_hash": "1a9a066169ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Text:</b> Add text blocks with basic formatting.",
+      "source_hash": "b7352004500b",
+      "target": "<b>Text:</b> Add text blocks with basic formatting.",
+      "translated_from_hash": "b7352004500b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Button:</b> Place clear call‑to‑action buttons anywhere (link to internal or external pages).",
+      "source_hash": "7a2fc0961482",
+      "target": "<b>Button:</b> Place clear call‑to‑action buttons anywhere (link to internal or external pages).",
+      "translated_from_hash": "7a2fc0961482",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Embed:</b> Insert external components, like a map.",
+      "source_hash": "97eb3a5d668b",
+      "target": "<b>Embed:</b> Insert external components, like a map.",
+      "translated_from_hash": "97eb3a5d668b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Video embed</b>: use this widget to insert videos specifically for better formatting and resolution - this widget is only available on the homepage builder.",
+      "source_hash": "11892ebe7a1c",
+      "target": "<b>Video embed</b>: use this widget to insert videos specifically for better formatting and resolution - this widget is only available on the homepage builder.",
+      "translated_from_hash": "11892ebe7a1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Accordion:</b> Great for FAQs or collapsible content (often used at the bottom of a homepage).",
+      "source_hash": "8e19074fe41a",
+      "target": "<b>Accordion:</b> Great for FAQs or collapsible content (often used at the bottom of a homepage).",
+      "translated_from_hash": "8e19074fe41a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "<b>Example combination:</b>",
+      "source_hash": "a99c3090efe9",
+      "target": "<b>Example combination:</b>",
+      "translated_from_hash": "a99c3090efe9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Add a <b>2‑column</b> widget (aligned left).",
+      "source_hash": "8ffcf8b8b2ef",
+      "target": "Add a <b>2‑column</b> widget (aligned left).",
+      "translated_from_hash": "8ffcf8b8b2ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "In the left column, add an <b>image</b> widget.",
+      "source_hash": "d6f125f85d7a",
+      "target": "In the left column, add an <b>image</b> widget.",
+      "translated_from_hash": "d6f125f85d7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "In the right column, add <b>text</b> followed by a <b>button</b> widget.",
+      "source_hash": "54819c3cc260",
+      "target": "In the right column, add <b>text</b> followed by a <b>button</b> widget.",
+      "translated_from_hash": "54819c3cc260",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Image sizes and dimensions",
+      "source_hash": "03be61592fe9",
+      "target": "Image sizes and dimensions",
+      "translated_from_hash": "03be61592fe9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Images help personalize the platform and communicate the right look and feel.",
+      "source_hash": "edb56a3bc439",
+      "target": "Images help personalize the platform and communicate the right look and feel.",
+      "translated_from_hash": "edb56a3bc439",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "The homepage banner is one of the key areas where visuals matter. To prevent blurry or distorted images, refer to the image guidelines article for exact sizes and dimensions for each image type.",
+      "source_hash": "4f0a6a0737c5",
+      "target": "The homepage banner is one of the key areas where visuals matter. To prevent blurry or distorted images, refer to the image guidelines article for exact sizes and dimensions for each image type.",
+      "translated_from_hash": "4f0a6a0737c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Read our article on ‘Images: recommended dimensions and sizes?’ for more information on the images.",
+      "source_hash": "b419f2418abd",
+      "target": "Read our article on ‘Images: recommended dimensions and sizes?’ for more information on the images.",
+      "translated_from_hash": "b419f2418abd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Homepage Inspiration",
+      "source_hash": "644a7c8770c1",
+      "target": "Homepage Inspiration",
+      "translated_from_hash": "644a7c8770c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "You can visit other platforms' homepages to gain inspiration by searching in the Inspiration Hub. Here are a few we've picked out:",
+      "source_hash": "15ed1070ebfd",
+      "target": "You can visit other platforms' homepages to gain inspiration by searching in the Inspiration Hub. Here are a few we've picked out:",
+      "translated_from_hash": "15ed1070ebfd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://mitgestalten.innsbruck.gv.at/de-DE/\" target=\"_blank\">Innsbruck, Austria</a>",
+      "source_hash": "cabb3274b6dd",
+      "target": "<a class=\"intercom-content-link\" href=\"https://mitgestalten.innsbruck.gv.at/de-DE/\" target=\"_blank\">Innsbruck, Austria</a>",
+      "translated_from_hash": "cabb3274b6dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://mitgestalten.wien.gv.at/de-DE/\" target=\"_blank\">Vienna, Austria</a>",
+      "source_hash": "c72723eb2de0",
+      "target": "<a class=\"intercom-content-link\" href=\"https://mitgestalten.wien.gv.at/de-DE/\" target=\"_blank\">Vienna, Austria</a>",
+      "translated_from_hash": "c72723eb2de0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://engage.dublincity.ie/en-IE/\" target=\"_blank\">Dublin, Ireland</a>",
+      "source_hash": "2df381b398a7",
+      "target": "<a class=\"intercom-content-link\" href=\"https://engage.dublincity.ie/en-IE/\" target=\"_blank\">Dublin, Ireland</a>",
+      "translated_from_hash": "2df381b398a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://torontocentreprojects.ca/en/\" target=\"_blank\">Toronto, Canada</a>",
+      "source_hash": "2a11971197ea",
+      "target": "<a class=\"intercom-content-link\" href=\"https://torontocentreprojects.ca/en/\" target=\"_blank\">Toronto, Canada</a>",
+      "translated_from_hash": "2a11971197ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://hello.saanich.ca/en/\" target=\"_blank\">Saanich, Canada</a>",
+      "source_hash": "290bd7fb03e2",
+      "target": "<a class=\"intercom-content-link\" href=\"https://hello.saanich.ca/en/\" target=\"_blank\">Saanich, Canada</a>",
+      "translated_from_hash": "290bd7fb03e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://shape.slc.gov/en/\" target=\"_blank\">Salt Lake City, Utah</a><br/>​",
+      "source_hash": "b984dd1a065f",
+      "target": "<a class=\"intercom-content-link\" href=\"https://shape.slc.gov/en/\" target=\"_blank\">Salt Lake City, Utah</a><br/>​",
+      "translated_from_hash": "b984dd1a065f",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

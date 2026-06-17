@@ -1,0 +1,376 @@
+{
+  "article_id": "527550",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "ECHO  by Dembrane - Voice capture & automatic transcription",
+      "source_hash": "99850cfe6ea3",
+      "target": "ECHO  by Dembrane - Voice capture & automatic transcription",
+      "translated_from_hash": "99850cfe6ea3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Record offline conversations, uncover insights and bring them on your platform.",
+      "source_hash": "f3716d88a035",
+      "target": "Record offline conversations, uncover insights and bring them on your platform.",
+      "translated_from_hash": "f3716d88a035",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is ECHO by Dembrane?",
+      "source_hash": "bcdaf9a04126",
+      "target": "What is ECHO by Dembrane?",
+      "translated_from_hash": "bcdaf9a04126",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "ECHO is a voice recording and auto-transcription tool that helps capture insights from public meetings, interviews, or citizen assemblies. It turns spoken conversations into written transcripts and summary reports.",
+      "source_hash": "956f1d5999e8",
+      "target": "ECHO is a voice recording and auto-transcription tool that helps capture insights from public meetings, interviews, or citizen assemblies. It turns spoken conversations into written transcripts and summary reports.",
+      "translated_from_hash": "956f1d5999e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "ECHO's features:",
+      "source_hash": "f58e1807ba85",
+      "target": "ECHO's features:",
+      "translated_from_hash": "f58e1807ba85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Phone recording of conversations",
+      "source_hash": "1496986f8cc6",
+      "target": "Phone recording of conversations",
+      "translated_from_hash": "1496986f8cc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Auto-transcription from speech to text",
+      "source_hash": "219eee983846",
+      "target": "Auto-transcription from speech to text",
+      "translated_from_hash": "219eee983846",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Sensemaking applied to the transcript to identify key insights and the ability to do sensemaking across different transcripts.",
+      "source_hash": "8e06803f5c81",
+      "target": "Sensemaking applied to the transcript to identify key insights and the ability to do sensemaking across different transcripts.",
+      "translated_from_hash": "8e06803f5c81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Auto-generate meeting reports",
+      "source_hash": "376a4e34a625",
+      "target": "Auto-generate meeting reports",
+      "translated_from_hash": "376a4e34a625",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Common use cases:",
+      "source_hash": "abbf5c9a65df",
+      "target": "Common use cases:",
+      "translated_from_hash": "abbf5c9a65df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Citizen Assemblies",
+      "source_hash": "563aa5493674",
+      "target": "Citizen Assemblies",
+      "translated_from_hash": "563aa5493674",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Street interviews",
+      "source_hash": "b053baac5bc5",
+      "target": "Street interviews",
+      "translated_from_hash": "b053baac5bc5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Council Meetings",
+      "source_hash": "5a33a308087a",
+      "target": "Council Meetings",
+      "translated_from_hash": "5a33a308087a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "How to integrate ECHO with your Go Vocal platform?",
+      "source_hash": "ee3c6fc86385",
+      "target": "How to integrate ECHO with your Go Vocal platform?",
+      "translated_from_hash": "ee3c6fc86385",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Currently the best way to use ECHO in correlation with your Go Vocal platform is to use the Go Vocal platform as the user facing projects and communication point, and use ECHO as the place to collect insights and analysis insights.",
+      "source_hash": "4ece6530258b",
+      "target": "Currently the best way to use ECHO in correlation with your Go Vocal platform is to use the Go Vocal platform as the user facing projects and communication point, and use ECHO as the place to collect insights and analysis insights.",
+      "translated_from_hash": "4ece6530258b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "For example for a Citizen Assembly: Use Go Vocal platform to set up an event page, add a screenshot of the ECHO QR code to your event description. You can always have a pre-event phase to collect ideas for the assembly day. Then use a post-event phase in Go Vocal to share insights and reports from ECHO.",
+      "source_hash": "3dc6de204e0f",
+      "target": "For example for a Citizen Assembly: Use Go Vocal platform to set up an event page, add a screenshot of the ECHO QR code to your event description. You can always have a pre-event phase to collect ideas for the assembly day. Then use a post-event phase in Go Vocal to share insights and reports from ECHO.",
+      "translated_from_hash": "3dc6de204e0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "In this future we hope to have a full integration where you will be able to bring insights from ECHO into your ideation project for example, so we can support offline ideation projects better!",
+      "source_hash": "4f74e2d7cfb3",
+      "target": "In this future we hope to have a full integration where you will be able to bring insights from ECHO into your ideation project for example, so we can support offline ideation projects better!",
+      "translated_from_hash": "4f74e2d7cfb3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "How to access and setup your ECHO account?",
+      "source_hash": "5146ae4714d9",
+      "target": "How to access and setup your ECHO account?",
+      "translated_from_hash": "5146ae4714d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Contact support via the chat bubble on your Go Vocal platform.",
+      "source_hash": "042141243bfc",
+      "target": "Contact support via the chat bubble on your Go Vocal platform.",
+      "translated_from_hash": "042141243bfc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Provide:",
+      "source_hash": "d6e5c8d6766c",
+      "target": "Provide:",
+      "translated_from_hash": "d6e5c8d6766c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "First name",
+      "source_hash": "702ef921ed1d",
+      "target": "First name",
+      "translated_from_hash": "702ef921ed1d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Last name",
+      "source_hash": "7b4888049459",
+      "target": "Last name",
+      "translated_from_hash": "7b4888049459",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Email (use a shared one if multiple users need access)",
+      "source_hash": "b7fe58ca0f2a",
+      "target": "Email (use a shared one if multiple users need access)",
+      "translated_from_hash": "b7fe58ca0f2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "You’ll receive an email from Dembrane with login credentials.",
+      "source_hash": "eecbbd16c6d9",
+      "target": "You’ll receive an email from Dembrane with login credentials.",
+      "translated_from_hash": "eecbbd16c6d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Visit <a class=\"intercom-content-link\" href=\"https://docs.dembrane.com\" target=\"_blank\">https://docs.dembrane.com</a> to learn how to use the interface or head to Documentation in your new account",
+      "source_hash": "0e4936ef20e3",
+      "target": "Visit <a class=\"intercom-content-link\" href=\"https://docs.dembrane.com\" target=\"_blank\">https://docs.dembrane.com</a> to learn how to use the interface or head to Documentation in your new account",
+      "translated_from_hash": "0e4936ef20e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "This tool is available to:",
+      "source_hash": "61ef64aa3cab",
+      "target": "This tool is available to:",
+      "translated_from_hash": "61ef64aa3cab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>All clients</b> (purchase required for unlimited use)",
+      "source_hash": "fb843f8093de",
+      "target": "<b>All clients</b> (purchase required for unlimited use)",
+      "translated_from_hash": "fb843f8093de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Premium clients</b> (free trial: 1 project/year, 20 hours of recording)",
+      "source_hash": "296def9b8b35",
+      "target": "<b>Premium clients</b> (free trial: 1 project/year, 20 hours of recording)",
+      "translated_from_hash": "296def9b8b35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Multilingual support in ECHO",
+      "source_hash": "2510bff977de",
+      "target": "Multilingual support in ECHO",
+      "translated_from_hash": "2510bff977de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "ECHO supports multiple interface and transcription languages.",
+      "source_hash": "dfff7d3a2329",
+      "target": "ECHO supports multiple interface and transcription languages.",
+      "translated_from_hash": "dfff7d3a2329",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Interface languages</b>: English, German, French, Spanish, Dutch",
+      "source_hash": "65ab8757c222",
+      "target": "<b>Interface languages</b>: English, German, French, Spanish, Dutch",
+      "translated_from_hash": "65ab8757c222",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Speech recognition</b>: Supports all major languages found online",
+      "source_hash": "866a0e0e6806",
+      "target": "<b>Speech recognition</b>: Supports all major languages found online",
+      "translated_from_hash": "866a0e0e6806",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Translation options</b>: Transcripts can be translated into EN, DE, FR, ES, or NL",
+      "source_hash": "a442d303cc04",
+      "target": "<b>Translation options</b>: Transcripts can be translated into EN, DE, FR, ES, or NL",
+      "translated_from_hash": "a442d303cc04",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Other target languages available on request",
+      "source_hash": "f55686f9b04f",
+      "target": "Other target languages available on request",
+      "translated_from_hash": "f55686f9b04f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "More info at: <a class=\"intercom-content-link\" href=\"https://docs.dembrane.com/echo/getting-started/creating-project#language-settings\" target=\"_blank\">https://docs.dembrane.com/echo/getting-started/creating-project#language-settings</a>",
+      "source_hash": "d14003ad5784",
+      "target": "More info at: <a class=\"intercom-content-link\" href=\"https://docs.dembrane.com/echo/getting-started/creating-project#language-settings\" target=\"_blank\">https://docs.dembrane.com/echo/getting-started/creating-project#language-settings</a>",
+      "translated_from_hash": "d14003ad5784",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "How to report issues regarding ECHO?",
+      "source_hash": "d8e43dd57b07",
+      "target": "How to report issues regarding ECHO?",
+      "translated_from_hash": "d8e43dd57b07",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Get support for ECHO either from within Dembrane or via your Go Vocal support team.",
+      "source_hash": "fd53af202058",
+      "target": "Get support for ECHO either from within Dembrane or via your Go Vocal support team.",
+      "translated_from_hash": "fd53af202058",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>To report bugs</b>:",
+      "source_hash": "4f88c352ec41",
+      "target": "<b>To report bugs</b>:",
+      "translated_from_hash": "4f88c352ec41",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Use the <b>Report an issue</b> button under the settings icon in your Dembrane account.",
+      "source_hash": "5999397c0688",
+      "target": "Use the <b>Report an issue</b> button under the settings icon in your Dembrane account.",
+      "translated_from_hash": "5999397c0688",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>For general support</b>:",
+      "source_hash": "f2d578847c68",
+      "target": "<b>For general support</b>:",
+      "translated_from_hash": "f2d578847c68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Use the chat bubble on your Go Vocal platform or email <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>",
+      "source_hash": "6c3f9fbb90f1",
+      "target": "Use the chat bubble on your Go Vocal platform or email <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>",
+      "translated_from_hash": "6c3f9fbb90f1",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

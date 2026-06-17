@@ -1,0 +1,907 @@
+{
+  "article_id": "527647",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Inviting people to the platform",
+      "source_hash": "f576d662d226",
+      "target": "Inviting people to the platform",
+      "translated_from_hash": "f576d662d226",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are user invitations?",
+      "source_hash": "a52f40845d9c",
+      "target": "What are user invitations?",
+      "translated_from_hash": "a52f40845d9c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Invitations let you securely onboard users by giving them a personalized way to register, while assigning roles and access automatically.",
+      "source_hash": "80de1f529121",
+      "target": "Invitations let you securely onboard users by giving them a personalized way to register, while assigning roles and access automatically.",
+      "translated_from_hash": "80de1f529121",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Invitations are linked to a unique registration token, and can:",
+      "source_hash": "f1f4136ac998",
+      "target": "Invitations are linked to a unique registration token, and can:",
+      "translated_from_hash": "f1f4136ac998",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Be sent via email (manually or in bulk)",
+      "source_hash": "f75db36fc6d8",
+      "target": "Be sent via email (manually or in bulk)",
+      "translated_from_hash": "f75db36fc6d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Be distributed physically using registration codes",
+      "source_hash": "36f24c94d16a",
+      "target": "Be distributed physically using registration codes",
+      "translated_from_hash": "36f24c94d16a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Automatically assign roles (admin, project manager) or group membership",
+      "source_hash": "16b30be4d0e9",
+      "target": "Automatically assign roles (admin, project manager) or group membership",
+      "translated_from_hash": "16b30be4d0e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Prevent impersonation or unauthorized registrations",
+      "source_hash": "ca1d48eb3378",
+      "target": "Prevent impersonation or unauthorized registrations",
+      "translated_from_hash": "ca1d48eb3378",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Invitations expire after 30 days and bypass email verification since the email is already known.",
+      "source_hash": "5df148334ae8",
+      "target": "Invitations expire after 30 days and bypass email verification since the email is already known.",
+      "translated_from_hash": "5df148334ae8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "How to invite users through mail?",
+      "source_hash": "99c4e16ac03d",
+      "target": "How to invite users through mail?",
+      "translated_from_hash": "99c4e16ac03d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Go to <b>Users &gt; Invite Users</b> in the admin panel.",
+      "source_hash": "7e58d568b5e1",
+      "target": "Go to <b>Users &gt; Invite Users</b> in the admin panel.",
+      "translated_from_hash": "7e58d568b5e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Choose one of the methods below:",
+      "source_hash": "9aa5161928e8",
+      "target": "Choose one of the methods below:",
+      "translated_from_hash": "9aa5161928e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Option 1: Manually enter email addresses",
+      "source_hash": "c10d464ee03f",
+      "target": "Option 1: Manually enter email addresses",
+      "translated_from_hash": "c10d464ee03f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Separate multiple emails with commas.",
+      "source_hash": "5b653ded131b",
+      "target": "Separate multiple emails with commas.",
+      "translated_from_hash": "5b653ded131b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Set options: assign admin or project manager roles, add to manual groups, set preferred language.",
+      "source_hash": "940298cebedc",
+      "target": "Set options: assign admin or project manager roles, add to manual groups, set preferred language.",
+      "translated_from_hash": "940298cebedc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Add a personal message (optional).",
+      "source_hash": "24b1ee883fb5",
+      "target": "Add a personal message (optional).",
+      "translated_from_hash": "24b1ee883fb5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Option 2: Import an Excel file",
+      "source_hash": "93ac75dc2fff",
+      "target": "Option 2: Import an Excel file",
+      "translated_from_hash": "93ac75dc2fff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Use the provided template with the following columns:",
+      "source_hash": "475289d72f00",
+      "target": "Use the provided template with the following columns:",
+      "translated_from_hash": "475289d72f00",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<code>email</code> (required)",
+      "source_hash": "ac70f18f851b",
+      "target": "<code>email</code> (required)",
+      "translated_from_hash": "ac70f18f851b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<code>first_name</code>",
+      "source_hash": "d407758cefa9",
+      "target": "<code>first_name</code>",
+      "translated_from_hash": "d407758cefa9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<code>last_name</code>",
+      "source_hash": "f0dcec4bdda8",
+      "target": "<code>last_name</code>",
+      "translated_from_hash": "f0dcec4bdda8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<code>language</code> (e.g., \"en\", \"nl-BE\")",
+      "source_hash": "0fb59d2b7700",
+      "target": "<code>language</code> (e.g., \"en\", \"nl-BE\")",
+      "translated_from_hash": "0fb59d2b7700",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<code>groups</code> (name of the manual or smart groups)",
+      "source_hash": "174610ca353d",
+      "target": "<code>groups</code> (name of the manual or smart groups)",
+      "translated_from_hash": "174610ca353d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<code>admin</code> (TRUE/FALSE)",
+      "source_hash": "2e5504115b4c",
+      "target": "<code>admin</code> (TRUE/FALSE)",
+      "translated_from_hash": "2e5504115b4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "The Excel file overrides any settings selected in the admin interface.",
+      "source_hash": "1492b2c13592",
+      "target": "The Excel file overrides any settings selected in the admin interface.",
+      "translated_from_hash": "1492b2c13592",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "After sending:",
+      "source_hash": "221cc42edba2",
+      "target": "After sending:",
+      "translated_from_hash": "221cc42edba2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Users receive an email with a link to register and fill in their profile.",
+      "source_hash": "63a7d05fb01d",
+      "target": "Users receive an email with a link to register and fill in their profile.",
+      "translated_from_hash": "63a7d05fb01d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "A reminder is sent automatically after 3 days.",
+      "source_hash": "ecc2c099702d",
+      "target": "A reminder is sent automatically after 3 days.",
+      "translated_from_hash": "ecc2c099702d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Invitations expire after 30 days, but you can resend or delete them manually.",
+      "source_hash": "97ee5beeae54",
+      "target": "Invitations expire after 30 days, but you can resend or delete them manually.",
+      "translated_from_hash": "97ee5beeae54",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Users skip email verification during sign-up.",
+      "source_hash": "6ddaf3c237ec",
+      "target": "Users skip email verification during sign-up.",
+      "translated_from_hash": "6ddaf3c237ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "ℹ️ If someone is already registered using the invited email, they won’t get a new email but can still be added to groups automatically. Additionally, if a user has a pending invitation and tried to register via the normal registration button on the homepage instead of going through the invitation link, they will not be able to register in the normal way and will be prompted to use the pending invitation.",
+      "source_hash": "9a203beb2929",
+      "target": "ℹ️ If someone is already registered using the invited email, they won’t get a new email but can still be added to groups automatically. Additionally, if a user has a pending invitation and tried to register via the normal registration button on the homepage instead of going through the invitation link, they will not be able to register in the normal way and will be prompted to use the pending invitation.",
+      "translated_from_hash": "9a203beb2929",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Option 3: Invite Project, Folder or Space managers",
+      "source_hash": "5003589be7ae",
+      "target": "Option 3: Invite Project, Folder or Space managers",
+      "translated_from_hash": "5003589be7ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "To invite someone as a Project Manager:",
+      "source_hash": "0ccbc2b89329",
+      "target": "To invite someone as a Project Manager:",
+      "translated_from_hash": "0ccbc2b89329",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "In the <b>Projects</b> tab select the Project where you want to invite someone as a Project Manager",
+      "source_hash": "825ab2531ebe",
+      "target": "In the <b>Projects</b> tab select the Project where you want to invite someone as a Project Manager",
+      "translated_from_hash": "825ab2531ebe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Go to the <b>General</b> tab and select <b>Access Rights</b>",
+      "source_hash": "b17c6f5e7dc3",
+      "target": "Go to the <b>General</b> tab and select <b>Access Rights</b>",
+      "translated_from_hash": "b17c6f5e7dc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "At the bottom below <b>Project Management</b> you can invite users as a Project Manager",
+      "source_hash": "1139194b4cb4",
+      "target": "At the bottom below <b>Project Management</b> you can invite users as a Project Manager",
+      "translated_from_hash": "1139194b4cb4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "To invite someone as a Folder Manager:",
+      "source_hash": "43d95771e8c3",
+      "target": "To invite someone as a Folder Manager:",
+      "translated_from_hash": "43d95771e8c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "In the <b>Projects</b> tab navigate to <b>Folders</b>",
+      "source_hash": "9e72dca9fd4a",
+      "target": "In the <b>Projects</b> tab navigate to <b>Folders</b>",
+      "translated_from_hash": "9e72dca9fd4a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Select</b> the Folder you want to invite a Folder Manager to",
+      "source_hash": "22835b266bcf",
+      "target": "<b>Select</b> the Folder you want to invite a Folder Manager to",
+      "translated_from_hash": "22835b266bcf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "In the <b>Permissions</b> tab you can invite users as Folder Managers",
+      "source_hash": "efcf0950f9f4",
+      "target": "In the <b>Permissions</b> tab you can invite users as Folder Managers",
+      "translated_from_hash": "efcf0950f9f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "To invite someone as a Space Manager:",
+      "source_hash": "6beaba99e700",
+      "target": "To invite someone as a Space Manager:",
+      "translated_from_hash": "6beaba99e700",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "In the <b>Projects</b> tab navigate to <b>Spaces</b>",
+      "source_hash": "20b250d13608",
+      "target": "In the <b>Projects</b> tab navigate to <b>Spaces</b>",
+      "translated_from_hash": "20b250d13608",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "<b>Select</b> the Space you want to invite a Space Manager to",
+      "source_hash": "c4adf0c555cd",
+      "target": "<b>Select</b> the Space you want to invite a Space Manager to",
+      "translated_from_hash": "c4adf0c555cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "In the <b>Permissions</b> tab you can invite users as Space Managers",
+      "source_hash": "47a4af992abd",
+      "target": "In the <b>Permissions</b> tab you can invite users as Space Managers",
+      "translated_from_hash": "47a4af992abd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "How to invite users in person using a code?",
+      "source_hash": "e301afea424c",
+      "target": "How to invite users in person using a code?",
+      "translated_from_hash": "e301afea424c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Create unique invitation codes for offline campaigns or residents without email addresses.",
+      "source_hash": "41a1824fd2d4",
+      "target": "Create unique invitation codes for offline campaigns or residents without email addresses.",
+      "translated_from_hash": "41a1824fd2d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "When to use:",
+      "source_hash": "1421828f79f4",
+      "target": "When to use:",
+      "translated_from_hash": "1421828f79f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Target specific neighborhoods or streets.",
+      "source_hash": "a4c94bc03fdd",
+      "target": "Target specific neighborhoods or streets.",
+      "translated_from_hash": "a4c94bc03fdd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Register participants at in-person events.",
+      "source_hash": "b1093c816352",
+      "target": "Register participants at in-person events.",
+      "translated_from_hash": "b1093c816352",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Reach audiences without digital access.",
+      "source_hash": "c4036c431bed",
+      "target": "Reach audiences without digital access.",
+      "translated_from_hash": "c4036c431bed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "How to create and distribute codes:",
+      "source_hash": "00a658adec06",
+      "target": "How to create and distribute codes:",
+      "translated_from_hash": "00a658adec06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Create a <b>manual group</b> (e.g. \"North Avenue Residents\") in <b>Users &gt; Groups</b>.",
+      "source_hash": "77498ac9453f",
+      "target": "Create a <b>manual group</b> (e.g. \"North Avenue Residents\") in <b>Users &gt; Groups</b>.",
+      "translated_from_hash": "77498ac9453f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Go to the general <b>Users</b> tab, Click <b>Invite Users &gt; Download Template</b>",
+      "source_hash": "5a3633c2022a",
+      "target": "Go to the general <b>Users</b> tab, Click <b>Invite Users &gt; Download Template</b>",
+      "translated_from_hash": "5a3633c2022a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Fill out the Excel template:",
+      "source_hash": "9bddd4c83cc5",
+      "target": "Fill out the Excel template:",
+      "translated_from_hash": "9bddd4c83cc5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "One row per code",
+      "source_hash": "b69642ae06d4",
+      "target": "One row per code",
+      "translated_from_hash": "b69642ae06d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Leave <code>email</code> blank if unknown",
+      "source_hash": "27ec64dd6ddf",
+      "target": "Leave <code>email</code> blank if unknown",
+      "translated_from_hash": "27ec64dd6ddf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Specify the manual group name in the <code>groups</code> column",
+      "source_hash": "9397846ca592",
+      "target": "Specify the manual group name in the <code>groups</code> column",
+      "translated_from_hash": "9397846ca592",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Upload the file and send the invitations",
+      "source_hash": "65c7c6e59652",
+      "target": "Upload the file and send the invitations",
+      "translated_from_hash": "65c7c6e59652",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Go to <b>All Invitations</b> tab and export the list of invitations you just sent.",
+      "source_hash": "8dce7a814545",
+      "target": "Go to <b>All Invitations</b> tab and export the list of invitations you just sent.",
+      "translated_from_hash": "8dce7a814545",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "From the exported excel file, retrieve each token code (under the <code>token</code> column).",
+      "source_hash": "79c05eb5f07d",
+      "target": "From the exported excel file, retrieve each token code (under the <code>token</code> column).",
+      "translated_from_hash": "79c05eb5f07d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Insert each token into your letters/postcards using mail merge or manual entry.",
+      "source_hash": "2f40c21b1804",
+      "target": "Insert each token into your letters/postcards using mail merge or manual entry.",
+      "translated_from_hash": "2f40c21b1804",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Important:",
+      "source_hash": "496d6960431c",
+      "target": "Important:",
+      "translated_from_hash": "496d6960431c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Instruct users to go to <code>yourplatform.com/invite</code>, where they’ll be prompted to enter their token.",
+      "source_hash": "aa8112e017e3",
+      "target": "Instruct users to go to <code>yourplatform.com/invite</code>, where they’ll be prompted to enter their token.",
+      "translated_from_hash": "aa8112e017e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "If they register via the regular homepage, the token won't be applied.",
+      "source_hash": "64ab9d979e0c",
+      "target": "If they register via the regular homepage, the token won't be applied.",
+      "translated_from_hash": "64ab9d979e0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Users who already registered should log in without using the code and update their info manually to meet project access conditions.",
+      "source_hash": "2bc77eab00b1",
+      "target": "Users who already registered should log in without using the code and update their info manually to meet project access conditions.",
+      "translated_from_hash": "2bc77eab00b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "How to accept an invitation without the invitation email?",
+      "source_hash": "dc2e12c633f0",
+      "target": "How to accept an invitation without the invitation email?",
+      "translated_from_hash": "dc2e12c633f0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Option 1: Send their unique token",
+      "source_hash": "d64d106477f5",
+      "target": "Option 1: Send their unique token",
+      "translated_from_hash": "d64d106477f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Go to <b>Invitations &gt; All Invitations &gt; Export</b>.",
+      "source_hash": "b90a2254fea1",
+      "target": "Go to <b>Invitations &gt; All Invitations &gt; Export</b>.",
+      "translated_from_hash": "b90a2254fea1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Find the user and copy the value in the <code>token</code> column.",
+      "source_hash": "344ef2fa4152",
+      "target": "Find the user and copy the value in the <code>token</code> column.",
+      "translated_from_hash": "344ef2fa4152",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Send them this URL: <code>yourplatform.com/invite</code>.",
+      "source_hash": "932b1831e6af",
+      "target": "Send them this URL: <code>yourplatform.com/invite</code>.",
+      "translated_from_hash": "932b1831e6af",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "They’ll be prompted to enter the token and complete their registration.",
+      "source_hash": "b1b76be80990",
+      "target": "They’ll be prompted to enter the token and complete their registration.",
+      "translated_from_hash": "b1b76be80990",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Option 2: Delete the invitation",
+      "source_hash": "c3db6f41e871",
+      "target": "Option 2: Delete the invitation",
+      "translated_from_hash": "c3db6f41e871",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "In <b>All Invitations</b>, click the trash icon next to the person’s invite.",
+      "source_hash": "ff701977c4da",
+      "target": "In <b>All Invitations</b>, click the trash icon next to the person’s invite.",
+      "translated_from_hash": "ff701977c4da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Re-invite them with the correct email or send a new code.",
+      "source_hash": "ad1f598a2308",
+      "target": "Re-invite them with the correct email or send a new code.",
+      "translated_from_hash": "ad1f598a2308",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "ℹ️ Deleting an invitation also removes any roles or group assignments it included.",
+      "source_hash": "edb31456e2bc",
+      "target": "ℹ️ Deleting an invitation also removes any roles or group assignments it included.",
+      "translated_from_hash": "edb31456e2bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "What happens when an invitation is accepted?",
+      "source_hash": "7dc93a83713b",
+      "target": "What happens when an invitation is accepted?",
+      "translated_from_hash": "7dc93a83713b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "What users experience after clicking their invite link or using a registration token.",
+      "source_hash": "2be783c936fa",
+      "target": "What users experience after clicking their invite link or using a registration token.",
+      "translated_from_hash": "2be783c936fa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "Once users accept:",
+      "source_hash": "cb34b3e7e99b",
+      "target": "Once users accept:",
+      "translated_from_hash": "cb34b3e7e99b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "They complete their profile (name, password, etc.).",
+      "source_hash": "3e2bf72f6fe3",
+      "target": "They complete their profile (name, password, etc.).",
+      "translated_from_hash": "3e2bf72f6fe3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "Their email is auto-confirmed.",
+      "source_hash": "5a966d2eaac9",
+      "target": "Their email is auto-confirmed.",
+      "translated_from_hash": "5a966d2eaac9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "Any assigned <b>r</b>oles (e.g., admin, project manager) are applied.",
+      "source_hash": "a21a2d162dce",
+      "target": "Any assigned <b>r</b>oles (e.g., admin, project manager) are applied.",
+      "translated_from_hash": "a21a2d162dce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "They are added to manual or smart groups.",
+      "source_hash": "952df39097cf",
+      "target": "They are added to manual or smart groups.",
+      "translated_from_hash": "952df39097cf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "They gain access to the platform according to their assigned rights.",
+      "source_hash": "e937b7e6edf9",
+      "target": "They gain access to the platform according to their assigned rights.",
+      "translated_from_hash": "e937b7e6edf9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "Invited users:",
+      "source_hash": "25fcf8ac9b7e",
+      "target": "Invited users:",
+      "translated_from_hash": "25fcf8ac9b7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "Skip the “email verification” step.",
+      "source_hash": "bb09e9792045",
+      "target": "Skip the “email verification” step.",
+      "translated_from_hash": "bb09e9792045",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "Can still be re-invited later (if needed) by deleting and resending.",
+      "source_hash": "9390912400fe",
+      "target": "Can still be re-invited later (if needed) by deleting and resending.",
+      "translated_from_hash": "9390912400fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "How to whitelist invitation emails?",
+      "source_hash": "8bf7921bfd4a",
+      "target": "How to whitelist invitation emails?",
+      "translated_from_hash": "8bf7921bfd4a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "For Outlook / Exchange:",
+      "source_hash": "f633a9098112",
+      "target": "For Outlook / Exchange:",
+      "translated_from_hash": "f633a9098112",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "Log in to the <b>Exchange Admin Center</b>.",
+      "source_hash": "1838177d9de3",
+      "target": "Log in to the <b>Exchange Admin Center</b>.",
+      "translated_from_hash": "1838177d9de3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "Navigate to <b>Protection &gt; Spam Filter</b>.",
+      "source_hash": "c82ed90e7f71",
+      "target": "Navigate to <b>Protection &gt; Spam Filter</b>.",
+      "translated_from_hash": "c82ed90e7f71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "Select the policy &gt; Edit &gt; Allow Lists.",
+      "source_hash": "3aac023f22bc",
+      "target": "Select the policy &gt; Edit &gt; Allow Lists.",
+      "translated_from_hash": "3aac023f22bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0091": {
+      "field": "body",
+      "source": "Add <code>mg.citizenlab.co</code> to the trusted domain list.",
+      "source_hash": "4bf4bc0fdb25",
+      "target": "Add <code>mg.citizenlab.co</code> to the trusted domain list.",
+      "translated_from_hash": "4bf4bc0fdb25",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0092": {
+      "field": "body",
+      "source": "For Google Workspace (Gmail):",
+      "source_hash": "ed82929cd5ef",
+      "target": "For Google Workspace (Gmail):",
+      "translated_from_hash": "ed82929cd5ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0093": {
+      "field": "body",
+      "source": "Go to <b>Admin Console &gt; Apps &gt; Gmail &gt; Advanced Settings</b>.",
+      "source_hash": "279396d87019",
+      "target": "Go to <b>Admin Console &gt; Apps &gt; Gmail &gt; Advanced Settings</b>.",
+      "translated_from_hash": "279396d87019",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0094": {
+      "field": "body",
+      "source": "Select the top-level domain.",
+      "source_hash": "e2be27142c0d",
+      "target": "Select the top-level domain.",
+      "translated_from_hash": "e2be27142c0d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0095": {
+      "field": "body",
+      "source": "In the Spam section, find Email whitelist.",
+      "source_hash": "de64db8eeee4",
+      "target": "In the Spam section, find Email whitelist.",
+      "translated_from_hash": "de64db8eeee4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0096": {
+      "field": "body",
+      "source": "Add IP address: <code>104.130.122.18</code>.",
+      "source_hash": "d428017650af",
+      "target": "Add IP address: <code>104.130.122.18</code>.",
+      "translated_from_hash": "d428017650af",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0097": {
+      "field": "body",
+      "source": "Click <b>Save</b>.",
+      "source_hash": "b983d161b2a2",
+      "target": "Click <b>Save</b>.",
+      "translated_from_hash": "b983d161b2a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0098": {
+      "field": "body",
+      "source": "You’ll need email system admin rights to do this.",
+      "source_hash": "4d28a10dc6d1",
+      "target": "You’ll need email system admin rights to do this.",
+      "translated_from_hash": "4d28a10dc6d1",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

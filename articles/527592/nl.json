@@ -1,0 +1,1258 @@
+{
+  "article_id": "527592",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Automatic Emails or Notifications on the platform",
+      "source_hash": "2eb173d9c389",
+      "target": "Automatic Emails or Notifications on the platform",
+      "translated_from_hash": "2eb173d9c389",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are Automatic Emails on the platform?",
+      "source_hash": "72c96039009d",
+      "target": "What are Automatic Emails on the platform?",
+      "translated_from_hash": "72c96039009d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The “Messaging” tab in the admin panel allows you to create, edit, and track email campaigns sent to users. You can design campaigns, send them to specific user groups, test and preview emails, and analyze engagement metrics.",
+      "source_hash": "e857f1ba8f4c",
+      "target": "The “Messaging” tab in the admin panel allows you to create, edit, and track email campaigns sent to users. You can design campaigns, send them to specific user groups, test and preview emails, and analyze engagement metrics.",
+      "translated_from_hash": "e857f1ba8f4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "In the \"Messaging\" tab you find both Custom Emails and Automatic Emails. This article is about Automatic Emails, for more information about Manual Emails read <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">this support article</a>.",
+      "source_hash": "23bf9ea1871a",
+      "target": "In the \"Messaging\" tab you find both Custom Emails and Automatic Emails. This article is about Automatic Emails, for more information about Manual Emails read <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">this support article</a>.",
+      "translated_from_hash": "23bf9ea1871a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Automatic emails",
+      "source_hash": "09167745d608",
+      "target": "Automatic emails",
+      "translated_from_hash": "09167745d608",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Automatic emails are messages sent by the platform without manual intervention. They are triggered by user actions (e.g., posting a comment), platform events (e.g., new project phase), or actions by others (e.g., receiving moderator rights).",
+      "source_hash": "86b7647ddd7f",
+      "target": "Automatic emails are messages sent by the platform without manual intervention. They are triggered by user actions (e.g., posting a comment), platform events (e.g., new project phase), or actions by others (e.g., receiving moderator rights).",
+      "translated_from_hash": "86b7647ddd7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Automatic emails always include:",
+      "source_hash": "12a30d37e764",
+      "target": "Automatic emails always include:",
+      "translated_from_hash": "12a30d37e764",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "The platform logo (editable via <b>Settings &gt; Branding</b>)",
+      "source_hash": "eac3055ff128",
+      "target": "The platform logo (editable via <b>Settings &gt; Branding</b>)",
+      "translated_from_hash": "eac3055ff128",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "An unsubscribe option (to stop receiving automatic emails)",
+      "source_hash": "b4f2c5fe3d06",
+      "target": "An unsubscribe option (to stop receiving automatic emails)",
+      "translated_from_hash": "b4f2c5fe3d06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Terms &amp; Conditions and Privacy Policy links",
+      "source_hash": "5adae3f1a292",
+      "target": "Terms &amp; Conditions and Privacy Policy links",
+      "translated_from_hash": "5adae3f1a292",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "There are two types of automatic emails:",
+      "source_hash": "0c7294d9ec4e",
+      "target": "There are two types of automatic emails:",
+      "translated_from_hash": "0c7294d9ec4e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Platform-level automatic emails</b>: only accessible by admins to Customizable emails that can be enabled or disabled on a platform level and will be the default setting for the entire platform, unless overwritten on a project-level.",
+      "source_hash": "dafa70b8973b",
+      "target": "<b>Platform-level automatic emails</b>: only accessible by admins to Customizable emails that can be enabled or disabled on a platform level and will be the default setting for the entire platform, unless overwritten on a project-level.",
+      "translated_from_hash": "dafa70b8973b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "accessible via the <b>Messaging</b> general tab &gt; <b>Automated emails</b>",
+      "source_hash": "a9e89e216766",
+      "target": "accessible via the <b>Messaging</b> general tab &gt; <b>Automated emails</b>",
+      "translated_from_hash": "a9e89e216766",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Phase-level automatic emails</b>: turn on and off automatic notifications that will be send to users in that phase.",
+      "source_hash": "c48c19804a42",
+      "target": "<b>Phase-level automatic emails</b>: turn on and off automatic notifications that will be send to users in that phase.",
+      "translated_from_hash": "c48c19804a42",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "accessible via the project <b>Timeline</b> tab &gt; selected your phase &gt; <b>Notifications </b>tab",
+      "source_hash": "ed24aeb70f51",
+      "target": "accessible via the project <b>Timeline</b> tab &gt; selected your phase &gt; <b>Notifications </b>tab",
+      "translated_from_hash": "ed24aeb70f51",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "ℹ️ Notes:",
+      "source_hash": "be4d2018a68d",
+      "target": "ℹ️ Notes:",
+      "translated_from_hash": "be4d2018a68d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Admins can enable or disable certain emails",
+      "source_hash": "a943ca53146c",
+      "target": "Admins can enable or disable certain emails",
+      "translated_from_hash": "a943ca53146c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "If platform-level emails are enabled, they can be disabled on a project level",
+      "source_hash": "3bcdc5023436",
+      "target": "If platform-level emails are enabled, they can be disabled on a project level",
+      "translated_from_hash": "3bcdc5023436",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "If platform-level emails are disabled, they can NOT be enabled on a project level",
+      "source_hash": "39b0cee312b9",
+      "target": "If platform-level emails are disabled, they can NOT be enabled on a project level",
+      "translated_from_hash": "39b0cee312b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Users can manage their own notification preferences.",
+      "source_hash": "5bb208581d2e",
+      "target": "Users can manage their own notification preferences.",
+      "translated_from_hash": "5bb208581d2e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Key features of automatic emails",
+      "source_hash": "b2799332fec0",
+      "target": "Key features of automatic emails",
+      "translated_from_hash": "b2799332fec0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Platform Management:</b> Admins decide which automatic emails are active.",
+      "source_hash": "89245aa0fa0e",
+      "target": "<b>Platform Management:</b> Admins decide which automatic emails are active.",
+      "translated_from_hash": "89245aa0fa0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>User Management:</b> Users can fine-tune their own preferences.",
+      "source_hash": "a9441c9876ac",
+      "target": "<b>User Management:</b> Users can fine-tune their own preferences.",
+      "translated_from_hash": "a9441c9876ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Trigger System:</b> The platform determines when to send each automatic email based on defined triggers (e.g., comment replies, status changes).",
+      "source_hash": "0f78f7c28277",
+      "target": "<b>Trigger System:</b> The platform determines when to send each automatic email based on defined triggers (e.g., comment replies, status changes).",
+      "translated_from_hash": "0f78f7c28277",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "How and where are automatic emails triggered?",
+      "source_hash": "828cf4881158",
+      "target": "How and where are automatic emails triggered?",
+      "translated_from_hash": "828cf4881158",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Automatic emails are triggered by specific user actions or system events. The triggers vary by feature area. Use the overview below to find relevant email triggers based on what you’re working on.",
+      "source_hash": "dd42263ce645",
+      "target": "Automatic emails are triggered by specific user actions or system events. The triggers vary by feature area. Use the overview below to find relevant email triggers based on what you’re working on.",
+      "translated_from_hash": "dd42263ce645",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "What users can receive",
+      "source_hash": "fd1049beb81a",
+      "target": "What users can receive",
+      "translated_from_hash": "fd1049beb81a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Surveys",
+      "source_hash": "7c763b8fc78b",
+      "target": "Surveys",
+      "translated_from_hash": "7c763b8fc78b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Users receive automatic emails in the following cases:",
+      "source_hash": "925f97506920",
+      "target": "Users receive automatic emails in the following cases:",
+      "translated_from_hash": "925f97506920",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Survey Not Submitted <i>(User who has started but not submitted their survey, 1 day after user last saved the survey in draft)</i>",
+      "source_hash": "5d01bffc4fd4",
+      "target": "Survey Not Submitted <i>(User who has started but not submitted their survey, 1 day after user last saved the survey in draft)</i>",
+      "translated_from_hash": "5d01bffc4fd4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Ideation",
+      "source_hash": "293787bb12d5",
+      "target": "Ideation",
+      "translated_from_hash": "293787bb12d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Users receive automatic emails in the following cases:",
+      "source_hash": "925f97506920",
+      "target": "Users receive automatic emails in the following cases:",
+      "translated_from_hash": "925f97506920",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Status change of an input that you follow <i>(Users that follow the input, when the input status changes)</i>",
+      "source_hash": "3354c2b62695",
+      "target": "Status change of an input that you follow <i>(Users that follow the input, when the input status changes)</i>",
+      "translated_from_hash": "3354c2b62695",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Update on an input that you follow <i>(Users that follow the input, when the input receives official feedback)</i>",
+      "source_hash": "85d666e7f8f2",
+      "target": "Update on an input that you follow <i>(Users that follow the input, when the input receives official feedback)</i>",
+      "translated_from_hash": "85d666e7f8f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Publication of my input <i>(Users who posted the input, when the input is published)</i>",
+      "source_hash": "ec94af283dfd",
+      "target": "Publication of my input <i>(Users who posted the input, when the input is published)</i>",
+      "translated_from_hash": "ec94af283dfd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "A comment on an input that you follow <i>(Users who follow the input, when a user comments on the input)</i>",
+      "source_hash": "bc912c7b5141",
+      "target": "A comment on an input that you follow <i>(Users who follow the input, when a user comments on the input)</i>",
+      "translated_from_hash": "bc912c7b5141",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Mention in an update <i>(Users that are mentioned in a comment, when the mention is made)</i>",
+      "source_hash": "27e5cf0dfbb6",
+      "target": "Mention in an update <i>(Users that are mentioned in a comment, when the mention is made)</i>",
+      "translated_from_hash": "27e5cf0dfbb6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "A reply on my comment <i>(Users that posted a comment, when another user replies to the comment)</i>",
+      "source_hash": "94112e1f3b06",
+      "target": "A reply on my comment <i>(Users that posted a comment, when another user replies to the comment)</i>",
+      "translated_from_hash": "94112e1f3b06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Deletion of my comment <i>(Users that posted a comment, when their comment is deleted)</i>",
+      "source_hash": "cad1e61d99b9",
+      "target": "Deletion of my comment <i>(Users that posted a comment, when their comment is deleted)</i>",
+      "translated_from_hash": "cad1e61d99b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Proposals",
+      "source_hash": "834cfc1ee237",
+      "target": "Proposals",
+      "translated_from_hash": "834cfc1ee237",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Users receive automatic emails in the following cases:",
+      "source_hash": "925f97506920",
+      "target": "Users receive automatic emails in the following cases:",
+      "translated_from_hash": "925f97506920",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Mention in an update <i>(Users that are mentioned in a comment, when the mention is made)</i>",
+      "source_hash": "27e5cf0dfbb6",
+      "target": "Mention in an update <i>(Users that are mentioned in a comment, when the mention is made)</i>",
+      "translated_from_hash": "27e5cf0dfbb6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "A reply on my comment <i>(Users that posted a comment, when another user replies to the comment)</i>",
+      "source_hash": "94112e1f3b06",
+      "target": "A reply on my comment <i>(Users that posted a comment, when another user replies to the comment)</i>",
+      "translated_from_hash": "94112e1f3b06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Deletion of my comment <i>(Users that posted a comment, when their comment is deleted)</i>",
+      "source_hash": "cad1e61d99b9",
+      "target": "Deletion of my comment <i>(Users that posted a comment, when their comment is deleted)</i>",
+      "translated_from_hash": "cad1e61d99b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Weekly overview of your proposals <i>(Users who uploaded proposals, weekly)</i>",
+      "source_hash": "3b3c71fffbfa",
+      "target": "Weekly overview of your proposals <i>(Users who uploaded proposals, weekly)</i>",
+      "translated_from_hash": "3b3c71fffbfa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Status change of a proposal that you follow <i>(Users who follow the proposal, when the status of the proposal changes)</i>",
+      "source_hash": "9cc50b69b19e",
+      "target": "Status change of a proposal that you follow <i>(Users who follow the proposal, when the status of the proposal changes)</i>",
+      "translated_from_hash": "9cc50b69b19e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Update on a proposal that you follow <i>(Users who follow the proposal, when the proposal receives official feedback)</i>",
+      "source_hash": "0cc32dbcdcd2",
+      "target": "Update on a proposal that you follow <i>(Users who follow the proposal, when the proposal receives official feedback)</i>",
+      "translated_from_hash": "0cc32dbcdcd2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Invitation to co-sponsor a proposal <i>(Users who are invited to co-sponsor a proposal, at the time of invitation)</i>",
+      "source_hash": "8ed5cec61791",
+      "target": "Invitation to co-sponsor a proposal <i>(Users who are invited to co-sponsor a proposal, at the time of invitation)</i>",
+      "translated_from_hash": "8ed5cec61791",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Publication of my proposal <i>(Users who posted the proposal, when the input is proposal)</i>",
+      "source_hash": "c54b26a3994b",
+      "target": "Publication of my proposal <i>(Users who posted the proposal, when the input is proposal)</i>",
+      "translated_from_hash": "c54b26a3994b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "A user accepts my invitation to co-sponsor my proposal <i>(Users who published a proposal, when their invitation to co-sponsor a proposal is accepted)</i>",
+      "source_hash": "c1ac1ae0f013",
+      "target": "A user accepts my invitation to co-sponsor my proposal <i>(Users who published a proposal, when their invitation to co-sponsor a proposal is accepted)</i>",
+      "translated_from_hash": "c1ac1ae0f013",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "A comment on a proposal that you follow <i>(Users who follow the proposal, when a user comments on the input)</i>",
+      "source_hash": "c97d9a1103ba",
+      "target": "A comment on a proposal that you follow <i>(Users who follow the proposal, when a user comments on the input)</i>",
+      "translated_from_hash": "c97d9a1103ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Voting and prioritization",
+      "source_hash": "527eb54f0e89",
+      "target": "Voting and prioritization",
+      "translated_from_hash": "527eb54f0e89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Users receive automatic emails in the following cases:",
+      "source_hash": "925f97506920",
+      "target": "Users receive automatic emails in the following cases:",
+      "translated_from_hash": "925f97506920",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Last chance to vote <i>(Users who engaged with the project but have not voted, 2 days before voting phase closes)</i>",
+      "source_hash": "7346c681095e",
+      "target": "Last chance to vote <i>(Users who engaged with the project but have not voted, 2 days before voting phase closes)</i>",
+      "translated_from_hash": "7346c681095e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Confirmation of voting <i>(Users who voted, when their votes are submitted)</i>",
+      "source_hash": "c38d5949b163",
+      "target": "Confirmation of voting <i>(Users who voted, when their votes are submitted)</i>",
+      "translated_from_hash": "c38d5949b163",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Votes not submitted <i>(Users who voted, 1 day after user last voted without submitting)</i>",
+      "source_hash": "68dc4ffb4377",
+      "target": "Votes not submitted <i>(Users who voted, 1 day after user last voted without submitting)</i>",
+      "translated_from_hash": "68dc4ffb4377",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Voting results <i>(Users who engaged with the project, when the voting phase ended)</i>",
+      "source_hash": "430a02e9d123",
+      "target": "Voting results <i>(Users who engaged with the project, when the voting phase ended)</i>",
+      "translated_from_hash": "430a02e9d123",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "New project phase with voting",
+      "source_hash": "3eeb63fa1714",
+      "target": "New project phase with voting",
+      "translated_from_hash": "3eeb63fa1714",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Other Features",
+      "source_hash": "ab80e6328e5c",
+      "target": "Other Features",
+      "translated_from_hash": "ab80e6328e5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Users receive automatic emails in the following cases:",
+      "source_hash": "925f97506920",
+      "target": "Users receive automatic emails in the following cases:",
+      "translated_from_hash": "925f97506920",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Event registration confirmation <i>(User after successfully registering to an event)</i>",
+      "source_hash": "f3c7e9cf01b4",
+      "target": "Event registration confirmation <i>(User after successfully registering to an event)</i>",
+      "translated_from_hash": "f3c7e9cf01b4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<b>Project published</b> — Sent to users who follow at least one of the tags or areas the project uses, when the project is published. Users who don’t follow any of the project’s tags or areas receive nothing. Folders, project type, and authentication settings do not affect this.",
+      "source_hash": "90a1d4470989",
+      "target": "<b>Project published</b> — Sent to users who follow at least one of the tags or areas the project uses, when the project is published. Users who don’t follow any of the project’s tags or areas receive nothing. Folders, project type, and authentication settings do not affect this.",
+      "translated_from_hash": "90a1d4470989",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "New project phase <i>(Users who follow the project or have participated, when the new phase is active)</i>",
+      "source_hash": "126680a8262c",
+      "target": "New project phase <i>(Users who follow the project or have participated, when the new phase is active)</i>",
+      "translated_from_hash": "126680a8262c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "After Registration <i>(User who registers)</i>",
+      "source_hash": "1d15490c75fd",
+      "target": "After Registration <i>(User who registers)</i>",
+      "translated_from_hash": "1d15490c75fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Weekly Overview <i>(All users, weekly)</i>",
+      "source_hash": "2ecd691c7387",
+      "target": "Weekly Overview <i>(All users, weekly)</i>",
+      "translated_from_hash": "2ecd691c7387",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Invitation Reminder <i>(User who was invited, 7 days after the invite was sent)</i>",
+      "source_hash": "5d880231e291",
+      "target": "Invitation Reminder <i>(User who was invited, 7 days after the invite was sent)</i>",
+      "translated_from_hash": "5d880231e291",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "What admins and project managers can receive",
+      "source_hash": "aed66da53f49",
+      "target": "What admins and project managers can receive",
+      "translated_from_hash": "aed66da53f49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Surveys",
+      "source_hash": "7c763b8fc78b",
+      "target": "Surveys",
+      "translated_from_hash": "7c763b8fc78b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "No specific automatic notification triggers for this method type",
+      "source_hash": "8fc4fc2dd83b",
+      "target": "No specific automatic notification triggers for this method type",
+      "translated_from_hash": "8fc4fc2dd83b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Ideas",
+      "source_hash": "1c403a939dd4",
+      "target": "Ideas",
+      "translated_from_hash": "1c403a939dd4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Mention in an internal comment <i>(Users who are mentioned, when mentioned in internal comment)</i>",
+      "source_hash": "5d635ce2b1db",
+      "target": "Mention in an internal comment <i>(Users who are mentioned, when mentioned in internal comment)</i>",
+      "translated_from_hash": "5d635ce2b1db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Internal comment on my internal comment <i>(Admins &amp; managers, when user replies to internal comment)</i>",
+      "source_hash": "036f053156e6",
+      "target": "Internal comment on my internal comment <i>(Admins &amp; managers, when user replies to internal comment)</i>",
+      "translated_from_hash": "036f053156e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Internal comment on input I commented internally on <i>(Admins &amp; managers managing the project, when internal comment is posted on user’s internal comment)</i>",
+      "source_hash": "3f2b63a3e60e",
+      "target": "Internal comment on input I commented internally on <i>(Admins &amp; managers managing the project, when internal comment is posted on user’s internal comment)</i>",
+      "translated_from_hash": "3f2b63a3e60e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Internal comment on input assigned to me <i>(Admins &amp; managers, when internal comment is posted on input assigned to user)</i>",
+      "source_hash": "a296eedf9eb4",
+      "target": "Internal comment on input assigned to me <i>(Admins &amp; managers, when internal comment is posted on input assigned to user)</i>",
+      "translated_from_hash": "a296eedf9eb4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "Assignment of an input to me <i>(Admins &amp; managers assigned to the input, when input is assigned)</i>",
+      "source_hash": "8fe5098e6a96",
+      "target": "Assignment of an input to me <i>(Admins &amp; managers assigned to the input, when input is assigned)</i>",
+      "translated_from_hash": "8fe5098e6a96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "New input in a project I moderate <i>(Admins &amp; managers, when input is published)</i>",
+      "source_hash": "6758813bfefb",
+      "target": "New input in a project I moderate <i>(Admins &amp; managers, when input is published)</i>",
+      "translated_from_hash": "6758813bfefb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "Input spam report <i>(Admins &amp; managers, when input is flagged as spam)</i>",
+      "source_hash": "92d60fb5856a",
+      "target": "Input spam report <i>(Admins &amp; managers, when input is flagged as spam)</i>",
+      "translated_from_hash": "92d60fb5856a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "New comment in a project I moderate <i>(Admins &amp; managers, when user comments)</i>",
+      "source_hash": "63aea8d2115a",
+      "target": "New comment in a project I moderate <i>(Admins &amp; managers, when user comments)</i>",
+      "translated_from_hash": "63aea8d2115a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Comment spam report <i>(Admins &amp; managers, when comment is flagged as spam)</i>",
+      "source_hash": "0949f312eacd",
+      "target": "Comment spam report <i>(Admins &amp; managers, when comment is flagged as spam)</i>",
+      "translated_from_hash": "0949f312eacd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "Internal comment on unassigned input in unmanaged project <i>(Admins, when internal comment is posted on unassigned input in unmanaged project)</i>",
+      "source_hash": "02c1f53eb945",
+      "target": "Internal comment on unassigned input in unmanaged project <i>(Admins, when internal comment is posted on unassigned input in unmanaged project)</i>",
+      "translated_from_hash": "02c1f53eb945",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "Weekly screening reminder (<i>Admins &amp; managers, Weekly on Mondays at 10 AM</i> <i>email digest notifying about inputs awaiting screening, with a direct link to the Input Manager - only sent if there is content)</i>",
+      "source_hash": "2947e1bad778",
+      "target": "Weekly screening reminder (<i>Admins &amp; managers, Weekly on Mondays at 10 AM</i> <i>email digest notifying about inputs awaiting screening, with a direct link to the Input Manager - only sent if there is content)</i>",
+      "translated_from_hash": "2947e1bad778",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "Proposals",
+      "source_hash": "834cfc1ee237",
+      "target": "Proposals",
+      "translated_from_hash": "834cfc1ee237",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "Proposals reached the voting threshold <i>(Admins, when proposal is upvoted above threshold)</i>",
+      "source_hash": "7f0939ece159",
+      "target": "Proposals reached the voting threshold <i>(Admins, when proposal is upvoted above threshold)</i>",
+      "translated_from_hash": "7f0939ece159",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "New proposal <i>(Admins, when new proposal is posted)</i>",
+      "source_hash": "68cacff278e4",
+      "target": "New proposal <i>(Admins, when new proposal is posted)</i>",
+      "translated_from_hash": "68cacff278e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "Proposal resubmitted for review <i>(Admin assigned to a proposal, when proposal is resubmitted for review)</i>",
+      "source_hash": "bc3e1e8c67dd",
+      "target": "Proposal resubmitted for review <i>(Admin assigned to a proposal, when proposal is resubmitted for review)</i>",
+      "translated_from_hash": "bc3e1e8c67dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "Proposal spam report <i>(Admins, when proposal gets reported as spam)</i>",
+      "source_hash": "8567345a7443",
+      "target": "Proposal spam report <i>(Admins, when proposal gets reported as spam)</i>",
+      "translated_from_hash": "8567345a7443",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "Assignment of a proposal to me <i>(Admin assigned to a proposal, when proposal is assigned)</i>",
+      "source_hash": "a4c2ddf1878c",
+      "target": "Assignment of a proposal to me <i>(Admin assigned to a proposal, when proposal is assigned)</i>",
+      "translated_from_hash": "a4c2ddf1878c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "Internal comment on unassigned proposal <i>(Admins, when internal comment is posted on unassigned proposal)</i>",
+      "source_hash": "8761241ee0b3",
+      "target": "Internal comment on unassigned proposal <i>(Admins, when internal comment is posted on unassigned proposal)</i>",
+      "translated_from_hash": "8761241ee0b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "Internal comment on proposal I commented internally on <i>(Admins &amp; managers, when internal comment is posted on proposal user commented internally on)</i>",
+      "source_hash": "e3cf48d64d46",
+      "target": "Internal comment on proposal I commented internally on <i>(Admins &amp; managers, when internal comment is posted on proposal user commented internally on)</i>",
+      "translated_from_hash": "e3cf48d64d46",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "Internal comment on proposal assigned to me <i>(Admins &amp; managers, when internal comment is posted on proposal assigned to user)</i>",
+      "source_hash": "1151625a28e7",
+      "target": "Internal comment on proposal assigned to me <i>(Admins &amp; managers, when internal comment is posted on proposal assigned to user)</i>",
+      "translated_from_hash": "1151625a28e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "Voting and prioritization",
+      "source_hash": "527eb54f0e89",
+      "target": "Voting and prioritization",
+      "translated_from_hash": "527eb54f0e89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0091": {
+      "field": "body",
+      "source": "No specific automatic notification triggers for this method type",
+      "source_hash": "8fc4fc2dd83b",
+      "target": "No specific automatic notification triggers for this method type",
+      "translated_from_hash": "8fc4fc2dd83b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0092": {
+      "field": "body",
+      "source": "Other Features",
+      "source_hash": "ab80e6328e5c",
+      "target": "Other Features",
+      "translated_from_hash": "ab80e6328e5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0093": {
+      "field": "body",
+      "source": "Weekly overview for project managers <i>(Managers, weekly, on Mondays at 10 AM)</i>",
+      "source_hash": "c317178b99c0",
+      "target": "Weekly overview for project managers <i>(Managers, weekly, on Mondays at 10 AM)</i>",
+      "translated_from_hash": "c317178b99c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0094": {
+      "field": "body",
+      "source": "Weekly overview for admins <i>(Admins, weekly, on Mondays at 10 AM)</i>",
+      "source_hash": "81800ef450b5",
+      "target": "Weekly overview for admins <i>(Admins, weekly, on Mondays at 10 AM)</i>",
+      "translated_from_hash": "81800ef450b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0095": {
+      "field": "body",
+      "source": "Weekly overview of assigned inputs <i>(Admins &amp; managers assigned to the input, weekly, on Tuesdays at 8 AM)</i>",
+      "source_hash": "004fb4a347ef",
+      "target": "Weekly overview of assigned inputs <i>(Admins &amp; managers assigned to the input, weekly, on Tuesdays at 8 AM)</i>",
+      "translated_from_hash": "004fb4a347ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0096": {
+      "field": "body",
+      "source": "Project moderation rights received <i>(Users who are receiving project moderator rights, when they receive the rights)</i>",
+      "source_hash": "97672a5df3f8",
+      "target": "Project moderation rights received <i>(Users who are receiving project moderator rights, when they receive the rights)</i>",
+      "translated_from_hash": "97672a5df3f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0097": {
+      "field": "body",
+      "source": "Folder manager rights received <i>(Users who are receiving folder moderator rights, when they receive the rights)</i>",
+      "source_hash": "7f87f2dc3077",
+      "target": "Folder manager rights received <i>(Users who are receiving folder moderator rights, when they receive the rights)</i>",
+      "translated_from_hash": "7f87f2dc3077",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0098": {
+      "field": "body",
+      "source": "Admin rights received <i>(Users who are receiving admin rights, when they receive the rights)</i>",
+      "source_hash": "0d58d6603cc8",
+      "target": "Admin rights received <i>(Users who are receiving admin rights, when they receive the rights)</i>",
+      "translated_from_hash": "0d58d6603cc8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0099": {
+      "field": "body",
+      "source": "Upcoming new project phase <i>(Admins &amp; managers managing the project, 7 days before the project changes phase)</i>",
+      "source_hash": "d39d4245e527",
+      "target": "Upcoming new project phase <i>(Admins &amp; managers managing the project, 7 days before the project changes phase)</i>",
+      "translated_from_hash": "d39d4245e527",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0100": {
+      "field": "body",
+      "source": "Inappropriate content flagged <i>(Admins &amp; managers, when content gets flagged as inappropriate)</i>",
+      "source_hash": "fedd6f15c205",
+      "target": "Inappropriate content flagged <i>(Admins &amp; managers, when content gets flagged as inappropriate)</i>",
+      "translated_from_hash": "fedd6f15c205",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0101": {
+      "field": "body",
+      "source": "Image handling in emails",
+      "source_hash": "83c4ea4d4279",
+      "target": "Image handling in emails",
+      "translated_from_hash": "83c4ea4d4279",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0102": {
+      "field": "body",
+      "source": "Images in campaigns can be resized by selecting the image (dotted outline appears) and dragging the corner handles.",
+      "source_hash": "e6caa79eff86",
+      "target": "Images in campaigns can be resized by selecting the image (dotted outline appears) and dragging the corner handles.",
+      "translated_from_hash": "e6caa79eff86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0103": {
+      "field": "body",
+      "source": "Automatic emails inherit the platform logo automatically.",
+      "source_hash": "49c1a0e18b4c",
+      "target": "Automatic emails inherit the platform logo automatically.",
+      "translated_from_hash": "49c1a0e18b4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0104": {
+      "field": "body",
+      "source": "How to manage automatic emails?",
+      "source_hash": "e35456a93b95",
+      "target": "How to manage automatic emails?",
+      "translated_from_hash": "e35456a93b95",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0105": {
+      "field": "body",
+      "source": "Platform-level automatic emails",
+      "source_hash": "1ce06724b09e",
+      "target": "Platform-level automatic emails",
+      "translated_from_hash": "1ce06724b09e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0106": {
+      "field": "body",
+      "source": "To manage your platform’s automatic emails:",
+      "source_hash": "399054318bd1",
+      "target": "To manage your platform’s automatic emails:",
+      "translated_from_hash": "399054318bd1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0107": {
+      "field": "body",
+      "source": "Go to the <b>Messaging</b> section in your admin panel.",
+      "source_hash": "cf110b42684b",
+      "target": "Go to the <b>Messaging</b> section in your admin panel.",
+      "translated_from_hash": "cf110b42684b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0108": {
+      "field": "body",
+      "source": "Open the <b>Automated emails</b> tab.",
+      "source_hash": "fd26fd6f39f8",
+      "target": "Open the <b>Automated emails</b> tab.",
+      "translated_from_hash": "fd26fd6f39f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0109": {
+      "field": "body",
+      "source": "You’ll see a list of all available automatic email types. Each entry includes:",
+      "source_hash": "2cf44fc3833c",
+      "target": "You’ll see a list of all available automatic email types. Each entry includes:",
+      "translated_from_hash": "2cf44fc3833c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0110": {
+      "field": "body",
+      "source": "When the email is sent",
+      "source_hash": "48bba595ba9d",
+      "target": "When the email is sent",
+      "translated_from_hash": "48bba595ba9d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0111": {
+      "field": "body",
+      "source": "Who will receive it",
+      "source_hash": "478e5b6e2ac4",
+      "target": "Who will receive it",
+      "translated_from_hash": "478e5b6e2ac4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0112": {
+      "field": "body",
+      "source": "To disable or enable a notification, use the toggle switch:",
+      "source_hash": "fd62d2f5c0ea",
+      "target": "To disable or enable a notification, use the toggle switch:",
+      "translated_from_hash": "fd62d2f5c0ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0113": {
+      "field": "body",
+      "source": "<b>Off</b>: The email will no longer be sent to anyone.",
+      "source_hash": "afd68dca38df",
+      "target": "<b>Off</b>: The email will no longer be sent to anyone.",
+      "translated_from_hash": "afd68dca38df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0114": {
+      "field": "body",
+      "source": "<b>On</b>: The email will be sent, <i>unless a user has opted out in their personal settings</i>.",
+      "source_hash": "7919e742a3a1",
+      "target": "<b>On</b>: The email will be sent, <i>unless a user has opted out in their personal settings</i>.",
+      "translated_from_hash": "7919e742a3a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0115": {
+      "field": "body",
+      "source": "ℹ️ Note: Some email notifications cannot be turned off. These are considered essential for the platform's core functionality, for example: official updates on user inputs.",
+      "source_hash": "a956eaa65576",
+      "target": "ℹ️ Note: Some email notifications cannot be turned off. These are considered essential for the platform's core functionality, for example: official updates on user inputs.",
+      "translated_from_hash": "a956eaa65576",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0116": {
+      "field": "body",
+      "source": "Phase-level automatic emails",
+      "source_hash": "17be74100aaa",
+      "target": "Phase-level automatic emails",
+      "translated_from_hash": "17be74100aaa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0117": {
+      "field": "body",
+      "source": "Go to Your Project &gt; <b>Timeline</b> &gt; Your phase",
+      "source_hash": "3abf6d698e83",
+      "target": "Go to Your Project &gt; <b>Timeline</b> &gt; Your phase",
+      "translated_from_hash": "3abf6d698e83",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0118": {
+      "field": "body",
+      "source": "Open the <b>Notifications</b> tab",
+      "source_hash": "908dfa71b425",
+      "target": "Open the <b>Notifications</b> tab",
+      "translated_from_hash": "908dfa71b425",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0119": {
+      "field": "body",
+      "source": "You’ll see a list of all available automatic email types. Each entry includes:",
+      "source_hash": "2cf44fc3833c",
+      "target": "You’ll see a list of all available automatic email types. Each entry includes:",
+      "translated_from_hash": "2cf44fc3833c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0120": {
+      "field": "body",
+      "source": "When the email is sent",
+      "source_hash": "48bba595ba9d",
+      "target": "When the email is sent",
+      "translated_from_hash": "48bba595ba9d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0121": {
+      "field": "body",
+      "source": "Who will receive it",
+      "source_hash": "478e5b6e2ac4",
+      "target": "Who will receive it",
+      "translated_from_hash": "478e5b6e2ac4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0122": {
+      "field": "body",
+      "source": "ℹ️ Note: Platform-level automatic emails will also be active on a phase-level, unless specifically overwritten. Phase-level emails can:",
+      "source_hash": "10b98e3bc9da",
+      "target": "ℹ️ Note: Platform-level automatic emails will also be active on a phase-level, unless specifically overwritten. Phase-level emails can:",
+      "translated_from_hash": "10b98e3bc9da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0123": {
+      "field": "body",
+      "source": "Be disabled, if enabled on a platform level",
+      "source_hash": "f69252b8394d",
+      "target": "Be disabled, if enabled on a platform level",
+      "translated_from_hash": "f69252b8394d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0124": {
+      "field": "body",
+      "source": "Not be enabled, if disabled on a platform level",
+      "source_hash": "3e437776d0a3",
+      "target": "Not be enabled, if disabled on a platform level",
+      "translated_from_hash": "3e437776d0a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0125": {
+      "field": "body",
+      "source": "Be further customized and will overwrite platform-level customization",
+      "source_hash": "5048a485f0fb",
+      "target": "Be further customized and will overwrite platform-level customization",
+      "translated_from_hash": "5048a485f0fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0126": {
+      "field": "body",
+      "source": "User-level preferences",
+      "source_hash": "f4fe2508fc97",
+      "target": "User-level preferences",
+      "translated_from_hash": "f4fe2508fc97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0127": {
+      "field": "body",
+      "source": "Each user can manage their own notification preferences, regardless of platform settings. For more details, see article 'How to manage your user account'.",
+      "source_hash": "3b65e91c4ebf",
+      "target": "Each user can manage their own notification preferences, regardless of platform settings. For more details, see article 'How to manage your user account'.",
+      "translated_from_hash": "3b65e91c4ebf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0128": {
+      "field": "body",
+      "source": "How to customize automatic emails?",
+      "source_hash": "cf01635be575",
+      "target": "How to customize automatic emails?",
+      "translated_from_hash": "cf01635be575",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0129": {
+      "field": "body",
+      "source": "How to customize automatic emails on a platform level?",
+      "source_hash": "cad529440014",
+      "target": "How to customize automatic emails on a platform level?",
+      "translated_from_hash": "cad529440014",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0130": {
+      "field": "body",
+      "source": "Navigate to the <b>Messaging</b> tab in the backoffice",
+      "source_hash": "75685bf1bda2",
+      "target": "Navigate to the <b>Messaging</b> tab in the backoffice",
+      "translated_from_hash": "75685bf1bda2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0131": {
+      "field": "body",
+      "source": "Click <b>Automated emails</b> at the top",
+      "source_hash": "03d24e0bd426",
+      "target": "Click <b>Automated emails</b> at the top",
+      "translated_from_hash": "03d24e0bd426",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0132": {
+      "field": "body",
+      "source": "Choose the notification you want to customize and press <b>Edit</b> on the right",
+      "source_hash": "1c1ec2b33424",
+      "target": "Choose the notification you want to customize and press <b>Edit</b> on the right",
+      "translated_from_hash": "1c1ec2b33424",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0133": {
+      "field": "body",
+      "source": "How to customize automatic emails on a phase level?",
+      "source_hash": "5627b8241f1a",
+      "target": "How to customize automatic emails on a phase level?",
+      "translated_from_hash": "5627b8241f1a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0134": {
+      "field": "body",
+      "source": "Navigate to your <b>Project</b>",
+      "source_hash": "ce09f109a941",
+      "target": "Navigate to your <b>Project</b>",
+      "translated_from_hash": "ce09f109a941",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0135": {
+      "field": "body",
+      "source": "Go to <b>Timeline</b> and select the <b>Phase</b> where you want to edit your email",
+      "source_hash": "9397903f8604",
+      "target": "Go to <b>Timeline</b> and select the <b>Phase</b> where you want to edit your email",
+      "translated_from_hash": "9397903f8604",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0136": {
+      "field": "body",
+      "source": "Go to the <b>Notifications</b> tab",
+      "source_hash": "f5e63b5844df",
+      "target": "Go to the <b>Notifications</b> tab",
+      "translated_from_hash": "f5e63b5844df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0137": {
+      "field": "body",
+      "source": "Choose the notification you want to customize and press <b>Edit</b> on the right",
+      "source_hash": "1c1ec2b33424",
+      "target": "Choose the notification you want to customize and press <b>Edit</b> on the right",
+      "translated_from_hash": "1c1ec2b33424",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "article_id": "527547",
+  "language": "da",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Creating and Managing Folders",
+      "source_hash": "1207c62b9586",
+      "target": "Creating and Managing Folders",
+      "translated_from_hash": "1207c62b9586",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What is a folder?",
+      "source_hash": "0149d7ed6843",
+      "target": "What is a folder?",
+      "translated_from_hash": "0149d7ed6843",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "A folder is used to group together multiple projects that share a common theme or characteristic (for example, infrastructure work, a specific area, …).",
+      "source_hash": "9105599cfa3b",
+      "target": "A folder is used to group together multiple projects that share a common theme or characteristic (for example, infrastructure work, a specific area, …).",
+      "translated_from_hash": "9105599cfa3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Folders don’t have any additional functionality beyond organization, they simply help you structure your projects and improve visibility on the homepage.",
+      "source_hash": "34d9c42f789e",
+      "target": "Folders don’t have any additional functionality beyond organization, they simply help you structure your projects and improve visibility on the homepage.",
+      "translated_from_hash": "34d9c42f789e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "The folder and project overviews are located in the same section of the platform. This is explained in more depth in the following article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Different views for Project Management</a></i>",
+      "source_hash": "a18c67cbf415",
+      "target": "The folder and project overviews are located in the same section of the platform. This is explained in more depth in the following article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Different views for Project Management</a></i>",
+      "translated_from_hash": "a18c67cbf415",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Folder management",
+      "source_hash": "4f93a16c5ce1",
+      "target": "Folder management",
+      "translated_from_hash": "4f93a16c5ce1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "You can invite people to help manage your folders (and the projects within them).",
+      "source_hash": "fa24a325fd41",
+      "target": "You can invite people to help manage your folders (and the projects within them).",
+      "translated_from_hash": "fa24a325fd41",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>What folder managers can do:</b>",
+      "source_hash": "b07619713600",
+      "target": "<b>What folder managers can do:</b>",
+      "translated_from_hash": "b07619713600",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Edit the folder description",
+      "source_hash": "fb5d3318974c",
+      "target": "Edit the folder description",
+      "translated_from_hash": "fb5d3318974c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Create new projects within the folder",
+      "source_hash": "54f4ee0f4c2d",
+      "target": "Create new projects within the folder",
+      "translated_from_hash": "54f4ee0f4c2d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Manage all projects within the folder",
+      "source_hash": "7c3efc41a39b",
+      "target": "Manage all projects within the folder",
+      "translated_from_hash": "7c3efc41a39b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>What folder managers <i>can’t</i> do:</b>",
+      "source_hash": "12e871ac2e08",
+      "target": "<b>What folder managers <i>can’t</i> do:</b>",
+      "translated_from_hash": "12e871ac2e08",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Delete projects",
+      "source_hash": "b3ec0fccb38f",
+      "target": "Delete projects",
+      "translated_from_hash": "b3ec0fccb38f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Access projects that are not in their folder",
+      "source_hash": "b887aaafac2c",
+      "target": "Access projects that are not in their folder",
+      "translated_from_hash": "b887aaafac2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Notes on current folder functionality",
+      "source_hash": "46e4dde1ddcb",
+      "target": "Notes on current folder functionality",
+      "translated_from_hash": "46e4dde1ddcb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "You can’t have folders within folders.",
+      "source_hash": "237733cdc27d",
+      "target": "You can’t have folders within folders.",
+      "translated_from_hash": "237733cdc27d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Folders don’t have timelines.",
+      "source_hash": "87265277fde2",
+      "target": "Folders don’t have timelines.",
+      "translated_from_hash": "87265277fde2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Folder cards are not shown the same as other project cards on the homepage (no time indication or number of comments/participants).",
+      "source_hash": "8517b816c9a4",
+      "target": "Folder cards are not shown the same as other project cards on the homepage (no time indication or number of comments/participants).",
+      "translated_from_hash": "8517b816c9a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Folders cannot be custom-styled for a department or project.",
+      "source_hash": "6782323e0fc0",
+      "target": "Folders cannot be custom-styled for a department or project.",
+      "translated_from_hash": "6782323e0fc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "You cannot create smart groups of people who participated in a folder, you need to select all projects in the folder manually.",
+      "source_hash": "704d886714e1",
+      "target": "You cannot create smart groups of people who participated in a folder, you need to select all projects in the folder manually.",
+      "translated_from_hash": "704d886714e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "By default project cards appear on the right side of a folder page. This position can be edited by using the content builder.",
+      "source_hash": "3ade03fe2b78",
+      "target": "By default project cards appear on the right side of a folder page. This position can be edited by using the content builder.",
+      "translated_from_hash": "3ade03fe2b78",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Why folders matter",
+      "source_hash": "c5c95c8b2c8d",
+      "target": "Why folders matter",
+      "translated_from_hash": "c5c95c8b2c8d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "With many projects going on, organising them into folders can help provide clarity by giving a clear structure of the different things going on, and where they fall into place.",
+      "source_hash": "c25865d710fd",
+      "target": "With many projects going on, organising them into folders can help provide clarity by giving a clear structure of the different things going on, and where they fall into place.",
+      "translated_from_hash": "c25865d710fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "What are the different folder settings?",
+      "source_hash": "c2104562a34b",
+      "target": "What are the different folder settings?",
+      "translated_from_hash": "c2104562a34b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>What it controls:</b>",
+      "source_hash": "ed8fca4e0532",
+      "target": "<b>What it controls:</b>",
+      "translated_from_hash": "ed8fca4e0532",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Folder managers can edit folder pages, update descriptions, update the banner image, and oversee all projects in the folder.",
+      "source_hash": "4e79ccf9e523",
+      "target": "Folder managers can edit folder pages, update descriptions, update the banner image, and oversee all projects in the folder.",
+      "translated_from_hash": "4e79ccf9e523",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "A folder manager can act like a platform admin within the context of the folder.",
+      "source_hash": "83f55bd7e5ba",
+      "target": "A folder manager can act like a platform admin within the context of the folder.",
+      "translated_from_hash": "83f55bd7e5ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Visibility behavior:</b>",
+      "source_hash": "d1e5ef8be4d5",
+      "target": "<b>Visibility behavior:</b>",
+      "translated_from_hash": "d1e5ef8be4d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "A published folder is visible to everyone.",
+      "source_hash": "11a30cf5e3b9",
+      "target": "A published folder is visible to everyone.",
+      "translated_from_hash": "11a30cf5e3b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "If all projects in a folder are in draft, the folder stays hidden until at least one project is published.",
+      "source_hash": "1a6b5dcb0708",
+      "target": "If all projects in a folder are in draft, the folder stays hidden until at least one project is published.",
+      "translated_from_hash": "1a6b5dcb0708",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "If published projects are added to a draft folder, the folder won’t appear on the homepage, but the projects remain accessible via direct links or search.",
+      "source_hash": "14e8dbf6bc02",
+      "target": "If published projects are added to a draft folder, the folder won’t appear on the homepage, but the projects remain accessible via direct links or search.",
+      "translated_from_hash": "14e8dbf6bc02",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "If a project is set to unlisted it will not appear in the folder, neither as project cards within the folder",
+      "source_hash": "5821ac7ec12c",
+      "target": "If a project is set to unlisted it will not appear in the folder, neither as project cards within the folder",
+      "translated_from_hash": "5821ac7ec12c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "A draft project will not appear in the folder - it will only appear once it's published and listed",
+      "source_hash": "303dd2081d4f",
+      "target": "A draft project will not appear in the folder - it will only appear once it's published and listed",
+      "translated_from_hash": "303dd2081d4f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "What are folder use-cases?",
+      "source_hash": "648a30d85709",
+      "target": "What are folder use-cases?",
+      "translated_from_hash": "648a30d85709",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Folders are flexible containers for organizing projects in ways that best fit your platform. Below are common use cases:",
+      "source_hash": "f308e09cda70",
+      "target": "Folders are flexible containers for organizing projects in ways that best fit your platform. Below are common use cases:",
+      "translated_from_hash": "f308e09cda70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "1. Multiple participation methods in parallel",
+      "source_hash": "7eeaccae03d6",
+      "target": "1. Multiple participation methods in parallel",
+      "translated_from_hash": "7eeaccae03d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Projects are sequential by nature, each phase follows another.",
+      "source_hash": "6fed43f6e43a",
+      "target": "Projects are sequential by nature, each phase follows another.",
+      "translated_from_hash": "6fed43f6e43a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "If you want more than one participation method happening at the same time, you’ll need to create two separate projects.",
+      "source_hash": "73cffa8899aa",
+      "target": "If you want more than one participation method happening at the same time, you’ll need to create two separate projects.",
+      "translated_from_hash": "73cffa8899aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "A folder keeps those projects grouped together, so users and admins still see them as part of the same initiative.",
+      "source_hash": "c923b0511cc0",
+      "target": "A folder keeps those projects grouped together, so users and admins still see them as part of the same initiative.",
+      "translated_from_hash": "c923b0511cc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "2. Organizing projects by policy, area, theme, or district",
+      "source_hash": "e8eda3232ad9",
+      "target": "2. Organizing projects by policy, area, theme, or district",
+      "translated_from_hash": "e8eda3232ad9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Use folders to group projects under broader umbrellas like Health &amp; Safety, Education, Environment &amp; Sustainability, or Transport.",
+      "source_hash": "2601f62dfa3d",
+      "target": "Use folders to group projects under broader umbrellas like Health &amp; Safety, Education, Environment &amp; Sustainability, or Transport.",
+      "translated_from_hash": "2601f62dfa3d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Alternatively, create folders by districts or neighbourhoods.",
+      "source_hash": "c6d20aabf231",
+      "target": "Alternatively, create folders by districts or neighbourhoods.",
+      "translated_from_hash": "c6d20aabf231",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "This structure makes it easier for admins and users to navigate, understand what’s happening, and learn more about related initiatives.",
+      "source_hash": "e135a7afec3d",
+      "target": "This structure makes it easier for admins and users to navigate, understand what’s happening, and learn more about related initiatives.",
+      "translated_from_hash": "e135a7afec3d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "3. Alternative creative uses",
+      "source_hash": "e59b53577215",
+      "target": "3. Alternative creative uses",
+      "translated_from_hash": "e59b53577215",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Projects aren’t limited to idea collection, they can also be:",
+      "source_hash": "b485864c0c30",
+      "target": "Projects aren’t limited to idea collection, they can also be:",
+      "translated_from_hash": "b485864c0c30",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Spaces for feedback on public services",
+      "source_hash": "a8ef8869077e",
+      "target": "Spaces for feedback on public services",
+      "translated_from_hash": "a8ef8869077e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Places for community-centered research",
+      "source_hash": "2ce4722ce0a6",
+      "target": "Places for community-centered research",
+      "translated_from_hash": "2ce4722ce0a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Templates for exploring local issues",
+      "source_hash": "ec9b8fca75a2",
+      "target": "Templates for exploring local issues",
+      "translated_from_hash": "ec9b8fca75a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<i>Think of folders and projects as blank canvases</i> for experimentation and custom setups.",
+      "source_hash": "11c96f874dea",
+      "target": "<i>Think of folders and projects as blank canvases</i> for experimentation and custom setups.",
+      "translated_from_hash": "11c96f874dea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "How to create a folder?",
+      "source_hash": "f6bfcc353ef1",
+      "target": "How to create a folder?",
+      "translated_from_hash": "f6bfcc353ef1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Click on the <b>Projects</b> tab in the back office of your platform",
+      "source_hash": "c5b208709121",
+      "target": "Click on the <b>Projects</b> tab in the back office of your platform",
+      "translated_from_hash": "c5b208709121",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Click on <b>New Folder</b> in the top right",
+      "source_hash": "34ead76fc2ed",
+      "target": "Click on <b>New Folder</b> in the top right",
+      "translated_from_hash": "34ead76fc2ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Fill in a title, short and long description for your project in all available languages for your platform",
+      "source_hash": "9f43b13f4400",
+      "target": "Fill in a title, short and long description for your project in all available languages for your platform",
+      "translated_from_hash": "9f43b13f4400",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Assign desired projects to the folder",
+      "source_hash": "240d505884c1",
+      "target": "Assign desired projects to the folder",
+      "translated_from_hash": "240d505884c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Optional: assign a folder manager to the folder (via the permissions tab of the folder settings)",
+      "source_hash": "881be8a9c7be",
+      "target": "Optional: assign a folder manager to the folder (via the permissions tab of the folder settings)",
+      "translated_from_hash": "881be8a9c7be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "How to edit a folder?",
+      "source_hash": "ace3beb43ac7",
+      "target": "How to edit a folder?",
+      "translated_from_hash": "ace3beb43ac7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "If you want to edit a folder, navigate to the folders tab in the top left corner of the projects list. Press on the folder title. This will bring you to the folder projects tab, then navigate to the tab next to it called <b>Settings</b>.<br/>​<br/>The Content Builder is also enabled for folders. To use it, go to <b>Settings, </b>under Folder Description, enable <code>Use Content Builder for description</code>. From an in-depth overview of using the Content Builder, visit: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527598-customizing-project-descriptions-with-the-content-builder\" target=\"_blank\">Customizing project descriptions with the Content Builder</a></i>",
+      "source_hash": "402b71c12f07",
+      "target": "If you want to edit a folder, navigate to the folders tab in the top left corner of the projects list. Press on the folder title. This will bring you to the folder projects tab, then navigate to the tab next to it called <b>Settings</b>.<br/>​<br/>The Content Builder is also enabled for folders. To use it, go to <b>Settings, </b>under Folder Description, enable <code>Use Content Builder for description</code>. From an in-depth overview of using the Content Builder, visit: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527598-customizing-project-descriptions-with-the-content-builder\" target=\"_blank\">Customizing project descriptions with the Content Builder</a></i>",
+      "translated_from_hash": "402b71c12f07",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "How to reorder projects inside a folder?",
+      "source_hash": "e93d3a952bbf",
+      "target": "How to reorder projects inside a folder?",
+      "translated_from_hash": "e93d3a952bbf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "You can arrange the order of the projects within folders. Go to the tab <b>folders</b> in the top left corner of the projects list and press on the folder title - this will bring you inside the folder settings. Click the double arrows at the far left of the projects. When you click and hold these arrows you can drag them to the desired place. They will then appear in the folder in that order.",
+      "source_hash": "e0dcd965d027",
+      "target": "You can arrange the order of the projects within folders. Go to the tab <b>folders</b> in the top left corner of the projects list and press on the folder title - this will bring you inside the folder settings. Click the double arrows at the far left of the projects. When you click and hold these arrows you can drag them to the desired place. They will then appear in the folder in that order.",
+      "translated_from_hash": "e0dcd965d027",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "How to move a project from one folder to another?",
+      "source_hash": "7188ab0be3fb",
+      "target": "How to move a project from one folder to another?",
+      "translated_from_hash": "7188ab0be3fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Always first make sure that the project you want to move is not in an existing folder.<br/>To remove a project from a folder:",
+      "source_hash": "b325a428c775",
+      "target": "Always first make sure that the project you want to move is not in an existing folder.<br/>To remove a project from a folder:",
+      "translated_from_hash": "b325a428c775",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Click into the folder",
+      "source_hash": "4b2054dc886d",
+      "target": "Click into the folder",
+      "translated_from_hash": "4b2054dc886d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Under <b>Projects added to this folder</b> select <b>Remove from folder</b>",
+      "source_hash": "ff1a66dcc387",
+      "target": "Under <b>Projects added to this folder</b> select <b>Remove from folder</b>",
+      "translated_from_hash": "ff1a66dcc387",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "This project can now be added to any folder.",
+      "source_hash": "766214461cc3",
+      "target": "This project can now be added to any folder.",
+      "translated_from_hash": "766214461cc3",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

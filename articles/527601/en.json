@@ -1,0 +1,383 @@
+{
+  "article_id": "527601",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_4101f9f840\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_a5b3184a3e\">@@body:0009@@</h1><p class=\"no-margin\">@@body:0010@@</p><ul><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li></ul><p class=\"no-margin\">@@body:0015@@</p><ul><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p></li></ul><p class=\"no-margin\">@@body:0020@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_fa152d157a\">@@body:0021@@</h2><ul><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li></ul><p class=\"no-margin\">@@body:0025@@</p><p class=\"no-margin\">@@body:0026@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0027@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_3bda7ac20e\">@@body:0028@@</h1><ol><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p><ul><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li></ul></li></ol><h2 id=\"h_0252ed07a1\">@@body:0035@@</h2><p class=\"no-margin\">@@body:0036@@</p><ul><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li><li><p class=\"no-margin\">@@body:0039@@</p></li><li><p class=\"no-margin\">@@body:0040@@</p></li></ul><h2 id=\"h_c12da6ca3d\">@@body:0041@@</h2><ul><li><p class=\"no-margin\">@@body:0042@@</p></li><li><p class=\"no-margin\">@@body:0043@@</p></li></ul><p class=\"no-margin\">@@body:0044@@</p><ol><li><p class=\"no-margin\">@@body:0045@@</p><ol><li><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p></li></ol></li><li><p class=\"no-margin\">@@body:0048@@</p></li></ol><p class=\"no-margin\"></p>\n<h1 id=\"h_ff109983a4\">@@body:0049@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373051/eb40869bfaed4e8319ac651a6e00/upload_1034091672345147884.png?expires=1781805600&amp;signature=edae5abe87439e84b3e888d10dc1e16c7cedc16639270bee70c5238c9251d606&amp;req=2dVswlv6qTZk2hj99dpg6l3iylRe07cBkM%2B44VoWXJrDFK3AuYsDvGUzdO9v%0AVYm3qtwgdXLVsrrKkuqnwajM%0A\"/></div><ol><li><p class=\"no-margin\">@@body:0050@@</p></li><li><p class=\"no-margin\">@@body:0051@@</p></li><li><p class=\"no-margin\">@@body:0052@@</p><ul><li><p class=\"no-margin\">@@body:0053@@</p></li><li><p class=\"no-margin\">@@body:0054@@</p></li><li><p class=\"no-margin\">@@body:0055@@</p></li><li><p class=\"no-margin\">@@body:0056@@</p></li></ul></li></ol><h2 id=\"h_a1fdd409a2\">@@body:0057@@</h2><ul><li><p class=\"no-margin\">@@body:0058@@</p></li><li><p class=\"no-margin\">@@body:0059@@</p></li><li><p class=\"no-margin\">@@body:0060@@</p></li><li><p class=\"no-margin\">@@body:0061@@</p></li><li><p class=\"no-margin\">@@body:0062@@</p></li><li><p class=\"no-margin\">@@body:0063@@</p></li></ul><h1 id=\"h_7c14edc0df\">@@body:0064@@</h1><ol><li><p class=\"no-margin\">@@body:0065@@</p></li><li><p class=\"no-margin\">@@body:0066@@</p></li><li><p class=\"no-margin\">@@body:0067@@</p><ul><li><p class=\"no-margin\">@@body:0068@@</p></li><li><p class=\"no-margin\">@@body:0069@@</p></li><li><p class=\"no-margin\">@@body:0070@@</p></li><li><p class=\"no-margin\">@@body:0071@@</p></li><li><p class=\"no-margin\">@@body:0072@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0073@@</p></li></ol>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Navigation Bar and Custom Pages",
+      "hash": "49dd0dfc50dd"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the navigation bar?",
+      "hash": "12f1900f63b2"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The navigation bar is the menu displayed at the top of every page on your platform. It helps users quickly access key sections like the homepage, project pages, About page, and any custom pages you've added.",
+      "hash": "a60f2e80b341"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "A well-structured navigation bar:",
+      "hash": "e12dd910a2d8"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Makes the platform easier to navigate",
+      "hash": "95126b077387"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Highlights what matters most to your community",
+      "hash": "0faa8c58de6d"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Reflects your organization's structure or priorities",
+      "hash": "f31c7f1fb590"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "You can customize the navigation bar by changing the order of items, renaming pages, and linking projects to it.",
+      "hash": "d4574b42ee0e"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<br/>ℹ️ External links cannot be added.",
+      "hash": "b6674abba41a"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "What is a custom page?",
+      "hash": "d6824a6ba08f"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "A custom page is a standalone, flexible page for sharing information with your community. It's useful for:",
+      "hash": "963a1ef48fd6"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Department overviews (e.g., <i>Public Works</i>, <i>Youth Services</i>)",
+      "hash": "d5f71448a4c5"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Project hubs (e.g., <i>City Center Revitalization</i>)",
+      "hash": "e6bae3e52dbb"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Consultation spaces (e.g., <i>Budget planning input</i>)",
+      "hash": "d3b735090879"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Resource centers (e.g., <i>Public service FAQs</i>, <i>Local events</i>)",
+      "hash": "a7e1e73a20bc"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Custom pages can include:",
+      "hash": "8712aee6feae"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "A banner image",
+      "hash": "4f54a9fc56fd"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Rich content (text, images, videos, buttons, links)",
+      "hash": "b7965dee1a83"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Linked projects (filtered by tag or area)",
+      "hash": "cdae937dcda1"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Attachments such as documents or reports",
+      "hash": "3c21fc3b7cc0"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "You can also add custom pages to the navigation bar for easy access.",
+      "hash": "789286c217f5"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Differences between a custom page and a folder/project",
+      "hash": "58dc4a5635a0"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Projects</b> hold only their own project content.",
+      "hash": "3b987538db6a"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Folders</b> can contain multiple projects and give you more flexibility in how you organize related content.",
+      "hash": "247d8252b1ff"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "<b>Custom pages</b> standalone pages that purpose serving custom content, not organize or group items.",
+      "hash": "3005d3c06a62"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>Which one should I use?</b>",
+      "hash": "5b70ddf6af05"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "<br/>If you want a dedicated item in your navigation bar <i>and</i> need to group several projects together under it, we recommend using a <b>folder</b>. Folders can be easily customized and linked directly in the navigation bar.",
+      "hash": "b64281cb31ad"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "ℹ️ To learn how to add a folder to your navigation bar, see the section <b>\"How to add pages, projects or folders to the navigation bar.\"</b> For a detailed guide on organizing content with folders, check out our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Creating and Managing Folders</a><b>.</b>",
+      "hash": "5ee47423441e"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "How to create and edit a custom page?",
+      "hash": "99865a3f47d1"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "hash": "1bbcdffc8480"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Click <b>Create Custom Page</b>.",
+      "hash": "d64790e4a727"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Fill in:",
+      "hash": "60f00538e20e"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "<b>Page title</b> – the main heading on the page",
+      "hash": "b0efc97720ec"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "<b>Navigation title</b> – the name shown in the navigation bar",
+      "hash": "a5a29a4fc4c0"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "<b>Page URL</b> – e.g. <code>yourcity.com/urban-plan</code>",
+      "hash": "9eb8da6a95fc"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Customize page content",
+      "hash": "e987aee80f8c"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "After creating the page, you can edit the following sections:",
+      "hash": "b573dc8b2d88"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "<b>Hero banner:</b> Add an image or header visual",
+      "hash": "827753ef9dbc"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>Top info section:</b> Add formatted text, images, videos, buttons, or links",
+      "hash": "64d6d9a6c968"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "<b>Bottom info section:</b> Add attachments or rich content",
+      "hash": "84be23ee3873"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Turn sections <b>on or off</b> as needed",
+      "hash": "66a7cecfd1ab"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "How to add projects/folders to a custom page",
+      "hash": "9cd2c152f7e6"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "You can link project/folder to a custom page based on <b>tags</b> or <b>areas.</b>",
+      "hash": "ea36a22064b0"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "Linked projects appear on the <b>right-hand side</b> of the page",
+      "hash": "df5c4f835df2"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Here are the steps to link project/folder to a custom page:",
+      "hash": "68f866bbd287"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "Make sure all projects/folder you wish to link have the correct tag or area:",
+      "hash": "eb7f1a863d36"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Tag: <b>General</b> project setting tab &gt; scroll down to <b>Tags</b> section",
+      "hash": "37bdaafc34c7"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "Area: <b>General</b> project setting tab &gt; scoll down to <b>Area filter</b> section &gt; select <b>Selection</b> &gt; add the area",
+      "hash": "99f9b5d60c65"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "In the custom page settings, in the <b>Linked projects</b> option <b>By tag</b> or <b>By Area</b> and select the tag/area you wish to use. You can select multiple tags/areas.",
+      "hash": "f05874bdc6dc"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "How to add pages, projects or folder to the navigation bar?",
+      "hash": "a8e7eb0b4554"
+    },
+    "body:0050": {
+      "field": "body",
+      "text": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "hash": "1bbcdffc8480"
+    },
+    "body:0051": {
+      "field": "body",
+      "text": "Add the top right click <b>Add project or folders to navbar</b> or <b>Create custom page </b>to create a new page",
+      "hash": "e96af43b9592"
+    },
+    "body:0052": {
+      "field": "body",
+      "text": "In the list view:",
+      "hash": "addc9bf04454"
+    },
+    "body:0053": {
+      "field": "body",
+      "text": "Click <b>Add to navbar</b> to show a page in the navigation bar",
+      "hash": "9da2f5ef5108"
+    },
+    "body:0054": {
+      "field": "body",
+      "text": "Click <b>Remove from navbar</b> to hide it",
+      "hash": "ec0567eb6a2b"
+    },
+    "body:0055": {
+      "field": "body",
+      "text": "Click <b>Add project or folder to navbar</b> to include a project or folder (with a custom name)",
+      "hash": "4e5bd5648f49"
+    },
+    "body:0056": {
+      "field": "body",
+      "text": "Drag and drop items to <b>reorder</b> them",
+      "hash": "aabf21d00569"
+    },
+    "body:0057": {
+      "field": "body",
+      "text": "Things to keep in mind",
+      "hash": "cb7767a30011"
+    },
+    "body:0058": {
+      "field": "body",
+      "text": "The navigation bar can show <b>up to 7 items</b>",
+      "hash": "05e5f132b01f"
+    },
+    "body:0059": {
+      "field": "body",
+      "text": "<b>Home</b> is the only fixed item and cannot be removed or reordered",
+      "hash": "cfe1fbde447a"
+    },
+    "body:0060": {
+      "field": "body",
+      "text": "<b>All projects</b> can be removed and reordered freely (note: this refers to the navigation bar item itself, not the projects in the dropdown-list)",
+      "hash": "ef67ef49d4ab"
+    },
+    "body:0061": {
+      "field": "body",
+      "text": "Other pages can be <b>renamed</b> freely",
+      "hash": "960abf4d39e2"
+    },
+    "body:0062": {
+      "field": "body",
+      "text": "Projects in the navigation bar are <b>user-specific</b>, based on access rights",
+      "hash": "9a917d1dca08"
+    },
+    "body:0063": {
+      "field": "body",
+      "text": "<b>External URLs</b> are <b>not supported</b>",
+      "hash": "d99f196f7311"
+    },
+    "body:0064": {
+      "field": "body",
+      "text": "How to customize the About page",
+      "hash": "9e9ac62c1ae7"
+    },
+    "body:0065": {
+      "field": "body",
+      "text": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "hash": "1bbcdffc8480"
+    },
+    "body:0066": {
+      "field": "body",
+      "text": "Click <b>Edit</b> next to <i>About</i>.",
+      "hash": "c02c55f01ae7"
+    },
+    "body:0067": {
+      "field": "body",
+      "text": "Add or update:",
+      "hash": "f35c103d7d24"
+    },
+    "body:0068": {
+      "field": "body",
+      "text": "Background information about your platform",
+      "hash": "c4e52b6c633b"
+    },
+    "body:0069": {
+      "field": "body",
+      "text": "FAQs",
+      "hash": "9856b7433f84"
+    },
+    "body:0070": {
+      "field": "body",
+      "text": "Photos and videos",
+      "hash": "85f401edf394"
+    },
+    "body:0071": {
+      "field": "body",
+      "text": "Guidelines or helpful documents (attachments)",
+      "hash": "d3e8163cbdfb"
+    },
+    "body:0072": {
+      "field": "body",
+      "text": "Contact details (e.g., an email for user questions)",
+      "hash": "b52ffdd74624"
+    },
+    "body:0073": {
+      "field": "body",
+      "text": "Click <b>Save</b> when finished.",
+      "hash": "5ee4729cc60d"
+    }
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "article_id": "527601",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Navigation Bar and Custom Pages",
+      "source_hash": "49dd0dfc50dd",
+      "target": "Navigation Bar and Custom Pages",
+      "translated_from_hash": "49dd0dfc50dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the navigation bar?",
+      "source_hash": "12f1900f63b2",
+      "target": "What is the navigation bar?",
+      "translated_from_hash": "12f1900f63b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The navigation bar is the menu displayed at the top of every page on your platform. It helps users quickly access key sections like the homepage, project pages, About page, and any custom pages you've added.",
+      "source_hash": "a60f2e80b341",
+      "target": "The navigation bar is the menu displayed at the top of every page on your platform. It helps users quickly access key sections like the homepage, project pages, About page, and any custom pages you've added.",
+      "translated_from_hash": "a60f2e80b341",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "A well-structured navigation bar:",
+      "source_hash": "e12dd910a2d8",
+      "target": "A well-structured navigation bar:",
+      "translated_from_hash": "e12dd910a2d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Makes the platform easier to navigate",
+      "source_hash": "95126b077387",
+      "target": "Makes the platform easier to navigate",
+      "translated_from_hash": "95126b077387",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Highlights what matters most to your community",
+      "source_hash": "0faa8c58de6d",
+      "target": "Highlights what matters most to your community",
+      "translated_from_hash": "0faa8c58de6d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Reflects your organization's structure or priorities",
+      "source_hash": "f31c7f1fb590",
+      "target": "Reflects your organization's structure or priorities",
+      "translated_from_hash": "f31c7f1fb590",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "You can customize the navigation bar by changing the order of items, renaming pages, and linking projects to it.",
+      "source_hash": "d4574b42ee0e",
+      "target": "You can customize the navigation bar by changing the order of items, renaming pages, and linking projects to it.",
+      "translated_from_hash": "d4574b42ee0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<br/>ℹ️ External links cannot be added.",
+      "source_hash": "b6674abba41a",
+      "target": "<br/>ℹ️ External links cannot be added.",
+      "translated_from_hash": "b6674abba41a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "What is a custom page?",
+      "source_hash": "d6824a6ba08f",
+      "target": "What is a custom page?",
+      "translated_from_hash": "d6824a6ba08f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "A custom page is a standalone, flexible page for sharing information with your community. It's useful for:",
+      "source_hash": "963a1ef48fd6",
+      "target": "A custom page is a standalone, flexible page for sharing information with your community. It's useful for:",
+      "translated_from_hash": "963a1ef48fd6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Department overviews (e.g., <i>Public Works</i>, <i>Youth Services</i>)",
+      "source_hash": "d5f71448a4c5",
+      "target": "Department overviews (e.g., <i>Public Works</i>, <i>Youth Services</i>)",
+      "translated_from_hash": "d5f71448a4c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Project hubs (e.g., <i>City Center Revitalization</i>)",
+      "source_hash": "e6bae3e52dbb",
+      "target": "Project hubs (e.g., <i>City Center Revitalization</i>)",
+      "translated_from_hash": "e6bae3e52dbb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Consultation spaces (e.g., <i>Budget planning input</i>)",
+      "source_hash": "d3b735090879",
+      "target": "Consultation spaces (e.g., <i>Budget planning input</i>)",
+      "translated_from_hash": "d3b735090879",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Resource centers (e.g., <i>Public service FAQs</i>, <i>Local events</i>)",
+      "source_hash": "a7e1e73a20bc",
+      "target": "Resource centers (e.g., <i>Public service FAQs</i>, <i>Local events</i>)",
+      "translated_from_hash": "a7e1e73a20bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Custom pages can include:",
+      "source_hash": "8712aee6feae",
+      "target": "Custom pages can include:",
+      "translated_from_hash": "8712aee6feae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "A banner image",
+      "source_hash": "4f54a9fc56fd",
+      "target": "A banner image",
+      "translated_from_hash": "4f54a9fc56fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Rich content (text, images, videos, buttons, links)",
+      "source_hash": "b7965dee1a83",
+      "target": "Rich content (text, images, videos, buttons, links)",
+      "translated_from_hash": "b7965dee1a83",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Linked projects (filtered by tag or area)",
+      "source_hash": "cdae937dcda1",
+      "target": "Linked projects (filtered by tag or area)",
+      "translated_from_hash": "cdae937dcda1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Attachments such as documents or reports",
+      "source_hash": "3c21fc3b7cc0",
+      "target": "Attachments such as documents or reports",
+      "translated_from_hash": "3c21fc3b7cc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "You can also add custom pages to the navigation bar for easy access.",
+      "source_hash": "789286c217f5",
+      "target": "You can also add custom pages to the navigation bar for easy access.",
+      "translated_from_hash": "789286c217f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Differences between a custom page and a folder/project",
+      "source_hash": "58dc4a5635a0",
+      "target": "Differences between a custom page and a folder/project",
+      "translated_from_hash": "58dc4a5635a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Projects</b> hold only their own project content.",
+      "source_hash": "3b987538db6a",
+      "target": "<b>Projects</b> hold only their own project content.",
+      "translated_from_hash": "3b987538db6a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Folders</b> can contain multiple projects and give you more flexibility in how you organize related content.",
+      "source_hash": "247d8252b1ff",
+      "target": "<b>Folders</b> can contain multiple projects and give you more flexibility in how you organize related content.",
+      "translated_from_hash": "247d8252b1ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Custom pages</b> standalone pages that purpose serving custom content, not organize or group items.",
+      "source_hash": "3005d3c06a62",
+      "target": "<b>Custom pages</b> standalone pages that purpose serving custom content, not organize or group items.",
+      "translated_from_hash": "3005d3c06a62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Which one should I use?</b>",
+      "source_hash": "5b70ddf6af05",
+      "target": "<b>Which one should I use?</b>",
+      "translated_from_hash": "5b70ddf6af05",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<br/>If you want a dedicated item in your navigation bar <i>and</i> need to group several projects together under it, we recommend using a <b>folder</b>. Folders can be easily customized and linked directly in the navigation bar.",
+      "source_hash": "b64281cb31ad",
+      "target": "<br/>If you want a dedicated item in your navigation bar <i>and</i> need to group several projects together under it, we recommend using a <b>folder</b>. Folders can be easily customized and linked directly in the navigation bar.",
+      "translated_from_hash": "b64281cb31ad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "ℹ️ To learn how to add a folder to your navigation bar, see the section <b>\"How to add pages, projects or folders to the navigation bar.\"</b> For a detailed guide on organizing content with folders, check out our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Creating and Managing Folders</a><b>.</b>",
+      "source_hash": "5ee47423441e",
+      "target": "ℹ️ To learn how to add a folder to your navigation bar, see the section <b>\"How to add pages, projects or folders to the navigation bar.\"</b> For a detailed guide on organizing content with folders, check out our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Creating and Managing Folders</a><b>.</b>",
+      "translated_from_hash": "5ee47423441e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "How to create and edit a custom page?",
+      "source_hash": "99865a3f47d1",
+      "target": "How to create and edit a custom page?",
+      "translated_from_hash": "99865a3f47d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "source_hash": "1bbcdffc8480",
+      "target": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "translated_from_hash": "1bbcdffc8480",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Click <b>Create Custom Page</b>.",
+      "source_hash": "d64790e4a727",
+      "target": "Click <b>Create Custom Page</b>.",
+      "translated_from_hash": "d64790e4a727",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Fill in:",
+      "source_hash": "60f00538e20e",
+      "target": "Fill in:",
+      "translated_from_hash": "60f00538e20e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Page title</b> – the main heading on the page",
+      "source_hash": "b0efc97720ec",
+      "target": "<b>Page title</b> – the main heading on the page",
+      "translated_from_hash": "b0efc97720ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Navigation title</b> – the name shown in the navigation bar",
+      "source_hash": "a5a29a4fc4c0",
+      "target": "<b>Navigation title</b> – the name shown in the navigation bar",
+      "translated_from_hash": "a5a29a4fc4c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Page URL</b> – e.g. <code>yourcity.com/urban-plan</code>",
+      "source_hash": "9eb8da6a95fc",
+      "target": "<b>Page URL</b> – e.g. <code>yourcity.com/urban-plan</code>",
+      "translated_from_hash": "9eb8da6a95fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Customize page content",
+      "source_hash": "e987aee80f8c",
+      "target": "Customize page content",
+      "translated_from_hash": "e987aee80f8c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "After creating the page, you can edit the following sections:",
+      "source_hash": "b573dc8b2d88",
+      "target": "After creating the page, you can edit the following sections:",
+      "translated_from_hash": "b573dc8b2d88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Hero banner:</b> Add an image or header visual",
+      "source_hash": "827753ef9dbc",
+      "target": "<b>Hero banner:</b> Add an image or header visual",
+      "translated_from_hash": "827753ef9dbc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Top info section:</b> Add formatted text, images, videos, buttons, or links",
+      "source_hash": "64d6d9a6c968",
+      "target": "<b>Top info section:</b> Add formatted text, images, videos, buttons, or links",
+      "translated_from_hash": "64d6d9a6c968",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Bottom info section:</b> Add attachments or rich content",
+      "source_hash": "84be23ee3873",
+      "target": "<b>Bottom info section:</b> Add attachments or rich content",
+      "translated_from_hash": "84be23ee3873",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Turn sections <b>on or off</b> as needed",
+      "source_hash": "66a7cecfd1ab",
+      "target": "Turn sections <b>on or off</b> as needed",
+      "translated_from_hash": "66a7cecfd1ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "How to add projects/folders to a custom page",
+      "source_hash": "9cd2c152f7e6",
+      "target": "How to add projects/folders to a custom page",
+      "translated_from_hash": "9cd2c152f7e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "You can link project/folder to a custom page based on <b>tags</b> or <b>areas.</b>",
+      "source_hash": "ea36a22064b0",
+      "target": "You can link project/folder to a custom page based on <b>tags</b> or <b>areas.</b>",
+      "translated_from_hash": "ea36a22064b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Linked projects appear on the <b>right-hand side</b> of the page",
+      "source_hash": "df5c4f835df2",
+      "target": "Linked projects appear on the <b>right-hand side</b> of the page",
+      "translated_from_hash": "df5c4f835df2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Here are the steps to link project/folder to a custom page:",
+      "source_hash": "68f866bbd287",
+      "target": "Here are the steps to link project/folder to a custom page:",
+      "translated_from_hash": "68f866bbd287",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Make sure all projects/folder you wish to link have the correct tag or area:",
+      "source_hash": "eb7f1a863d36",
+      "target": "Make sure all projects/folder you wish to link have the correct tag or area:",
+      "translated_from_hash": "eb7f1a863d36",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Tag: <b>General</b> project setting tab &gt; scroll down to <b>Tags</b> section",
+      "source_hash": "37bdaafc34c7",
+      "target": "Tag: <b>General</b> project setting tab &gt; scroll down to <b>Tags</b> section",
+      "translated_from_hash": "37bdaafc34c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Area: <b>General</b> project setting tab &gt; scoll down to <b>Area filter</b> section &gt; select <b>Selection</b> &gt; add the area",
+      "source_hash": "99f9b5d60c65",
+      "target": "Area: <b>General</b> project setting tab &gt; scoll down to <b>Area filter</b> section &gt; select <b>Selection</b> &gt; add the area",
+      "translated_from_hash": "99f9b5d60c65",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "In the custom page settings, in the <b>Linked projects</b> option <b>By tag</b> or <b>By Area</b> and select the tag/area you wish to use. You can select multiple tags/areas.",
+      "source_hash": "f05874bdc6dc",
+      "target": "In the custom page settings, in the <b>Linked projects</b> option <b>By tag</b> or <b>By Area</b> and select the tag/area you wish to use. You can select multiple tags/areas.",
+      "translated_from_hash": "f05874bdc6dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "How to add pages, projects or folder to the navigation bar?",
+      "source_hash": "a8e7eb0b4554",
+      "target": "How to add pages, projects or folder to the navigation bar?",
+      "translated_from_hash": "a8e7eb0b4554",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "source_hash": "1bbcdffc8480",
+      "target": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "translated_from_hash": "1bbcdffc8480",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Add the top right click <b>Add project or folders to navbar</b> or <b>Create custom page </b>to create a new page",
+      "source_hash": "e96af43b9592",
+      "target": "Add the top right click <b>Add project or folders to navbar</b> or <b>Create custom page </b>to create a new page",
+      "translated_from_hash": "e96af43b9592",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "In the list view:",
+      "source_hash": "addc9bf04454",
+      "target": "In the list view:",
+      "translated_from_hash": "addc9bf04454",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Click <b>Add to navbar</b> to show a page in the navigation bar",
+      "source_hash": "9da2f5ef5108",
+      "target": "Click <b>Add to navbar</b> to show a page in the navigation bar",
+      "translated_from_hash": "9da2f5ef5108",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Click <b>Remove from navbar</b> to hide it",
+      "source_hash": "ec0567eb6a2b",
+      "target": "Click <b>Remove from navbar</b> to hide it",
+      "translated_from_hash": "ec0567eb6a2b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Click <b>Add project or folder to navbar</b> to include a project or folder (with a custom name)",
+      "source_hash": "4e5bd5648f49",
+      "target": "Click <b>Add project or folder to navbar</b> to include a project or folder (with a custom name)",
+      "translated_from_hash": "4e5bd5648f49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Drag and drop items to <b>reorder</b> them",
+      "source_hash": "aabf21d00569",
+      "target": "Drag and drop items to <b>reorder</b> them",
+      "translated_from_hash": "aabf21d00569",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Things to keep in mind",
+      "source_hash": "cb7767a30011",
+      "target": "Things to keep in mind",
+      "translated_from_hash": "cb7767a30011",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "The navigation bar can show <b>up to 7 items</b>",
+      "source_hash": "05e5f132b01f",
+      "target": "The navigation bar can show <b>up to 7 items</b>",
+      "translated_from_hash": "05e5f132b01f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Home</b> is the only fixed item and cannot be removed or reordered",
+      "source_hash": "cfe1fbde447a",
+      "target": "<b>Home</b> is the only fixed item and cannot be removed or reordered",
+      "translated_from_hash": "cfe1fbde447a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<b>All projects</b> can be removed and reordered freely (note: this refers to the navigation bar item itself, not the projects in the dropdown-list)",
+      "source_hash": "ef67ef49d4ab",
+      "target": "<b>All projects</b> can be removed and reordered freely (note: this refers to the navigation bar item itself, not the projects in the dropdown-list)",
+      "translated_from_hash": "ef67ef49d4ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Other pages can be <b>renamed</b> freely",
+      "source_hash": "960abf4d39e2",
+      "target": "Other pages can be <b>renamed</b> freely",
+      "translated_from_hash": "960abf4d39e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Projects in the navigation bar are <b>user-specific</b>, based on access rights",
+      "source_hash": "9a917d1dca08",
+      "target": "Projects in the navigation bar are <b>user-specific</b>, based on access rights",
+      "translated_from_hash": "9a917d1dca08",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>External URLs</b> are <b>not supported</b>",
+      "source_hash": "d99f196f7311",
+      "target": "<b>External URLs</b> are <b>not supported</b>",
+      "translated_from_hash": "d99f196f7311",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "How to customize the About page",
+      "source_hash": "9e9ac62c1ae7",
+      "target": "How to customize the About page",
+      "translated_from_hash": "9e9ac62c1ae7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "source_hash": "1bbcdffc8480",
+      "target": "Go to <b>Admin Panel → Pages &amp; Menu</b>.",
+      "translated_from_hash": "1bbcdffc8480",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Click <b>Edit</b> next to <i>About</i>.",
+      "source_hash": "c02c55f01ae7",
+      "target": "Click <b>Edit</b> next to <i>About</i>.",
+      "translated_from_hash": "c02c55f01ae7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Add or update:",
+      "source_hash": "f35c103d7d24",
+      "target": "Add or update:",
+      "translated_from_hash": "f35c103d7d24",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Background information about your platform",
+      "source_hash": "c4e52b6c633b",
+      "target": "Background information about your platform",
+      "translated_from_hash": "c4e52b6c633b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "FAQs",
+      "source_hash": "9856b7433f84",
+      "target": "FAQs",
+      "translated_from_hash": "9856b7433f84",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Photos and videos",
+      "source_hash": "85f401edf394",
+      "target": "Photos and videos",
+      "translated_from_hash": "85f401edf394",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Guidelines or helpful documents (attachments)",
+      "source_hash": "d3e8163cbdfb",
+      "target": "Guidelines or helpful documents (attachments)",
+      "translated_from_hash": "d3e8163cbdfb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Contact details (e.g., an email for user questions)",
+      "source_hash": "b52ffdd74624",
+      "target": "Contact details (e.g., an email for user questions)",
+      "translated_from_hash": "b52ffdd74624",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Click <b>Save</b> when finished.",
+      "source_hash": "5ee4729cc60d",
+      "target": "Click <b>Save</b> when finished.",
+      "translated_from_hash": "5ee4729cc60d",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

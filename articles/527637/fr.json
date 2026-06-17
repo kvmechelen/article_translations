@@ -1,0 +1,565 @@
+{
+  "article_id": "527637",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Branding your platform",
+      "source_hash": "d4ecd7844c5b",
+      "target": "Branding your platform",
+      "translated_from_hash": "d4ecd7844c5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Adapt your platform’s look and feel to your visual identity",
+      "source_hash": "1a2d02093bf5",
+      "target": "Adapt your platform’s look and feel to your visual identity",
+      "translated_from_hash": "1a2d02093bf5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Why platform branding?",
+      "source_hash": "20a2242dddcb",
+      "target": "Why platform branding?",
+      "translated_from_hash": "20a2242dddcb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Platform branding helps create a consistent, recognizable, and engaging visual identity for your platform.",
+      "source_hash": "3676e87f5f69",
+      "target": "Platform branding helps create a consistent, recognizable, and engaging visual identity for your platform.",
+      "translated_from_hash": "3676e87f5f69",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "By aligning the platform’s colors, logo, banner, and other visuals with your organization’s identity, you build trust, familiarity, and a stronger connection with users. A well-branded platform not only looks professional but also reinforces your community’s values and helps users feel they’re in the right place.",
+      "source_hash": "e71760e0a57c",
+      "target": "By aligning the platform’s colors, logo, banner, and other visuals with your organization’s identity, you build trust, familiarity, and a stronger connection with users. A well-branded platform not only looks professional but also reinforces your community’s values and helps users feel they’re in the right place.",
+      "translated_from_hash": "e71760e0a57c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Choosing platform colours",
+      "source_hash": "65c7ee8da20f",
+      "target": "Choosing platform colours",
+      "translated_from_hash": "65c7ee8da20f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Build a consistent and accessible visual identity with well-chosen primary and secondary colors.",
+      "source_hash": "aaccf568fde3",
+      "target": "Build a consistent and accessible visual identity with well-chosen primary and secondary colors.",
+      "translated_from_hash": "aaccf568fde3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "To change platform colours: go to <b>Settings &gt; Branding</b>",
+      "source_hash": "1823fa6b04d1",
+      "target": "To change platform colours: go to <b>Settings &gt; Branding</b>",
+      "translated_from_hash": "1823fa6b04d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "ℹ️ Best practices:",
+      "source_hash": "abb3f4ae354c",
+      "target": "ℹ️ Best practices:",
+      "translated_from_hash": "abb3f4ae354c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Keep it simple and high-contrast: choose only the most relevant colors that reflect your organization’s brand.",
+      "source_hash": "cdd03a9023bb",
+      "target": "Keep it simple and high-contrast: choose only the most relevant colors that reflect your organization’s brand.",
+      "translated_from_hash": "cdd03a9023bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Primary color: defines the overall look of your platform. Choose a shade of red, blue, or green.",
+      "source_hash": "66d56bd6febb",
+      "target": "Primary color: defines the overall look of your platform. Choose a shade of red, blue, or green.",
+      "translated_from_hash": "66d56bd6febb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Secondary color: can match the primary color or be a complementary color (opposite on the color wheel).",
+      "source_hash": "7e90717ca179",
+      "target": "Secondary color: can match the primary color or be a complementary color (opposite on the color wheel).",
+      "translated_from_hash": "7e90717ca179",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Text color: use black or another dark tone for readability.",
+      "source_hash": "ed332b92aaa6",
+      "target": "Text color: use black or another dark tone for readability.",
+      "translated_from_hash": "ed332b92aaa6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Overlay color: use your primary color to maintain visual consistency.",
+      "source_hash": "597582f602ae",
+      "target": "Overlay color: use your primary color to maintain visual consistency.",
+      "translated_from_hash": "597582f602ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Avoid very light or white as your main color, it can make buttons and calls-to-action hard to see.",
+      "source_hash": "a6ba2005eebd",
+      "target": "Avoid very light or white as your main color, it can make buttons and calls-to-action hard to see.",
+      "translated_from_hash": "a6ba2005eebd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How to customize the font of your platform?",
+      "source_hash": "7361f437ced2",
+      "target": "How to customize the font of your platform?",
+      "translated_from_hash": "7361f437ced2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Font changes can’t be made directly in the Admin panel yet. Send the name of the font you want to use, preferably one available in the Adobe Fonts library. If it’s not available there, you can provide a CSS file containing the font instead.",
+      "source_hash": "49aed0685e24",
+      "target": "Font changes can’t be made directly in the Admin panel yet. Send the name of the font you want to use, preferably one available in the Adobe Fonts library. If it’s not available there, you can provide a CSS file containing the font instead.",
+      "translated_from_hash": "49aed0685e24",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Steps:</b>",
+      "source_hash": "79ea6cc10451",
+      "target": "<b>Steps:</b>",
+      "translated_from_hash": "79ea6cc10451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Contact <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "source_hash": "ace2e70143c1",
+      "target": "Contact <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>.",
+      "translated_from_hash": "ace2e70143c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Include the name of the font.",
+      "source_hash": "f28f045dc185",
+      "target": "Include the name of the font.",
+      "translated_from_hash": "f28f045dc185",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Verify the font is available in the Adobe Fonts library, or send a custom CSS file if not.",
+      "source_hash": "f1435373c2ed",
+      "target": "Verify the font is available in the Adobe Fonts library, or send a custom CSS file if not.",
+      "translated_from_hash": "f1435373c2ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "How to upload and configure your logo?",
+      "source_hash": "ccf4c3ce0c87",
+      "target": "How to upload and configure your logo?",
+      "translated_from_hash": "ccf4c3ce0c87",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Make your platform instantly recognizable with your organization’s logo.",
+      "source_hash": "33c4d16e0690",
+      "target": "Make your platform instantly recognizable with your organization’s logo.",
+      "translated_from_hash": "33c4d16e0690",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Steps<b>:</b>",
+      "source_hash": "52d032632224",
+      "target": "Steps<b>:</b>",
+      "translated_from_hash": "52d032632224",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Go to <b>Settings &gt; Branding</b> in the admin panel.",
+      "source_hash": "6719d345a59c",
+      "target": "Go to <b>Settings &gt; Branding</b> in the admin panel.",
+      "translated_from_hash": "6719d345a59c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Scroll down to the <b>Logo</b> section.",
+      "source_hash": "c76d900ec3e6",
+      "target": "Scroll down to the <b>Logo</b> section.",
+      "translated_from_hash": "c76d900ec3e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Click the upload box and select your organization’s logo image.",
+      "source_hash": "f0cbb27f359a",
+      "target": "Click the upload box and select your organization’s logo image.",
+      "translated_from_hash": "f0cbb27f359a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "ℹ️ Specifications<b>:</b>",
+      "source_hash": "cdba89d5cba1",
+      "target": "ℹ️ Specifications<b>:</b>",
+      "translated_from_hash": "cdba89d5cba1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Minimum height:</b> 45px (larger is fine, it will scale automatically).",
+      "source_hash": "f6eea7abae70",
+      "target": "<b>Minimum height:</b> 45px (larger is fine, it will scale automatically).",
+      "translated_from_hash": "f6eea7abae70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Maximum file size:</b> 10 MB.",
+      "source_hash": "b5985da91b98",
+      "target": "<b>Maximum file size:</b> 10 MB.",
+      "translated_from_hash": "b5985da91b98",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Aspect ratio:</b> keep proportions consistent; width adjusts automatically.",
+      "source_hash": "8d50feb6fd48",
+      "target": "<b>Aspect ratio:</b> keep proportions consistent; width adjusts automatically.",
+      "translated_from_hash": "8d50feb6fd48",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "💡 Recommendations<b>:</b>",
+      "source_hash": "b4d50d9d35c4",
+      "target": "💡 Recommendations<b>:</b>",
+      "translated_from_hash": "b4d50d9d35c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Use a simple logo with minimal text, as it scales differently on various screens.",
+      "source_hash": "087774c2b300",
+      "target": "Use a simple logo with minimal text, as it scales differently on various screens.",
+      "translated_from_hash": "087774c2b300",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "The footer logo automatically mirrors the navigation bar logo, it cannot be changed separately.",
+      "source_hash": "926ad478e837",
+      "target": "The footer logo automatically mirrors the navigation bar logo, it cannot be changed separately.",
+      "translated_from_hash": "926ad478e837",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "To add more visuals or information to the bottom of your homepage, go to <b>Pages &amp; menu &gt; Edit (Home) &gt; Edit (Bottom info section)</b>.",
+      "source_hash": "5a77b1c8936c",
+      "target": "To add more visuals or information to the bottom of your homepage, go to <b>Pages &amp; menu &gt; Edit (Home) &gt; Edit (Bottom info section)</b>.",
+      "translated_from_hash": "5a77b1c8936c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "How to change the homepage banner?",
+      "source_hash": "b501aeae8bca",
+      "target": "How to change the homepage banner?",
+      "translated_from_hash": "b501aeae8bca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Go to the <b>Admin panel</b>.",
+      "source_hash": "0e6996bcbb05",
+      "target": "Go to the <b>Admin panel</b>.",
+      "translated_from_hash": "0e6996bcbb05",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Navigate to <b>Pages &amp; Menu</b>.",
+      "source_hash": "08484be5fdf9",
+      "target": "Navigate to <b>Pages &amp; Menu</b>.",
+      "translated_from_hash": "08484be5fdf9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Click <b>Edit</b> next to “Home”.",
+      "source_hash": "908a50c91dea",
+      "target": "Click <b>Edit</b> next to “Home”.",
+      "translated_from_hash": "908a50c91dea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Select or add the <b>Homepage banner</b> widget",
+      "source_hash": "e65f31e30c68",
+      "target": "Select or add the <b>Homepage banner</b> widget",
+      "translated_from_hash": "e65f31e30c68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Upload a banner image that reflects your organization or community.",
+      "source_hash": "8ab49e15da16",
+      "target": "Upload a banner image that reflects your organization or community.",
+      "translated_from_hash": "8ab49e15da16",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "ℹ️ The homepage banner has a different view for guest visitors and logged in visitors, make sure to toggle the button to explore both views.",
+      "source_hash": "9b40534c3ba9",
+      "target": "ℹ️ The homepage banner has a different view for guest visitors and logged in visitors, make sure to toggle the button to explore both views.",
+      "translated_from_hash": "9b40534c3ba9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "💡 <b>Tips for choosing an image:</b>",
+      "source_hash": "98d458468ae8",
+      "target": "💡 <b>Tips for choosing an image:</b>",
+      "translated_from_hash": "98d458468ae8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Aerial photo of your town or neighborhood.",
+      "source_hash": "a6ec23b0f297",
+      "target": "Aerial photo of your town or neighborhood.",
+      "translated_from_hash": "a6ec23b0f297",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "A picture from a local event or citizen assembly.",
+      "source_hash": "083c1cc98058",
+      "target": "A picture from a local event or citizen assembly.",
+      "translated_from_hash": "083c1cc98058",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "A symbolic image that represents your values or mission.",
+      "source_hash": "8058a8c4490e",
+      "target": "A symbolic image that represents your values or mission.",
+      "translated_from_hash": "8058a8c4490e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Optional: Add a color overlay to the banner image",
+      "source_hash": "4614064b6ec8",
+      "target": "Optional: Add a color overlay to the banner image",
+      "translated_from_hash": "4614064b6ec8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Toggle <b>Enable overlay</b>",
+      "source_hash": "d9f34c7aae2f",
+      "target": "Toggle <b>Enable overlay</b>",
+      "translated_from_hash": "d9f34c7aae2f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Look for the <b>Enable overlay color</b> setting.",
+      "source_hash": "73bda97983c9",
+      "target": "Look for the <b>Enable overlay color</b> setting.",
+      "translated_from_hash": "73bda97983c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Choose a color that matches your platform’s theme.",
+      "source_hash": "925c054b021c",
+      "target": "Choose a color that matches your platform’s theme.",
+      "translated_from_hash": "925c054b021c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Use the <b>Overlay opacity slider</b> to make the image more or less visible behind the color.",
+      "source_hash": "e16bcccdc232",
+      "target": "Use the <b>Overlay opacity slider</b> to make the image more or less visible behind the color.",
+      "translated_from_hash": "e16bcccdc232",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "This is useful if:",
+      "source_hash": "af5fde788a1d",
+      "target": "This is useful if:",
+      "translated_from_hash": "af5fde788a1d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Your image is too bright or distracting and you cannot see the text anymore (which is white and the colour cannot be changed so you may need to use the color overlay for the white text to show)",
+      "source_hash": "31b516c48c29",
+      "target": "Your image is too bright or distracting and you cannot see the text anymore (which is white and the colour cannot be changed so you may need to use the color overlay for the white text to show)",
+      "translated_from_hash": "31b516c48c29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "You want to unify the look with your platform colors",
+      "source_hash": "c7e2931ae39c",
+      "target": "You want to unify the look with your platform colors",
+      "translated_from_hash": "c7e2931ae39c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "How to change the navigation bar colours?",
+      "source_hash": "cbfa64969893",
+      "target": "How to change the navigation bar colours?",
+      "translated_from_hash": "cbfa64969893",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "The navigation bar color can’t be changed directly in the Admin panel.",
+      "source_hash": "f51aef32bff2",
+      "target": "The navigation bar color can’t be changed directly in the Admin panel.",
+      "translated_from_hash": "f51aef32bff2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "To change it (e.g., to a dark background), contact our support team using the chat bubble in the bottom-right of the Admin panel.",
+      "source_hash": "a680d83d40ac",
+      "target": "To change it (e.g., to a dark background), contact our support team using the chat bubble in the bottom-right of the Admin panel.",
+      "translated_from_hash": "a680d83d40ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "How to add a favicon to your platform?",
+      "source_hash": "a6026e908dc0",
+      "target": "How to add a favicon to your platform?",
+      "translated_from_hash": "a6026e908dc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Your <b>favicon</b> is the small icon shown in the browser tab.",
+      "source_hash": "df60de342cd3",
+      "target": "Your <b>favicon</b> is the small icon shown in the browser tab.",
+      "translated_from_hash": "df60de342cd3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "To update it:",
+      "source_hash": "5fdb789bbb3b",
+      "target": "To update it:",
+      "translated_from_hash": "5fdb789bbb3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Visit: <code>https://&lt;your domain&gt;/admin/favicon</code>",
+      "source_hash": "92faf3ec0c71",
+      "target": "Visit: <code>https://&lt;your domain&gt;/admin/favicon</code>",
+      "translated_from_hash": "92faf3ec0c71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Upload your icon file.",
+      "source_hash": "c82ff9eb1654",
+      "target": "Upload your icon file.",
+      "translated_from_hash": "c82ff9eb1654",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

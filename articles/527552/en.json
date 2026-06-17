@@ -1,0 +1,283 @@
+{
+  "article_id": "527552",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_d159a30121\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><h3 id=\"h_48a3b8590a\">@@body:0007@@</h3><p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_f7ef4bc7fb\">@@body:0009@@</h1><h2 id=\"h_22409f919b\">@@body:0010@@</h2><ul><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li></ul><h2 id=\"h_ac02e7b2da\">@@body:0013@@</h2><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372019/339cd4a6138b182a06a3b2d28fa7/upload_6112965869411710510.png?expires=1781805600&amp;signature=0c37e1e70ac4195b532521f591c7b25f364fbe0439d335fc916017e76479ace0&amp;req=2dVswlr6rT5k2hj99dpg6oJjKoviZ9GNVCYwPn5h6WVSwDNLJ2ZYTSAXYzhh%0A851HknQagb%2BqDWzlkUnv15Db%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0014@@</p><ul><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><p class=\"no-margin\">@@body:0019@@</p><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul><h2 id=\"h_0b96462c00\">@@body:0022@@</h2><ul><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p><ul><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li></ul></li></ul><h1 id=\"h_ed7413bc0a\">@@body:0028@@</h1><p class=\"no-margin\">@@body:0029@@</p><ul><li><p class=\"no-margin\">@@body:0030@@</p></li></ul><p class=\"no-margin\">@@body:0031@@</p><ul><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li></ul><p class=\"no-margin\">@@body:0036@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372024/b80617504376d583121de336aa06/upload_3937199372128831298.png?expires=1781805600&amp;signature=a92ab174e3f3834301bd22ad822ed8c7edf6975efb84a497ff7248ad08213cbf&amp;req=2dVswlr6rjNk2hj99dpg6umdlScEtNl318d6XYxCoL5lF3zxq01LW%2FV8nfUm%0AokdA2QzPaTz3jBtHBph8hLeR%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0037@@</p><ul><li><p class=\"no-margin\">@@body:0038@@</p></li><li><p class=\"no-margin\">@@body:0039@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372032/59f4ae70da26e13682c8fafdb29b/upload_7207869686105000511.png?expires=1781805600&amp;signature=d0dcaa2b52acbf0f79f6c99f2db1442e18a7101e5a90f9ae0da5e02e6aa29c39&amp;req=2dVswlr6rzVk2hj99dpg6l%2FAxi4J9EwOX6Aw0oRFRIwKgal0vavo%2F1JdqVn9%0AOorEp7ZWhawH0EJfkWQD4u4z%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0043@@</p><ul><li><p class=\"no-margin\">@@body:0044@@</p></li><li><p class=\"no-margin\">@@body:0045@@</p></li></ul><h1 id=\"h_fb3ccf3104\">@@body:0046@@</h1><ul><li><p class=\"no-margin\">@@body:0047@@</p></li><li><p class=\"no-margin\">@@body:0048@@</p></li></ul><h1 id=\"h_b52303474e\">@@body:0049@@</h1><p class=\"no-margin\">@@body:0050@@</p><ul><li><p class=\"no-margin\">@@body:0051@@</p></li><li><p class=\"no-margin\">@@body:0052@@</p></li><li><p class=\"no-margin\">@@body:0053@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Community Monitoring/Resident Satisfaction Survey",
+      "hash": "46ae17833764"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the Community Monitor?",
+      "hash": "22585f2eef16"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The Community Monitoring Survey is an “always-on” survey designed to continuously capture resident sentiment and provide long‑term insights.",
+      "hash": "aadbe20c333a"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "It delivers:",
+      "hash": "e22c6f5d961c"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "<b>Strategic value:</b> Acts as an early warning system for declining satisfaction in trust, services, or quality of life. Helps policy makers act proactively rather than reactively.",
+      "hash": "d0094591584c"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "<b>Cost &amp; resource efficiency:</b> More affordable and efficient than manually administered surveys. It continuously collects data and streamlines analysis directly within the platform, reducing reliance on external consultants.",
+      "hash": "9567b051db0f"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<b>A culture of engagement:</b> Because the survey is always available, it normalizes ongoing feedback, builds trust, and offers a low‑barrier way for residents to share input.",
+      "hash": "14bf55079035"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "When to enable to Community monitor",
+      "hash": "8ab8764fabac"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "We recommend launching the Community Monitor from the start, especially if there is at least one active consultation driving regular traffic. This allows you to capture longitudinal data from day one, though initial results may not be statistically significant if responses are low. Treat early data as directional or exploratory rather than representative.To maximize its effectiveness, you should plan to promote the Community Monitor survey separately from project launches. Given that it’s an always-on tool, sustained visibility through existing communication channels, websites, and local news sites is essential to drive ongoing participation.",
+      "hash": "e77211c59bf5"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "How and what data is managed in the Community Monitor?",
+      "hash": "dad4d93e47b5"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "How data is collected and used",
+      "hash": "60c477524288"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Answer frequency:</b> Residents can only submit the survey once per quarter.",
+      "hash": "c612d429c179"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Duplicate prevention:</b> Device recognition helps limit multiple submissions from the same device, but it’s possible for one user to submit more than once if they use different devices or networks.",
+      "hash": "12fc3739d024"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "The Live Monitor Dashboard",
+      "hash": "d0dc741b47d2"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "The Live Monitor Dashboard provides a top‑level “Health Score” and category breakdown:",
+      "hash": "25dea5447714"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Governance &amp; Trust",
+      "hash": "19f3305db317"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Community Life",
+      "hash": "e0ea8e496c7c"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Services",
+      "hash": "604dce445e32"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Other (for any additional questions admins added)",
+      "hash": "3ab02b20832e"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>What you can do in the dashboard:</b>",
+      "hash": "2479ad44bf62"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "View scores per quarter and switch between quarters",
+      "hash": "15118049d1b8"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Track quarter‑over‑quarter trends and benchmarking",
+      "hash": "08bac28e70a2"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "How is the Health Score calculated?",
+      "hash": "9ec796611aed"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "The Health Score is the average of all sentiment questions.",
+      "hash": "302d71cc22ea"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Each default question contributes to one of the three main pillars.",
+      "hash": "c16370cc938c"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Newly added questions:",
+      "hash": "f863a19c817c"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Are automatically categorized as Other.",
+      "hash": "e72371f87ab5"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Their scores are included in both the Other category average and the Overall Health Score.",
+      "hash": "374d9f882ac6"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "How to set up the Community Monitor?",
+      "hash": "d0c5f738704d"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "<b>1. Access the feature</b>",
+      "hash": "f8226bb8bd5b"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Find the survey under the Community Monitor tab in the admin panel.",
+      "hash": "488bcc0178e9"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>2. General settings &amp; survey creation</b>",
+      "hash": "64d814164e93"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Use the community monitor <b>Settings</b> tab &gt; <b>General Settings</b> to build your survey.",
+      "hash": "2128b12b91b6"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "By default, 11 sentiment scale questions across Quality of Life, Service Delivery, and Governance &amp; Trust are included. These can be edited.",
+      "hash": "c0646251fcfb"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Add new sentiment questions if needed. These appear under the “Other” category in the live monitor (they don’t slot into the three default pillars).",
+      "hash": "5bed597e9034"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Optionally, add demographic questions.",
+      "hash": "8b6f0bd7ffa7"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>3. Pop‑up settings</b>",
+      "hash": "19573e88036d"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Pop‑ups appear only when:",
+      "hash": "1395ca91a89f"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Submissions are being accepted.",
+      "hash": "19474d1a90f9"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "The resident hasn’t seen the pop‑up or submitted a survey in the past 3 months.",
+      "hash": "42c6c17081e3"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Pop‑ups trigger on homepage load, custom pages, event registrations, voting, or when returning to a project page after submitting a survey.",
+      "hash": "e09679c9f218"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "Admins can set the number of times a pop‑up appears per quarter, or disable it entirely by setting the frequency to 0.",
+      "hash": "2a366a9758b3"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "A homepage widget can also be added via the homepage builder (<b>Pages and menu</b> tab &gt; <b>homepage</b> edit). Make sure the Community monitor is <b>Open For Responses </b>in the community monitor <b>Settings</b> tab &gt; <b>General Settings, </b>otherwise this homeapge widget will not be visible on the homepage.",
+      "hash": "4a6735457c7c"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "<b>4. Access rights</b>",
+      "hash": "68764ed787a2"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Configure who can participate (open to all or restricted to registered users).",
+      "hash": "6e309d975d67"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "If set to “none” (no login required), users can answer anonymously, but device recognition used to prevent duplicate submissions is not foolproof.",
+      "hash": "252f1a4003b9"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "How to view the responses?",
+      "hash": "2e71c802d29d"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "<b>Qualitative analysis:</b> Turn on <code>ask follow up</code> in the survey builder to enable AI to analyze open‑ended responses.",
+      "hash": "910c9f1c7604"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "<b>Download raw data:</b> Go to <b>General Settings → click the 3 dots next to Edit Survey → Download survey results</b>.",
+      "hash": "1c8c60736a0b"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "How to create quarterly reports?",
+      "hash": "56aa797e9692"
+    },
+    "body:0050": {
+      "field": "body",
+      "text": "The Community Monitor reports are also automatically generated quarterly - At the start of each quarter, admins automatically receive an email with the report for the previous quarter. To create your follow the steps below:",
+      "hash": "57c1cc851f5a"
+    },
+    "body:0051": {
+      "field": "body",
+      "text": "Go to the <b>Reporting</b> tab.",
+      "hash": "70ddb909ea13"
+    },
+    "body:0052": {
+      "field": "body",
+      "text": "Select the <b>Community Monitor template</b> and generate an auto‑populated report with one click.",
+      "hash": "5746be6a366f"
+    },
+    "body:0053": {
+      "field": "body",
+      "text": "Use the Survey Question Widget to filter and analyze responses by registration fields for a demographic breakdown.",
+      "hash": "c20c7f1d3bbb"
+    }
+  }
+}

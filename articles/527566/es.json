@@ -1,0 +1,277 @@
+{
+  "article_id": "527566",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Monitoring activity",
+      "source_hash": "85ba905241c1",
+      "target": "Monitoring activity",
+      "translated_from_hash": "85ba905241c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the management feed?",
+      "source_hash": "38e6ad040b92",
+      "target": "What is the management feed?",
+      "translated_from_hash": "38e6ad040b92",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The Management Feed helps admins monitor recent actions on the platform for greater transparency and accountability. It is located in the <b>Dashboard</b> tab of your <b>Admin Panel</b>.",
+      "source_hash": "3884a5aff6a5",
+      "target": "The Management Feed helps admins monitor recent actions on the platform for greater transparency and accountability. It is located in the <b>Dashboard</b> tab of your <b>Admin Panel</b>.",
+      "translated_from_hash": "3884a5aff6a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "<br/>Only <b>admins</b> can access this tab, it is not available to project managers or normal users.",
+      "source_hash": "3ef311d037d7",
+      "target": "<br/>Only <b>admins</b> can access this tab, it is not available to project managers or normal users.",
+      "translated_from_hash": "3ef311d037d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<br/>⚠️ If you do not see this tab, your current price plan may not include it.",
+      "source_hash": "3acb27914007",
+      "target": "<br/>⚠️ If you do not see this tab, your current price plan may not include it.",
+      "translated_from_hash": "3acb27914007",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Which actions are displayed in the management feed?",
+      "source_hash": "43a2d2699252",
+      "target": "Which actions are displayed in the management feed?",
+      "translated_from_hash": "43a2d2699252",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "The management feed displays the following action types:",
+      "source_hash": "54123674b8f1",
+      "target": "The management feed displays the following action types:",
+      "translated_from_hash": "54123674b8f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Created</b>: when a new input, phase, project, or folder is added.",
+      "source_hash": "5907e069ce43",
+      "target": "<b>Created</b>: when a new input, phase, project, or folder is added.",
+      "translated_from_hash": "5907e069ce43",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Modified</b>: when an existing element is changed.",
+      "source_hash": "512897310d15",
+      "target": "<b>Modified</b>: when an existing element is changed.",
+      "translated_from_hash": "512897310d15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Deleted</b>: when an element is removed.",
+      "source_hash": "a1a2cc7bb3a1",
+      "target": "<b>Deleted</b>: when an element is removed.",
+      "translated_from_hash": "a1a2cc7bb3a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Some “Modified” entries include a <b>View details</b> link. Clicking it reveals the exact changes made. If the link is missing, the action was a <b>publication</b> (no detailed change log).",
+      "source_hash": "ba100c85f795",
+      "target": "Some “Modified” entries include a <b>View details</b> link. Clicking it reveals the exact changes made. If the link is missing, the action was a <b>publication</b> (no detailed change log).",
+      "translated_from_hash": "ba100c85f795",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Example:</b>",
+      "source_hash": "25e78e753c47",
+      "target": "<b>Example:</b>",
+      "translated_from_hash": "25e78e753c47",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<br/>An entry might show that <i>John Doe</i> edited the start and end dates of the phase “Mapping Urban Planning: Demo” in the project “Survey Mapping Toolbox.”",
+      "source_hash": "b72ecea277be",
+      "target": "<br/>An entry might show that <i>John Doe</i> edited the start and end dates of the phase “Mapping Urban Planning: Demo” in the project “Survey Mapping Toolbox.”",
+      "translated_from_hash": "b72ecea277be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Before:</b> Start date = <i>2024-08-05</i>",
+      "source_hash": "cbd32fa91bda",
+      "target": "<b>Before:</b> Start date = <i>2024-08-05</i>",
+      "translated_from_hash": "cbd32fa91bda",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>After:</b> Start date = <i>2024-08-07</i>",
+      "source_hash": "e0522e0ebe80",
+      "target": "<b>After:</b> Start date = <i>2024-08-07</i>",
+      "translated_from_hash": "e0522e0ebe80",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Keys ending in _multiloc indicate a text field (e.g., survey titles or buttons).",
+      "source_hash": "8fe2ae8ab424",
+      "target": "Keys ending in _multiloc indicate a text field (e.g., survey titles or buttons).",
+      "translated_from_hash": "8fe2ae8ab424",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "How to monitor and filter activity?",
+      "source_hash": "e89e4706b44a",
+      "target": "How to monitor and filter activity?",
+      "translated_from_hash": "e89e4706b44a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Open the <b>Dashboard</b> tab in your <b>Admin Panel</b>.",
+      "source_hash": "2b42f5b8105f",
+      "target": "Open the <b>Dashboard</b> tab in your <b>Admin Panel</b>.",
+      "translated_from_hash": "2b42f5b8105f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Go to the <b>Management Feed</b>.",
+      "source_hash": "5bc77f28bd87",
+      "target": "Go to the <b>Management Feed</b>.",
+      "translated_from_hash": "5bc77f28bd87",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Use the filters at the top of the feed to refine results:",
+      "source_hash": "79dc1d3c5677",
+      "target": "Use the filters at the top of the feed to refine results:",
+      "translated_from_hash": "79dc1d3c5677",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Filter by Project:</b> View all actions on a specific project within the last 30 days.",
+      "source_hash": "b718a9bf88bb",
+      "target": "<b>Filter by Project:</b> View all actions on a specific project within the last 30 days.",
+      "translated_from_hash": "b718a9bf88bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Filter by User:</b> View all actions performed by a specific admin or project manager within the last 30 days.",
+      "source_hash": "5cd95fdb2221",
+      "target": "<b>Filter by User:</b> View all actions performed by a specific admin or project manager within the last 30 days.",
+      "translated_from_hash": "5cd95fdb2221",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Review the filtered results to identify trends, monitor workloads, or target training needs.",
+      "source_hash": "068da65f827c",
+      "target": "Review the filtered results to identify trends, monitor workloads, or target training needs.",
+      "translated_from_hash": "068da65f827c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Where can you monitor user activity?",
+      "source_hash": "6b9868ad57c6",
+      "target": "Where can you monitor user activity?",
+      "translated_from_hash": "6b9868ad57c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "In the <b>Users</b> tab of your <b>Admin Panel</b>, the <b>Last Active</b> column shows when each person last took an action on the platform.",
+      "source_hash": "d33bcddee175",
+      "target": "In the <b>Users</b> tab of your <b>Admin Panel</b>, the <b>Last Active</b> column shows when each person last took an action on the platform.",
+      "translated_from_hash": "d33bcddee175",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<br/>This helps you:",
+      "source_hash": "a34d2a270c87",
+      "target": "<br/>This helps you:",
+      "translated_from_hash": "a34d2a270c87",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Identify inactive users",
+      "source_hash": "44036859a1e2",
+      "target": "Identify inactive users",
+      "translated_from_hash": "44036859a1e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Monitor overall platform engagement",
+      "source_hash": "0121848c92cf",
+      "target": "Monitor overall platform engagement",
+      "translated_from_hash": "0121848c92cf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Spot areas where re-engagement might be needed",
+      "source_hash": "5dcf45ca0d3e",
+      "target": "Spot areas where re-engagement might be needed",
+      "translated_from_hash": "5dcf45ca0d3e",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

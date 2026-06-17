@@ -1,0 +1,340 @@
+{
+  "article_id": "527559",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Hiding and testing your projects",
+      "source_hash": "50b4447dfb78",
+      "target": "Hiding and testing your projects",
+      "translated_from_hash": "50b4447dfb78",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Understanding hidden vs draft projects",
+      "source_hash": "04bfac686fc5",
+      "target": "Understanding hidden vs draft projects",
+      "translated_from_hash": "04bfac686fc5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "<b>Unlisted Projects:</b> Published but invisible on the homepage; only accessible via a direct URL.",
+      "source_hash": "bc284719d442",
+      "target": "<b>Unlisted Projects:</b> Published but invisible on the homepage; only accessible via a direct URL.",
+      "translated_from_hash": "bc284719d442",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "<b>Draft Projects + Preview Links:</b> Still unpublished, but sharable for testing and feedback.",
+      "source_hash": "39cf9e2c3cb1",
+      "target": "<b>Draft Projects + Preview Links:</b> Still unpublished, but sharable for testing and feedback.",
+      "translated_from_hash": "39cf9e2c3cb1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Folders:</b> unlisting is a project-only setting. To remove a folder from the homepage and the <i>Participate</i> navigation menu, set the folder to <b>Draft</b> instead (note this also hides the folder and its contents entirely).",
+      "source_hash": "58befdc012cf",
+      "target": "<b>Folders:</b> unlisting is a project-only setting. To remove a folder from the homepage and the <i>Participate</i> navigation menu, set the folder to <b>Draft</b> instead (note this also hides the folder and its contents entirely).",
+      "translated_from_hash": "58befdc012cf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Both methods can be used flexibly depending on whether you want restricted participation or pre‑launch testing.",
+      "source_hash": "6523ac943abc",
+      "target": "Both methods can be used flexibly depending on whether you want restricted participation or pre‑launch testing.",
+      "translated_from_hash": "6523ac943abc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "When to use preview link or unlisted project?",
+      "source_hash": "4dbf5078d6d9",
+      "target": "When to use preview link or unlisted project?",
+      "translated_from_hash": "4dbf5078d6d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Unlisted Project:</b>",
+      "source_hash": "e289023a835d",
+      "target": "<b>Unlisted Project:</b>",
+      "translated_from_hash": "e289023a835d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Project is published but for a restricted audience.",
+      "source_hash": "05cc22dfdec4",
+      "target": "Project is published but for a restricted audience.",
+      "translated_from_hash": "05cc22dfdec4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Shareable via URL but not publicly visible.",
+      "source_hash": "1f7f07d3ca88",
+      "target": "Shareable via URL but not publicly visible.",
+      "translated_from_hash": "1f7f07d3ca88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Preview Link:</b>",
+      "source_hash": "ee6e9b9af084",
+      "target": "<b>Preview Link:</b>",
+      "translated_from_hash": "ee6e9b9af084",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Project is still in draft.",
+      "source_hash": "41c4552e3e91",
+      "target": "Project is still in draft.",
+      "translated_from_hash": "41c4552e3e91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Great for testing, stakeholder review, and UX validation.",
+      "source_hash": "2fea540b7ee2",
+      "target": "Great for testing, stakeholder review, and UX validation.",
+      "translated_from_hash": "2fea540b7ee2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Can regenerate links to revoke access.",
+      "source_hash": "7400bd8be745",
+      "target": "Can regenerate links to revoke access.",
+      "translated_from_hash": "7400bd8be745",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How to (un)list a project?",
+      "source_hash": "d59c76bee457",
+      "target": "How to (un)list a project?",
+      "translated_from_hash": "d59c76bee457",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Open the project’s <b>General tab</b> &gt; <b>Access rights</b>",
+      "source_hash": "fdd534d5cdf1",
+      "target": "Open the project’s <b>General tab</b> &gt; <b>Access rights</b>",
+      "translated_from_hash": "fdd534d5cdf1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Toggle <b>List/Unlist</b>",
+      "source_hash": "dc027d80d3c5",
+      "target": "Toggle <b>List/Unlist</b>",
+      "translated_from_hash": "dc027d80d3c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Listed:</b> Appears on homepage &amp; widgets.",
+      "source_hash": "af67f6618e4a",
+      "target": "<b>Listed:</b> Appears on homepage &amp; widgets.",
+      "translated_from_hash": "af67f6618e4a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Unlisted:</b> Removed from platform navigation <i>(e.g. homepage widgets)</i> &amp; search engines. Only accessible via direct link.",
+      "source_hash": "8399fab63896",
+      "target": "<b>Unlisted:</b> Removed from platform navigation <i>(e.g. homepage widgets)</i> &amp; search engines. Only accessible via direct link.",
+      "translated_from_hash": "8399fab63896",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>ℹ️</b> You can re‑list/unlist at any time.",
+      "source_hash": "2b2902c319db",
+      "target": "<b>ℹ️</b> You can re‑list/unlist at any time.",
+      "translated_from_hash": "2b2902c319db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "How to create and use a preview link",
+      "source_hash": "91c302015f7d",
+      "target": "How to create and use a preview link",
+      "translated_from_hash": "91c302015f7d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Creating a preview link",
+      "source_hash": "94d1969a9eab",
+      "target": "Creating a preview link",
+      "translated_from_hash": "94d1969a9eab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Preview links allow anyone, even non‑registered external stakeholders, to test a draft project.",
+      "source_hash": "36b345a67dc7",
+      "target": "Preview links allow anyone, even non‑registered external stakeholders, to test a draft project.",
+      "translated_from_hash": "36b345a67dc7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Steps:</b>",
+      "source_hash": "79ea6cc10451",
+      "target": "<b>Steps:</b>",
+      "translated_from_hash": "79ea6cc10451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "In the project back office, click <b>Share</b> (top‑right corner).",
+      "source_hash": "d868bbf2e9d4",
+      "target": "In the project back office, click <b>Share</b> (top‑right corner).",
+      "translated_from_hash": "d868bbf2e9d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Click <b>Copy link</b> in the pop‑up.",
+      "source_hash": "275662f86b14",
+      "target": "Click <b>Copy link</b> in the pop‑up.",
+      "translated_from_hash": "275662f86b14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Share this link with colleagues or external partners.",
+      "source_hash": "93133a55575f",
+      "target": "Share this link with colleagues or external partners.",
+      "translated_from_hash": "93133a55575f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Key considerations:</b>",
+      "source_hash": "a308ece9d05e",
+      "target": "<b>Key considerations:</b>",
+      "translated_from_hash": "a308ece9d05e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "The preview link tries to recreate the user experience therefore it respects access rights (e.g., user group restrictions or account requirements) and phase status.",
+      "source_hash": "3a284d954ad1",
+      "target": "The preview link tries to recreate the user experience therefore it respects access rights (e.g., user group restrictions or account requirements) and phase status.",
+      "translated_from_hash": "3a284d954ad1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "A preview link is only for testing a draft project, so it is not suitable for a durable link such as a printed QR code. To prepare a link in advance (for example, a QR code on a leaflet), use the project's public URL instead: the URL stays the same once the project is published, so a QR code created while the project is still in draft will keep working after you publish.",
+      "source_hash": "b701e29a387e",
+      "target": "A preview link is only for testing a draft project, so it is not suitable for a durable link such as a printed QR code. To prepare a link in advance (for example, a QR code on a leaflet), use the project's public URL instead: the URL stays the same once the project is published, so a QR code created while the project is still in draft will keep working after you publish.",
+      "translated_from_hash": "b701e29a387e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Therefore, to make sure people can test the survey, ensure the phase is active: edit the phase dates to make sure it includes the dates of when the testing will happen",
+      "source_hash": "78177d3d2846",
+      "target": "Therefore, to make sure people can test the survey, ensure the phase is active: edit the phase dates to make sure it includes the dates of when the testing will happen",
+      "translated_from_hash": "78177d3d2846",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Open to Participation</b> is toggled on (survey only): go to <b>Insights &gt;</b> and toggle on <b>Open for Participation</b>",
+      "source_hash": "47047101b60e",
+      "target": "<b>Open to Participation</b> is toggled on (survey only): go to <b>Insights &gt;</b> and toggle on <b>Open for Participation</b>",
+      "translated_from_hash": "47047101b60e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "There are no phase access restrictions: edit the <b>Phase Access and User Data</b> tab to make sure authentication is set to none",
+      "source_hash": "a9d3c060724f",
+      "target": "There are no phase access restrictions: edit the <b>Phase Access and User Data</b> tab to make sure authentication is set to none",
+      "translated_from_hash": "a9d3c060724f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Regenerating a preview link",
+      "source_hash": "4ddd74f9b331",
+      "target": "Regenerating a preview link",
+      "translated_from_hash": "4ddd74f9b331",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Click the <b>circular arrow icon</b> next to the preview link to generate a new one.",
+      "source_hash": "e61afb4d07c5",
+      "target": "Click the <b>circular arrow icon</b> next to the preview link to generate a new one.",
+      "translated_from_hash": "e61afb4d07c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Note: Old links immediately become invalid: useful for <b>revoking access</b>.",
+      "source_hash": "9b4de95113f9",
+      "target": "Note: Old links immediately become invalid: useful for <b>revoking access</b>.",
+      "translated_from_hash": "9b4de95113f9",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

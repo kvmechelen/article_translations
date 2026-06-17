@@ -1,0 +1,637 @@
+{
+  "article_id": "527598",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Customizing project descriptions with the Content Builder",
+      "source_hash": "bfb07f2f5792",
+      "target": "Customizing project descriptions with the Content Builder",
+      "translated_from_hash": "bfb07f2f5792",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What is the content builder?",
+      "source_hash": "f68afda98916",
+      "target": "What is the content builder?",
+      "translated_from_hash": "f68afda98916",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The Content Builder is a powerful tool for customizing project descriptions. It provides a flexible way to build interactive pages by combining text, images, multimedia, and third-party embeds.",
+      "source_hash": "f3d087392405",
+      "target": "The Content Builder is a powerful tool for customizing project descriptions. It provides a flexible way to build interactive pages by combining text, images, multimedia, and third-party embeds.",
+      "translated_from_hash": "f3d087392405",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "With the Content Builder you can:",
+      "source_hash": "89ad598220c7",
+      "target": "With the Content Builder you can:",
+      "translated_from_hash": "89ad598220c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Create rich layouts using sections and columns",
+      "source_hash": "5a074e4e5ce7",
+      "target": "Create rich layouts using sections and columns",
+      "translated_from_hash": "5a074e4e5ce7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Add multimedia elements such as videos, presentations, and documents",
+      "source_hash": "def5eaed9130",
+      "target": "Add multimedia elements such as videos, presentations, and documents",
+      "translated_from_hash": "def5eaed9130",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Embed surveys and forms for audience interaction",
+      "source_hash": "cb4421354d92",
+      "target": "Embed surveys and forms for audience interaction",
+      "translated_from_hash": "cb4421354d92",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Collaborate on documents or share updates directly in the project description",
+      "source_hash": "3a87c774aa41",
+      "target": "Collaborate on documents or share updates directly in the project description",
+      "translated_from_hash": "3a87c774aa41",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "These capabilities help make the engagement process more immersive and user-friendly.",
+      "source_hash": "c45f883b9574",
+      "target": "These capabilities help make the engagement process more immersive and user-friendly.",
+      "translated_from_hash": "c45f883b9574",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Once enabled, you can:",
+      "source_hash": "3e3eb3cb9036",
+      "target": "Once enabled, you can:",
+      "translated_from_hash": "3e3eb3cb9036",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Add text, images, and embed content",
+      "source_hash": "d5e8a69e021d",
+      "target": "Add text, images, and embed content",
+      "translated_from_hash": "d5e8a69e021d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Include surveys, slides, or news updates before or during engagement",
+      "source_hash": "eb1dde1ca320",
+      "target": "Include surveys, slides, or news updates before or during engagement",
+      "translated_from_hash": "eb1dde1ca320",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Create buttons to link between projects or phases",
+      "source_hash": "c749f397df36",
+      "target": "Create buttons to link between projects or phases",
+      "translated_from_hash": "c749f397df36",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "You can use widgets such as columns to fill in your page creatively <i>(e.g. adding content in the center only, adding an image on the right, ...)</i>",
+      "source_hash": "877b81619159",
+      "target": "You can use widgets such as columns to fill in your page creatively <i>(e.g. adding content in the center only, adding an image on the right, ...)</i>",
+      "translated_from_hash": "877b81619159",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "How to enable the content builder?",
+      "source_hash": "b60b955ceba6",
+      "target": "How to enable the content builder?",
+      "translated_from_hash": "b60b955ceba6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Go to the back-end of your project.",
+      "source_hash": "a01c27f762b0",
+      "target": "Go to the back-end of your project.",
+      "translated_from_hash": "a01c27f762b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Click the <b>General</b> tab to access your Project settings",
+      "source_hash": "d9f99a0e476e",
+      "target": "Click the <b>General</b> tab to access your Project settings",
+      "translated_from_hash": "d9f99a0e476e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Open the <b>Set up</b> tab",
+      "source_hash": "571dd616c27d",
+      "target": "Open the <b>Set up</b> tab",
+      "translated_from_hash": "571dd616c27d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Toggle <code>Use content builder for description</code> to ON",
+      "source_hash": "8c80fc6b6fc6",
+      "target": "Toggle <code>Use content builder for description</code> to ON",
+      "translated_from_hash": "8c80fc6b6fc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Click <b>Edit description in content builder</b>",
+      "source_hash": "fb2c1e284aeb",
+      "target": "Click <b>Edit description in content builder</b>",
+      "translated_from_hash": "fb2c1e284aeb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "How to use the different widgets?",
+      "source_hash": "9ca75168d9d2",
+      "target": "How to use the different widgets?",
+      "translated_from_hash": "9ca75168d9d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Open the Content Builder editor",
+      "source_hash": "fd6daa085879",
+      "target": "Open the Content Builder editor",
+      "translated_from_hash": "fd6daa085879",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Locate the left-hand menu with three categories: Sections, Layout, and Content",
+      "source_hash": "e0afdd1459dd",
+      "target": "Locate the left-hand menu with three categories: Sections, Layout, and Content",
+      "translated_from_hash": "e0afdd1459dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Drag any item (e.g., section, layout block) to the canvas in the center of the screen",
+      "source_hash": "f892aa09fbb0",
+      "target": "Drag any item (e.g., section, layout block) to the canvas in the center of the screen",
+      "translated_from_hash": "f892aa09fbb0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Click a block to edit its text, image, or settings; the editor appears on the right side of the screen",
+      "source_hash": "74024445909b",
+      "target": "Click a block to edit its text, image, or settings; the editor appears on the right side of the screen",
+      "translated_from_hash": "74024445909b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Rearrange or delete blocks as needed",
+      "source_hash": "914ae5ab795d",
+      "target": "Rearrange or delete blocks as needed",
+      "translated_from_hash": "914ae5ab795d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Supported embed types",
+      "source_hash": "9368ccbee9d9",
+      "target": "Supported embed types",
+      "translated_from_hash": "9368ccbee9d9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Content Builder supports a wide range of embeddable content.",
+      "source_hash": "e96906ec0c66",
+      "target": "Content Builder supports a wide range of embeddable content.",
+      "translated_from_hash": "e96906ec0c66",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Surveys</b>: Typeform, SurveyMonkey, Qualtrics, and others. Copy the default sharing link and paste it into the embed field.",
+      "source_hash": "f820dc7ecb8b",
+      "target": "<b>Surveys</b>: Typeform, SurveyMonkey, Qualtrics, and others. Copy the default sharing link and paste it into the embed field.",
+      "translated_from_hash": "f820dc7ecb8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Documents</b>: Google Docs/Sheets/Slides, PDFs, and Microsoft Office files via OneDrive are supported. Extract the URL from the embed code if needed.",
+      "source_hash": "96bfc8a8bd74",
+      "target": "<b>Documents</b>: Google Docs/Sheets/Slides, PDFs, and Microsoft Office files via OneDrive are supported. Extract the URL from the embed code if needed.",
+      "translated_from_hash": "96bfc8a8bd74",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Maps</b>: Google Maps and ArcGIS links require cleaning up the embed code to keep only the <code>https</code> URL.",
+      "source_hash": "992466c42a2c",
+      "target": "<b>Maps</b>: Google Maps and ArcGIS links require cleaning up the embed code to keep only the <code>https</code> URL.",
+      "translated_from_hash": "992466c42a2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Data Visualizations</b>: Tableau and Google Data Studio embeds require you to extract and slightly modify the iframe URL.",
+      "source_hash": "2de315b596f5",
+      "target": "<b>Data Visualizations</b>: Tableau and Google Data Studio embeds require you to extract and slightly modify the iframe URL.",
+      "translated_from_hash": "2de315b596f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Social Posts</b>: Facebook and Eventbrite are supported; Twitter and Instagram are not.",
+      "source_hash": "381dcbad7e84",
+      "target": "<b>Social Posts</b>: Facebook and Eventbrite are supported; Twitter and Instagram are not.",
+      "translated_from_hash": "381dcbad7e84",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Videos</b>: YouTube, Vimeo, Dailymotion, Wistia, and Dreambroker (with special URL edit) are supported.",
+      "source_hash": "1d6415d02cbf",
+      "target": "<b>Videos</b>: YouTube, Vimeo, Dailymotion, Wistia, and Dreambroker (with special URL edit) are supported.",
+      "translated_from_hash": "1d6415d02cbf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "How to embed third party tools?",
+      "source_hash": "a6925ff3a6fa",
+      "target": "How to embed third party tools?",
+      "translated_from_hash": "a6925ff3a6fa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Click the <b>&lt;Embed&gt;</b> option in the left menu",
+      "source_hash": "effb57ae2a7c",
+      "target": "Click the <b>&lt;Embed&gt;</b> option in the left menu",
+      "translated_from_hash": "effb57ae2a7c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Get the embed URL from your third-party provider",
+      "source_hash": "2a5978bd751a",
+      "target": "Get the embed URL from your third-party provider",
+      "translated_from_hash": "2a5978bd751a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Paste the URL into the embed field in Content Builder",
+      "source_hash": "d0d139196384",
+      "target": "Paste the URL into the embed field in Content Builder",
+      "translated_from_hash": "d0d139196384",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "ℹ️ Embedded links may appear differently on desktop and mobile devices. Use the height configuration option to ensure proper display across all devices.",
+      "source_hash": "51d2cf6e9694",
+      "target": "ℹ️ Embedded links may appear differently on desktop and mobile devices. Use the height configuration option to ensure proper display across all devices.",
+      "translated_from_hash": "51d2cf6e9694",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "⚠️ Always test embeds by opening an incognito browser window to ensure the link works publicly.",
+      "source_hash": "a5182390bcba",
+      "target": "⚠️ Always test embeds by opening an incognito browser window to ensure the link works publicly.",
+      "translated_from_hash": "a5182390bcba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Editing embed URLs",
+      "source_hash": "35aeffeadd02",
+      "target": "Editing embed URLs",
+      "translated_from_hash": "35aeffeadd02",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Many embed links need to be trimmed before use.",
+      "source_hash": "32d4f3b8ec5a",
+      "target": "Many embed links need to be trimmed before use.",
+      "translated_from_hash": "32d4f3b8ec5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<b>How to clean embed links:</b>",
+      "source_hash": "95542e466698",
+      "target": "<b>How to clean embed links:</b>",
+      "translated_from_hash": "95542e466698",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Copy the long iframe code.",
+      "source_hash": "ccf752d3132e",
+      "target": "Copy the long iframe code.",
+      "translated_from_hash": "ccf752d3132e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Delete everything before <code>https://</code>.",
+      "source_hash": "01ea5b9b06a5",
+      "target": "Delete everything before <code>https://</code>.",
+      "translated_from_hash": "01ea5b9b06a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Delete everything after the URL (e.g., <code>width=</code> or <code>frameborder=</code>).",
+      "source_hash": "66dda0f1f843",
+      "target": "Delete everything after the URL (e.g., <code>width=</code> or <code>frameborder=</code>).",
+      "translated_from_hash": "66dda0f1f843",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Example for YouTube below:</b>",
+      "source_hash": "b90c84b2b317",
+      "target": "<b>Example for YouTube below:</b>",
+      "translated_from_hash": "b90c84b2b317",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Press <b>Share</b>",
+      "source_hash": "61613e2c5b1f",
+      "target": "Press <b>Share</b>",
+      "translated_from_hash": "61613e2c5b1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Press <b>Embed</b>",
+      "source_hash": "7f182af77caf",
+      "target": "Press <b>Embed</b>",
+      "translated_from_hash": "7f182af77caf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "You will get a link that looks like: <code>&lt;iframe width=\"560\" height=\"315\" src=\"&lt;https://www.youtube.com/embed/abc12&gt;\" …&gt;</code>",
+      "source_hash": "35e866ffe837",
+      "target": "You will get a link that looks like: <code>&lt;iframe width=\"560\" height=\"315\" src=\"&lt;https://www.youtube.com/embed/abc12&gt;\" …&gt;</code>",
+      "translated_from_hash": "35e866ffe837",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Only copy the https link: <code>https://www.youtube.com/embed/abc123</code>",
+      "source_hash": "ab3d8f6a1501",
+      "target": "Only copy the https link: <code>https://www.youtube.com/embed/abc123</code>",
+      "translated_from_hash": "ab3d8f6a1501",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Limitations on the content builder",
+      "source_hash": "9df654919aa4",
+      "target": "Limitations on the content builder",
+      "translated_from_hash": "9df654919aa4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Some functions of the Content Builder have restrictions:",
+      "source_hash": "7a615f8922fd",
+      "target": "Some functions of the Content Builder have restrictions:",
+      "translated_from_hash": "7a615f8922fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Image resizing isn’t supported; images automatically fill their container.",
+      "source_hash": "6263b6f1c1ed",
+      "target": "Image resizing isn’t supported; images automatically fill their container.",
+      "translated_from_hash": "6263b6f1c1ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Some social platforms (Twitter, Instagram) cannot be embedded due to external policies.",
+      "source_hash": "99d2f8493b3c",
+      "target": "Some social platforms (Twitter, Instagram) cannot be embedded due to external policies.",
+      "translated_from_hash": "99d2f8493b3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Embed links often require manual editing to remove iframe code.",
+      "source_hash": "2c17b0ae504f",
+      "target": "Embed links often require manual editing to remove iframe code.",
+      "translated_from_hash": "2c17b0ae504f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Embedding PDFs",
+      "source_hash": "52e20edc16de",
+      "target": "Embedding PDFs",
+      "translated_from_hash": "52e20edc16de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Select the File Attachment widget to upload a file to the project",
+      "source_hash": "2d7a1b4038cd",
+      "target": "Select the File Attachment widget to upload a file to the project",
+      "translated_from_hash": "2d7a1b4038cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "⚠️ 360 input will open in a new window, make sure to save your project beforehand",
+      "source_hash": "42c633e581d3",
+      "target": "⚠️ 360 input will open in a new window, make sure to save your project beforehand",
+      "translated_from_hash": "42c633e581d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Return to the project, in the file attachment widget, select the file you would like to embed",
+      "source_hash": "343f5bf68d12",
+      "target": "Return to the project, in the file attachment widget, select the file you would like to embed",
+      "translated_from_hash": "343f5bf68d12",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Save",
+      "source_hash": "1509f561f241",
+      "target": "Save",
+      "translated_from_hash": "1509f561f241",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Right click the attached file in the content builder, select <b>Open Link in New Tab</b>",
+      "source_hash": "6b0843241eae",
+      "target": "Right click the attached file in the content builder, select <b>Open Link in New Tab</b>",
+      "translated_from_hash": "6b0843241eae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Copy the URL in the new tab",
+      "source_hash": "2a6352a143cc",
+      "target": "Copy the URL in the new tab",
+      "translated_from_hash": "2a6352a143cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Select the Embed widget, in the website address past the URL from the file attachment tab",
+      "source_hash": "5b3b2b5d155b",
+      "target": "Select the Embed widget, in the website address past the URL from the file attachment tab",
+      "translated_from_hash": "5b3b2b5d155b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "If you do not want the attached file to be visible in the project description:",
+      "source_hash": "cca7f25d8558",
+      "target": "If you do not want the attached file to be visible in the project description:",
+      "translated_from_hash": "cca7f25d8558",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Create a new project and hide it by setting the Access Rights to Unlisted",
+      "source_hash": "d3a532f560f8",
+      "target": "Create a new project and hide it by setting the Access Rights to Unlisted",
+      "translated_from_hash": "d3a532f560f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Attach the PDFs you want to embed in other projects in this project",
+      "source_hash": "309e7aef33b2",
+      "target": "Attach the PDFs you want to embed in other projects in this project",
+      "translated_from_hash": "309e7aef33b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Follow the same instructions above for embedding the PDFs",
+      "source_hash": "868d4c41dbc7",
+      "target": "Follow the same instructions above for embedding the PDFs",
+      "translated_from_hash": "868d4c41dbc7",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "article_id": "527562",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "How to manage your User Account?",
+      "source_hash": "3f635b5fd0f1",
+      "target": "How to manage your User Account?",
+      "translated_from_hash": "3f635b5fd0f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is account management?",
+      "source_hash": "c659077d99e5",
+      "target": "What is account management?",
+      "translated_from_hash": "c659077d99e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Your account is your personal gateway to engaging on the platform. It includes your profile details, preferences, and a record of your activity. Knowing how to manage your account gives you more control over what you share, what you receive, and how visible you are to others in the community.",
+      "source_hash": "03164bdf4920",
+      "target": "Your account is your personal gateway to engaging on the platform. It includes your profile details, preferences, and a record of your activity. Knowing how to manage your account gives you more control over what you share, what you receive, and how visible you are to others in the community.",
+      "translated_from_hash": "03164bdf4920",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "This article covers:",
+      "source_hash": "efdb124de063",
+      "target": "This article covers:",
+      "translated_from_hash": "efdb124de063",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Editing your personal information",
+      "source_hash": "8d92939307a5",
+      "target": "Editing your personal information",
+      "translated_from_hash": "8d92939307a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Managing message notifications",
+      "source_hash": "8d388630241b",
+      "target": "Managing message notifications",
+      "translated_from_hash": "8d388630241b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Viewing your own activity",
+      "source_hash": "69ee18e75e2a",
+      "target": "Viewing your own activity",
+      "translated_from_hash": "69ee18e75e2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Understanding what’s visible to others",
+      "source_hash": "8e87d42518fb",
+      "target": "Understanding what’s visible to others",
+      "translated_from_hash": "8e87d42518fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Understanding your activity page",
+      "source_hash": "4d955f8feea7",
+      "target": "Understanding your activity page",
+      "translated_from_hash": "4d955f8feea7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Your <b>Activity Page</b> is your personal dashboard that displays your engagement history. It helps you keep track of your contributions to public discussions and initiatives.",
+      "source_hash": "072eb053461f",
+      "target": "Your <b>Activity Page</b> is your personal dashboard that displays your engagement history. It helps you keep track of your contributions to public discussions and initiatives.",
+      "translated_from_hash": "072eb053461f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "It includes:",
+      "source_hash": "3fe3ec352ef9",
+      "target": "It includes:",
+      "translated_from_hash": "3fe3ec352ef9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Your name, profile photo, join date, and bio",
+      "source_hash": "833085d3061a",
+      "target": "Your name, profile photo, join date, and bio",
+      "translated_from_hash": "833085d3061a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Metrics on participation (number of ideas submitted, proposals, comments, followed projects, and events attended)",
+      "source_hash": "635025779f5d",
+      "target": "Metrics on participation (number of ideas submitted, proposals, comments, followed projects, and events attended)",
+      "translated_from_hash": "635025779f5d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "This information helps build transparency and visibility within the community.",
+      "source_hash": "ea6160aec8b2",
+      "target": "This information helps build transparency and visibility within the community.",
+      "translated_from_hash": "ea6160aec8b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Privacy Tip:</b>",
+      "source_hash": "468b0957f4c5",
+      "target": "<b>Privacy Tip:</b>",
+      "translated_from_hash": "468b0957f4c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Other users can see your profile, ideas, comments, and proposals. However:",
+      "source_hash": "e984bc9378c8",
+      "target": "Other users can see your profile, ideas, comments, and proposals. However:",
+      "translated_from_hash": "e984bc9378c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Event participation</b> and <b>followed projects</b> remain private.",
+      "source_hash": "23b92b7218f5",
+      "target": "<b>Event participation</b> and <b>followed projects</b> remain private.",
+      "translated_from_hash": "23b92b7218f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Survey responses</b> are not currently shown in the activity feed.",
+      "source_hash": "3f28bd5519ff",
+      "target": "<b>Survey responses</b> are not currently shown in the activity feed.",
+      "translated_from_hash": "3f28bd5519ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Navigating your activity page",
+      "source_hash": "7de3963562b7",
+      "target": "Navigating your activity page",
+      "translated_from_hash": "7de3963562b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Submissions tab</b><br/>View and edit all ideas you’ve submitted.",
+      "source_hash": "4146e79075a7",
+      "target": "<b>Submissions tab</b><br/>View and edit all ideas you’ve submitted.",
+      "translated_from_hash": "4146e79075a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Responses tab</b><br/>Find all your survey responses and download your answers.",
+      "source_hash": "81da73335e63",
+      "target": "<b>Responses tab</b><br/>Find all your survey responses and download your answers.",
+      "translated_from_hash": "81da73335e63",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Comments tab</b><br/>See and edit the comments you’ve posted on ideas.",
+      "source_hash": "feb8299c8ffb",
+      "target": "<b>Comments tab</b><br/>See and edit the comments you’ve posted on ideas.",
+      "translated_from_hash": "feb8299c8ffb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Following tab</b><br/>View all projects, inputs, folders, topics, and areas you follow. You can unfollow items or update your topic/area selections.",
+      "source_hash": "d22608bd05c7",
+      "target": "<b>Following tab</b><br/>View all projects, inputs, folders, topics, and areas you follow. You can unfollow items or update your topic/area selections.",
+      "translated_from_hash": "d22608bd05c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Events tab</b><br/>See all events you’re registered for.",
+      "source_hash": "19662ce3bcba",
+      "target": "<b>Events tab</b><br/>See all events you’re registered for.",
+      "translated_from_hash": "19662ce3bcba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "How to edit your profile and personal data?",
+      "source_hash": "12ebd436b967",
+      "target": "How to edit your profile and personal data?",
+      "translated_from_hash": "12ebd436b967",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Steps:</b>",
+      "source_hash": "79ea6cc10451",
+      "target": "<b>Steps:</b>",
+      "translated_from_hash": "79ea6cc10451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Click on your name in the top-right corner of the screen.",
+      "source_hash": "a556934d2cc9",
+      "target": "Click on your name in the top-right corner of the screen.",
+      "translated_from_hash": "a556934d2cc9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Select <b>\"My Settings\"</b>.",
+      "source_hash": "b6bcdcf78859",
+      "target": "Select <b>\"My Settings\"</b>.",
+      "translated_from_hash": "b6bcdcf78859",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "On the profile page, update any fields you wish to change.",
+      "source_hash": "592012566578",
+      "target": "On the profile page, update any fields you wish to change.",
+      "translated_from_hash": "592012566578",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "You can edit your name, profile picture, and other personal info.",
+      "source_hash": "432731330721",
+      "target": "You can edit your name, profile picture, and other personal info.",
+      "translated_from_hash": "432731330721",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Your name and picture are visible to others.",
+      "source_hash": "4240e3d77562",
+      "target": "Your name and picture are visible to others.",
+      "translated_from_hash": "4240e3d77562",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Click the red <b>\"Save changes\"</b> button.",
+      "source_hash": "dfd4f95d610c",
+      "target": "Click the red <b>\"Save changes\"</b> button.",
+      "translated_from_hash": "dfd4f95d610c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "A green confirmation message will appear: <i>\"Your profile has been saved.\"</i>",
+      "source_hash": "14a6f9630da0",
+      "target": "A green confirmation message will appear: <i>\"Your profile has been saved.\"</i>",
+      "translated_from_hash": "14a6f9630da0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Note:</b>",
+      "source_hash": "eda75fa9217d",
+      "target": "<b>Note:</b>",
+      "translated_from_hash": "eda75fa9217d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "If your platform uses ID verification, some fields (e.g. domicile) may be pre-filled and uneditable due to verification requirements.",
+      "source_hash": "eac088a77180",
+      "target": "If your platform uses ID verification, some fields (e.g. domicile) may be pre-filled and uneditable due to verification requirements.",
+      "translated_from_hash": "eac088a77180",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "How to manage your notifications settings?",
+      "source_hash": "c34dbd7980fe",
+      "target": "How to manage your notifications settings?",
+      "translated_from_hash": "c34dbd7980fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Click your name in the top-right corner and select <b>\"My Settings\"</b>.",
+      "source_hash": "44e92994b396",
+      "target": "Click your name in the top-right corner and select <b>\"My Settings\"</b>.",
+      "translated_from_hash": "44e92994b396",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Scroll to the <b>\"Notifications\"</b> section at the bottom of the page.",
+      "source_hash": "b27bda40e52c",
+      "target": "Scroll to the <b>\"Notifications\"</b> section at the bottom of the page.",
+      "translated_from_hash": "b27bda40e52c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "You’ll see 10 categories of notifications with sub-categories",
+      "source_hash": "3f932f003307",
+      "target": "You’ll see 10 categories of notifications with sub-categories",
+      "translated_from_hash": "3f932f003307",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Expand the accordion next to each section to review sub-categories and update your preferences.",
+      "source_hash": "6fd5c6b16bf6",
+      "target": "Expand the accordion next to each section to review sub-categories and update your preferences.",
+      "translated_from_hash": "6fd5c6b16bf6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Adjust the settings to receive only the messages you care about.",
+      "source_hash": "7c103263d1de",
+      "target": "Adjust the settings to receive only the messages you care about.",
+      "translated_from_hash": "7c103263d1de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Which of your user data is visible on the platform?",
+      "source_hash": "93fdea86af49",
+      "target": "Which of your user data is visible on the platform?",
+      "translated_from_hash": "93fdea86af49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "When you register an account on the platform, you gain access to features like submitting input, commenting, and participating in projects. While creating an account requires some personal data, <b>only the most essential and basic details are visible to other users</b>.",
+      "source_hash": "1d5d45eef180",
+      "target": "When you register an account on the platform, you gain access to features like submitting input, commenting, and participating in projects. While creating an account requires some personal data, <b>only the most essential and basic details are visible to other users</b>.",
+      "translated_from_hash": "1d5d45eef180",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "What other users can see:",
+      "source_hash": "013fd56cbe32",
+      "target": "What other users can see:",
+      "translated_from_hash": "013fd56cbe32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Every user has a public profile page. The following information may be visible to all users, both registered and unregistered:",
+      "source_hash": "12d51c6143b6",
+      "target": "Every user has a public profile page. The following information may be visible to all users, both registered and unregistered:",
+      "translated_from_hash": "12d51c6143b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Your <b>first name</b>",
+      "source_hash": "7b16680730b5",
+      "target": "Your <b>first name</b>",
+      "translated_from_hash": "7b16680730b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Your <b>profile picture</b> (optional, but recommended)",
+      "source_hash": "3b2cf72421dc",
+      "target": "Your <b>profile picture</b> (optional, but recommended)",
+      "translated_from_hash": "3b2cf72421dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Your <b>join date</b>",
+      "source_hash": "61cfc6b9d537",
+      "target": "Your <b>join date</b>",
+      "translated_from_hash": "61cfc6b9d537",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Any <b>comments</b> or <b>submissions</b> you've made on the platform",
+      "source_hash": "b0ec523b9846",
+      "target": "Any <b>comments</b> or <b>submissions</b> you've made on the platform",
+      "translated_from_hash": "b0ec523b9846",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Your participation (e.g. comments or submissions) is visible on project pages, just like you can view others’ contributions.",
+      "source_hash": "f71ec6d7c737",
+      "target": "Your participation (e.g. comments or submissions) is visible on project pages, just like you can view others’ contributions.",
+      "translated_from_hash": "f71ec6d7c737",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "If you'd prefer to <b>disable profile pictures</b> across the entire platform, contact the support team via the chat bubble. Note: this will apply to <i>all users</i> on the platform.",
+      "source_hash": "b5c9e7254d9b",
+      "target": "If you'd prefer to <b>disable profile pictures</b> across the entire platform, contact the support team via the chat bubble. Note: this will apply to <i>all users</i> on the platform.",
+      "translated_from_hash": "b5c9e7254d9b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "What platform admins can see:",
+      "source_hash": "3b6b13d1cabc",
+      "target": "What platform admins can see:",
+      "translated_from_hash": "3b6b13d1cabc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Platform admins, those managing and maintaining the platform, have access to additional data you've submitted during account registration or participation. This may include personal or demographic information, depending on the registration setup.",
+      "source_hash": "79fcb7f9124c",
+      "target": "Platform admins, those managing and maintaining the platform, have access to additional data you've submitted during account registration or participation. This may include personal or demographic information, depending on the registration setup.",
+      "translated_from_hash": "79fcb7f9124c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "All data accessed by admins is handled in accordance with the platform’s Privacy Policy, which you agreed to when registering. You can revisit the Privacy Policy any time via the link in the website footer.",
+      "source_hash": "85f693b7e5e4",
+      "target": "All data accessed by admins is handled in accordance with the platform’s Privacy Policy, which you agreed to when registering. You can revisit the Privacy Policy any time via the link in the website footer.",
+      "translated_from_hash": "85f693b7e5e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "GDPR and cookies on the platform:",
+      "source_hash": "bc79c327976a",
+      "target": "GDPR and cookies on the platform:",
+      "translated_from_hash": "bc79c327976a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Go Vocal platforms are designed to be <b>GDPR-compliant by default</b>. This means:",
+      "source_hash": "607507c82fd6",
+      "target": "Go Vocal platforms are designed to be <b>GDPR-compliant by default</b>. This means:",
+      "translated_from_hash": "607507c82fd6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "<b>Analytical and functional cookies are not active</b> unless you give explicit consent.",
+      "source_hash": "2d061a28c237",
+      "target": "<b>Analytical and functional cookies are not active</b> unless you give explicit consent.",
+      "translated_from_hash": "2d061a28c237",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "You can review or update your <b>cookie preferences</b> at any time to control what data is collected as you navigate the platform.",
+      "source_hash": "b06c375d60eb",
+      "target": "You can review or update your <b>cookie preferences</b> at any time to control what data is collected as you navigate the platform.",
+      "translated_from_hash": "b06c375d60eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "This helps ensure your privacy and gives you control over how your personal data is used.",
+      "source_hash": "328532f9590c",
+      "target": "This helps ensure your privacy and gives you control over how your personal data is used.",
+      "translated_from_hash": "328532f9590c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "How to change and delete your data?",
+      "source_hash": "1c1bed85643b",
+      "target": "How to change and delete your data?",
+      "translated_from_hash": "1c1bed85643b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<b>Go to your profile settings:</b>",
+      "source_hash": "c9db0c522eb1",
+      "target": "<b>Go to your profile settings:</b>",
+      "translated_from_hash": "c9db0c522eb1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Click your name in the top-right corner and select <b>‘My Settings’</b>.",
+      "source_hash": "a2176dc23adf",
+      "target": "Click your name in the top-right corner and select <b>‘My Settings’</b>.",
+      "translated_from_hash": "a2176dc23adf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>Edit your information:</b>",
+      "source_hash": "a0f3ba667520",
+      "target": "<b>Edit your information:</b>",
+      "translated_from_hash": "a0f3ba667520",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "On your profile page, you can update your name, bio, and any other editable details. Keep in mind that your <b>name and profile picture</b> (if added) are visible to other users on the platform.",
+      "source_hash": "5a2e1065c6fc",
+      "target": "On your profile page, you can update your name, bio, and any other editable details. Keep in mind that your <b>name and profile picture</b> (if added) are visible to other users on the platform.",
+      "translated_from_hash": "5a2e1065c6fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "<b>Save your changes:</b>",
+      "source_hash": "98d51f4b9ecc",
+      "target": "<b>Save your changes:</b>",
+      "translated_from_hash": "98d51f4b9ecc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Click the red <b>‘Save changes’</b> button. A green confirmation message will appear: <i>“Your profile has been saved.”</i>",
+      "source_hash": "36edc92c11bb",
+      "target": "Click the red <b>‘Save changes’</b> button. A green confirmation message will appear: <i>“Your profile has been saved.”</i>",
+      "translated_from_hash": "36edc92c11bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "<b>Remove optional data (if needed):</b>",
+      "source_hash": "84b6e29f2b57",
+      "target": "<b>Remove optional data (if needed):</b>",
+      "translated_from_hash": "84b6e29f2b57",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "If you’re no longer comfortable sharing certain details, you can delete any optional fields in your profile.",
+      "source_hash": "3a0967d5e60b",
+      "target": "If you’re no longer comfortable sharing certain details, you can delete any optional fields in your profile.",
+      "translated_from_hash": "3a0967d5e60b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "<b>Edit and change your email and password:</b>",
+      "source_hash": "689f225da925",
+      "target": "<b>Edit and change your email and password:</b>",
+      "translated_from_hash": "689f225da925",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "under the section <b>Login credentials</b> you can you can change your email or password here.",
+      "source_hash": "471d0c5de12d",
+      "target": "under the section <b>Login credentials</b> you can you can change your email or password here.",
+      "translated_from_hash": "471d0c5de12d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "<b>Delete your account (if desired):</b>",
+      "source_hash": "9294470fd520",
+      "target": "<b>Delete your account (if desired):</b>",
+      "translated_from_hash": "9294470fd520",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "You may choose to fully delete your account if you no longer wish to participate. If you change your mind later, you can create a new account using the <b>same email address</b>.",
+      "source_hash": "6a245963bfdf",
+      "target": "You may choose to fully delete your account if you no longer wish to participate. If you change your mind later, you can create a new account using the <b>same email address</b>.",
+      "translated_from_hash": "6a245963bfdf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Click your name in the top-right corner and select <b>‘My Settings’</b>. Scroll down to <b>Delete your account </b>section",
+      "source_hash": "74df2d7b36ae",
+      "target": "Click your name in the top-right corner and select <b>‘My Settings’</b>. Scroll down to <b>Delete your account </b>section",
+      "translated_from_hash": "74df2d7b36ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Important limitation:",
+      "source_hash": "2a8e5e1d28fd",
+      "target": "Important limitation:",
+      "translated_from_hash": "2a8e5e1d28fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "If your platform uses <b>ID verification</b> during registration, some fields, like <b>domicile</b> or other verified data, may be locked and not editable. This is because such data is pulled directly from the verification system to confirm your eligibility (e.g., residence in a specific municipality).",
+      "source_hash": "a21ca1af3e22",
+      "target": "If your platform uses <b>ID verification</b> during registration, some fields, like <b>domicile</b> or other verified data, may be locked and not editable. This is because such data is pulled directly from the verification system to confirm your eligibility (e.g., residence in a specific municipality).",
+      "translated_from_hash": "a21ca1af3e22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "These fields are not editable by the user to ensure compliance and data integrity.",
+      "source_hash": "b2f9e0382b1c",
+      "target": "These fields are not editable by the user to ensure compliance and data integrity.",
+      "translated_from_hash": "b2f9e0382b1c",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

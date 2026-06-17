@@ -1,0 +1,133 @@
+{
+  "article_id": "527621",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_9f694e2b5b\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_2d05fc08e5\">@@body:0004@@</h1><h2 id=\"h_bb08946a09\">@@body:0005@@</h2><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373487/81033d61123df85a32fe3f951cb7/upload_5426816181707558712.png?expires=1781805600&amp;signature=b1090a11700ff1d38983519bf2251d4a3a743ed76cef8ae224c10f72761fc3f2&amp;req=2dVswlv%2BpDBk2hj99dpg6hcgd0RwZKRVIXqTifmen8KKJgEtzDiQVMjEElCu%0ATkVNQp8tJaRACRioMyTQjnCg%0A\"/></div><p class=\"no-margin\"></p>\n<h2 id=\"h_3b67d8cb1a\">@@body:0009@@</h2><ul><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ul><h1 id=\"h_471dec59ed\">@@body:0014@@</h1><p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\">@@body:0016@@</p><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul><p class=\"no-margin\">@@body:0019@@</p><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Creating a poll",
+      "hash": "27598c6e0d7f"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is a poll?",
+      "hash": "336435fa0031"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "A poll is a simple way to gather quick feedback from your community. Unlike surveys, which can include different types of questions and formats, polls focus only on single-choice or multiple-choice questions.",
+      "hash": "ef3c9a3455c8"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "The key advantage of polls is their visibility and ease of use: poll questions appear directly on the project page, making it easy for users to participate without leaving the page. This makes polls a fast, accessible, and effective way to understand what your community is thinking and feeling in the moment.",
+      "hash": "56205846594f"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "How to create a poll?",
+      "hash": "833008dbc66f"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Step 1: Creating Your Poll",
+      "hash": "01acf056b1b7"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "To create a poll, go to <b>Projects &gt; Create a Project</b>, then press <b>Save</b>. In the new phase that appears, select <b>Create a survey</b> as the project type and choose <b>Quick Poll</b> as the survey option.",
+      "hash": "4091fdc20165"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Polls only include single-choice or multiple-choice questions, since they are designed for quick participation. If you want to include more complex question types, we recommend using the Survey method instead.",
+      "hash": "44921a3d384c"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "When creating your first poll question, you’ll be asked to provide a title and then add options. Once your first question is saved, select <b>Cancel</b> to return and add another question.",
+      "hash": "5976789b839c"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Step 2: Setting Up Your Poll",
+      "hash": "582ebb530b2a"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Anonymous participation</b>: Polls can be set to anonymous so users can vote freely without concerns about privacy. Keep in mind, participants still need a registered account on the platform to take part.",
+      "hash": "045a86a8a84c"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Project description</b>: Provide clear and detailed information in the description. This helps participants make informed choices and ensures you collect valuable, reliable data.",
+      "hash": "977950d8ff2d"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Timing</b>: Allow enough time for everyone to answer. Some users may be busy or miss the initial announcement, so plan your timeline accordingly.",
+      "hash": "393f4efcadd2"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Promotion</b>: Share your poll on other communication channels (e.g. newsletters, social media) to maximize participation.",
+      "hash": "dbb8caca1c59"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "How to report when using a poll?",
+      "hash": "56fd4bc4a9af"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Once your poll has been completed, you can export the results by going to the Poll tab in the phase and clicking <b>Export Poll Results</b>. The data will be downloaded as an Excel file.",
+      "hash": "04bcd0e40c38"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "From there, you can:",
+      "hash": "236ab32bee58"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Visualize the results</b> in your own software, then share them on the platform by creating a dedicated information phase (e.g. <i>Poll Analysis</i>).",
+      "hash": "130d6b29f3bc"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Follow up on results</b> by adding more phases to the timeline for evaluation, comments, or volunteering opportunities. For example, a <i>Poll Evaluation</i> phase can help gather qualitative insights to better understand the “why” behind the responses.",
+      "hash": "e4d7d803cb74"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>Important notes:</b>",
+      "hash": "6d35246af61c"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<b>Poll answers can only be deleted by deleting all participation data: </b>Go to the<b> General</b> project settings of your project &gt; <b>Data </b>tab &gt; select <b>Reset all participation -</b> then all data including your test poll answers will be deleted before the project goes live. If you wish to delete individual poll results<b> </b>please contact us the support team.",
+      "hash": "45bf434f6d00"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>Poll analysis is not built-in</b>: the platform does not currently offer analytics features for polls.",
+      "hash": "27e7573f58e5"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Reports are not supported</b>: you cannot use the Report Builder for polls.",
+      "hash": "f8013efa7be8"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Choice requirements</b>: There is no setting for a minimum number of answer choices. Users can select either one or multiple options depending on the question type.",
+      "hash": "cc8529a5d17b"
+    }
+  }
+}

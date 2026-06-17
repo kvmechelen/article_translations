@@ -1,0 +1,198 @@
+{
+  "article_id": "662663",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_249462cc32\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_20c678fc98\">@@body:0003@@</h1><p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\">@@body:0005@@</p><ol><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li></ol><h1 id=\"h_bd0b7021b0\">@@body:0008@@</h1><h2 id=\"h_56bb93ffbf\">@@body:0009@@</h2><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<h3 id=\"h_aee1b61372\">@@body:0011@@</h3><p class=\"no-margin\">@@body:0012@@</p><pre><code>&lt;https://yourplatform.govocal.com/projects?_escaped_fragment_=&gt;</code></pre><p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\"></p>\n<h3 id=\"h_f2c102b13e\">@@body:0014@@</h3><p class=\"no-margin\">@@body:0015@@</p><ul><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li></ul><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<h3 id=\"h_109ed27b32\">@@body:0031@@</h3><p class=\"no-margin\">@@body:0032@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0033@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_d4b8357341\">@@body:0034@@</h2><p class=\"no-margin\">@@body:0035@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0036@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "How to archive a Go Vocal platform",
+      "hash": "4c347b3106c3"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Why you may need to archive your platform",
+      "hash": "7be065e70c4b"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "For compliance or legal reasons, you may need to archive your Go Vocal platform and store a copy of its content. This guide explains how to configure your archiving tool to work correctly with Go Vocal.",
+      "hash": "0d34674d9072"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Why archiving requires extra configuration",
+      "hash": "fcb0e054d3b6"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Go Vocal's frontend is a single-page application (SPA) built with JavaScript. Most web archiving tools use a scraper that visits every page and saves the HTML. However, many of these scrapers don't execute JavaScript — or don't execute it fully enough — which results in blank pages being saved.",
+      "hash": "04c46d7a456a"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "If this is the case with your scraping software, to solve this, Go Vocal provides a <b>prerendering service</b> that can serve fully rendered, static HTML to tools that identify themselves as crawlers. When the platform detects that a request comes from an archiving tool, it:",
+      "hash": "57d5776b0c90"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Serves a <b>pure HTML version</b> of the page instead of the JavaScript-based SPA.",
+      "hash": "fc1d4c0de6b8"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Bypasses the cookie consent manager</b>, so the actual page content is visible without user interaction.",
+      "hash": "567e69bb715b"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "How to configure your archiving tool",
+      "hash": "4902b4d48a19"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "A. Obtaining prerendered pages",
+      "hash": "6cf2efb0adc3"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "You can trigger the prerendered HTML version of the platform in one of two ways.",
+      "hash": "ca97604e2526"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Option 1: Add the <code>_escaped_fragment_</code> URL parameter",
+      "hash": "606b1e943643"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Configure your archiving tool to append <code>_escaped_fragment_</code> as a query parameter to all your requests. For example:",
+      "hash": "625168a398fb"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "When the platform detects this parameter, it will serve a fully rendered HTML version of the page.",
+      "hash": "4bec55780f8a"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Option 2: Use a recognized User-Agent string",
+      "hash": "7f7066d416a1"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Make sure your archiving tool sends a User-Agent header that is recognized by Go Vocal. The following archiving tools are currently supported:",
+      "hash": "0cdea7d33269"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://archiefweb.nl/\" target=\"_blank\">Archiefweb</a>",
+      "hash": "419d4bb48764"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://webrecorder.net/browsertrix\" target=\"_blank\">Browsertrix</a>",
+      "hash": "422f3961219a"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://commoncrawl.org/\" target=\"_blank\">Common Crawl</a> (CCBot)",
+      "hash": "10a9b2354c71"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://github.com/internetarchive/heritrix3\" target=\"_blank\">Heritrix</a> (also used by Archive-It and many national libraries)",
+      "hash": "d82dfa45cae3"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://www.httrack.com/\" target=\"_blank\">HTTrack</a>",
+      "hash": "71be2c6d94be"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://archive.org/\" target=\"_blank\">Internet Archive / Wayback Machine</a>",
+      "hash": "287c700ea394"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://www.mirrorweb.com/\" target=\"_blank\">MirrorWeb</a>",
+      "hash": "2f18bbb33815"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://www.screamingfrog.co.uk/seo-spider/\" target=\"_blank\">Screaming Frog SEO Spider</a>",
+      "hash": "60c9bf626f09"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "PageFreezer",
+      "hash": "4fddfedde48d"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "British Library web archive",
+      "hash": "f5e53dabf84f"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Bibliothèque nationale de France web archive",
+      "hash": "f6b484f9faaa"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "dip Webarchief",
+      "hash": "9636e04bc5fd"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Capsis",
+      "hash": "05b39cefa580"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "User-Agent matching is <b>case-insensitive</b>.",
+      "hash": "168dc2c7453d"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "💡 <b>Tip:</b> If your archiving software allows you to set a custom User-Agent string, setting it to include the name of one of the supported tools above is the easiest way to get it working.",
+      "hash": "1a06976c3f60"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "What if my tool isn't recognized?",
+      "hash": "28e8f734d83e"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "If your archiving tool uses a User-Agent string that is not in the list above and you cannot change it, use Option 1 instead — appending <code>_escaped_fragment_</code> to your request URLs.",
+      "hash": "bd2a4fac08bd"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "If neither option works for your setup, please <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">contact support</a> and we can look into adding your tool's User-Agent to our recognized list.",
+      "hash": "f630e7cceb4d"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "B. Covering all public facing content using <code>/sitemap.xml</code>",
+      "hash": "b210423df239"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "The platform contains some dynamic content, for example the “Load more” buttons in longer lists of projects or inputs. If your web archiving tool is configured to only act like a spider - this means it explores the platform merely by following internal links - the content behind these dynamic elements will not be discovered, as the buttons are not functional in the prerendered pages.",
+      "hash": "c364c3ba990b"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "To solve this, make sure your archiving tool makes use of the <code>/sitemap.xml</code> file served from your platform. It lists all pages, to make the archive complete. Most scraping software will do this out of the box, but it’s worthwhile to check.",
+      "hash": "1b308d6b14a5"
+    }
+  }
+}

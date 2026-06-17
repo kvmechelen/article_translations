@@ -1,0 +1,1357 @@
+{
+  "article_id": "527549",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Changelog",
+      "source_hash": "ead07c84baac",
+      "target": "Changelog",
+      "translated_from_hash": "ead07c84baac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "A Product Change Log is a record of product updates that helps users stay informed about new features, improvements, and fixes.",
+      "source_hash": "4d7cb2c9fefe",
+      "target": "A Product Change Log is a record of product updates that helps users stay informed about new features, improvements, and fixes.",
+      "translated_from_hash": "4d7cb2c9fefe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "<b>May 2026</b>",
+      "source_hash": "f468de314d63",
+      "target": "<b>May 2026</b>",
+      "translated_from_hash": "f468de314d63",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "<b>Small improvements of the month</b>",
+      "source_hash": "5b5b4a65a32e",
+      "target": "<b>Small improvements of the month</b>",
+      "translated_from_hash": "5b5b4a65a32e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Profile URLs now use anonymous IDs.</b> Profile pages are only visible for community members who've posted publicly. @mentions only link through when that profile is visible. Community members stay in control of their online presence. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more</a>",
+      "source_hash": "b9d79e8edebb",
+      "target": "<b>Profile URLs now use anonymous IDs.</b> Profile pages are only visible for community members who've posted publicly. @mentions only link through when that profile is visible. Community members stay in control of their online presence. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more</a>",
+      "translated_from_hash": "b9d79e8edebb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Admins and moderators now get notified when a proposal expires without reaching threshold.</b> When threshold is reached, voting stays open with a countdown to the original expiration date. No proposal falls through the cracks, and momentum keeps building. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">📖 Learn more</a>",
+      "source_hash": "29bfa79c817a",
+      "target": "<b>Admins and moderators now get notified when a proposal expires without reaching threshold.</b> When threshold is reached, voting stays open with a countdown to the original expiration date. No proposal falls through the cracks, and momentum keeps building. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">📖 Learn more</a>",
+      "translated_from_hash": "29bfa79c817a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Survey submission IDs can now be hidden on request.</b> Contact our support team to remove the response ID shown after submission. Collect responses without exposing metadata community members don't need to see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">📖 Learn more</a>",
+      "source_hash": "d45901fcaa23",
+      "target": "<b>Survey submission IDs can now be hidden on request.</b> Contact our support team to remove the response ID shown after submission. Collect responses without exposing metadata community members don't need to see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">📖 Learn more</a>",
+      "translated_from_hash": "d45901fcaa23",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>GIFs are now supported in the email editor.</b> Drop them directly into your campaigns. Add movement to your messages without leaving the platform. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">📖 Learn more</a>",
+      "source_hash": "8323de34c2c8",
+      "target": "<b>GIFs are now supported in the email editor.</b> Drop them directly into your campaigns. Add movement to your messages without leaving the platform. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">📖 Learn more</a>",
+      "translated_from_hash": "8323de34c2c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Images across the platform now display with less cropping.</b> Banners and photos appear closer to how they were uploaded. What you design is what community members see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527652-what-are-the-recommended-dimensions-and-sizes-of-the-platform-images\" target=\"_blank\">📖 Learn more</a>",
+      "source_hash": "9001a86809c4",
+      "target": "<b>Images across the platform now display with less cropping.</b> Banners and photos appear closer to how they were uploaded. What you design is what community members see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527652-what-are-the-recommended-dimensions-and-sizes-of-the-platform-images\" target=\"_blank\">📖 Learn more</a>",
+      "translated_from_hash": "9001a86809c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>April 2026</b>",
+      "source_hash": "ce8283305054",
+      "target": "<b>April 2026</b>",
+      "translated_from_hash": "ce8283305054",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>FormSync 2.0: Bringing offline voices into your analysis</b>",
+      "source_hash": "34792c7e8db0",
+      "target": "<b>FormSync 2.0: Bringing offline voices into your analysis</b>",
+      "translated_from_hash": "34792c7e8db0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Not everyone participates online — and the voices missing from your digital consultation are often the ones that matter most for representativeness. FormSync bridges that gap. Download a printable version of any survey, collect responses in the field, scan and upload them — and every response lands in the platform alongside your digital input, ready for analysis. With improvement of 95%+ scanning accuracy, bulk review tools, and skip logic in printed forms, offline input is just as easy to manage as digital. Participation specialists are confident they've genuinely heard from their whole community — not just the part of it that was online. And when people who showed up on paper see themselves in the outcome, trust follows.",
+      "source_hash": "d66ed76e384c",
+      "target": "Not everyone participates online — and the voices missing from your digital consultation are often the ones that matter most for representativeness. FormSync bridges that gap. Download a printable version of any survey, collect responses in the field, scan and upload them — and every response lands in the platform alongside your digital input, ready for analysis. With improvement of 95%+ scanning accuracy, bulk review tools, and skip logic in printed forms, offline input is just as easy to manage as digital. Participation specialists are confident they've genuinely heard from their whole community — not just the part of it that was online. And when people who showed up on paper see themselves in the outcome, trust follows.",
+      "translated_from_hash": "d66ed76e384c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about the FormSync tool here</a>",
+      "source_hash": "bd17469da716",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about the FormSync tool here</a>",
+      "translated_from_hash": "bd17469da716",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Scheduling: Plan your consultation in advance, let the platform publish it</b>",
+      "source_hash": "be6d7b0281fa",
+      "target": "<b>Scheduling: Plan your consultation in advance, let the platform publish it</b>",
+      "translated_from_hash": "be6d7b0281fa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Planning and managing consultations just got a whole lot easier. With our new scheduling capabilities, you can now plan your entire participation process in advance — from publishing your project, to setting the exact opening and closing times of each phase, to scheduling your email campaigns. You can even prepare and review phase content in the background before making it live. Everything is clearly queued and runs automatically at the right moment, so there’s no need for last-minute manual actions. The result? More control, fewer time-sensitive tasks, and a smoother, more reliable way to run your consultations from start to finish.",
+      "source_hash": "7a7ea9608b78",
+      "target": "Planning and managing consultations just got a whole lot easier. With our new scheduling capabilities, you can now plan your entire participation process in advance — from publishing your project, to setting the exact opening and closing times of each phase, to scheduling your email campaigns. You can even prepare and review phase content in the background before making it live. Everything is clearly queued and runs automatically at the right moment, so there’s no need for last-minute manual actions. The result? More control, fewer time-sensitive tasks, and a smoother, more reliable way to run your consultations from start to finish.",
+      "translated_from_hash": "7a7ea9608b78",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "📖 Learn more about:",
+      "source_hash": "ebd919c3787d",
+      "target": "📖 Learn more about:",
+      "translated_from_hash": "ebd919c3787d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Scheduling projects here</a>",
+      "source_hash": "7e31653bb31f",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Scheduling projects here</a>",
+      "translated_from_hash": "7e31653bb31f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">Scheduling email campaigns here</a>",
+      "source_hash": "643c09c14f93",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527644-manual-email-campaigns-on-the-platform\" target=\"_blank\">Scheduling email campaigns here</a>",
+      "translated_from_hash": "643c09c14f93",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Keeping phase description in draft here</a>",
+      "source_hash": "7b3443a8b270",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Keeping phase description in draft here</a>",
+      "translated_from_hash": "7b3443a8b270",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Other improvements:</b>",
+      "source_hash": "61fb18717e89",
+      "target": "<b>Other improvements:</b>",
+      "translated_from_hash": "61fb18717e89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Improved seat management interface:</b> Easily manage seats and billing details with a clearer, more intuitive overview. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about seat management view here</a>",
+      "source_hash": "18bd9ead9c4d",
+      "target": "<b>Improved seat management interface:</b> Easily manage seats and billing details with a clearer, more intuitive overview. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about seat management view here</a>",
+      "translated_from_hash": "18bd9ead9c4d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>New user group rule to target roles:</b> Make segmentation and management of users even more powerful creating user groups based on user roles <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user groups here</a>",
+      "source_hash": "328b3ac5c4f1",
+      "target": "<b>New user group rule to target roles:</b> Make segmentation and management of users even more powerful creating user groups based on user roles <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user groups here</a>",
+      "translated_from_hash": "328b3ac5c4f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>New visit stats API endpoint:</b> Access visitor data more easily and connect it to your existing reporting tools. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527620-what-data-can-you-export-from-your-platform\" target=\"_blank\">📖 Learn more about our API end points here</a>",
+      "source_hash": "1363edf44d30",
+      "target": "<b>New visit stats API endpoint:</b> Access visitor data more easily and connect it to your existing reporting tools. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527620-what-data-can-you-export-from-your-platform\" target=\"_blank\">📖 Learn more about our API end points here</a>",
+      "translated_from_hash": "1363edf44d30",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Safer project setup:</b> Participation methods can no longer be changed once inputs are collected, helping you maintain data consistency and avoid bugs from changing methods. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">📖 Learn more about our participation methods here</a>",
+      "source_hash": "f6f8a8de9c15",
+      "target": "<b>Safer project setup:</b> Participation methods can no longer be changed once inputs are collected, helping you maintain data consistency and avoid bugs from changing methods. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">📖 Learn more about our participation methods here</a>",
+      "translated_from_hash": "f6f8a8de9c15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Easier project manager invites, to give your teams more autonomy:</b> Project managers and folder managers can now invite new project and folder managers directly by email inside their project/folder. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527642-different-roles-and-permissions-on-the-platform\" target=\"_blank\">📖 Learn more about roles and permissions here</a>",
+      "source_hash": "3c8235fc503e",
+      "target": "<b>Easier project manager invites, to give your teams more autonomy:</b> Project managers and folder managers can now invite new project and folder managers directly by email inside their project/folder. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527642-different-roles-and-permissions-on-the-platform\" target=\"_blank\">📖 Learn more about roles and permissions here</a>",
+      "translated_from_hash": "3c8235fc503e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Imported Scanned Forms now support logic in surveys.</b>",
+      "source_hash": "2a9809fa3c1e",
+      "target": "<b>Imported Scanned Forms now support logic in surveys.</b>",
+      "translated_from_hash": "2a9809fa3c1e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "March 2026",
+      "source_hash": "39e5e0b26060",
+      "target": "March 2026",
+      "translated_from_hash": "39e5e0b26060",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Run deliberation at scale — and bring every voice into focus</b>",
+      "source_hash": "c19df61df052",
+      "target": "<b>Run deliberation at scale — and bring every voice into focus</b>",
+      "translated_from_hash": "c19df61df052",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Large consultations shouldn't mean lost voices. These two new features give you everything you need to turn volume into genuine understanding, and understanding into confident decisions.",
+      "source_hash": "2a039e0a24e5",
+      "target": "Large consultations shouldn't mean lost voices. These two new features give you everything you need to turn volume into genuine understanding, and understanding into confident decisions.",
+      "translated_from_hash": "2a039e0a24e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Perspectives: Help your community to navigate and understand collective ideas with the new auto-tagging and feed view features</b>",
+      "source_hash": "f0868c08ea72",
+      "target": "<b>Perspectives: Help your community to navigate and understand collective ideas with the new auto-tagging and feed view features</b>",
+      "translated_from_hash": "f0868c08ea72",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Turn volume into understanding with Perspectives! When contributions pile up, perspectives steps in — using AI-powered auto-tagging to automatically cluster ideas into themes and sub-themes so community members can navigate the conversation and make sense of the collective discussion. For administrators and project managers, it cuts manual tagging time and surfaces the patterns that matter.",
+      "source_hash": "60bdc053e70d",
+      "target": "Turn volume into understanding with Perspectives! When contributions pile up, perspectives steps in — using AI-powered auto-tagging to automatically cluster ideas into themes and sub-themes so community members can navigate the conversation and make sense of the collective discussion. For administrators and project managers, it cuts manual tagging time and surfaces the patterns that matter.",
+      "translated_from_hash": "60bdc053e70d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>💡 Best used when your project exceeds ~100 contributions.</b>",
+      "source_hash": "caeb48e305a2",
+      "target": "<b>💡 Best used when your project exceeds ~100 contributions.</b>",
+      "translated_from_hash": "caeb48e305a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">📖 Learn more on how to set up Perspectives here</a>",
+      "source_hash": "89858b50c7b2",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">📖 Learn more on how to set up Perspectives here</a>",
+      "translated_from_hash": "89858b50c7b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Map where your community stands with Common Ground (Beta)</b>",
+      "source_hash": "98469d5d2dd0",
+      "target": "<b>Map where your community stands with Common Ground (Beta)</b>",
+      "translated_from_hash": "98469d5d2dd0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Distill large volumes of contributions into concise trade-off statements that participants simply react to — agree, unsure, or disagree — bridging open ideation with deeper deliberation.",
+      "source_hash": "c8823aff36ff",
+      "target": "Distill large volumes of contributions into concise trade-off statements that participants simply react to — agree, unsure, or disagree — bridging open ideation with deeper deliberation.",
+      "translated_from_hash": "c8823aff36ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Results are visualized in real time, giving participants and admins a transparent map of where opinions align and where they diverge — a clear foundation for decision-makers to act with confidence.",
+      "source_hash": "7dea4d85e705",
+      "target": "Results are visualized in real time, giving participants and admins a transparent map of where opinions align and where they diverge — a clear foundation for decision-makers to act with confidence.",
+      "translated_from_hash": "7dea4d85e705",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>💡 Best used after ideation project.</b>",
+      "source_hash": "cf5a9386a266",
+      "target": "<b>💡 Best used after ideation project.</b>",
+      "translated_from_hash": "cf5a9386a266",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/609603-finding-common-ground\" target=\"_blank\">📖 Learn more about Common Ground recommendations and setup here</a>",
+      "source_hash": "6c39f7656699",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/609603-finding-common-ground\" target=\"_blank\">📖 Learn more about Common Ground recommendations and setup here</a>",
+      "translated_from_hash": "6c39f7656699",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Other improvements:</b>",
+      "source_hash": "61fb18717e89",
+      "target": "<b>Other improvements:</b>",
+      "translated_from_hash": "61fb18717e89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "<b>FormSync</b> <b>to bring your offline input online —</b> now powered exclusively by Claude for more precise, reliable results. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about FormSync here</a>",
+      "source_hash": "2d288c42a2fd",
+      "target": "<b>FormSync</b> <b>to bring your offline input online —</b> now powered exclusively by Claude for more precise, reliable results. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about FormSync here</a>",
+      "translated_from_hash": "2d288c42a2fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>Word export for phase insights</b> — download reports directly as Word files from the report builder. <b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">📖</a></b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\"> Learn more about building reports here</a>",
+      "source_hash": "d9e5c9089b18",
+      "target": "<b>Word export for phase insights</b> — download reports directly as Word files from the report builder. <b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">📖</a></b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\"> Learn more about building reports here</a>",
+      "translated_from_hash": "d9e5c9089b18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "<b>Weekly digest email</b> — admins and project managers can now receive a weekly summary of inputs awaiting screening, with a direct link to the input manager. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">📖Learn more about automatic email notification here</a>",
+      "source_hash": "9e44d2d336e9",
+      "target": "<b>Weekly digest email</b> — admins and project managers can now receive a weekly summary of inputs awaiting screening, with a direct link to the input manager. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">📖Learn more about automatic email notification here</a>",
+      "translated_from_hash": "9e44d2d336e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<b>Enhanced user profile privacy</b> — Profiles are now private by default, with URLs featuring random numbers instead of names, ensuring better privacy and enhancing trust. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more about managing the user profile here</a>",
+      "source_hash": "64e1e46b66f9",
+      "target": "<b>Enhanced user profile privacy</b> — Profiles are now private by default, with URLs featuring random numbers instead of names, ensuring better privacy and enhancing trust. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527562-how-to-manage-your-user-account\" target=\"_blank\">📖 Learn more about managing the user profile here</a>",
+      "translated_from_hash": "64e1e46b66f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>User tab update</b> — project managers and folder managers are now listed separately for easier management. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user management here</a>",
+      "source_hash": "61b40e5f1798",
+      "target": "<b>User tab update</b> — project managers and folder managers are now listed separately for easier management. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user management here</a>",
+      "translated_from_hash": "61b40e5f1798",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "A<b>ArcGIS upgraded</b> from 4.28 to 4.34 for improved performance. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence#h_f4dd4cdd19\" target=\"_blank\">📖 Learn more about the ESRI add on here</a>",
+      "source_hash": "6ad203f27eca",
+      "target": "A<b>ArcGIS upgraded</b> from 4.28 to 4.34 for improved performance. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527573-map-consultations-tapping-into-your-community-s-geospatial-intelligence#h_f4dd4cdd19\" target=\"_blank\">📖 Learn more about the ESRI add on here</a>",
+      "translated_from_hash": "6ad203f27eca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "February 2026",
+      "source_hash": "fc437294ca9e",
+      "target": "February 2026",
+      "translated_from_hash": "fc437294ca9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "<b>Homepage banner customization</b>",
+      "source_hash": "2c2294ac4507",
+      "target": "<b>Homepage banner customization</b>",
+      "translated_from_hash": "2c2294ac4507",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "This update ensures your homepage banner looks perfect across all devices, eliminating the frustration of cropped images when logged in. You now have the flexibility to customize the banner’s size for desktop, tablet, and phone screens, delivering a consistent, professional look for all visitors and users.",
+      "source_hash": "451701f6c64f",
+      "target": "This update ensures your homepage banner looks perfect across all devices, eliminating the frustration of cropped images when logged in. You now have the flexibility to customize the banner’s size for desktop, tablet, and phone screens, delivering a consistent, professional look for all visitors and users.",
+      "translated_from_hash": "451701f6c64f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527618-customizing-the-homepage\" target=\"_blank\">Learn more about the homepage builder and banner images here</a>",
+      "source_hash": "4921e65def25",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527618-customizing-the-homepage\" target=\"_blank\">Learn more about the homepage builder and banner images here</a>",
+      "translated_from_hash": "4921e65def25",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "<b>Other improvements:</b>",
+      "source_hash": "61fb18717e89",
+      "target": "<b>Other improvements:</b>",
+      "translated_from_hash": "61fb18717e89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>Text Box editor revamp:</b> In all text boxes on the platform you can now easily add alt text to images for better accessibility and enjoy improved formatting when pasting content from Google Docs or Microsoft Word. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527561-using-the-text-box-editor\" target=\"_blank\">Learn more about the text box editor here</a>",
+      "source_hash": "d2b50b6bd3c9",
+      "target": "<b>Text Box editor revamp:</b> In all text boxes on the platform you can now easily add alt text to images for better accessibility and enjoy improved formatting when pasting content from Google Docs or Microsoft Word. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527561-using-the-text-box-editor\" target=\"_blank\">Learn more about the text box editor here</a>",
+      "translated_from_hash": "d2b50b6bd3c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "We’ve implemented several <b>accessibility improvements</b> as part of our regular platform audit per WCAG 2.2 AA standards. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527640-accessibility-on-the-govocal-platform\" target=\"_blank\">📖 Learn more about our accessibility standard here</a>",
+      "source_hash": "843ee9df1c07",
+      "target": "We’ve implemented several <b>accessibility improvements</b> as part of our regular platform audit per WCAG 2.2 AA standards. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527640-accessibility-on-the-govocal-platform\" target=\"_blank\">📖 Learn more about our accessibility standard here</a>",
+      "translated_from_hash": "843ee9df1c07",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "January 2026",
+      "source_hash": "3ba37c617eff",
+      "target": "January 2026",
+      "translated_from_hash": "3ba37c617eff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Optional &amp; deferred registration for Surveys, Idea Submission, and Proposals",
+      "source_hash": "f582eba40ae9",
+      "target": "Optional &amp; deferred registration for Surveys, Idea Submission, and Proposals",
+      "translated_from_hash": "f582eba40ae9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "We've removed the barrier of mandatory registration by allowing participants to engage immediately, making it easier for them to contribute without any upfront commitment. Previously, this was only available during the survey phase, but now users can submit ideas and proposals without registering first. This feature helps increase participation rates, especially for large-scale projects, by enabling users to get involved right away and create an account later. By deferring the registration process until after submission, we maintain data integrity and ensure a seamless experience while still capturing the necessary information for legitimacy and fraud detection.",
+      "source_hash": "ab61afaa5bb4",
+      "target": "We've removed the barrier of mandatory registration by allowing participants to engage immediately, making it easier for them to contribute without any upfront commitment. Previously, this was only available during the survey phase, but now users can submit ideas and proposals without registering first. This feature helps increase participation rates, especially for large-scale projects, by enabling users to get involved right away and create an account later. By deferring the registration process until after submission, we maintain data integrity and ensure a seamless experience while still capturing the necessary information for legitimacy and fraud detection.",
+      "translated_from_hash": "ab61afaa5bb4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">📖 Learn more about our participation options here</a>",
+      "source_hash": "e6ce0f3b60ec",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">📖 Learn more about our participation options here</a>",
+      "translated_from_hash": "e6ce0f3b60ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Method dashboards",
+      "source_hash": "6ab00b0044c1",
+      "target": "Method dashboards",
+      "translated_from_hash": "6ab00b0044c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "We’ve introduced pre-populated, phase-specific dashboards to streamline project management. This feature allows project managers and admins to instantly access key participation metrics, demographics, and engagement trends, improving the management and reporting of each project phase. It simplifies tracking progress and helps identify representativeness gaps in real-time. With easy export options, you can share the insights with stakeholders or include them in reports.",
+      "source_hash": "77c4e9eb52f0",
+      "target": "We’ve introduced pre-populated, phase-specific dashboards to streamline project management. This feature allows project managers and admins to instantly access key participation metrics, demographics, and engagement trends, improving the management and reporting of each project phase. It simplifies tracking progress and helps identify representativeness gaps in real-time. With easy export options, you can share the insights with stakeholders or include them in reports.",
+      "translated_from_hash": "77c4e9eb52f0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">📖 Learn more about managing phases here</a>",
+      "source_hash": "c1e5d86d40c8",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">📖 Learn more about managing phases here</a>",
+      "translated_from_hash": "c1e5d86d40c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Other improvements",
+      "source_hash": "d0ff30c08491",
+      "target": "Other improvements",
+      "translated_from_hash": "d0ff30c08491",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>User deletion flexibility</b>: You can now choose whether to delete a user's past participation or keep it anonymous. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">Learn more about deleting users here</a>",
+      "source_hash": "872944dc495d",
+      "target": "<b>User deletion flexibility</b>: You can now choose whether to delete a user's past participation or keep it anonymous. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">Learn more about deleting users here</a>",
+      "translated_from_hash": "872944dc495d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "<b>Custom input tags on project level</b>: You can now configure tags for ideas at the project level, offering full customizability for each project. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about input tags here</a>",
+      "source_hash": "d64bb6dbcc3a",
+      "target": "<b>Custom input tags on project level</b>: You can now configure tags for ideas at the project level, offering full customizability for each project. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about input tags here</a>",
+      "translated_from_hash": "d64bb6dbcc3a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "December 2025",
+      "source_hash": "1c2e7d7242d4",
+      "target": "December 2025",
+      "translated_from_hash": "1c2e7d7242d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Enhanced registration flow for simplicity and speed",
+      "source_hash": "e8e6006511b7",
+      "target": "Enhanced registration flow for simplicity and speed",
+      "translated_from_hash": "e8e6006511b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "We’ve simplified the user registration process to make it faster and more user-friendly. This update reduces confusion and enhances the overall experience by guiding users through a clear, streamlined flow.",
+      "source_hash": "c2fec4f04975",
+      "target": "We’ve simplified the user registration process to make it faster and more user-friendly. This update reduces confusion and enhances the overall experience by guiding users through a clear, streamlined flow.",
+      "translated_from_hash": "c2fec4f04975",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Now, users are asked to enter their email first, and the system automatically checks if it’s linked to an existing account, speeding up the process and ensuring a smoother registration.",
+      "source_hash": "d980bbc018f6",
+      "target": "Now, users are asked to enter their email first, and the system automatically checks if it’s linked to an existing account, speeding up the process and ensuring a smoother registration.",
+      "translated_from_hash": "d980bbc018f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Learn more about the login/registration flow</a>",
+      "source_hash": "3071ad59ed91",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Learn more about the login/registration flow</a>",
+      "translated_from_hash": "3071ad59ed91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Customize your project and input tags for better categorization",
+      "source_hash": "d3267a1f489e",
+      "target": "Customize your project and input tags for better categorization",
+      "translated_from_hash": "d3267a1f489e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Now you have more control over organizing and managing your projects. Platform tags can be fully customized with descriptions, making it easier to classify, filter, and analyze your content.",
+      "source_hash": "bcffc6d9b753",
+      "target": "Now you have more control over organizing and managing your projects. Platform tags can be fully customized with descriptions, making it easier to classify, filter, and analyze your content.",
+      "translated_from_hash": "bcffc6d9b753",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Admins can edit, delete, and define default tags, offering enhanced flexibility and ensuring your content is better categorized.",
+      "source_hash": "87a96d11ec03",
+      "target": "Admins can edit, delete, and define default tags, offering enhanced flexibility and ensuring your content is better categorized.",
+      "translated_from_hash": "87a96d11ec03",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about Tags</a>",
+      "source_hash": "67614ae2a95a",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about Tags</a>",
+      "translated_from_hash": "67614ae2a95a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "Easier idea filtering for voting phases",
+      "source_hash": "17f988719a0f",
+      "target": "Easier idea filtering for voting phases",
+      "translated_from_hash": "17f988719a0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "Participants can now filter ideas by specific topics during any voting phase, based on tags selected by them. This makes it easier for participants to find relevant ideas, while also enabling admins to analyze and prioritize submissions with ease.",
+      "source_hash": "c8e911555755",
+      "target": "Participants can now filter ideas by specific topics during any voting phase, based on tags selected by them. This makes it easier for participants to find relevant ideas, while also enabling admins to analyze and prioritize submissions with ease.",
+      "translated_from_hash": "c8e911555755",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Learn more about voting</a>",
+      "source_hash": "c032c42ce0c1",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Learn more about voting</a>",
+      "translated_from_hash": "c032c42ce0c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "November 2025",
+      "source_hash": "afddde14e72c",
+      "target": "November 2025",
+      "translated_from_hash": "afddde14e72c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "Attach your files to the AI Analysis",
+      "source_hash": "d96662a057b0",
+      "target": "Attach your files to the AI Analysis",
+      "translated_from_hash": "d96662a057b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "Bring your offline input into the heart of your analysis alongside your digital participation. <b>Attach files to AI Analysis</b> so that no input is left behind.",
+      "source_hash": "e25a8c6c9336",
+      "target": "Bring your offline input into the heart of your analysis alongside your digital participation. <b>Attach files to AI Analysis</b> so that no input is left behind.",
+      "translated_from_hash": "e25a8c6c9336",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527580-ai-analysis\" target=\"_blank\">Learn more about the AI analysis tool</a>",
+      "source_hash": "e353bbe53751",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527580-ai-analysis\" target=\"_blank\">Learn more about the AI analysis tool</a>",
+      "translated_from_hash": "e353bbe53751",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "Transcribe your audio files",
+      "source_hash": "b447c7052bab",
+      "target": "Transcribe your audio files",
+      "translated_from_hash": "b447c7052bab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "Turn meetings and conversations into structured insights in seconds. Just upload audio and instantly explore clear, AI-powered transcripts you can act on.",
+      "source_hash": "7bb2e4cfcd35",
+      "target": "Turn meetings and conversations into structured insights in seconds. Just upload audio and instantly explore clear, AI-powered transcripts you can act on.",
+      "translated_from_hash": "7bb2e4cfcd35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "📖<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527548-360-input-managing-your-files\" target=\"_blank\"> Learn more about the 360 input tab</a>",
+      "source_hash": "e535178652cd",
+      "target": "📖<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527548-360-input-managing-your-files\" target=\"_blank\"> Learn more about the 360 input tab</a>",
+      "translated_from_hash": "e535178652cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "Get real-time community sentiment with the Community Monitor",
+      "source_hash": "43123ddcc4d6",
+      "target": "Get real-time community sentiment with the Community Monitor",
+      "translated_from_hash": "43123ddcc4d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "Track your community’s satisfaction all year long, turn snapshots into strategy, and avoid costly policy missteps by staying in tune with your residents.",
+      "source_hash": "c85f21da285b",
+      "target": "Track your community’s satisfaction all year long, turn snapshots into strategy, and avoid costly policy missteps by staying in tune with your residents.",
+      "translated_from_hash": "c85f21da285b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527552-community-monitoring-resident-satisfaction-survey\" target=\"_blank\">Learn more about the Community Monitor</a>",
+      "source_hash": "df7497dfb622",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527552-community-monitoring-resident-satisfaction-survey\" target=\"_blank\">Learn more about the Community Monitor</a>",
+      "translated_from_hash": "df7497dfb622",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "A content builder for folders",
+      "source_hash": "1bd124baf8e1",
+      "target": "A content builder for folders",
+      "translated_from_hash": "1bd124baf8e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "Make your folder pages well branded and clear for your participants. You can fully customize your folder pages using the <b>content builder</b>.",
+      "source_hash": "5ccfd5db8165",
+      "target": "Make your folder pages well branded and clear for your participants. You can fully customize your folder pages using the <b>content builder</b>.",
+      "translated_from_hash": "5ccfd5db8165",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0091": {
+      "field": "body",
+      "source": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Learn more about folders</a>",
+      "source_hash": "c4956eacc1da",
+      "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Learn more about folders</a>",
+      "translated_from_hash": "c4956eacc1da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0092": {
+      "field": "body",
+      "source": "Other improvements",
+      "source_hash": "d0ff30c08491",
+      "target": "Other improvements",
+      "translated_from_hash": "d0ff30c08491",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0093": {
+      "field": "body",
+      "source": "<b>Geolocalization for participants. </b>Give your participants better geospatial context: Allow them to show their <b>location on mapping ideation projects</b> (mobile-only). 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Learn more about mapping ideation projects</a>",
+      "source_hash": "816d11e35a09",
+      "target": "<b>Geolocalization for participants. </b>Give your participants better geospatial context: Allow them to show their <b>location on mapping ideation projects</b> (mobile-only). 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Learn more about mapping ideation projects</a>",
+      "translated_from_hash": "816d11e35a09",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0094": {
+      "field": "body",
+      "source": "Define the minimum and maximum number of tags that a user can select. New form builder setting. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about tags</a>",
+      "source_hash": "dbf431a01449",
+      "target": "Define the minimum and maximum number of tags that a user can select. New form builder setting. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about tags</a>",
+      "translated_from_hash": "dbf431a01449",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0095": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0096": {
+      "field": "body",
+      "source": "October 2025",
+      "source_hash": "38568523e759",
+      "target": "October 2025",
+      "translated_from_hash": "38568523e759",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0097": {
+      "field": "body",
+      "source": "🆕 New features",
+      "source_hash": "6c3be3fc4992",
+      "target": "🆕 New features",
+      "translated_from_hash": "6c3be3fc4992",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0098": {
+      "field": "body",
+      "source": "<b>1. 360 Input Releases:</b>",
+      "source_hash": "d1541fd2dfd9",
+      "target": "<b>1. 360 Input Releases:</b>",
+      "translated_from_hash": "d1541fd2dfd9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0099": {
+      "field": "body",
+      "source": "The new <b>360 Inputs</b> tab now has a few new tools in its belt:",
+      "source_hash": "9f0b54169bc6",
+      "target": "The new <b>360 Inputs</b> tab now has a few new tools in its belt:",
+      "translated_from_hash": "9f0b54169bc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0100": {
+      "field": "body",
+      "source": "<b>AI-generated descriptions</b> for files, making it easier to understand file content.",
+      "source_hash": "24bd13de6277",
+      "target": "<b>AI-generated descriptions</b> for files, making it easier to understand file content.",
+      "translated_from_hash": "24bd13de6277",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0101": {
+      "field": "body",
+      "source": "✨ Improvements",
+      "source_hash": "c5e804b4835f",
+      "target": "✨ Improvements",
+      "translated_from_hash": "c5e804b4835f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0102": {
+      "field": "body",
+      "source": "<b>1. Form Builders (Input, Survey, Proposal):</b>",
+      "source_hash": "8f16a6d498e5",
+      "target": "<b>1. Form Builders (Input, Survey, Proposal):</b>",
+      "translated_from_hash": "8f16a6d498e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0103": {
+      "field": "body",
+      "source": "Drag and drop fields anywhere in the form for faster layout in surveys, input forms, and proposal forms.",
+      "source_hash": "c0e4fb4d718f",
+      "target": "Drag and drop fields anywhere in the form for faster layout in surveys, input forms, and proposal forms.",
+      "translated_from_hash": "c0e4fb4d718f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0104": {
+      "field": "body",
+      "source": "Edit and remove previously locked question types and pages, except for the title question (which cannot be deleted). You can now also move the title question around and edit description, pages, and image questions.",
+      "source_hash": "7d0d4f485c5a",
+      "target": "Edit and remove previously locked question types and pages, except for the title question (which cannot be deleted). You can now also move the title question around and edit description, pages, and image questions.",
+      "translated_from_hash": "7d0d4f485c5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0105": {
+      "field": "body",
+      "source": "Configure character limits for title control, short answer, and long answer fields.",
+      "source_hash": "b97d2a675957",
+      "target": "Configure character limits for title control, short answer, and long answer fields.",
+      "translated_from_hash": "b97d2a675957",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0106": {
+      "field": "body",
+      "source": "<b>2. Survey Experience (Mobile):</b>",
+      "source_hash": "3c56ad9c8c88",
+      "target": "<b>2. Survey Experience (Mobile):</b>",
+      "translated_from_hash": "3c56ad9c8c88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0107": {
+      "field": "body",
+      "source": "Prevent accidental submissions by allowing users to press \"next\" only after scrolling down the page, ensuring they see all questions before moving on.",
+      "source_hash": "f0e734c5b7ea",
+      "target": "Prevent accidental submissions by allowing users to press \"next\" only after scrolling down the page, ensuring they see all questions before moving on.",
+      "translated_from_hash": "f0e734c5b7ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0108": {
+      "field": "body",
+      "source": "<b>3. Project Tabs:</b>",
+      "source_hash": "1261c7652123",
+      "target": "<b>3. Project Tabs:</b>",
+      "translated_from_hash": "1261c7652123",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0109": {
+      "field": "body",
+      "source": "The Access Rights tab is now renamed to <b>Phase Access and User Data</b>, redesigned for clarity:",
+      "source_hash": "d86fcfab67ae",
+      "target": "The Access Rights tab is now renamed to <b>Phase Access and User Data</b>, redesigned for clarity:",
+      "translated_from_hash": "d86fcfab67ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0110": {
+      "field": "body",
+      "source": "User Data Collection: Controls anonymity settings.",
+      "source_hash": "55693f6863eb",
+      "target": "User Data Collection: Controls anonymity settings.",
+      "translated_from_hash": "55693f6863eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0111": {
+      "field": "body",
+      "source": "Demographic Questions: Controls demographic questions asked in the survey or before participating.",
+      "source_hash": "66eda2350c8d",
+      "target": "Demographic Questions: Controls demographic questions asked in the survey or before participating.",
+      "translated_from_hash": "66eda2350c8d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0112": {
+      "field": "body",
+      "source": "Export your project participants easily in the new <b>Audience</b> tab",
+      "source_hash": "f42c41fb77bc",
+      "target": "Export your project participants easily in the new <b>Audience</b> tab",
+      "translated_from_hash": "f42c41fb77bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0113": {
+      "field": "body",
+      "source": "Phase and project settings have been restructured to make them less confusing, with project settings now moved to the new <b>General</b> tab.",
+      "source_hash": "569fcc1623c3",
+      "target": "Phase and project settings have been restructured to make them less confusing, with project settings now moved to the new <b>General</b> tab.",
+      "translated_from_hash": "569fcc1623c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0114": {
+      "field": "body",
+      "source": "<b>4. Navigation Bar:</b>",
+      "source_hash": "ab2b66ba3e40",
+      "target": "<b>4. Navigation Bar:</b>",
+      "translated_from_hash": "ab2b66ba3e40",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0115": {
+      "field": "body",
+      "source": "Overflow items now appear in a <b>More</b> dropdown for easier navigation.",
+      "source_hash": "8c25a936b43e",
+      "target": "Overflow items now appear in a <b>More</b> dropdown for easier navigation.",
+      "translated_from_hash": "8c25a936b43e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0116": {
+      "field": "body",
+      "source": "Create, edit, and display folders in the navigation bar: Go to <b>Pages &amp; Menu</b> &gt; Add project or folder to Navbar.",
+      "source_hash": "38494ba1b78e",
+      "target": "Create, edit, and display folders in the navigation bar: Go to <b>Pages &amp; Menu</b> &gt; Add project or folder to Navbar.",
+      "translated_from_hash": "38494ba1b78e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0117": {
+      "field": "body",
+      "source": "<b>5. Content Builder:</b>",
+      "source_hash": "6b0fffc7296c",
+      "target": "<b>5. Content Builder:</b>",
+      "translated_from_hash": "6b0fffc7296c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0118": {
+      "field": "body",
+      "source": "Attach files to your project page with the <b>File Attachment Widget</b> in the content builder.",
+      "source_hash": "d5e8aa891642",
+      "target": "Attach files to your project page with the <b>File Attachment Widget</b> in the content builder.",
+      "translated_from_hash": "d5e8aa891642",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0119": {
+      "field": "body",
+      "source": "Drop other widgets (images, attachments, buttons, etc.) into the accordion body to fully customize your accordion.",
+      "source_hash": "b7f6dbc83439",
+      "target": "Drop other widgets (images, attachments, buttons, etc.) into the accordion body to fully customize your accordion.",
+      "translated_from_hash": "b7f6dbc83439",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0120": {
+      "field": "body",
+      "source": "<b>6. Voting Phases:</b>",
+      "source_hash": "fde616df719b",
+      "target": "<b>6. Voting Phases:</b>",
+      "translated_from_hash": "fde616df719b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0121": {
+      "field": "body",
+      "source": "Encourage users to use a minimum number of votes with the new setting for voting phases - <b>Minimum # Selected Options</b>",
+      "source_hash": "896470a1328c",
+      "target": "Encourage users to use a minimum number of votes with the new setting for voting phases - <b>Minimum # Selected Options</b>",
+      "translated_from_hash": "896470a1328c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0122": {
+      "field": "body",
+      "source": "<b>8. Folder:</b>",
+      "source_hash": "3be39f900c37",
+      "target": "<b>8. Folder:</b>",
+      "translated_from_hash": "3be39f900c37",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0123": {
+      "field": "body",
+      "source": "Add your folder to your navigation bar to create new customizable nav bar pages.",
+      "source_hash": "9b18562d86cc",
+      "target": "Add your folder to your navigation bar to create new customizable nav bar pages.",
+      "translated_from_hash": "9b18562d86cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0124": {
+      "field": "body",
+      "source": "<b>7. Reports:</b>",
+      "source_hash": "ee4893aaf863",
+      "target": "<b>7. Reports:</b>",
+      "translated_from_hash": "ee4893aaf863",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0125": {
+      "field": "body",
+      "source": "The phase/project report template now includes all questions (including text questions) together with the first AI insight, if available.",
+      "source_hash": "20dc04e7a53d",
+      "target": "The phase/project report template now includes all questions (including text questions) together with the first AI insight, if available.",
+      "translated_from_hash": "20dc04e7a53d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0126": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0127": {
+      "field": "body",
+      "source": "September 2025",
+      "source_hash": "0be8e91e2d5a",
+      "target": "September 2025",
+      "translated_from_hash": "0be8e91e2d5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0128": {
+      "field": "body",
+      "source": "Your engagement boosters for this back-to-work season ✨",
+      "source_hash": "85634ebdd293",
+      "target": "Your engagement boosters for this back-to-work season ✨",
+      "translated_from_hash": "85634ebdd293",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0129": {
+      "field": "body",
+      "source": "Your project environment, revamped",
+      "source_hash": "70a7c756a442",
+      "target": "Your project environment, revamped",
+      "translated_from_hash": "70a7c756a442",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0130": {
+      "field": "body",
+      "source": "Get full visibility on your engagement pipeline: Project Planning helps teams plan, manage, and align better across departments and time.",
+      "source_hash": "670b9ca443a7",
+      "target": "Get full visibility on your engagement pipeline: Project Planning helps teams plan, manage, and align better across departments and time.",
+      "translated_from_hash": "670b9ca443a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0131": {
+      "field": "body",
+      "source": "Customize your automatic emails",
+      "source_hash": "1c8b88b0f15a",
+      "target": "Customize your automatic emails",
+      "translated_from_hash": "1c8b88b0f15a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0132": {
+      "field": "body",
+      "source": "Let your automatic emails speak your organization’s language: customize your automatic emails to build trust and engagement.",
+      "source_hash": "6d9f86c1feb5",
+      "target": "Let your automatic emails speak your organization’s language: customize your automatic emails to build trust and engagement.",
+      "translated_from_hash": "6d9f86c1feb5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0133": {
+      "field": "body",
+      "source": "Blend your offline and your online data with 360 Input",
+      "source_hash": "7b21c48550cd",
+      "target": "Blend your offline and your online data with 360 Input",
+      "translated_from_hash": "7b21c48550cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0134": {
+      "field": "body",
+      "source": "Bring your offline assets into the heart of your project — analyze, organize, and attach it alongside your digital participation to unlock deeper insight.",
+      "source_hash": "52e2d1877561",
+      "target": "Bring your offline assets into the heart of your project — analyze, organize, and attach it alongside your digital participation to unlock deeper insight.",
+      "translated_from_hash": "52e2d1877561",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0135": {
+      "field": "body",
+      "source": "Other improvements",
+      "source_hash": "d0ff30c08491",
+      "target": "Other improvements",
+      "translated_from_hash": "d0ff30c08491",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0136": {
+      "field": "body",
+      "source": "Advanced project discoverability settings: listed/unlisted.",
+      "source_hash": "7c11ad3f25a8",
+      "target": "Advanced project discoverability settings: listed/unlisted.",
+      "translated_from_hash": "7c11ad3f25a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0137": {
+      "field": "body",
+      "source": "Add demographic questions to <i>any</i> survey. 📖 <a class=\"intercom-content-link\" href=\"https://go-vocal.slack.com/archives/C2W7GP5MY/p1750771733261119\" target=\"_blank\">More info here</a>",
+      "source_hash": "8092e3e0fae3",
+      "target": "Add demographic questions to <i>any</i> survey. 📖 <a class=\"intercom-content-link\" href=\"https://go-vocal.slack.com/archives/C2W7GP5MY/p1750771733261119\" target=\"_blank\">More info here</a>",
+      "translated_from_hash": "8092e3e0fae3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0138": {
+      "field": "body",
+      "source": "Customizable maximum attendance for events.",
+      "source_hash": "9cfc6dee4df4",
+      "target": "Customizable maximum attendance for events.",
+      "translated_from_hash": "9cfc6dee4df4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0139": {
+      "field": "body",
+      "source": "New &amp; improved PDF form downloads. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">Support article</a>",
+      "source_hash": "4cd931911545",
+      "target": "New &amp; improved PDF form downloads. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">Support article</a>",
+      "translated_from_hash": "4cd931911545",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0140": {
+      "field": "body",
+      "source": "Project description more easily accessible for editing.",
+      "source_hash": "69bfd75f0c20",
+      "target": "Project description more easily accessible for editing.",
+      "translated_from_hash": "69bfd75f0c20",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0141": {
+      "field": "body",
+      "source": "Project managers and Folder managers can only see the ones they moderate.",
+      "source_hash": "b694545025c4",
+      "target": "Project managers and Folder managers can only see the ones they moderate.",
+      "translated_from_hash": "b694545025c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0142": {
+      "field": "body",
+      "source": "Folder moderators can see both their folders and the projects inside them in the Back Office view.",
+      "source_hash": "cf847895363f",
+      "target": "Folder moderators can see both their folders and the projects inside them in the Back Office view.",
+      "translated_from_hash": "cf847895363f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0143": {
+      "field": "body",
+      "source": "The Homepage Builder’s \"area\" widget automatically groups projects based on user’s stated place of residence.",
+      "source_hash": "54cd3ade8f11",
+      "target": "The Homepage Builder’s \"area\" widget automatically groups projects based on user’s stated place of residence.",
+      "translated_from_hash": "54cd3ade8f11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0144": {
+      "field": "body",
+      "source": "UI consistency: Idea forms now follow the same clear, step-by-step structure as survey forms.",
+      "source_hash": "5bc546a648a4",
+      "target": "UI consistency: Idea forms now follow the same clear, step-by-step structure as survey forms.",
+      "translated_from_hash": "5bc546a648a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0145": {
+      "field": "body",
+      "source": "Add images in the volunteering option description.",
+      "source_hash": "65f9b0b9e3d8",
+      "target": "Add images in the volunteering option description.",
+      "translated_from_hash": "65f9b0b9e3d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0146": {
+      "field": "body",
+      "source": "Admins can add custom text on the top of the log in pop up.",
+      "source_hash": "3c38c5730c3b",
+      "target": "Admins can add custom text on the top of the log in pop up.",
+      "translated_from_hash": "3c38c5730c3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0147": {
+      "field": "body",
+      "source": "Ask us to customize your minimum registration age. Contact us in your platform from the chat.",
+      "source_hash": "bb226ced0728",
+      "target": "Ask us to customize your minimum registration age. Contact us in your platform from the chat.",
+      "translated_from_hash": "bb226ced0728",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0148": {
+      "field": "body",
+      "source": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "source_hash": "ee17b3a1826b",
+      "target": "Need help, or want a walkthrough? <b>Contact our support team</b> from the chat bubble on the bottom right corner of your platform!",
+      "translated_from_hash": "ee17b3a1826b",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "article_id": "527589",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "User Management and User Groups",
+      "source_hash": "403ce10cad13",
+      "target": "User Management and User Groups",
+      "translated_from_hash": "403ce10cad13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Overview of user management",
+      "source_hash": "87ffd7ab3d0a",
+      "target": "Overview of user management",
+      "translated_from_hash": "87ffd7ab3d0a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The Users section in your platform's admin panel allows platform administrators to:",
+      "source_hash": "be398f5f132d",
+      "target": "The Users section in your platform's admin panel allows platform administrators to:",
+      "translated_from_hash": "be398f5f132d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Manage participants through groups",
+      "source_hash": "704daf14cfb2",
+      "target": "Manage participants through groups",
+      "translated_from_hash": "704daf14cfb2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Grant or remove roles",
+      "source_hash": "dd328e7198a0",
+      "target": "Grant or remove roles",
+      "translated_from_hash": "dd328e7198a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Follow-up on user activity",
+      "source_hash": "e2b0259a41e0",
+      "target": "Follow-up on user activity",
+      "translated_from_hash": "e2b0259a41e0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Export participant data",
+      "source_hash": "31ec3e9581bc",
+      "target": "Export participant data",
+      "translated_from_hash": "31ec3e9581bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Block or delete users",
+      "source_hash": "06e1429628b8",
+      "target": "Block or delete users",
+      "translated_from_hash": "06e1429628b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "The Seats Overview button allows you to have a quick view of who your Project Managers, Folder Managers and Admins are and the seats available.",
+      "source_hash": "50e070d78285",
+      "target": "The Seats Overview button allows you to have a quick view of who your Project Managers, Folder Managers and Admins are and the seats available.",
+      "translated_from_hash": "50e070d78285",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "ℹ️ Access restricted: Only platform administrators can access the Users section. Project and folder managers do not have access.",
+      "source_hash": "1f3b59202451",
+      "target": "ℹ️ Access restricted: Only platform administrators can access the Users section. Project and folder managers do not have access.",
+      "translated_from_hash": "1f3b59202451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "What are user groups?",
+      "source_hash": "b8975310abc6",
+      "target": "What are user groups?",
+      "translated_from_hash": "b8975310abc6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "A user group is a collection of users that are grouped together based on shared characteristics or can be manually defined. These groups can be used to control access and target communication efficiently.",
+      "source_hash": "fc818b6706d1",
+      "target": "A user group is a collection of users that are grouped together based on shared characteristics or can be manually defined. These groups can be used to control access and target communication efficiently.",
+      "translated_from_hash": "fc818b6706d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "User groups allow you to organize participants for targeted communication and to manage viewing or participation rights on projects.",
+      "source_hash": "b181bf39e0db",
+      "target": "User groups allow you to organize participants for targeted communication and to manage viewing or participation rights on projects.",
+      "translated_from_hash": "b181bf39e0db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "There are two types:",
+      "source_hash": "f79fbdcef94d",
+      "target": "There are two types:",
+      "translated_from_hash": "f79fbdcef94d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Manual Groups:</b> You add users manually",
+      "source_hash": "765863cff7ca",
+      "target": "<b>Manual Groups:</b> You add users manually",
+      "translated_from_hash": "765863cff7ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Smart Groups:</b> Users are automatically added when they meet set conditions (e.g., lives in a certain neighborhood, age, profession)",
+      "source_hash": "1e7422586df1",
+      "target": "<b>Smart Groups:</b> Users are automatically added when they meet set conditions (e.g., lives in a certain neighborhood, age, profession)",
+      "translated_from_hash": "1e7422586df1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Smart Groups are indicated by ⚡️ in the Users tab.",
+      "source_hash": "0b61e67068a1",
+      "target": "Smart Groups are indicated by ⚡️ in the Users tab.",
+      "translated_from_hash": "0b61e67068a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "ℹ️ Note: Since smart groups are set with specific conditions, it is not possible to manually add/remove users from this group",
+      "source_hash": "15776d7f05fb",
+      "target": "ℹ️ Note: Since smart groups are set with specific conditions, it is not possible to manually add/remove users from this group",
+      "translated_from_hash": "15776d7f05fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "How to create a group?",
+      "source_hash": "4421aabec79d",
+      "target": "How to create a group?",
+      "translated_from_hash": "4421aabec79d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Go to <b>Users</b> in the admin panel",
+      "source_hash": "34d583413d5c",
+      "target": "Go to <b>Users</b> in the admin panel",
+      "translated_from_hash": "34d583413d5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Click the <b>+</b> icon in the left grey column",
+      "source_hash": "bf734614e4a5",
+      "target": "Click the <b>+</b> icon in the left grey column",
+      "translated_from_hash": "bf734614e4a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Choose:",
+      "source_hash": "accc7c658c6a",
+      "target": "Choose:",
+      "translated_from_hash": "accc7c658c6a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Manual Group:</b> Add users manually.",
+      "source_hash": "b39ffe3dc6b1",
+      "target": "<b>Manual Group:</b> Add users manually.",
+      "translated_from_hash": "b39ffe3dc6b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Smart Group:</b> Define one or more conditions (e.g., <i>Lives in = Brussels</i>).",
+      "source_hash": "c84ba7bbd1a8",
+      "target": "<b>Smart Group:</b> Define one or more conditions (e.g., <i>Lives in = Brussels</i>).",
+      "translated_from_hash": "c84ba7bbd1a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Save the group.",
+      "source_hash": "4c72f3676631",
+      "target": "Save the group.",
+      "translated_from_hash": "4c72f3676631",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "ℹ️ Note: The attribute <b>Posted an input</b> is used to filter both for users that submitted an idea in an ideation phase as well as users that submitted a survey in a survey phase.",
+      "source_hash": "23f6f9a73424",
+      "target": "ℹ️ Note: The attribute <b>Posted an input</b> is used to filter both for users that submitted an idea in an ideation phase as well as users that submitted a survey in a survey phase.",
+      "translated_from_hash": "23f6f9a73424",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "⚠️ Smart Group logic is AND‑only, users must meet all conditions you set.",
+      "source_hash": "dfbb799c7e62",
+      "target": "⚠️ Smart Group logic is AND‑only, users must meet all conditions you set.",
+      "translated_from_hash": "dfbb799c7e62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Accessing group data",
+      "source_hash": "cdea5b5ac5f5",
+      "target": "Accessing group data",
+      "translated_from_hash": "cdea5b5ac5f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Following up on user group activity",
+      "source_hash": "e0189ad070cc",
+      "target": "Following up on user group activity",
+      "translated_from_hash": "e0189ad070cc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Go to <b>Dashboard → User tab</b>",
+      "source_hash": "0a958492a92e",
+      "target": "Go to <b>Dashboard → User tab</b>",
+      "translated_from_hash": "0a958492a92e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Filter by group to see user activity and behaviour",
+      "source_hash": "00bfd917dca5",
+      "target": "Filter by group to see user activity and behaviour",
+      "translated_from_hash": "00bfd917dca5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Exporting user group data",
+      "source_hash": "022fecc2c00d",
+      "target": "Exporting user group data",
+      "translated_from_hash": "022fecc2c00d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Go to <b>Users</b>",
+      "source_hash": "52e5b880f313",
+      "target": "Go to <b>Users</b>",
+      "translated_from_hash": "52e5b880f313",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Select the group from which you want to expert the user data",
+      "source_hash": "61e772c05f77",
+      "target": "Select the group from which you want to expert the user data",
+      "translated_from_hash": "61e772c05f77",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Press <b>export users in group</b>",
+      "source_hash": "23fca474d63d",
+      "target": "Press <b>export users in group</b>",
+      "translated_from_hash": "23fca474d63d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "How to block a user?",
+      "source_hash": "faa0863a9faf",
+      "target": "How to block a user?",
+      "translated_from_hash": "faa0863a9faf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "In the <b>Users</b> section, click the <b>three dots</b> next to the user",
+      "source_hash": "d948b4f785e1",
+      "target": "In the <b>Users</b> section, click the <b>three dots</b> next to the user",
+      "translated_from_hash": "d948b4f785e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Select <b>Block user</b>",
+      "source_hash": "5cf3bee01a75",
+      "target": "Select <b>Block user</b>",
+      "translated_from_hash": "5cf3bee01a75",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Add a <b>reason</b> in the pop-up",
+      "source_hash": "077ed9311b9e",
+      "target": "Add a <b>reason</b> in the pop-up",
+      "translated_from_hash": "077ed9311b9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Confirm the ban (default: 90 days)",
+      "source_hash": "f2ceb197aa7e",
+      "target": "Confirm the ban (default: 90 days)",
+      "translated_from_hash": "f2ceb197aa7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Blocking behaviour on our platform",
+      "source_hash": "fac3706847b5",
+      "target": "Blocking behaviour on our platform",
+      "translated_from_hash": "fac3706847b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "User is notified of ban and reason",
+      "source_hash": "0d790d2f787f",
+      "target": "User is notified of ban and reason",
+      "translated_from_hash": "0d790d2f787f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Session ends on next action",
+      "source_hash": "83a3d98b3e22",
+      "target": "Session ends on next action",
+      "translated_from_hash": "83a3d98b3e22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Login attempts are blocked",
+      "source_hash": "e4689f948b82",
+      "target": "Login attempts are blocked",
+      "translated_from_hash": "e4689f948b82",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Content stays on platform, moderate manually if needed",
+      "source_hash": "94b812b4ecd4",
+      "target": "Content stays on platform, moderate manually if needed",
+      "translated_from_hash": "94b812b4ecd4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Default ban duration can be adjusted via support",
+      "source_hash": "e4168325e840",
+      "target": "Default ban duration can be adjusted via support",
+      "translated_from_hash": "e4168325e840",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<br/>ℹ️ Access to this feature depends on your subscription plan.",
+      "source_hash": "041d43eccbc9",
+      "target": "<br/>ℹ️ Access to this feature depends on your subscription plan.",
+      "translated_from_hash": "041d43eccbc9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "How to delete a user?",
+      "source_hash": "5ba3cced48f7",
+      "target": "How to delete a user?",
+      "translated_from_hash": "5ba3cced48f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Use delete in specific cases only:",
+      "source_hash": "34f54646d441",
+      "target": "Use delete in specific cases only:",
+      "translated_from_hash": "34f54646d441",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Test accounts",
+      "source_hash": "0526b433ccf2",
+      "target": "Test accounts",
+      "translated_from_hash": "0526b433ccf2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Fake accounts",
+      "source_hash": "542fc91cb7fc",
+      "target": "Fake accounts",
+      "translated_from_hash": "542fc91cb7fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Repeat violations",
+      "source_hash": "50fbcb51240b",
+      "target": "Repeat violations",
+      "translated_from_hash": "50fbcb51240b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Steps to Delete a User from the platform",
+      "source_hash": "79967fe5b19b",
+      "target": "Steps to Delete a User from the platform",
+      "translated_from_hash": "79967fe5b19b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Go to the <b>Users</b> section",
+      "source_hash": "6bfcd461a44f",
+      "target": "Go to the <b>Users</b> section",
+      "translated_from_hash": "6bfcd461a44f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Click the <b>three dots</b> in <b>Options</b>",
+      "source_hash": "907b0821edce",
+      "target": "Click the <b>three dots</b> in <b>Options</b>",
+      "translated_from_hash": "907b0821edce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Select <b>Delete this user</b>",
+      "source_hash": "22e578e60526",
+      "target": "Select <b>Delete this user</b>",
+      "translated_from_hash": "22e578e60526",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "You can then decide to delete the user's participation data too (if not it will simply be anonymize when they are deleted)",
+      "source_hash": "7f18d37b2483",
+      "target": "You can then decide to delete the user's participation data too (if not it will simply be anonymize when they are deleted)",
+      "translated_from_hash": "7f18d37b2483",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "You can also decide to ban the email so they cannot register again",
+      "source_hash": "c3b9eca331aa",
+      "target": "You can also decide to ban the email so they cannot register again",
+      "translated_from_hash": "c3b9eca331aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Steps to Delete a User from a manual group",
+      "source_hash": "58cc59f03e56",
+      "target": "Steps to Delete a User from a manual group",
+      "translated_from_hash": "58cc59f03e56",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Go to the <b>Users</b> section",
+      "source_hash": "6bfcd461a44f",
+      "target": "Go to the <b>Users</b> section",
+      "translated_from_hash": "6bfcd461a44f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Click the <b>User Group</b> you want to remove the user from",
+      "source_hash": "8cb7a9b8b8a1",
+      "target": "Click the <b>User Group</b> you want to remove the user from",
+      "translated_from_hash": "8cb7a9b8b8a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Toggle the <b>square</b> on the left<b> </b>to select the user(s) you want to remove",
+      "source_hash": "edfb3e01ab86",
+      "target": "Toggle the <b>square</b> on the left<b> </b>to select the user(s) you want to remove",
+      "translated_from_hash": "edfb3e01ab86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Select <b>Remove from group</b>",
+      "source_hash": "6118c49596e4",
+      "target": "Select <b>Remove from group</b>",
+      "translated_from_hash": "6118c49596e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "⚠️ When removing a user from a group, make sure not to delete them from the platform",
+      "source_hash": "33bea7b1ca07",
+      "target": "⚠️ When removing a user from a group, make sure not to delete them from the platform",
+      "translated_from_hash": "33bea7b1ca07",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Difference between a blocked and deleted user",
+      "source_hash": "df76e49ea49c",
+      "target": "Difference between a blocked and deleted user",
+      "translated_from_hash": "df76e49ea49c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "<b>Blocking:</b>",
+      "source_hash": "718fe9bec956",
+      "target": "<b>Blocking:</b>",
+      "translated_from_hash": "718fe9bec956",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Temporary (default 90 days)",
+      "source_hash": "2dfc53d68d60",
+      "target": "Temporary (default 90 days)",
+      "translated_from_hash": "2dfc53d68d60",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "User cannot log in or create new account",
+      "source_hash": "656da20cf283",
+      "target": "User cannot log in or create new account",
+      "translated_from_hash": "656da20cf283",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Content stays on the platform",
+      "source_hash": "d23f6d79c6d6",
+      "target": "Content stays on the platform",
+      "translated_from_hash": "d23f6d79c6d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "<b>Deleting:</b>",
+      "source_hash": "c66447920ed5",
+      "target": "<b>Deleting:</b>",
+      "translated_from_hash": "c66447920ed5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Permanent",
+      "source_hash": "455a95491f40",
+      "target": "Permanent",
+      "translated_from_hash": "455a95491f40",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "User account is removed entirely",
+      "source_hash": "5dbce1156fa8",
+      "target": "User account is removed entirely",
+      "translated_from_hash": "5dbce1156fa8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Content remains, but user loses access",
+      "source_hash": "55d728495f2a",
+      "target": "Content remains, but user loses access",
+      "translated_from_hash": "55d728495f2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "Example use cases for smart groups",
+      "source_hash": "66732c80c386",
+      "target": "Example use cases for smart groups",
+      "translated_from_hash": "66732c80c386",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "Example 1: Email all users who haven’t participated in a project",
+      "source_hash": "e8ba68256117",
+      "target": "Example 1: Email all users who haven’t participated in a project",
+      "translated_from_hash": "e8ba68256117",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "Condition: <code>Contributed to project → Didn’t contribute → [project name]</code>",
+      "source_hash": "f2e15a9caf81",
+      "target": "Condition: <code>Contributed to project → Didn’t contribute → [project name]</code>",
+      "translated_from_hash": "f2e15a9caf81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "Example 2: Email all registered users",
+      "source_hash": "023989972adb",
+      "target": "Example 2: Email all registered users",
+      "translated_from_hash": "023989972adb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Condition: <code>Registration date → Is not empty</code>",
+      "source_hash": "80534759bae2",
+      "target": "Condition: <code>Registration date → Is not empty</code>",
+      "translated_from_hash": "80534759bae2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "⚠️ You cannot create Smart Groups based on email opens/clicks, contact Support to manually retrieve these user lists.",
+      "source_hash": "61409257f2d4",
+      "target": "⚠️ You cannot create Smart Groups based on email opens/clicks, contact Support to manually retrieve these user lists.",
+      "translated_from_hash": "61409257f2d4",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "article_id": "527551",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_54f592976d\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_964847bf01\">@@body:0005@@</h1><ul><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90371995/f195040df9b4cf95bf5193465da7/upload_9821172853132242049.png?expires=1781805600&amp;signature=db76e23ea2dfd44c4d6538ff0e10539109bd3b7eec83e76b9b3297326322e89e&amp;req=2dVswlnzpTJk2hj99dpg6ornLA1PJIH3fs1fpkLpVlb81qT7dJp7vIERJjUL%0A%2Bx9vIZl%2BNBv9ZE0uw9dK%2BilA%0A\"/></div><p class=\"no-margin\"></p>\n<h2 id=\"h_cf3c069589\">@@body:0009@@</h2><ul><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_dbb18bb10b\">@@body:0015@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372003/35ee2c3c004b4257e03a228cccca/upload_2060516589653411482.png?expires=1781805600&amp;signature=367dfa85bde6f5d29fe55ab522841ab277504bafad8a1c8c796e65275313dcfd&amp;req=2dVswlr6rDRk2hj99dpg6tC8d8pno7MYFZYU3mARK7Jz3QmhO2Pcy%2BoMHW5v%0Aou4tZsT3I1J5Cr9TJ0M1JyJ7%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0016@@</p><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_0b0a32e596\">@@body:0021@@</h1><h2 id=\"h_b6bdca57b9\">@@body:0022@@</h2><p class=\"no-margin\">@@body:0023@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_8b642a4b8a\">@@body:0024@@</h2><p class=\"no-margin\">@@body:0025@@</p><p class=\"no-margin\">@@body:0026@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_606363432d\">@@body:0027@@</h2><p class=\"no-margin\">@@body:0028@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_82add63176\">@@body:0029@@</h2><p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0031@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Using the inspiration hub",
+      "hash": "4fbddde5d4b8"
+    },
+    "description": {
+      "field": "description",
+      "text": "A source of inspiration",
+      "hash": "13d8d8c6ef00"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the inspiration hub?",
+      "hash": "d46290285104"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The goal of the inspiration hub is to offer a searchable collection of successful public consultation projects from municipalities across the world. It allows you to explore practical examples of public consultation initiatives, see what worked for others, and adapt proven approaches to your own community.",
+      "hash": "b0926daf8268"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "You can browse projects from a network of over 500 municipalities, filtering by consultation method, city size, and more.",
+      "hash": "12df0afcedb4"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Your Government Success Manager will update this page monthly with \"Projects of the Month\", ensuring you stay up-to-date with the latest initiatives.",
+      "hash": "7f5933b1d557"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "How to access and navigate the inspiration hub?",
+      "hash": "29a751c715b5"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Find the Inspiration Hub tab in the left‑hand panel of your platform's back office.",
+      "hash": "2c4d0fcc6626"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "The top section showcases highlighted projects chosen by your Government Success Manager.",
+      "hash": "26e11210fc6d"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Below, browse all published projects (default filter = your country).",
+      "hash": "c5919eba3eb6"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Filter Options",
+      "hash": "dcd87fabe8cd"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Country:</b> Browse projects from a specific country.",
+      "hash": "cf152e24e3bd"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Method:</b> Filter by participation method used.",
+      "hash": "78e0ab391b34"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Population size:</b> Large, medium, or small municipalities.",
+      "hash": "e28f9074175f"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Date:</b> See projects from a chosen timeframe.",
+      "hash": "9d2c0239b14a"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>Topic:</b> Drill into specific themes or categories.",
+      "hash": "9bc29150f401"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "What do you see on a project page?",
+      "hash": "bd4fe11a2ccb"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "When you open a project in the in-product library, you'll have access to a wealth of information, including:",
+      "hash": "c2dbd90b23cc"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>A note</b>: For some projects, your Government Success Managers may include a note highlighting essential learning points related to the project.",
+      "hash": "f2af31606c17"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Description</b>: A brief overview explaining what the project aimed to accomplish, providing quick insight into its purpose.",
+      "hash": "21c3806ca630"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>Phases and methods</b>: A detailed list of all phases and methods used throughout the project, complete with their timelines.",
+      "hash": "0cfc9df77104"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<b>Platform Link</b>: A direct hyperlink that takes you to the platform where the project was carried out, making it easy to explore further.",
+      "hash": "c65639972f88"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Inspiration hub FAQ",
+      "hash": "aea361d785e2"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Will my draft project appear in the Inspiration Hub?",
+      "hash": "5d5937295024"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "No. Only published projects are shown.",
+      "hash": "8fe06a8ec885"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Is my project visible to all other platforms?",
+      "hash": "e1aad3bf2f10"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Yes, published projects appear to all platforms, unless you opt out. Projects you set to unlisted are excluded from the Inspiration Hub.",
+      "hash": "f4b7419c8574"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Contact your Government Success Manager or Support to hide a project or your entire platform.",
+      "hash": "a7da7238f3c0"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Who can see the Inspiration Hub?",
+      "hash": "5f5d35f8bb82"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Both platform admins and project/folder managers can access it.",
+      "hash": "b547c569ec66"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Are project comments shared across platforms?",
+      "hash": "e877b537b198"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Yes, comments are visible to admins &amp; managers from other platforms to foster exchange and learning.",
+      "hash": "cd33ebd1608b"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "They are not visible to the general public.",
+      "hash": "3f7ad710e64c"
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "article_id": "527567",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_5c936c9e73\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372240/ff08ce7e23c954972701f6ca2c66/upload_6476462603456378491.png?expires=1781805600&amp;signature=f64f7c390bffa0eb7a3c46ddf65f85ab2cbf61935adbe87ae08aa59c73fcca7f&amp;req=2dVswlr4qDdk2hj99dpg6tFGNySrP5TvVtiXRgfhPPZxHLXGUWYWVWCJG1BQ%0A9fr9V6u8DjdZEiCr3Op8yJsu%0A\"/></div><p class=\"no-margin\"></p>\n<h1 id=\"h_6686afca39\">@@body:0007@@</h1><p class=\"no-margin\">@@body:0008@@</p><ul><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul><p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li></ul><p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_756b6e0f55\">@@body:0018@@</h1><h2 id=\"h_b63365f1c9\">@@body:0019@@</h2><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li></ul><h2 id=\"h_a0c9acda4f\">@@body:0023@@</h2><p class=\"no-margin\">@@body:0024@@</p><ul><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li></ul><p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_5ff559a922\">@@body:0031@@</h2><p class=\"no-margin\">@@body:0032@@</p><ul><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li></ul><h2 id=\"h_56c1f2750c\">@@body:0035@@</h2><ul><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul><h2 id=\"h_bc1dbe935d\">@@body:0039@@</h2><ul><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li></ul><h2 id=\"h_db1f400070\">@@body:0042@@</h2><p class=\"no-margin\">@@body:0043@@</p><ul><li><p class=\"no-margin\">@@body:0044@@</p></li><li><p class=\"no-margin\">@@body:0045@@</p></li><li><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p></li><li><p class=\"no-margin\">@@body:0048@@</p></li></ul><h1 id=\"h_59a94ff91f\">@@body:0049@@</h1><p class=\"no-margin\">@@body:0050@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0051@@</p><ul><li><p class=\"no-margin\">@@body:0052@@</p></li><li><p class=\"no-margin\">@@body:0053@@</p></li><li><p class=\"no-margin\">@@body:0054@@</p></li><li><p class=\"no-margin\">@@body:0055@@</p></li></ul><p class=\"no-margin\">@@body:0056@@</p><ul><li><p class=\"no-margin\">@@body:0057@@</p></li><li><p class=\"no-margin\">@@body:0058@@</p></li></ul><p class=\"no-margin\">@@body:0059@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_4542721480\">@@body:0060@@</h1><p class=\"no-margin\">@@body:0061@@</p><ul><li><p class=\"no-margin\">@@body:0062@@</p></li><li><p class=\"no-margin\">@@body:0063@@</p></li></ul><h1 id=\"h_03aafe1c57\">@@body:0064@@</h1><p class=\"no-margin\">@@body:0065@@</p><ul><li><p class=\"no-margin\">@@body:0066@@</p></li><li><p class=\"no-margin\">@@body:0067@@</p></li><li><p class=\"no-margin\">@@body:0068@@</p></li></ul><p class=\"no-margin\">@@body:0069@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Collecting residents proposals/petitions",
+      "hash": "47bd353e07bd"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Collecting Residents' proposals and petitions",
+      "hash": "8c52f3dcb195"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Unlike standard ideation projects, proposals and petitions are bottom-up contributions initiated by citizens themselves.",
+      "hash": "30aa7ec818cb"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Citizens can submit proposals at any time.",
+      "hash": "e492e71d1ef6"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Proposals gather support via votes and/or cosponsors.",
+      "hash": "0ae4d83290fa"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "When proposals meet the defined threshold, they receive an official response.",
+      "hash": "6bbb84a4ebb0"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "This method helps governments track what citizens find important, fill policy gaps, and strengthen participatory democracy.",
+      "hash": "4ab30d10a65c"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Communication on proposals/petitions",
+      "hash": "cd011e703bfd"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Reaching the threshold signals a promise between residents and your organization. To maintain credibility:",
+      "hash": "a60b581cb64a"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Communicate expectations in the project description",
+      "hash": "6a7f033c5c5e"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Ensure resources (time, staff, budget) are available to follow through",
+      "hash": "8d1752e4d46a"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Balance ambition with feasibility",
+      "hash": "85a5ef212f7a"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Determine how you will follow up with resident proposals. Some examples include<b>:</b>",
+      "hash": "875f7da807e5"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Invite author(s) to present at a council meeting",
+      "hash": "8ffef9f896db"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Provide advice or refer internally to the right department",
+      "hash": "1a3230f8f7c8"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Offer financial or communicational support based on your insights",
+      "hash": "9c4bd90936ea"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Platform context:</b>",
+      "hash": "45ad3d79f535"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Use statuses (e.g., <i>Threshold Reached</i>, <i>Answered</i>) and official updates in the Input Manager so supporters see, and are notified of, next steps.",
+      "hash": "e6e551d47bf0"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "How to set up a proposal/petition?",
+      "hash": "996a84a6fe61"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Enable proposals and petitions",
+      "hash": "7cddca757239"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Create a new project and name it for example: “Proposals” or “Petitions”",
+      "hash": "d058b2cac862"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "In the <b>Setup</b> phase, select <b>Proposals, petitions, or initiatives</b> as the participation method",
+      "hash": "e55ed9c9da19"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Customize the description to explain goals, rules, and submission criteria",
+      "hash": "af0bb438fa81"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Define eligibility criteria",
+      "hash": "8a0a241c874d"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Eligibility criteria help filter relevant proposals. Common criteria:",
+      "hash": "933ca0f5857c"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Within local government competences",
+      "hash": "1ec32fae688e"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Serves common interest, not personal gain",
+      "hash": "a2c585494f3b"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Non-discriminatory and non-harmful",
+      "hash": "a24f41e5a06c"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Feasible within budget and timing",
+      "hash": "cb171a4e99be"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Not already covered by an existing plan or duplicate of another proposal",
+      "hash": "73e7e5c7f019"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Communicate these criteria in the project description.",
+      "hash": "ec7c32f2c81a"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Voting tresholds and limits",
+      "hash": "ee6ba187c1b0"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Define the conditions under which a proposal qualifies for response.",
+      "hash": "0d473e85f11c"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "<b>Voting threshold:</b> often 1–3% of the population",
+      "hash": "2bda3371a1f2"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "<b>Days to reach threshold:</b> typically ~90 days (balance between urgency and opportunity)",
+      "hash": "070651ba803a"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Configure participation options",
+      "hash": "5e177636eeff"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>User anonymity:</b> Hide participant identity if allowed",
+      "hash": "85dfc8879ec8"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "<b>Review of proposals:</b> Enable “Require screening of inputs” to approve before publishing",
+      "hash": "321540bf7617"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>Cosponsorship:</b> Require cosponsors for legitimacy. Cosponsors must be invited and accept before the proposal goes public",
+      "hash": "c183be51c32a"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Choose an Available view",
+      "hash": "5698e7d9482c"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "You can choose from 3 different views on how you want your proposals to appear: <b>List, Map or Feed.</b>",
+      "hash": "54d38dfa04e1"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">To learn more on each of these views and how to set them up you can read more about it here</a>",
+      "hash": "69a3f8807f59"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Set up the input form",
+      "hash": "445b8abd473e"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "Customize the submission form for proposals:",
+      "hash": "3afb9e7ffc43"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Default question “Title” is mandatory",
+      "hash": "81759d4de6fe"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "Description question is recommended",
+      "hash": "5082ef39943b"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Cosponsorship and anonymity fields appear if enabled",
+      "hash": "22e2dbbffd7e"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "Use multiple pages and an end page to provide process information",
+      "hash": "bc271fd18a75"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "Similar Input Detection can be enabled to reduce duplicates",
+      "hash": "e95b1a9bf6f3"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "Proposal statuses",
+      "hash": "364b4919f212"
+    },
+    "body:0050": {
+      "field": "body",
+      "text": "Use statuses to communicate progress and manage proposals internally. We separate automatic and manual statuses depending on how you configured your project, see below the differences of each status and what they mean",
+      "hash": "389b6c9d043e"
+    },
+    "body:0051": {
+      "field": "body",
+      "text": "<b>Automatic statuses:</b>",
+      "hash": "b11f95987158"
+    },
+    "body:0052": {
+      "field": "body",
+      "text": "<b>Proposed:</b> published, gathering support",
+      "hash": "085a57be3f23"
+    },
+    "body:0053": {
+      "field": "body",
+      "text": "<b>Expired:</b> didn’t reach threshold in time",
+      "hash": "70010624e30a"
+    },
+    "body:0054": {
+      "field": "body",
+      "text": "<b>Threshold Reached:</b> gathered enough support in time",
+      "hash": "3431de98c389"
+    },
+    "body:0055": {
+      "field": "body",
+      "text": "<b>Pre-screening</b> :submitted, awaiting admin approval (if enabled)",
+      "hash": "8c22b0804ed0"
+    },
+    "body:0056": {
+      "field": "body",
+      "text": "<b>Manual statuses:</b>",
+      "hash": "91e74fd79af8"
+    },
+    "body:0057": {
+      "field": "body",
+      "text": "<b>Ineligible:</b> doesn’t meet criteria, cannot be voted on.",
+      "hash": "0d3ce32c5223"
+    },
+    "body:0058": {
+      "field": "body",
+      "text": "<b>Answered:</b> reached threshold and response is published.",
+      "hash": "a87931d7889b"
+    },
+    "body:0059": {
+      "field": "body",
+      "text": "<b>Custom statuses:</b> Create in <b>Platform settings → Input statuses</b>. Define name, color, and function.",
+      "hash": "b0ee2258a3d4"
+    },
+    "body:0060": {
+      "field": "body",
+      "text": "How to make your proposals visible?",
+      "hash": "f97ad658b9d0"
+    },
+    "body:0061": {
+      "field": "body",
+      "text": "To emphasize your proposals/petitions you can pin them in the navigation bar and/or highlight them on the homepage.",
+      "hash": "a62258157885"
+    },
+    "body:0062": {
+      "field": "body",
+      "text": "<b>Navigation bar:</b> Go to <b>Pages &amp; Menu → Add project to navbar.</b>",
+      "hash": "dff628f07886"
+    },
+    "body:0063": {
+      "field": "body",
+      "text": "<b>Homepage:</b> Go to <b>Pages &amp; Menu → Edit Home → Spotlight widget.</b>",
+      "hash": "2878ce04df19"
+    },
+    "body:0064": {
+      "field": "body",
+      "text": "How to moderate and manage proposals?",
+      "hash": "96f67c06bcd9"
+    },
+    "body:0065": {
+      "field": "body",
+      "text": "Use the project-level Input Manager to assign, update, and respond to proposals.",
+      "hash": "b5da1c4c98f3"
+    },
+    "body:0066": {
+      "field": "body",
+      "text": "Assign default or individual assignees via <b>Project General tab → Access rights</b> or in the Input Manager of the timeline.",
+      "hash": "0fadf9d06b86"
+    },
+    "body:0067": {
+      "field": "body",
+      "text": "Change statuses (automatic or manual). Status changes trigger email notifications for followers.",
+      "hash": "2451bcf672e4"
+    },
+    "body:0068": {
+      "field": "body",
+      "text": "Add internal comments for private admin discussions.",
+      "hash": "2d521ecaab1b"
+    },
+    "body:0069": {
+      "field": "body",
+      "text": "⚠️ Proposals only appear in project-level Input Manager, not in the platform-level one. You cannot move proposals from phase to phase.",
+      "hash": "7cd093031e0c"
+    }
+  }
+}

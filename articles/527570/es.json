@@ -1,0 +1,637 @@
+{
+  "article_id": "527570",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Understanding Access Rights",
+      "source_hash": "a51aba808602",
+      "target": "Understanding Access Rights",
+      "translated_from_hash": "a51aba808602",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What are access rights?",
+      "source_hash": "39b63aa88af3",
+      "target": "What are access rights?",
+      "translated_from_hash": "39b63aa88af3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Access rights control who can see content, who can participate, and who can manage projects or folders on the platform.",
+      "source_hash": "59dde4f62bbe",
+      "target": "Access rights control who can see content, who can participate, and who can manage projects or folders on the platform.",
+      "translated_from_hash": "59dde4f62bbe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "The platform uses a three‑level system:",
+      "source_hash": "4a8f48fcd52a",
+      "target": "The platform uses a three‑level system:",
+      "translated_from_hash": "4a8f48fcd52a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Folder level:</b> controls access and management of groups of projects",
+      "source_hash": "0c57a2d0251b",
+      "target": "<b>Folder level:</b> controls access and management of groups of projects",
+      "translated_from_hash": "0c57a2d0251b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Project level:</b> determines discoverability and visibility, it also allows you to assign project managers",
+      "source_hash": "30618e175180",
+      "target": "<b>Project level:</b> determines discoverability and visibility, it also allows you to assign project managers",
+      "translated_from_hash": "30618e175180",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Phase level:</b> sets who can participate in each phase (e.g., posting, voting, surveys)",
+      "source_hash": "8b601ded5475",
+      "target": "<b>Phase level:</b> sets who can participate in each phase (e.g., posting, voting, surveys)",
+      "translated_from_hash": "8b601ded5475",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "This layered approach helps:",
+      "source_hash": "9cbc28c44cd0",
+      "target": "This layered approach helps:",
+      "translated_from_hash": "9cbc28c44cd0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Protect sensitive or draft projects",
+      "source_hash": "bf8bad8cdf7f",
+      "target": "Protect sensitive or draft projects",
+      "translated_from_hash": "bf8bad8cdf7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Target consultations to the right audiences",
+      "source_hash": "cb5bb75506b1",
+      "target": "Target consultations to the right audiences",
+      "translated_from_hash": "cb5bb75506b1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Collect demographic data only when needed",
+      "source_hash": "3994b8121f02",
+      "target": "Collect demographic data only when needed",
+      "translated_from_hash": "3994b8121f02",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Folder-level access rights",
+      "source_hash": "229cda706005",
+      "target": "Folder-level access rights",
+      "translated_from_hash": "229cda706005",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>What it controls:</b>",
+      "source_hash": "ed8fca4e0532",
+      "target": "<b>What it controls:</b>",
+      "translated_from_hash": "ed8fca4e0532",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Folder managers can edit folder pages, update descriptions, and oversee all projects in the folder",
+      "source_hash": "106500815e0e",
+      "target": "Folder managers can edit folder pages, update descriptions, and oversee all projects in the folder",
+      "translated_from_hash": "106500815e0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "A folder manager can act like a platform admin within the context of the folder",
+      "source_hash": "7b2baa158634",
+      "target": "A folder manager can act like a platform admin within the context of the folder",
+      "translated_from_hash": "7b2baa158634",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Visibility behavior:</b>",
+      "source_hash": "d1e5ef8be4d5",
+      "target": "<b>Visibility behavior:</b>",
+      "translated_from_hash": "d1e5ef8be4d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "A published folder is visible to everyone",
+      "source_hash": "77b5a7789f8b",
+      "target": "A published folder is visible to everyone",
+      "translated_from_hash": "77b5a7789f8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "If all projects in a folder are in draft, the folder stays hidden until at least one project is published",
+      "source_hash": "9e12e29af322",
+      "target": "If all projects in a folder are in draft, the folder stays hidden until at least one project is published",
+      "translated_from_hash": "9e12e29af322",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "If published projects are added to a draft folder, the folder won’t appear on the homepage, but the projects remain accessible via direct links or search",
+      "source_hash": "0b2b8e4c38ac",
+      "target": "If published projects are added to a draft folder, the folder won’t appear on the homepage, but the projects remain accessible via direct links or search",
+      "translated_from_hash": "0b2b8e4c38ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Project-level access rights",
+      "source_hash": "b686a9d8209d",
+      "target": "Project-level access rights",
+      "translated_from_hash": "b686a9d8209d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Who can find this project?",
+      "source_hash": "fed5bf723a7d",
+      "target": "Who can find this project?",
+      "translated_from_hash": "fed5bf723a7d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Not every project needs to be fully visible on the platform. For example, you might want to keep a project private and share it only via a direct link. You can select how discoverable the project is:",
+      "source_hash": "7035c1f9fcdc",
+      "target": "Not every project needs to be fully visible on the platform. For example, you might want to keep a project private and share it only via a direct link. You can select how discoverable the project is:",
+      "translated_from_hash": "7035c1f9fcdc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Listed</b>",
+      "source_hash": "5255f70a6c85",
+      "target": "<b>Listed</b>",
+      "translated_from_hash": "5255f70a6c85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Visible on the platform according to the settings in the Visibility section <i>(see “Visibility” below)</i>.",
+      "source_hash": "d598a94eafdd",
+      "target": "Visible on the platform according to the settings in the Visibility section <i>(see “Visibility” below)</i>.",
+      "translated_from_hash": "d598a94eafdd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Appears on the homepage and in widgets",
+      "source_hash": "c1a029d2a045",
+      "target": "Appears on the homepage and in widgets",
+      "translated_from_hash": "c1a029d2a045",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Unlisted</b>",
+      "source_hash": "0144ddaefe2c",
+      "target": "<b>Unlisted</b>",
+      "translated_from_hash": "0144ddaefe2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Only visible to people who have the direct link",
+      "source_hash": "261f4235ae5e",
+      "target": "Only visible to people who have the direct link",
+      "translated_from_hash": "261f4235ae5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Does not appear on the homepage or in widgets",
+      "source_hash": "09f22998acf8",
+      "target": "Does not appear on the homepage or in widgets",
+      "translated_from_hash": "09f22998acf8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Will not be indexed by search engines",
+      "source_hash": "42d30c634db6",
+      "target": "Will not be indexed by search engines",
+      "translated_from_hash": "42d30c634db6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Email notifications are sent only to participants",
+      "source_hash": "a569407de945",
+      "target": "Email notifications are sent only to participants",
+      "translated_from_hash": "a569407de945",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "This lets you control whether your project is public to everyone or shared privately with selected users.",
+      "source_hash": "d09d80460b38",
+      "target": "This lets you control whether your project is public to everyone or shared privately with selected users.",
+      "translated_from_hash": "d09d80460b38",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Who can see this project?",
+      "source_hash": "450768da7406",
+      "target": "Who can see this project?",
+      "translated_from_hash": "450768da7406",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Once you’ve set how discoverable your project is, you can define who can see it. There are three options:",
+      "source_hash": "d850240b849b",
+      "target": "Once you’ve set how discoverable your project is, you can define who can see it. There are three options:",
+      "translated_from_hash": "d850240b849b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Everyone:</b> Anyone on the platform can view the project",
+      "source_hash": "fdcff16bd835",
+      "target": "<b>Everyone:</b> Anyone on the platform can view the project",
+      "translated_from_hash": "fdcff16bd835",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "<b>Only admins and project managers:</b> Restricted to platform admins and project managers that are managing the project",
+      "source_hash": "27024e4aacf6",
+      "target": "<b>Only admins and project managers:</b> Restricted to platform admins and project managers that are managing the project",
+      "translated_from_hash": "27024e4aacf6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>A selected group:</b> Limit visibility to a specific user group <i>(see our article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">User Management and User Groups</a> for more information on user grouping)</i>",
+      "source_hash": "260230ce5edb",
+      "target": "<b>A selected group:</b> Limit visibility to a specific user group <i>(see our article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">User Management and User Groups</a> for more information on user grouping)</i>",
+      "translated_from_hash": "260230ce5edb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Assigning Project Managers",
+      "source_hash": "1a91723d9c18",
+      "target": "Assigning Project Managers",
+      "translated_from_hash": "1a91723d9c18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "As an admin, you can assign one or more project managers to a project. Project managers have the same rights as admins, but only within the scope of that specific project <i>(e.g., they can update the project name, change settings, and more)</i>.",
+      "source_hash": "df3392aa362a",
+      "target": "As an admin, you can assign one or more project managers to a project. Project managers have the same rights as admins, but only within the scope of that specific project <i>(e.g., they can update the project name, change settings, and more)</i>.",
+      "translated_from_hash": "df3392aa362a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "In order to assign a project to a project manager, they first have to be added as a project manager to the platform.",
+      "source_hash": "d26563de542d",
+      "target": "In order to assign a project to a project manager, they first have to be added as a project manager to the platform.",
+      "translated_from_hash": "d26563de542d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Phase-level access rights",
+      "source_hash": "daaa9d2dc6db",
+      "target": "Phase-level access rights",
+      "translated_from_hash": "daaa9d2dc6db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Phase-level rights define who can participate in each phase action (posting input, commenting, voting, completing surveys, etc.). Commenting in particular always requires authentication: a participant must at least confirm their email or create an account, so the None (no-login) option does not enable anonymous, non-logged-in comments.",
+      "source_hash": "2c945c313ab3",
+      "target": "Phase-level rights define who can participate in each phase action (posting input, commenting, voting, completing surveys, etc.). Commenting in particular always requires authentication: a participant must at least confirm their email or create an account, so the None (no-login) option does not enable anonymous, non-logged-in comments.",
+      "translated_from_hash": "2c945c313ab3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Authentication flows",
+      "source_hash": "5767f8d00dca",
+      "target": "Authentication flows",
+      "translated_from_hash": "5767f8d00dca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<b>Administrators &amp; project managers:</b> Only those with management rights can participate.",
+      "source_hash": "2bd72d2841b9",
+      "target": "<b>Administrators &amp; project managers:</b> Only those with management rights can participate.",
+      "translated_from_hash": "2bd72d2841b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>None (only available to surveys, collection of ideas and proposals):</b> Visitors can answer surveys without logging in.",
+      "source_hash": "1600e252556f",
+      "target": "<b>None (only available to surveys, collection of ideas and proposals):</b> Visitors can answer surveys without logging in.",
+      "translated_from_hash": "1600e252556f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>⚠️ </b>Selecting this option may result in duplicate answers because there is no login/IP tracking",
+      "source_hash": "7a1345231cb6",
+      "target": "<b>⚠️ </b>Selecting this option may result in duplicate answers because there is no login/IP tracking",
+      "translated_from_hash": "7a1345231cb6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Submissions remain anonymous (a unique submission ID is provided to the user).",
+      "source_hash": "f328353ec37e",
+      "target": "Submissions remain anonymous (a unique submission ID is provided to the user).",
+      "translated_from_hash": "f328353ec37e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Delayed registration: If <b>None</b> is selected as a prerequisite to participate, users can participate without registering. After submission, they will be prompted to register to stay informed.",
+      "source_hash": "1704999e9bdf",
+      "target": "Delayed registration: If <b>None</b> is selected as a prerequisite to participate, users can participate without registering. After submission, they will be prompted to register to stay informed.",
+      "translated_from_hash": "1704999e9bdf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "<b>Email confirmation:</b> Residents only confirm their email to participate.",
+      "source_hash": "7975813b7d79",
+      "target": "<b>Email confirmation:</b> Residents only confirm their email to participate.",
+      "translated_from_hash": "7975813b7d79",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "No username is set by the user; the system auto-generates one (admins can choose “User” format or “Animal” format under <b>Settings → General</b>)",
+      "source_hash": "05a533fc366d",
+      "target": "No username is set by the user; the system auto-generates one (admins can choose “User” format or “Animal” format under <b>Settings → General</b>)",
+      "translated_from_hash": "05a533fc366d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Account creation:</b> Full registration required (name, email, password)",
+      "source_hash": "341dc5699e79",
+      "target": "<b>Account creation:</b> Full registration required (name, email, password)",
+      "translated_from_hash": "341dc5699e79",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "<b>SSO verification</b> (if plan supports): Residents verify identity via SSO before participating; admins can set re‑verification frequency for high‑stakes projects",
+      "source_hash": "fbaac969e109",
+      "target": "<b>SSO verification</b> (if plan supports): Residents verify identity via SSO before participating; admins can set re‑verification frequency for high‑stakes projects",
+      "translated_from_hash": "fbaac969e109",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>⚠️ </b>Remember that if you are testing access rights and you are logged in as an admin you will not be able to see your changes because admins have the rights to override settings. To test your access rights make sure to log in using a user account to be able to recreate the user experience correctly.",
+      "source_hash": "3416ce699c98",
+      "target": "<b>⚠️ </b>Remember that if you are testing access rights and you are logged in as an admin you will not be able to see your changes because admins have the rights to override settings. To test your access rights make sure to log in using a user account to be able to recreate the user experience correctly.",
+      "translated_from_hash": "3416ce699c98",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Restrict participation by group",
+      "source_hash": "8f9b6546aab0",
+      "target": "Restrict participation by group",
+      "translated_from_hash": "8f9b6546aab0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Admins can limit phase participation to certain user groups (those users must already have project visibility). For learning more about user groups, see our article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">User Management and User Groups</a> </i>",
+      "source_hash": "d30d972b2a15",
+      "target": "Admins can limit phase participation to certain user groups (those users must already have project visibility). For learning more about user groups, see our article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">User Management and User Groups</a> </i>",
+      "translated_from_hash": "d30d972b2a15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "User Data Collection",
+      "source_hash": "95ac367054c4",
+      "target": "User Data Collection",
+      "translated_from_hash": "95ac367054c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "You can configure the level of anonymity for participants through three options:",
+      "source_hash": "7f978b79188f",
+      "target": "You can configure the level of anonymity for participants through three options:",
+      "translated_from_hash": "7f978b79188f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Include personally identifiable and demographic data:</b><br/>All available user data will be stored and displayed, including first name, last name, and email address.",
+      "source_hash": "30f3c4e62b7b",
+      "target": "<b>Include personally identifiable and demographic data:</b><br/>All available user data will be stored and displayed, including first name, last name, and email address.",
+      "translated_from_hash": "30f3c4e62b7b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Exclude personally identifiable data but include demographic data:</b><br/>Only demographic information (e.g., age group, location, department) will be shown. Personal details such as first name, last name, and email will not be stored.<br/>Since participation cannot be linked to a specific user, participants will <i>not</i> be able to view their submission after participating.",
+      "source_hash": "719d3a0eafe1",
+      "target": "<b>Exclude personally identifiable data but include demographic data:</b><br/>Only demographic information (e.g., age group, location, department) will be shown. Personal details such as first name, last name, and email will not be stored.<br/>Since participation cannot be linked to a specific user, participants will <i>not</i> be able to view their submission after participating.",
+      "translated_from_hash": "719d3a0eafe1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Exclude both personally identifiable and demographic data (full anonymity):</b><br/>No personal or demographic information is stored or displayed. This option ensures complete anonymity of all participants. Since participation cannot be linked to a specific user, participants will <i>not</i> be able to view their submission after participating.",
+      "source_hash": "01f350b1dd13",
+      "target": "<b>Exclude both personally identifiable and demographic data (full anonymity):</b><br/>No personal or demographic information is stored or displayed. This option ensures complete anonymity of all participants. Since participation cannot be linked to a specific user, participants will <i>not</i> be able to view their submission after participating.",
+      "translated_from_hash": "01f350b1dd13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Demographic questions",
+      "source_hash": "34ecb7e571de",
+      "target": "Demographic questions",
+      "translated_from_hash": "34ecb7e571de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Admins can enable extra registration questions for participants.",
+      "source_hash": "1d939368d119",
+      "target": "Admins can enable extra registration questions for participants.",
+      "translated_from_hash": "1d939368d119",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>Account creation</b>: All registration questions are enabled by default (can be made required or optional)",
+      "source_hash": "cafa6bba60e1",
+      "target": "<b>Account creation</b>: All registration questions are enabled by default (can be made required or optional)",
+      "translated_from_hash": "cafa6bba60e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>Email confirmation</b>: No questions by default, but admins can add any in the <b>Extra Questions</b> section",
+      "source_hash": "eaaea0da9e9b",
+      "target": "<b>Email confirmation</b>: No questions by default, but admins can add any in the <b>Extra Questions</b> section",
+      "translated_from_hash": "eaaea0da9e9b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Only admins (not project managers) can edit or create registration questions (done in <b>Platform Settings → Registration</b>). For more information read our article:",
+      "source_hash": "7a5e8b9118e8",
+      "target": "Only admins (not project managers) can edit or create registration questions (done in <b>Platform Settings → Registration</b>). For more information read our article:",
+      "translated_from_hash": "7a5e8b9118e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "source_hash": "c291e47fc432",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "translated_from_hash": "c291e47fc432",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Responses are stored in user profiles and visible in:",
+      "source_hash": "e6e0a5102e7d",
+      "target": "Responses are stored in user profiles and visible in:",
+      "translated_from_hash": "e6e0a5102e7d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "<b>Dashboard → Users tab</b> (statistics)",
+      "source_hash": "f7682f898ef2",
+      "target": "<b>Dashboard → Users tab</b> (statistics)",
+      "translated_from_hash": "f7682f898ef2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Results section of the phase where questions were asked",
+      "source_hash": "2d1b46be239c",
+      "target": "Results section of the phase where questions were asked",
+      "translated_from_hash": "2d1b46be239c",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

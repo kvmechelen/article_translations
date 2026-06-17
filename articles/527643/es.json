@@ -1,0 +1,349 @@
+{
+  "article_id": "527643",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Google Analytics, Siteimprove and Facebook Pixel",
+      "source_hash": "e6f558dea9ec",
+      "target": "Google Analytics, Siteimprove and Facebook Pixel",
+      "translated_from_hash": "e6f558dea9ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are tracking integrations and which do we support?",
+      "source_hash": "4f15782995f1",
+      "target": "What are tracking integrations and which do we support?",
+      "translated_from_hash": "4f15782995f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "You can integrate your platform with external analytics tools such as Google Analytics (UA and GA4), Facebook Pixel, or Siteimprove by submitting the correct tracking code.",
+      "source_hash": "3bad2c1fd302",
+      "target": "You can integrate your platform with external analytics tools such as Google Analytics (UA and GA4), Facebook Pixel, or Siteimprove by submitting the correct tracking code.",
+      "translated_from_hash": "3bad2c1fd302",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "These integrations allow you to:",
+      "source_hash": "bc805f3ebb7a",
+      "target": "These integrations allow you to:",
+      "translated_from_hash": "bc805f3ebb7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Track visitor demographics and behavior",
+      "source_hash": "5041a340849d",
+      "target": "Track visitor demographics and behavior",
+      "translated_from_hash": "5041a340849d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Connect your platform with external dashboards",
+      "source_hash": "8877a35bb2c2",
+      "target": "Connect your platform with external dashboards",
+      "translated_from_hash": "8877a35bb2c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Monitor and optimize campaign effectiveness",
+      "source_hash": "0b0c433535f8",
+      "target": "Monitor and optimize campaign effectiveness",
+      "translated_from_hash": "0b0c433535f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Supported integration types:",
+      "source_hash": "8b38292bd9e6",
+      "target": "Supported integration types:",
+      "translated_from_hash": "8b38292bd9e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Google Analytics (UA or GA4 Tracking ID)",
+      "source_hash": "0b66c6933b8c",
+      "target": "Google Analytics (UA or GA4 Tracking ID)",
+      "translated_from_hash": "0b66c6933b8c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Google Tag Manager (custom HTML)",
+      "source_hash": "868da5db3700",
+      "target": "Google Tag Manager (custom HTML)",
+      "translated_from_hash": "868da5db3700",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Facebook Pixel (manual code)",
+      "source_hash": "405f69c7e73e",
+      "target": "Facebook Pixel (manual code)",
+      "translated_from_hash": "405f69c7e73e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Siteimprove (custom HTML tag)",
+      "source_hash": "a353b90dd1e7",
+      "target": "Siteimprove (custom HTML tag)",
+      "translated_from_hash": "a353b90dd1e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "How to add Google Analytics to your platform?",
+      "source_hash": "7c9cbffaee9f",
+      "target": "How to add Google Analytics to your platform?",
+      "translated_from_hash": "7c9cbffaee9f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Locate your Google Tracking ID (either UA-code or GA4-code).",
+      "source_hash": "0b88667e1085",
+      "target": "Locate your Google Tracking ID (either UA-code or GA4-code).",
+      "translated_from_hash": "0b88667e1085",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Send it to us at via the chat bubble",
+      "source_hash": "1c0c1dab21e9",
+      "target": "Send it to us at via the chat bubble",
+      "translated_from_hash": "1c0c1dab21e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "We’ll implement the code on your platform and confirm once active.",
+      "source_hash": "3ae7fda04dc7",
+      "target": "We’ll implement the code on your platform and confirm once active.",
+      "translated_from_hash": "3ae7fda04dc7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "You can also send us a Google Tag Manager HTML snippet if you prefer managing tags through GTM.",
+      "source_hash": "89e7b1b93b51",
+      "target": "You can also send us a Google Tag Manager HTML snippet if you prefer managing tags through GTM.",
+      "translated_from_hash": "89e7b1b93b51",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Need help? Where to find your <a class=\"intercom-content-link\" href=\"https://support.google.com/analytics/answer/1008080#trackingID\" target=\"_blank\">Google Tracking ID</a>",
+      "source_hash": "ad0d3313508e",
+      "target": "Need help? Where to find your <a class=\"intercom-content-link\" href=\"https://support.google.com/analytics/answer/1008080#trackingID\" target=\"_blank\">Google Tracking ID</a>",
+      "translated_from_hash": "ad0d3313508e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to add siteimprove to your platform?",
+      "source_hash": "f34e0ba0c5b7",
+      "target": "How to add siteimprove to your platform?",
+      "translated_from_hash": "f34e0ba0c5b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Get your Siteimprove HTML tag from your Siteimprove admin.",
+      "source_hash": "6964d3630ca7",
+      "target": "Get your Siteimprove HTML tag from your Siteimprove admin.",
+      "translated_from_hash": "6964d3630ca7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Email the full HTML tag to support via the chat bubble",
+      "source_hash": "f4275873674e",
+      "target": "Email the full HTML tag to support via the chat bubble",
+      "translated_from_hash": "f4275873674e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "We’ll embed it on your platform and confirm setup.",
+      "source_hash": "124d57aed2bb",
+      "target": "We’ll embed it on your platform and confirm setup.",
+      "translated_from_hash": "124d57aed2bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "How to add facebook pixel to your platform?",
+      "source_hash": "77d3e5153fde",
+      "target": "How to add facebook pixel to your platform?",
+      "translated_from_hash": "77d3e5153fde",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Go to <b>Events Manager</b> in your Facebook Business account.",
+      "source_hash": "aed43370d400",
+      "target": "Go to <b>Events Manager</b> in your Facebook Business account.",
+      "translated_from_hash": "aed43370d400",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Select your pixel, then click <b>Set Up &gt; Install Pixel</b>.",
+      "source_hash": "8f6d7e239c54",
+      "target": "Select your pixel, then click <b>Set Up &gt; Install Pixel</b>.",
+      "translated_from_hash": "8f6d7e239c54",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Choose <b>Manually add pixel code to website</b>.",
+      "source_hash": "3b238aa0f979",
+      "target": "Choose <b>Manually add pixel code to website</b>.",
+      "translated_from_hash": "3b238aa0f979",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Copy the entire main Pixel code.",
+      "source_hash": "cf1e0a5615a0",
+      "target": "Copy the entire main Pixel code.",
+      "translated_from_hash": "cf1e0a5615a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Send the full HTML code to support via the chat bubble.",
+      "source_hash": "404881641d58",
+      "target": "Send the full HTML code to support via the chat bubble.",
+      "translated_from_hash": "404881641d58",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Once installed, Facebook will begin tracking events on your platform.",
+      "source_hash": "fc4726f50b3f",
+      "target": "Once installed, Facebook will begin tracking events on your platform.",
+      "translated_from_hash": "fc4726f50b3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Learn more: <a class=\"intercom-content-link\" href=\"https://www.facebook.com/business/help/952192354843755\" target=\"_blank\">Where to find your Facebook Pixel code</a>",
+      "source_hash": "e94ff7dc335d",
+      "target": "Learn more: <a class=\"intercom-content-link\" href=\"https://www.facebook.com/business/help/952192354843755\" target=\"_blank\">Where to find your Facebook Pixel code</a>",
+      "translated_from_hash": "e94ff7dc335d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Who installs the tracking codes for your platform?",
+      "source_hash": "6dd5dee6660f",
+      "target": "Who installs the tracking codes for your platform?",
+      "translated_from_hash": "6dd5dee6660f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Our team handles the integration of all tracking codes for you.",
+      "source_hash": "fbeb7634276b",
+      "target": "Our team handles the integration of all tracking codes for you.",
+      "translated_from_hash": "fbeb7634276b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Simply send:",
+      "source_hash": "b12ce9a87335",
+      "target": "Simply send:",
+      "translated_from_hash": "b12ce9a87335",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Your Google Tracking ID, or",
+      "source_hash": "21da41a07756",
+      "target": "Your Google Tracking ID, or",
+      "translated_from_hash": "21da41a07756",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "A custom HTML snippet (for Siteimprove, GTM, Facebook Pixel, etc.)",
+      "source_hash": "16fb5ec9288a",
+      "target": "A custom HTML snippet (for Siteimprove, GTM, Facebook Pixel, etc.)",
+      "translated_from_hash": "16fb5ec9288a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "to support via the chat bubble and we’ll take care of the rest.",
+      "source_hash": "1f3c20461519",
+      "target": "to support via the chat bubble and we’ll take care of the rest.",
+      "translated_from_hash": "1f3c20461519",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "No action is required on your end beyond sharing the correct code.",
+      "source_hash": "3ed6b7b064e5",
+      "target": "No action is required on your end beyond sharing the correct code.",
+      "translated_from_hash": "3ed6b7b064e5",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

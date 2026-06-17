@@ -1,0 +1,248 @@
+{
+  "article_id": "527576",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_9c6dc6a455\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li></ul><h1 id=\"h_11aa220b44\">@@body:0008@@</h1><p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0010@@</p><ul><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li></ul><p class=\"no-margin\">@@body:0013@@</p><ul><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li></ul><p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_ecc9b44c81\">@@body:0017@@</h1><p class=\"no-margin\">@@body:0018@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_ec4f4a4d31\">@@body:0019@@</h1><p class=\"no-margin\">@@body:0020@@</p><ul><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li></ul><h1 id=\"h_7d5a4169a6\">@@body:0028@@</h1><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_e4ab596d44\">@@body:0031@@</h1><p class=\"no-margin\">@@body:0032@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0033@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0034@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0035@@</p><ul><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul><p class=\"no-margin\">@@body:0039@@</p><ul><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li><li><p class=\"no-margin\">@@body:0043@@</p></li><li><p class=\"no-margin\">@@body:0044@@</p></li><li><p class=\"no-margin\">@@body:0045@@</p></li></ul><p class=\"no-margin\">@@body:0046@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "FAQ on our AI Sensemaking tool",
+      "hash": "1487ef7e349f"
+    },
+    "description": {
+      "field": "description",
+      "text": "Insightful FAQs: Understanding Our AI Sensemaking Tool",
+      "hash": "bb96dc4ba49b"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "External providers and data processing",
+      "hash": "20af4ddbf815"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "We use Microsoft Azure’s implementation of OpenAI models, specifically GPT-4 Turbo, via secure APIs. This setup ensures enterprise-level data handling.",
+      "hash": "ebff280cc7f6"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "<b>Key data handling practices:</b>",
+      "hash": "d5dcabd15f1a"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Purpose-limited use: Data is processed only to provide and support the AI services",
+      "hash": "3851af54f047"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "No direct OpenAI access: The service is hosted entirely within Microsoft Azure and does not interact with external OpenAI platforms like ChatGPT or the public OpenAI API",
+      "hash": "42b60aa68b81"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Regional hosting: Data is processed in the region specified by the customer. For us, that includes one of four: Europe, UK, US, or Canada",
+      "hash": "2d7a33736555"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Access control: Microsoft only accesses data for abuse monitoring purposes",
+      "hash": "1c9f12bd33b1"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "What data is sent to these subprocessors and does it include PII?",
+      "hash": "4b8b92617b18"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "By default, only textual user contributions (e.g., survey answers or ideas) are sent to the AI subprocessors. These are submitted to support AI analysis features like summarization and tagging",
+      "hash": "b36dd56cb8fd"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "When is data sent?",
+      "hash": "1c7f95cffbc0"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Surveys</b>: Text is sent when an admin visits the survey results page.",
+      "hash": "33569e279914"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Ideation</b>: Text is sent when an admin actively starts an AI analysis.",
+      "hash": "5f10debe4b7f"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "What kind of data is included?",
+      "hash": "512fb2647c70"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "Only the free-text content users wrote in their contributions",
+      "hash": "3e0659e04a15"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "No structural user information is shared (e.g., email, username, profile picture, demographic data)",
+      "hash": "886f4a687d85"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "⚠️ If a user includes personal information (PII) in their own contribution text, that PII may be sent to sub-processors as part of the message content. This is not filtered out automatically.",
+      "hash": "cd80ed559926"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Are these subprocessors using the data to train and improve their models?",
+      "hash": "b42a2e4c9bb9"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "No, both sub-processors explicitly state that they are not using the data for such purpose.",
+      "hash": "cadc31440b2e"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Where is Microsoft processing the data?",
+      "hash": "d3b13f6e4e71"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Microsoft allows us to specify the region of processing. We currently make use of 7 regions, where our customers use the region most local to them. The regions are:",
+      "hash": "ea33f9b75fa4"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Frankfurt",
+      "hash": "a3fb8a4dfff4"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "UK",
+      "hash": "e7d529decf2e"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "US",
+      "hash": "9b202ecbc6d4"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Canada",
+      "hash": "be55ef3f4c4e"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Brazil",
+      "hash": "07f62b021771"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Paris",
+      "hash": "5dd272b4f316"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Stockholm",
+      "hash": "b982d7ebca1e"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Why are the answers of AI not in my language?",
+      "hash": "bb8c535a33f8"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Our AI feature tries to answer as much as possible in the language of the input it’s receiving. Exceptionally, in cases where there are mixed languages, there are very few inputs, or when the AI gets it wrong, it might generate answers in the wrong language. In such cases, it mostly suffices to retry.",
+      "hash": "c0b6a2395b88"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "⚠️ All core languages are supported with the exception of Greenlandic",
+      "hash": "b211a47dd9f6"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "How accurate are the generated summaries?",
+      "hash": "895dcb793da6"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Summarization always means discarding some details while retaining what seems most important.",
+      "hash": "4d5a99b7377f"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "AI models are strong at identifying common elements, but deciding what is <i>most relevant</i> requires context, domain knowledge, and subjective judgment.",
+      "hash": "cf7fbc61bada"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Because of this, summaries can be very useful but are not 100% accurate. Human oversight remains essential.",
+      "hash": "6c5e69b62cd6"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "To ensure correct conclusions, our approach emphasizes responsible AI use:",
+      "hash": "867e764045e7"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "The human reviewer always remains in control.",
+      "hash": "c3cfce18079e"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Transparency is maximized so you can verify how summaries are created.",
+      "hash": "c341dda6be68"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "AI provides efficiency, while humans ensure quality and accuracy.",
+      "hash": "6a8e0e413fcc"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Our platform includes several features to help you assess and improve summary quality:",
+      "hash": "9af462c36f88"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "<b>Expected accuracy indication</b>: Before and after generating a summary, the system shows an accuracy estimate (percentage)",
+      "hash": "8ba0a5b66963"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "<b>In-line references</b>: Each summary links back to the original resident inputs it is based on",
+      "hash": "f4ef88e6ac28"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "<b>Full data access</b>: All project inputs remain browseable, so you can always compare summaries with raw contributions.",
+      "hash": "57216aef59fc"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "<b>Tagging</b>: Manually or automatically segment inputs into smaller groups for more focused, accurate summaries",
+      "hash": "a02444ce36da"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "<b>Auto-tagging options</b>: Multiple methods are available; tags can always be overridden for maximum control",
+      "hash": "9b716d8e5813"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "<b>Source-available software</b>: The code is available on GitHub, ensuring transparency into how the tool works",
+      "hash": "99db585a4552"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Summary: while AI-generated summaries are highly effective, they are never 100% accurate. Our design philosophy is human-centric: the AI assists with efficiency, while you retain full transparency and control over interpretation.",
+      "hash": "83536be96640"
+    }
+  }
+}

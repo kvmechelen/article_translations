@@ -1,0 +1,628 @@
+{
+  "article_id": "527568",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Overview of our participation methods",
+      "source_hash": "d96e8e656275",
+      "target": "Overview of our participation methods",
+      "translated_from_hash": "d96e8e656275",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is a participation method?",
+      "source_hash": "77e9be40d736",
+      "target": "What is a participation method?",
+      "translated_from_hash": "77e9be40d736",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "A participation method is a way for people to interact with a project on the platform. Each method represents a different type of engagement, from submitting ideas or completing surveys to voting, volunteering, or reviewing documents.",
+      "source_hash": "0115934e7ef4",
+      "target": "A participation method is a way for people to interact with a project on the platform. Each method represents a different type of engagement, from submitting ideas or completing surveys to voting, volunteering, or reviewing documents.",
+      "translated_from_hash": "0115934e7ef4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Participation methods help structure how input is collected, shared, or acted on. By choosing the right method for a phase, project owners can guide how the community engages and ensure the interaction fits the project’s goals.",
+      "source_hash": "8fec16a8c209",
+      "target": "Participation methods help structure how input is collected, shared, or acted on. By choosing the right method for a phase, project owners can guide how the community engages and ensure the interaction fits the project’s goals.",
+      "translated_from_hash": "8fec16a8c209",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "What are the different participation methods on the platform?",
+      "source_hash": "5d1d12b475de",
+      "target": "What are the different participation methods on the platform?",
+      "translated_from_hash": "5d1d12b475de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Collect Input &amp; Feedback",
+      "source_hash": "028844dde10b",
+      "target": "Collect Input &amp; Feedback",
+      "translated_from_hash": "028844dde10b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Use this method when you want broad, open community engagement and discussion. It’s ideal for gathering ideas, comments, and feedback in a transparent way.",
+      "source_hash": "afe6c792be59",
+      "target": "Use this method when you want broad, open community engagement and discussion. It’s ideal for gathering ideas, comments, and feedback in a transparent way.",
+      "translated_from_hash": "afe6c792be59",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Public idea submissions and threaded discussions.",
+      "source_hash": "8475bc305de6",
+      "target": "Public idea submissions and threaded discussions.",
+      "translated_from_hash": "8475bc305de6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Map view to collect geospatial input (e.g. residents pin contributions on a map).",
+      "source_hash": "405c39024973",
+      "target": "Map view to collect geospatial input (e.g. residents pin contributions on a map).",
+      "translated_from_hash": "405c39024973",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "ESRI add‑on integration for advanced map setups.",
+      "source_hash": "b808b81ca43a",
+      "target": "ESRI add‑on integration for advanced map setups.",
+      "translated_from_hash": "b808b81ca43a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Read more about this participation method in our support article on ‘Ideation, proposals and input management’.</a>",
+      "source_hash": "95cd2e82bcf0",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Read more about this participation method in our support article on ‘Ideation, proposals and input management’.</a>",
+      "translated_from_hash": "95cd2e82bcf0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Voting / Prioritization",
+      "source_hash": "81af6d41cca8",
+      "target": "Voting / Prioritization",
+      "translated_from_hash": "81af6d41cca8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Use when you want participants to rank, vote, or prioritize options — especially for decision‑making or budget allocation.",
+      "source_hash": "fdea59c71558",
+      "target": "Use when you want participants to rank, vote, or prioritize options — especially for decision‑making or budget allocation.",
+      "translated_from_hash": "fdea59c71558",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Multiple voting methods available (ranking, up/down voting, etc.)",
+      "source_hash": "1fe8fd609fd4",
+      "target": "Multiple voting methods available (ranking, up/down voting, etc.)",
+      "translated_from_hash": "1fe8fd609fd4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Supports participatory budgeting exercises (participants allocate funds to preferred options)",
+      "source_hash": "3326e74b70d2",
+      "target": "Supports participatory budgeting exercises (participants allocate funds to preferred options)",
+      "translated_from_hash": "3326e74b70d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Quantifies community preferences to guide priorities",
+      "source_hash": "2498ac9ae8fe",
+      "target": "Quantifies community preferences to guide priorities",
+      "translated_from_hash": "2498ac9ae8fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Read more about this participation method in our support article on ‘Voting and Prioritization’.</a>",
+      "source_hash": "a5f5315f6e8a",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527581-voting-and-prioritization-methods-for-enhanced-decision-making\" target=\"_blank\">Read more about this participation method in our support article on ‘Voting and Prioritization’.</a>",
+      "translated_from_hash": "a5f5315f6e8a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Survey",
+      "source_hash": "211bb3de5686",
+      "target": "Survey",
+      "translated_from_hash": "211bb3de5686",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Use surveys for structured, in‑depth feedback or quick insights via short polls.",
+      "source_hash": "981d7aff8b43",
+      "target": "Use surveys for structured, in‑depth feedback or quick insights via short polls.",
+      "translated_from_hash": "981d7aff8b43",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "In‑platform surveys with multiple question types (e.g., multiple choice, open text).",
+      "source_hash": "290e69a8d9c3",
+      "target": "In‑platform surveys with multiple question types (e.g., multiple choice, open text).",
+      "translated_from_hash": "290e69a8d9c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Embed external surveys for advanced data collection.",
+      "source_hash": "b7590065ec77",
+      "target": "Embed external surveys for advanced data collection.",
+      "translated_from_hash": "b7590065ec77",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Quick polls that display directly on a project page.",
+      "source_hash": "fee8990bd0a9",
+      "target": "Quick polls that display directly on a project page.",
+      "translated_from_hash": "fee8990bd0a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">Read more about this participation method in our support article on ‘Surveys’.</a>",
+      "source_hash": "dbd96c1fe282",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">Read more about this participation method in our support article on ‘Surveys’.</a>",
+      "translated_from_hash": "dbd96c1fe282",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Proposals, Petitions, or Initiatives",
+      "source_hash": "757abbb9e383",
+      "target": "Proposals, Petitions, or Initiatives",
+      "translated_from_hash": "757abbb9e383",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Use this method when you want the community to submit their own ideas or campaigns for others to support.",
+      "source_hash": "8d0aaa59e4ef",
+      "target": "Use this method when you want the community to submit their own ideas or campaigns for others to support.",
+      "translated_from_hash": "8d0aaa59e4ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Users upload proposals or petitions for community backing.",
+      "source_hash": "63d98b951574",
+      "target": "Users upload proposals or petitions for community backing.",
+      "translated_from_hash": "63d98b951574",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Time and vote limits can be set to control the process.",
+      "source_hash": "effda9a3fba8",
+      "target": "Time and vote limits can be set to control the process.",
+      "translated_from_hash": "effda9a3fba8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Ideal for crowdsourcing initiatives and building consensus.",
+      "source_hash": "9d5726a4975f",
+      "target": "Ideal for crowdsourcing initiatives and building consensus.",
+      "translated_from_hash": "9d5726a4975f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">Read more about this participation method in our support article on ‘Ideation, proposals and input management’.</a>",
+      "source_hash": "7d68a0e3415a",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">Read more about this participation method in our support article on ‘Ideation, proposals and input management’.</a>",
+      "translated_from_hash": "7d68a0e3415a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Finding Common Ground",
+      "source_hash": "fcbed66b76f8",
+      "target": "Finding Common Ground",
+      "translated_from_hash": "fcbed66b76f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>When to use</b>",
+      "source_hash": "7c0b553a6bd5",
+      "target": "<b>When to use</b>",
+      "translated_from_hash": "7c0b553a6bd5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "When a large consultation generates thousands of contributions and finding consensus feels overwhelming — it bridges open ideation and deeper deliberation.",
+      "source_hash": "71e124a7c08f",
+      "target": "When a large consultation generates thousands of contributions and finding consensus feels overwhelming — it bridges open ideation and deeper deliberation.",
+      "translated_from_hash": "71e124a7c08f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "<b>Key features</b>",
+      "source_hash": "631c79f109ea",
+      "target": "<b>Key features</b>",
+      "translated_from_hash": "631c79f109ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Participants react to concise trade-off statements (agree / unsure / disagree), producing a clear map of where opinions align or diverge.",
+      "source_hash": "70d67191a85b",
+      "target": "Participants react to concise trade-off statements (agree / unsure / disagree), producing a clear map of where opinions align or diverge.",
+      "translated_from_hash": "70d67191a85b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Results are visualized in real time for participants and admins, increasing transparency and showing how each voice contributes to the community view.",
+      "source_hash": "bfe953fc540f",
+      "target": "Results are visualized in real time for participants and admins, increasing transparency and showing how each voice contributes to the community view.",
+      "translated_from_hash": "bfe953fc540f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/609603-finding-common-ground\" target=\"_blank\">Read more about finding common ground method here<br/>​</a>",
+      "source_hash": "c93be1d35896",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/609603-finding-common-ground\" target=\"_blank\">Read more about finding common ground method here<br/>​</a>",
+      "translated_from_hash": "c93be1d35896",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Share Information",
+      "source_hash": "2f9df769776f",
+      "target": "Share Information",
+      "translated_from_hash": "2f9df769776f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Use when you need to keep your community informed or share results from other participation phases.",
+      "source_hash": "5079090a098b",
+      "target": "Use when you need to keep your community informed or share results from other participation phases.",
+      "translated_from_hash": "5079090a098b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Publish updates and phase results.",
+      "source_hash": "1162d4c5023f",
+      "target": "Publish updates and phase results.",
+      "translated_from_hash": "1162d4c5023f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Create attractive reports to summarize findings.",
+      "source_hash": "765604ca4569",
+      "target": "Create attractive reports to summarize findings.",
+      "translated_from_hash": "765604ca4569",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Reports appear on the phase description for easy visibility.",
+      "source_hash": "275b79f1a03c",
+      "target": "Reports appear on the phase description for easy visibility.",
+      "translated_from_hash": "275b79f1a03c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Read more about this participation method in our support article on ‘Report Builder’.</a>",
+      "source_hash": "6aa7a7b9c5dd",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Read more about this participation method in our support article on ‘Report Builder’.</a>",
+      "translated_from_hash": "6aa7a7b9c5dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Recruit Participants or Volunteers",
+      "source_hash": "114624eb8e0a",
+      "target": "Recruit Participants or Volunteers",
+      "translated_from_hash": "114624eb8e0a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Use this method when you want to mobilize people for events, panels, or community efforts.",
+      "source_hash": "90d0b6ac7175",
+      "target": "Use this method when you want to mobilize people for events, panels, or community efforts.",
+      "translated_from_hash": "90d0b6ac7175",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Recruit volunteers or participants for specific causes or activities.",
+      "source_hash": "73af17ee9a68",
+      "target": "Recruit volunteers or participants for specific causes or activities.",
+      "translated_from_hash": "73af17ee9a68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Manage sign‑ups easily from the platform.",
+      "source_hash": "d8c774e8097d",
+      "target": "Manage sign‑ups easily from the platform.",
+      "translated_from_hash": "d8c774e8097d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Builds an active, engaged community base.",
+      "source_hash": "77677133ca74",
+      "target": "Builds an active, engaged community base.",
+      "translated_from_hash": "77677133ca74",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527622-organizing-a-volunteering-project\" target=\"_blank\">Read more about this participation method in our support article on ‘Volunteering’.</a>",
+      "source_hash": "d88ae4addfb7",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527622-organizing-a-volunteering-project\" target=\"_blank\">Read more about this participation method in our support article on ‘Volunteering’.</a>",
+      "translated_from_hash": "d88ae4addfb7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Collect Feedback on a Document",
+      "source_hash": "f3830558d59c",
+      "target": "Collect Feedback on a Document",
+      "translated_from_hash": "f3830558d59c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<b>When to use:</b>",
+      "source_hash": "cbe7dc8e9969",
+      "target": "<b>When to use:</b>",
+      "translated_from_hash": "cbe7dc8e9969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Use when you need collaborative review of documents like plans, proposals, or policy drafts.",
+      "source_hash": "6d2a99af3a3b",
+      "target": "Use when you need collaborative review of documents like plans, proposals, or policy drafts.",
+      "translated_from_hash": "6d2a99af3a3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>Key features:</b>",
+      "source_hash": "f22162aa7b29",
+      "target": "<b>Key features:</b>",
+      "translated_from_hash": "f22162aa7b29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Konveio integration to embed and annotate PDFs",
+      "source_hash": "f4ee97e70d8a",
+      "target": "Konveio integration to embed and annotate PDFs",
+      "translated_from_hash": "f4ee97e70d8a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Users provide comments directly on the document",
+      "source_hash": "6796963321cb",
+      "target": "Users provide comments directly on the document",
+      "translated_from_hash": "6796963321cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Ideal for detailed feedback and refinement",
+      "source_hash": "0c003d5b3a7a",
+      "target": "Ideal for detailed feedback and refinement",
+      "translated_from_hash": "0c003d5b3a7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527582-embedding-konveio-pdf-documents-for-collecting-feedback\" target=\"_blank\">Read more about this participation method in our support article on ‘Konveio’.</a>",
+      "source_hash": "8526bfa71825",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527582-embedding-konveio-pdf-documents-for-collecting-feedback\" target=\"_blank\">Read more about this participation method in our support article on ‘Konveio’.</a>",
+      "translated_from_hash": "8526bfa71825",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

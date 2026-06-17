@@ -1,0 +1,709 @@
+{
+  "article_id": "527652",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "What are the recommended dimensions and sizes of the platform images ?",
+      "source_hash": "62549d1ad804",
+      "target": "What are the recommended dimensions and sizes of the platform images ?",
+      "translated_from_hash": "62549d1ad804",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What are images on our platform?",
+      "source_hash": "634544df6fba",
+      "target": "What are images on our platform?",
+      "translated_from_hash": "634544df6fba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Your platform allows visual customization through images or designed graphics. These visuals enhance user engagement and provide a professional and branded look.",
+      "source_hash": "9fcab148d0a8",
+      "target": "Your platform allows visual customization through images or designed graphics. These visuals enhance user engagement and provide a professional and branded look.",
+      "translated_from_hash": "9fcab148d0a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Here are the primary places where images are used:",
+      "source_hash": "76cbfecdebb5",
+      "target": "Here are the primary places where images are used:",
+      "translated_from_hash": "76cbfecdebb5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Homepage banner",
+      "source_hash": "7d1a3dfb6b32",
+      "target": "Homepage banner",
+      "translated_from_hash": "7d1a3dfb6b32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Project or folder card (in project/folder settings; visible on the homepage or within folders)",
+      "source_hash": "b738f056c5ce",
+      "target": "Project or folder card (in project/folder settings; visible on the homepage or within folders)",
+      "translated_from_hash": "b738f056c5ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Project or folder banner (see header image in the project/folder settings; appears at the top of the project/folder page)",
+      "source_hash": "0fe2ffded397",
+      "target": "Project or folder banner (see header image in the project/folder settings; appears at the top of the project/folder page)",
+      "translated_from_hash": "0fe2ffded397",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Input (idea) card (shown above individual inputs or in input overviews)",
+      "source_hash": "f53dd1e38ddf",
+      "target": "Input (idea) card (shown above individual inputs or in input overviews)",
+      "translated_from_hash": "f53dd1e38ddf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Logo",
+      "source_hash": "d707dc2f1936",
+      "target": "Logo",
+      "translated_from_hash": "d707dc2f1936",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "In-text images",
+      "source_hash": "6dc907a2e033",
+      "target": "In-text images",
+      "translated_from_hash": "6dc907a2e033",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Proposals",
+      "source_hash": "834cfc1ee237",
+      "target": "Proposals",
+      "translated_from_hash": "834cfc1ee237",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Event cards",
+      "source_hash": "105ef9125206",
+      "target": "Event cards",
+      "translated_from_hash": "105ef9125206",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "What are the image file requirements?",
+      "source_hash": "819c5cbcf9b8",
+      "target": "What are the image file requirements?",
+      "translated_from_hash": "819c5cbcf9b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "To maintain clarity:",
+      "source_hash": "19ce3dd33ab5",
+      "target": "To maintain clarity:",
+      "translated_from_hash": "19ce3dd33ab5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Use PNG or JPG formats",
+      "source_hash": "9c9a140be782",
+      "target": "Use PNG or JPG formats",
+      "translated_from_hash": "9c9a140be782",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "File size must not exceed 10 MB",
+      "source_hash": "ac0529828a98",
+      "target": "File size must not exceed 10 MB",
+      "translated_from_hash": "ac0529828a98",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Use a resolution of at least 72 dpi (dots per inch)",
+      "source_hash": "09d2f5b2a081",
+      "target": "Use a resolution of at least 72 dpi (dots per inch)",
+      "translated_from_hash": "09d2f5b2a081",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "💡 A higher dpi ensures your image appears crisp and not pixelated.",
+      "source_hash": "2ea41f15f24c",
+      "target": "💡 A higher dpi ensures your image appears crisp and not pixelated.",
+      "translated_from_hash": "2ea41f15f24c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "What are the requirements for attachments on the platform?",
+      "source_hash": "79e190d8bf5b",
+      "target": "What are the requirements for attachments on the platform?",
+      "translated_from_hash": "79e190d8bf5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Each file (e.g., image, PDF) can be up to 50 MB",
+      "source_hash": "47f3edf0648b",
+      "target": "Each file (e.g., image, PDF) can be up to 50 MB",
+      "translated_from_hash": "47f3edf0648b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "No limit to the number of attachments per project",
+      "source_hash": "f694f9eb1547",
+      "target": "No limit to the number of attachments per project",
+      "translated_from_hash": "f694f9eb1547",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "However, uploading many large files can slow down performance",
+      "source_hash": "bdf217c71ae9",
+      "target": "However, uploading many large files can slow down performance",
+      "translated_from_hash": "bdf217c71ae9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>⚠️ </b>Attached files are automatically downloaded when clicked.",
+      "source_hash": "0ccc4884b2cd",
+      "target": "<b>⚠️ </b>Attached files are automatically downloaded when clicked.",
+      "translated_from_hash": "0ccc4884b2cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "💡 If you want the file to open in a new tab, use the hyperlink tool to insert a direct URL to the file hosted online.",
+      "source_hash": "0d8fdddd8644",
+      "target": "💡 If you want the file to open in a new tab, use the hyperlink tool to insert a direct URL to the file hosted online.",
+      "translated_from_hash": "0d8fdddd8644",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "What are the recommended dimensions for different images on the platform?",
+      "source_hash": "c16366340b6e",
+      "target": "What are the recommended dimensions for different images on the platform?",
+      "translated_from_hash": "c16366340b6e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Homepage banner",
+      "source_hash": "7d1a3dfb6b32",
+      "target": "Homepage banner",
+      "translated_from_hash": "7d1a3dfb6b32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Recommended dimensions: 1440 × 480 px",
+      "source_hash": "6abca09022a8",
+      "target": "Recommended dimensions: 1440 × 480 px",
+      "translated_from_hash": "6abca09022a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Aspect ratio: 3:1",
+      "source_hash": "52a58b63b24c",
+      "target": "Aspect ratio: 3:1",
+      "translated_from_hash": "52a58b63b24c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "On mobile: typically displays closer to 1:1",
+      "source_hash": "35882c724b26",
+      "target": "On mobile: typically displays closer to 1:1",
+      "translated_from_hash": "35882c724b26",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "ℹ️ You can choose different banner styles (see next section)",
+      "source_hash": "4eaa8e8e9214",
+      "target": "ℹ️ You can choose different banner styles (see next section)",
+      "translated_from_hash": "4eaa8e8e9214",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Project/folder card",
+      "source_hash": "42503ecfde54",
+      "target": "Project/folder card",
+      "translated_from_hash": "42503ecfde54",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Dimensions: 1400 × 1050 px",
+      "source_hash": "c643be92d5e7",
+      "target": "Dimensions: 1400 × 1050 px",
+      "translated_from_hash": "c643be92d5e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Aspect ratio: 4:3",
+      "source_hash": "6fa96905a3f7",
+      "target": "Aspect ratio: 4:3",
+      "translated_from_hash": "6fa96905a3f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "On mobile: maintains 4:3 ratio",
+      "source_hash": "3b2aa737ff0e",
+      "target": "On mobile: maintains 4:3 ratio",
+      "translated_from_hash": "3b2aa737ff0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Project/folder banner",
+      "source_hash": "b4fc501121a9",
+      "target": "Project/folder banner",
+      "translated_from_hash": "b4fc501121a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Dimensions: 2400 x 600 px",
+      "source_hash": "bfe466a798d2",
+      "target": "Dimensions: 2400 x 600 px",
+      "translated_from_hash": "bfe466a798d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Aspect ratio: 4:1",
+      "source_hash": "6626f41bfa6b",
+      "target": "Aspect ratio: 4:1",
+      "translated_from_hash": "6626f41bfa6b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "On mobile: crops to approx. 3:1",
+      "source_hash": "d5cba55d43c8",
+      "target": "On mobile: crops to approx. 3:1",
+      "translated_from_hash": "d5cba55d43c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Input (idea) card",
+      "source_hash": "30d73c11ee60",
+      "target": "Input (idea) card",
+      "translated_from_hash": "30d73c11ee60",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Dimensions: 1024 × 1024 px",
+      "source_hash": "72065198ee57",
+      "target": "Dimensions: 1024 × 1024 px",
+      "translated_from_hash": "72065198ee57",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Aspect ratio: 1:1",
+      "source_hash": "3967b55f37e2",
+      "target": "Aspect ratio: 1:1",
+      "translated_from_hash": "3967b55f37e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "On mobile: crops to 2:1 or 3:1",
+      "source_hash": "2339b9637627",
+      "target": "On mobile: crops to 2:1 or 3:1",
+      "translated_from_hash": "2339b9637627",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Logo",
+      "source_hash": "d707dc2f1936",
+      "target": "Logo",
+      "translated_from_hash": "d707dc2f1936",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Minimum height: 48px",
+      "source_hash": "8d23add066a4",
+      "target": "Minimum height: 48px",
+      "translated_from_hash": "8d23add066a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Ratio: 2:1",
+      "source_hash": "df4882f38b85",
+      "target": "Ratio: 2:1",
+      "translated_from_hash": "df4882f38b85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Displayed in the top-left corner of the navigation menu",
+      "source_hash": "3c712c1969f4",
+      "target": "Displayed in the top-left corner of the navigation menu",
+      "translated_from_hash": "3c712c1969f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Proposal card",
+      "source_hash": "888bbbca43f0",
+      "target": "Proposal card",
+      "translated_from_hash": "888bbbca43f0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Dimensions: 1000 × 500 px",
+      "source_hash": "d1dd533fa975",
+      "target": "Dimensions: 1000 × 500 px",
+      "translated_from_hash": "d1dd533fa975",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Ratio: 2:1",
+      "source_hash": "df4882f38b85",
+      "target": "Ratio: 2:1",
+      "translated_from_hash": "df4882f38b85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Displayed on the proposal overview page",
+      "source_hash": "15c3b6f45055",
+      "target": "Displayed on the proposal overview page",
+      "translated_from_hash": "15c3b6f45055",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Event card",
+      "source_hash": "35eeef5f086d",
+      "target": "Event card",
+      "translated_from_hash": "35eeef5f086d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Dimensions: 1800 × 600 px",
+      "source_hash": "033ca17aa714",
+      "target": "Dimensions: 1800 × 600 px",
+      "translated_from_hash": "033ca17aa714",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Ratio: 3:1",
+      "source_hash": "c1d481a842d4",
+      "target": "Ratio: 3:1",
+      "translated_from_hash": "c1d481a842d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Displayed at the bottom of project pages and under the Events tab",
+      "source_hash": "bc47bdb0eb9d",
+      "target": "Displayed at the bottom of project pages and under the Events tab",
+      "translated_from_hash": "bc47bdb0eb9d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "In-text images",
+      "source_hash": "6dc907a2e033",
+      "target": "In-text images",
+      "translated_from_hash": "6dc907a2e033",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Can be added in project/phase descriptions or surveys",
+      "source_hash": "3a5ee902f3b3",
+      "target": "Can be added in project/phase descriptions or surveys",
+      "translated_from_hash": "3a5ee902f3b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Titles are mandatory for accessibility",
+      "source_hash": "6e0e59499ef5",
+      "target": "Titles are mandatory for accessibility",
+      "translated_from_hash": "6e0e59499ef5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Resizable in regular text fields but not in content builders",
+      "source_hash": "d175a7b37a3e",
+      "target": "Resizable in regular text fields but not in content builders",
+      "translated_from_hash": "d175a7b37a3e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "What are the different homepage banner display options?",
+      "source_hash": "7d7d888cd815",
+      "target": "What are the different homepage banner display options?",
+      "translated_from_hash": "7d7d888cd815",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "You can choose between 3 layout options for your homepage banner:",
+      "source_hash": "4303fde1c943",
+      "target": "You can choose between 3 layout options for your homepage banner:",
+      "translated_from_hash": "4303fde1c943",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Full-width banner",
+      "source_hash": "03d68fb93222",
+      "target": "Full-width banner",
+      "translated_from_hash": "03d68fb93222",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Offers the most visual impact",
+      "source_hash": "766c8078e212",
+      "target": "Offers the most visual impact",
+      "translated_from_hash": "766c8078e212",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Crops the image the most",
+      "source_hash": "4e68f616739f",
+      "target": "Crops the image the most",
+      "translated_from_hash": "4e68f616739f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Best for abstract, decorative visuals without text",
+      "source_hash": "5ae1e71f6480",
+      "target": "Best for abstract, decorative visuals without text",
+      "translated_from_hash": "5ae1e71f6480",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Two-row banner",
+      "source_hash": "7406bc93ea32",
+      "target": "Two-row banner",
+      "translated_from_hash": "7406bc93ea32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Title, subtitle, and button appear below the image",
+      "source_hash": "df6ca9716db8",
+      "target": "Title, subtitle, and button appear below the image",
+      "translated_from_hash": "df6ca9716db8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Useful if your image doesn’t pair well with overlaid text",
+      "source_hash": "6c9f558d3aca",
+      "target": "Useful if your image doesn’t pair well with overlaid text",
+      "translated_from_hash": "6c9f558d3aca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Fixed-ratio banner",
+      "source_hash": "d381f6f03798",
+      "target": "Fixed-ratio banner",
+      "translated_from_hash": "d381f6f03798",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Recommended ratio: 3:1",
+      "source_hash": "7be83655d641",
+      "target": "Recommended ratio: 3:1",
+      "translated_from_hash": "7be83655d641",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Maintains a consistent display area",
+      "source_hash": "933f6cf4421b",
+      "target": "Maintains a consistent display area",
+      "translated_from_hash": "933f6cf4421b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "When uploading, you can drag the image to choose which part stays visible",
+      "source_hash": "fd45574645aa",
+      "target": "When uploading, you can drag the image to choose which part stays visible",
+      "translated_from_hash": "fd45574645aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "⚠️ Regardless of layout, avoid using text inside the image as it may get cropped on smaller screens.",
+      "source_hash": "ca2131ccae73",
+      "target": "⚠️ Regardless of layout, avoid using text inside the image as it may get cropped on smaller screens.",
+      "translated_from_hash": "ca2131ccae73",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "How to resize images on the platform?",
+      "source_hash": "4d086fec44c3",
+      "target": "How to resize images on the platform?",
+      "translated_from_hash": "4d086fec44c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "In regular text boxes, you can resize by dragging the image corners.",
+      "source_hash": "a0fecb9cb93a",
+      "target": "In regular text boxes, you can resize by dragging the image corners.",
+      "translated_from_hash": "a0fecb9cb93a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "In content builder areas (e.g., homepage builder, project description), resizing is not possible this way, images retain their original size. There is a trick you an use if you need to resize an image inside the content builder. You can use columns within columns to make the image smaller.",
+      "source_hash": "713db93fb5a6",
+      "target": "In content builder areas (e.g., homepage builder, project description), resizing is not possible this way, images retain their original size. There is a trick you an use if you need to resize an image inside the content builder. You can use columns within columns to make the image smaller.",
+      "translated_from_hash": "713db93fb5a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "💡 Visually reduce image sizes in the content builder by using columns within columns.",
+      "source_hash": "cfeaf91ffbac",
+      "target": "💡 Visually reduce image sizes in the content builder by using columns within columns.",
+      "translated_from_hash": "cfeaf91ffbac",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

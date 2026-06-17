@@ -1,0 +1,93 @@
+{
+  "article_id": "527557",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<p class=\"no-margin\"></p>\n<h1 id=\"h_ec70a182a8\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li></ul><p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_3f8b35f276\">@@body:0010@@</h1><p class=\"no-margin\">@@body:0011@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Visitors Dashboard",
+      "hash": "ff18ecda72da"
+    },
+    "description": {
+      "field": "description",
+      "text": "Interpreting the visitors dashboard",
+      "hash": "d811e1df520a"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the visitors dashboard?",
+      "hash": "12cad1cd2a5c"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The <b>Visitors Dashboard</b> gives you a high-level overview of the traffic on your platform. It helps you understand how people find, explore, and engage with your platform through the following key metrics:",
+      "hash": "9bc2ac6da575"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "<b>Total amount of visitors:</b> Shows how many visitors your platform has, along with their average visit duration and number of pages viewed.",
+      "hash": "f12bc9824852"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "<b>Traffic sources:</b> Displays the channels through which your visitors found you and entered the platform from (e.g., direct links, search engines, social media). By pressing the list icon in the right corner of the widget you can see the list of exact URL visitors are coming from.",
+      "hash": "2f956fdf6564"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "<b>Registrations:</b> Highlights the total number of new registrations and the conversion rate of unregistered users who decide to register.",
+      "hash": "a0efdcc66b89"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<b>Participants:</b> Shows how many visitors actively participate in one or more of your projects.",
+      "hash": "a984ab20cd53"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Language:</b> Gives insight into the language diversity among your platform’s visitors.",
+      "hash": "11cc860c1bd1"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Visitor types:</b> Differentiates between <i>visitors</i> (unique individuals) and <i>visits</i> (total entries). A single visitor can generate multiple visits if they return to the platform multiple times.",
+      "hash": "6c57d3935825"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "This dashboard helps you monitor platform engagement and identify trends in your audience’s behavior. You can see this data per time period by editing the date manually. You can download the raw data in excel for each widget.",
+      "hash": "9c5cf9df87a4"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Who has access to the visitors dashboard?",
+      "hash": "8a679e7a0533"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Only Admins have access to the Dashboard tab, which includes the Visitors Dashboard with platform-wide data. Project Managers and Folder Managers do not have access to this tab.",
+      "hash": "bcc6ae288ce3"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "However, they can still view related insights at different levels:",
+      "hash": "1229afdd98bf"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Project level:</b> Within a project, managers can access the <b>Traffic</b> tab in the top panel to view visitor metrics specific to that project. They can also explore participant-related insights (but not visitor data) in the <b>Participants</b> tab.",
+      "hash": "c51ea3966a7f"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>Folder level:</b> Visitor data at the folder level is currently not available in the platform. If needed, you can contact the <b>support team</b> through the chat bubble in the bottom-right corner of your platform to request this data.",
+      "hash": "e99413bafa7a"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "<b>Phase level: </b>The<b> Insights</b> tab on each phase shows phase level data such as visitors and participation rate. You can download this data by pressing Download on the left hand side.",
+      "hash": "2223e788b5cf"
+    }
+  }
+}

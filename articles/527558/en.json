@@ -1,0 +1,83 @@
+{
+  "article_id": "527558",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_0404628c1b\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_2351217178\">@@body:0003@@</h2><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372102/2b0af5ec2f0707b911b5d01ec260/upload_10686865939173813505.png?expires=1781805600&amp;signature=078402ebc4fdffabbbd6b046c22a4b2412e80d26747b1ed7d1b0469f47d62a10&amp;req=2dVswlr7rDVk2hj99dpg6jy2T7CKGsc6pChugtsaF1h5vI9LKYSEZ8%2BhR6JR%0A0ALi3My580WTMQvghCuN8DNs%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0005@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_778d2d63df\">@@body:0006@@</h2><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372110/231f21818c30af2a5f7c0a8cf2c1/upload_10380392680693815212.png?expires=1781805600&amp;signature=331d18dcc43d2976f29c6e75b6d76b00f5c20c455593469c8e42b0b97248d4e4&amp;req=2dVswlr7rTdk2hj99dpg6mTq07W54JGTkfyMiM0UlcGZ7eoAsK4xkbBcM7hc%0ADRxrF6396PMtF4oDWkscWzNs%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0009@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_d6bcbbfcaa\">@@body:0010@@</h2><p class=\"no-margin\">@@body:0011@@</p><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0013@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "The link I have communicated to users for participating doesn't work",
+      "hash": "43023430a624"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Why is the link I shared not working?",
+      "hash": "24d077ae469e"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "If users receive an error message saying they don’t have permission to view your project or survey, it’s usually due to one of the following reasons:",
+      "hash": "322274efd4ec"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "1. The project isn’t published",
+      "hash": "e8f43b62ef1b"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "If your project hasn’t been published yet, it won’t be visible to users (unless they are using the preview link)",
+      "hash": "0396daac67bc"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "ℹ️<b> </b>Action:<b> </b>Publish the project before sharing the link.",
+      "hash": "a4b3f7da3769"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "2. Project visibility settings restrict access",
+      "hash": "d8e9c88e7099"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Go to the <b>General</b> tab to your project settings<b> → Access Rights</b> and check the <b>Visibility</b> settings.",
+      "hash": "ee58a620d67b"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "If visibility is limited to specific users or groups, anyone outside of that selection won’t be able to access the project.",
+      "hash": "1d51023d76f5"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "ℹ️ Action: Adjust the visibility settings to include your intended participants.",
+      "hash": "4c84e1f3335d"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "3. The wrong link is being shared",
+      "hash": "6e9ba9d7e7f6"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Make sure you’re sharing the project URL, not the survey URL.",
+      "hash": "5c655bdf9936"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "If you share the survey URL directly and it requires login, email verification, or demographic pre-screening, users may get an error.",
+      "hash": "a54decaaae72"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "ℹ️ <b>Action:</b> Always share the project URL, which ensures users complete any required steps before accessing the survey.",
+      "hash": "f3c18976132c"
+    }
+  }
+}

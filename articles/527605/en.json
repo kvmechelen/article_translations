@@ -1,0 +1,178 @@
+{
+  "article_id": "527605",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_ee0eb3f9be\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_046f57259b\">@@body:0005@@</h1><h2 id=\"h_566fb084cd\">@@body:0006@@</h2><p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_f28e8dceea\">@@body:0009@@</h2><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0011@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_3dcb273538\">@@body:0012@@</h2><p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0014@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_78e21a21e1\">@@body:0015@@</h2><p class=\"no-margin\">@@body:0016@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0017@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_4215fd7c05\">@@body:0018@@</h2><p class=\"no-margin\">@@body:0019@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0020@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_bf77ed38fd\">@@body:0021@@</h2><p class=\"no-margin\">@@body:0022@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_a4c8c5eca9\">@@body:0023@@</h2><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_bf99e62217\">@@body:0025@@</h2><p class=\"no-margin\">@@body:0026@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0027@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_11364c83b5\">@@body:0028@@</h2><p class=\"no-margin\">@@body:0029@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_7763b95573\">@@body:0031@@</h2><p class=\"no-margin\">@@body:0032@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Platform Launch Checklist",
+      "hash": "ac033f688f01"
+    },
+    "description": {
+      "field": "description",
+      "text": "Must-do's before you launch your platform",
+      "hash": "dd210bb110ec"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Why a platform launch checklist?",
+      "hash": "f89808f577bb"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Before your platform goes live, there are several essential steps to take to ensure a smooth and professional launch. Some of these tasks are highly recommended and others optional, but completing the checklist will help you deliver the best platform experience from day one.",
+      "hash": "01a3c246faa7"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Many of these settings are long-term decisions that will rarely change, so think about potential future use cases when configuring them.",
+      "hash": "0dbde7484fc8"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "If any steps require assistance, you can contact the support team via the chat bubble at the bottom right of your platform (make sure you’re logged in).",
+      "hash": "f8420173a594"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Platform launch checklist",
+      "hash": "cdf2542e201e"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Customizing Your Platform URL",
+      "hash": "d2ea81c42728"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Your platform needs a unique URL before launch. Decide on a clear and memorable address that reflects your organization or community. This URL will be how participants find and remember your platform.",
+      "hash": "11361d566ef1"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527651-setting-up-your-platform-url-and-email\" target=\"_blank\">Setting up your platform URL and Email</a>",
+      "hash": "162dc16aea98"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Adding Your “Reply-To” Email Address",
+      "hash": "4550d38bb654"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Automated emails sent from your platform don’t process replies. Add a “reply-to” email address so that any replies are routed to the right inbox (e.g., your support or info mailbox).",
+      "hash": "9b94461f3011"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527651-setting-up-your-platform-url-and-email\" target=\"_blank\">Setting up your platform URL and Email</a>",
+      "hash": "162dc16aea98"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Adding Places of Residence",
+      "hash": "3abbf44e56c9"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Set up your <b>geographic areas</b> (e.g., neighborhoods, districts, or zones) that are relevant for your organization. These areas will become key for smart groups, segmentation, and project targeting.",
+      "hash": "6fd1ba7b32ce"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "hash": "4f5bc586b35a"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Finalizing the User Registration Flow",
+      "hash": "5bdc75b92e00"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Define what information you want to collect during registration (e.g., age, residence, occupation). Locking in the registration flow ensures all projects collect consistent data from the start — making reporting and analysis much easier later.",
+      "hash": "3d967c11a1c3"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "hash": "4f5bc586b35a"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Customizing Content Pages and Policies",
+      "hash": "ae4c5004c12f"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Update your platform’s Privacy Policy, “About” page, and any other static pages. Include key details like contact information, support links, and any required legal disclaimers.",
+      "hash": "762ddf7defa3"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527614-customizing-the-policies-on-your-platform\" target=\"_blank\">Customizing the policies on your platform</a> and <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527601-navigation-bar-and-custom-pages\" target=\"_blank\">Navigation Bar and Custom Pages</a>",
+      "hash": "a85e96fa43e4"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Adding a Custom Favicon",
+      "hash": "6cb6304cb5df"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Upload a favicon (the small icon shown in browser tabs) to reinforce your platform’s identity. Go to <code>yourplatformurl.co/admin/favicon</code> to set this up.",
+      "hash": "3f3f6d32d853"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Linking Your Platform to Your Website",
+      "hash": "3734d7854b97"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Add your platform’s URL to your organization’s website so users can easily find it. You can do this by adding the URL in the General tab of your platform’s Settings.",
+      "hash": "289b5ce5520d"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Adapting Your Platform’s Look and Feel",
+      "hash": "b2ba3a352db4"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Match your platform’s design to your organization’s visual identity. Customize colors, fonts, and branding so the platform feels like an extension of your existing communication channels.",
+      "hash": "d0d9a15a49c7"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527637-branding-your-platform\" target=\"_blank\">Branding your platform</a>",
+      "hash": "4170d72d25b0"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Deciding on Notifications and Automated Emails",
+      "hash": "915fe450f345"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Review which automatic email notifications will be active when the platform launches. Choose which updates users should receive (and which they shouldn’t) to keep communication relevant.",
+      "hash": "1940fd7340ea"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">Automatic emails or Notifications on the platform</a>",
+      "hash": "e09e152d663a"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Updating your platform and project tags",
+      "hash": "1913cbf5c8bd"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Platform and project tags can be found in the general <b>Settings</b> &gt; <b>Tags </b>tab of the platform. Platform tags are used to categorize projects, for example on the homepage. You can add the tags to specific projects in the project settings. Review the list of default tag list, delete, edit, or add tags that are relevant to your projects. <br/><br/>Input tags are used to categorize inputs within projects, typically chosen by the author. The inputs tags available to authors can be configured per project. It's good practice to have a default list though that you can configure here.",
+      "hash": "e4bb5096860a"
+    }
+  }
+}

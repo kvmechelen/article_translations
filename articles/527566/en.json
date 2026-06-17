@@ -1,0 +1,158 @@
+{
+  "article_id": "527566",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_f5ab7e2f87\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_41ef597bd6\">@@body:0005@@</h1><p class=\"no-margin\">@@body:0006@@</p><ul><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li></ul><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372213/c5e179598071d5e6402c7669c43e/upload_13175393673152396238.png?expires=1781805600&amp;signature=9d01e7aeee364d72a69e1237eea1e34c711785a8ac2b44b5b48ea56904521593&amp;req=2dVswlr4rTRk2hj99dpg6p9MB48o0ZauGPzIV2%2F92Y%2FHBq7sJXnK5WYr3pPy%0AfwsicHkATNhse3tA3li2TUeK%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0011@@</p><p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li></ul><p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_705bb7831e\">@@body:0016@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372219/98997645be67d42e3f4247b9bd8b/upload_7545547976589159293.png?expires=1781805600&amp;signature=639b3ca00ee11dbf7204b8b522096ee71ebc08eaf54cd85961687722a25be592&amp;req=2dVswlr4rT5k2hj99dpg6o4P%2BQlJQof8mDj1vXSKJQujt56UoLnbXztCDzQH%0AZzneE7xhZi7MCiWXr8k%2Bva%2Bt%0A\"/></div><ol><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p><ul><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0022@@</p></li></ol><h1 id=\"h_75278539a5\">@@body:0023@@</h1><p class=\"no-margin\">@@body:0024@@</p><p class=\"no-margin\">@@body:0025@@</p><ul><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Monitoring activity",
+      "hash": "85ba905241c1"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the management feed?",
+      "hash": "38e6ad040b92"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The Management Feed helps admins monitor recent actions on the platform for greater transparency and accountability. It is located in the <b>Dashboard</b> tab of your <b>Admin Panel</b>.",
+      "hash": "3884a5aff6a5"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "<br/>Only <b>admins</b> can access this tab, it is not available to project managers or normal users.",
+      "hash": "3ef311d037d7"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "<br/>⚠️ If you do not see this tab, your current price plan may not include it.",
+      "hash": "3acb27914007"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Which actions are displayed in the management feed?",
+      "hash": "43a2d2699252"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "The management feed displays the following action types:",
+      "hash": "54123674b8f1"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Created</b>: when a new input, phase, project, or folder is added.",
+      "hash": "5907e069ce43"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Modified</b>: when an existing element is changed.",
+      "hash": "512897310d15"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "<b>Deleted</b>: when an element is removed.",
+      "hash": "a1a2cc7bb3a1"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Some “Modified” entries include a <b>View details</b> link. Clicking it reveals the exact changes made. If the link is missing, the action was a <b>publication</b> (no detailed change log).",
+      "hash": "ba100c85f795"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Example:</b>",
+      "hash": "25e78e753c47"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<br/>An entry might show that <i>John Doe</i> edited the start and end dates of the phase “Mapping Urban Planning: Demo” in the project “Survey Mapping Toolbox.”",
+      "hash": "b72ecea277be"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Before:</b> Start date = <i>2024-08-05</i>",
+      "hash": "cbd32fa91bda"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>After:</b> Start date = <i>2024-08-07</i>",
+      "hash": "e0522e0ebe80"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Keys ending in _multiloc indicate a text field (e.g., survey titles or buttons).",
+      "hash": "8fe2ae8ab424"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "How to monitor and filter activity?",
+      "hash": "e89e4706b44a"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Open the <b>Dashboard</b> tab in your <b>Admin Panel</b>.",
+      "hash": "2b42f5b8105f"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Go to the <b>Management Feed</b>.",
+      "hash": "5bc77f28bd87"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Use the filters at the top of the feed to refine results:",
+      "hash": "79dc1d3c5677"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<b>Filter by Project:</b> View all actions on a specific project within the last 30 days.",
+      "hash": "b718a9bf88bb"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>Filter by User:</b> View all actions performed by a specific admin or project manager within the last 30 days.",
+      "hash": "5cd95fdb2221"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Review the filtered results to identify trends, monitor workloads, or target training needs.",
+      "hash": "068da65f827c"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Where can you monitor user activity?",
+      "hash": "6b9868ad57c6"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "In the <b>Users</b> tab of your <b>Admin Panel</b>, the <b>Last Active</b> column shows when each person last took an action on the platform.",
+      "hash": "d33bcddee175"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<br/>This helps you:",
+      "hash": "a34d2a270c87"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Identify inactive users",
+      "hash": "44036859a1e2"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Monitor overall platform engagement",
+      "hash": "0121848c92cf"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Spot areas where re-engagement might be needed",
+      "hash": "5dcf45ca0d3e"
+    }
+  }
+}

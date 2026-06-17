@@ -1,0 +1,790 @@
+{
+  "article_id": "527573",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Map consultations: tapping into your community’s geospatial intelligence",
+      "source_hash": "6c075a72178c",
+      "target": "Map consultations: tapping into your community’s geospatial intelligence",
+      "translated_from_hash": "6c075a72178c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Understand our different mapping tools in the open and in surveys to elevate mobility and urban planning consultation",
+      "source_hash": "9c44abc9d4c9",
+      "target": "Understand our different mapping tools in the open and in surveys to elevate mobility and urban planning consultation",
+      "translated_from_hash": "9c44abc9d4c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are map consultations?",
+      "source_hash": "8dcc366a63d6",
+      "target": "What are map consultations?",
+      "translated_from_hash": "8dcc366a63d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Map consultations allow residents to share ideas, feedback, and data directly on a map, making community input more precise and visual.",
+      "source_hash": "a31981a5f57a",
+      "target": "Map consultations allow residents to share ideas, feedback, and data directly on a map, making community input more precise and visual.",
+      "translated_from_hash": "a31981a5f57a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "They’re especially valuable for urban planning and mobility teams, who need to understand how people use and experience spaces.",
+      "source_hash": "5e0835b8b600",
+      "target": "They’re especially valuable for urban planning and mobility teams, who need to understand how people use and experience spaces.",
+      "translated_from_hash": "5e0835b8b600",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "The platform supports two map consultation methods:",
+      "source_hash": "81eab2ea5c9a",
+      "target": "The platform supports two map consultation methods:",
+      "translated_from_hash": "81eab2ea5c9a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Ideation on a Map</b> – participants publicly pin and discuss ideas.",
+      "source_hash": "39df4b6876bb",
+      "target": "<b>Ideation on a Map</b> – participants publicly pin and discuss ideas.",
+      "translated_from_hash": "39df4b6876bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Map‑based Survey Toolbox</b> – admins collect structured inputs via pins, lines, or polygons inside surveys.",
+      "source_hash": "b0719c0bc145",
+      "target": "<b>Map‑based Survey Toolbox</b> – admins collect structured inputs via pins, lines, or polygons inside surveys.",
+      "translated_from_hash": "b0719c0bc145",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "By default, these methods use the platform’s built‑in OpenStreetMap‑based maps.",
+      "source_hash": "73a42a3fcd3b",
+      "target": "By default, these methods use the platform’s built‑in OpenStreetMap‑based maps.",
+      "translated_from_hash": "73a42a3fcd3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "ESRI Integration is an optional paid add‑on that replaces the default basemap and allows richer GIS layers and data to be displayed. If you want to enable ESRI, contact your government success manager to discuss this feature.",
+      "source_hash": "662772d7feb2",
+      "target": "ESRI Integration is an optional paid add‑on that replaces the default basemap and allows richer GIS layers and data to be displayed. If you want to enable ESRI, contact your government success manager to discuss this feature.",
+      "translated_from_hash": "662772d7feb2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Ideation on a map",
+      "source_hash": "4388b54810b7",
+      "target": "Ideation on a map",
+      "translated_from_hash": "4388b54810b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Allows participants to drop pins and add comments on a shared, public map.",
+      "source_hash": "df54132a9ca4",
+      "target": "Allows participants to drop pins and add comments on a shared, public map.",
+      "translated_from_hash": "df54132a9ca4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Key Features:</b>",
+      "source_hash": "9e64022fc266",
+      "target": "<b>Key Features:</b>",
+      "translated_from_hash": "9e64022fc266",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Interactive pinning:</b> Mark locations for projects, improvements, or issues",
+      "source_hash": "ca3a0b5ced63",
+      "target": "<b>Interactive pinning:</b> Mark locations for projects, improvements, or issues",
+      "translated_from_hash": "ca3a0b5ced63",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Detailed comments:</b> Add context to each pin",
+      "source_hash": "f61a0e2a76fd",
+      "target": "<b>Detailed comments:</b> Add context to each pin",
+      "translated_from_hash": "f61a0e2a76fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Open discussion:</b> See other pins and collaborate in real time",
+      "source_hash": "9b691cb5066a",
+      "target": "<b>Open discussion:</b> See other pins and collaborate in real time",
+      "translated_from_hash": "9b691cb5066a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Geographical context:</b> Identify trends and hotspots visually",
+      "source_hash": "d9bc2299c554",
+      "target": "<b>Geographical context:</b> Identify trends and hotspots visually",
+      "translated_from_hash": "d9bc2299c554",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "How to style and configure maps for input collection",
+      "source_hash": "5b35581b05cd",
+      "target": "How to style and configure maps for input collection",
+      "translated_from_hash": "5b35581b05cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Base map styling",
+      "source_hash": "5c8c34498204",
+      "target": "Base map styling",
+      "translated_from_hash": "5c8c34498204",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Default: simple OpenStreetMap “Basic” style.",
+      "source_hash": "bbbe795eff22",
+      "target": "Default: simple OpenStreetMap “Basic” style.",
+      "translated_from_hash": "bbbe795eff22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Contact support to change the base map via MapTiler (affects all projects).",
+      "source_hash": "dd0196e5094c",
+      "target": "Contact support to change the base map via MapTiler (affects all projects).",
+      "translated_from_hash": "dd0196e5094c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "To style maps per project, use the ESRI add‑on.",
+      "source_hash": "f6c2375c3471",
+      "target": "To style maps per project, use the ESRI add‑on.",
+      "translated_from_hash": "f6c2375c3471",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Add map layers (GeoJSON)",
+      "source_hash": "07cadebd75f2",
+      "target": "Add map layers (GeoJSON)",
+      "translated_from_hash": "07cadebd75f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Upload GeoJSON files (points, lines, polygons).",
+      "source_hash": "d5f962a7e8b8",
+      "target": "Upload GeoJSON files (points, lines, polygons).",
+      "translated_from_hash": "d5f962a7e8b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Give each layer a name &amp; optional tooltip.",
+      "source_hash": "875708e833bd",
+      "target": "Give each layer a name &amp; optional tooltip.",
+      "translated_from_hash": "875708e833bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Style by color and icon (applies to all features in the layer).",
+      "source_hash": "6ccb68fbf96d",
+      "target": "Style by color and icon (applies to all features in the layer).",
+      "translated_from_hash": "6ccb68fbf96d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "💡 create separate GeoJSON files for features you want styled differently.",
+      "source_hash": "eb26f199d8ea",
+      "target": "💡 create separate GeoJSON files for features you want styled differently.",
+      "translated_from_hash": "eb26f199d8ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "⚠️ Make sure your GeoJSON uses the correct coordinate system (WGS 84 / EPSG:4326, longitude–latitude order). Using another CRS may cause your features to appear in the wrong location.",
+      "source_hash": "8fb1c53111ec",
+      "target": "⚠️ Make sure your GeoJSON uses the correct coordinate system (WGS 84 / EPSG:4326, longitude–latitude order). Using another CRS may cause your features to appear in the wrong location.",
+      "translated_from_hash": "8fb1c53111ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Convert or create GeoJSON files if needed",
+      "source_hash": "55c8c5577e7f",
+      "target": "Convert or create GeoJSON files if needed",
+      "translated_from_hash": "55c8c5577e7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Convert shapefiles or other formats → GeoJSON (e.g. mapshaper, <a class=\"intercom-content-link\" href=\"http://geojson.io\" target=\"_blank\">geojson.io</a>).",
+      "source_hash": "709c2f572876",
+      "target": "Convert shapefiles or other formats → GeoJSON (e.g. mapshaper, <a class=\"intercom-content-link\" href=\"http://geojson.io\" target=\"_blank\">geojson.io</a>).",
+      "translated_from_hash": "709c2f572876",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Create your own GeoJSONs from scratch using tools like Geoman or directly in <a class=\"intercom-content-link\" href=\"https://geojson.io/\" target=\"_blank\">https://geojson.io/</a>.",
+      "source_hash": "338c8a19d193",
+      "target": "Create your own GeoJSONs from scratch using tools like Geoman or directly in <a class=\"intercom-content-link\" href=\"https://geojson.io/\" target=\"_blank\">https://geojson.io/</a>.",
+      "translated_from_hash": "338c8a19d193",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Adjust map settings",
+      "source_hash": "265e42f199d6",
+      "target": "Adjust map settings",
+      "translated_from_hash": "265e42f199d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Center the map:</b> Add latitude/longitude (decimal format).",
+      "source_hash": "4a0d88c7870d",
+      "target": "<b>Center the map:</b> Add latitude/longitude (decimal format).",
+      "translated_from_hash": "4a0d88c7870d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Set zoom level:</b> Choose 0 (zoomed out) to 17 (street‑level).",
+      "source_hash": "f50f61de6b10",
+      "target": "<b>Set zoom level:</b> Choose 0 (zoomed out) to 17 (street‑level).",
+      "translated_from_hash": "f50f61de6b10",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Save position directly from map view.",
+      "source_hash": "82e23ea53d9c",
+      "target": "Save position directly from map view.",
+      "translated_from_hash": "82e23ea53d9c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Map-based survey toolbox",
+      "source_hash": "89c0df8e724d",
+      "target": "Map-based survey toolbox",
+      "translated_from_hash": "89c0df8e724d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Adds structured geospatial data collection to surveys.",
+      "source_hash": "30940f5fa8ec",
+      "target": "Adds structured geospatial data collection to surveys.",
+      "translated_from_hash": "30940f5fa8ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>Key Capabilities:</b>",
+      "source_hash": "7eb1fa14d57d",
+      "target": "<b>Key Capabilities:</b>",
+      "translated_from_hash": "7eb1fa14d57d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Pin‑in‑map questions:</b> Participants mark exact points; integrated heat map shows clusters",
+      "source_hash": "83095f03ce0b",
+      "target": "<b>Pin‑in‑map questions:</b> Participants mark exact points; integrated heat map shows clusters",
+      "translated_from_hash": "83095f03ce0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Line/polygon drawing:</b> Outline routes, boundaries, or areas of interest",
+      "source_hash": "59e21283adce",
+      "target": "<b>Line/polygon drawing:</b> Outline routes, boundaries, or areas of interest",
+      "translated_from_hash": "59e21283adce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Map layout pages:</b> Embed maps as context for survey questions",
+      "source_hash": "f1bc72b3e0b5",
+      "target": "<b>Map layout pages:</b> Embed maps as context for survey questions",
+      "translated_from_hash": "f1bc72b3e0b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "<b>Reporting:</b> View aggregated results or individual responses; export as <b>GeoJSON</b> for external GIS tools",
+      "source_hash": "966c1f8b713b",
+      "target": "<b>Reporting:</b> View aggregated results or individual responses; export as <b>GeoJSON</b> for external GIS tools",
+      "translated_from_hash": "966c1f8b713b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Aggregated Map View",
+      "source_hash": "8441f2417451",
+      "target": "Aggregated Map View",
+      "translated_from_hash": "8441f2417451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "All responses to mapping questions are automatically displayed on a map.<br/>For Drop pin questions, you can enable the Heat Map toggle to quickly see where most respondents placed their pins.",
+      "source_hash": "5e422a14e5d8",
+      "target": "All responses to mapping questions are automatically displayed on a map.<br/>For Drop pin questions, you can enable the Heat Map toggle to quickly see where most respondents placed their pins.",
+      "translated_from_hash": "5e422a14e5d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Viewing individual responses",
+      "source_hash": "1b8a78dfd193",
+      "target": "Viewing individual responses",
+      "translated_from_hash": "1b8a78dfd193",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "To explore individual responses and link them to other survey answers:",
+      "source_hash": "be13361713b5",
+      "target": "To explore individual responses and link them to other survey answers:",
+      "translated_from_hash": "be13361713b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Open the AI Analysis Interface by clicking <b>Show AI Insight</b> next to any Short Answer or Long Answer question.",
+      "source_hash": "8adf963124b3",
+      "target": "Open the AI Analysis Interface by clicking <b>Show AI Insight</b> next to any Short Answer or Long Answer question.",
+      "translated_from_hash": "8adf963124b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "If you don’t see this option, it means the feature isn’t included in your current plan.",
+      "source_hash": "7b0e741ddb83",
+      "target": "If you don’t see this option, it means the feature isn’t included in your current plan.",
+      "translated_from_hash": "7b0e741ddb83",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "⚠️ You must include at least one Short Answer or Long Answer question in your survey to access the AI Analysis Interface.",
+      "source_hash": "05ebd0aec949",
+      "target": "⚠️ You must include at least one Short Answer or Long Answer question in your survey to access the AI Analysis Interface.",
+      "translated_from_hash": "05ebd0aec949",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Inside the AI Analysis Interface",
+      "source_hash": "450ffb527de4",
+      "target": "Inside the AI Analysis Interface",
+      "translated_from_hash": "450ffb527de4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "In this view, you’ll find:",
+      "source_hash": "4623f9435adb",
+      "target": "In this view, you’ll find:",
+      "translated_from_hash": "4623f9435adb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Users (green):</b> individual respondents",
+      "source_hash": "e5009779f010",
+      "target": "<b>Users (green):</b> individual respondents",
+      "translated_from_hash": "e5009779f010",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "<b>Mapping answers (blue):</b> their map-based inputs",
+      "source_hash": "b1dbfe376fb2",
+      "target": "<b>Mapping answers (blue):</b> their map-based inputs",
+      "translated_from_hash": "b1dbfe376fb2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>ESRI Shapefile uploads (red):</b> simplified outlines of uploaded geographic data",
+      "source_hash": "60d827caf715",
+      "target": "<b>ESRI Shapefile uploads (red):</b> simplified outlines of uploaded geographic data",
+      "translated_from_hash": "60d827caf715",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "You can filter responses based on answers to other survey questions, allowing you to focus on specific groups of participants.",
+      "source_hash": "7c46783c6416",
+      "target": "You can filter responses based on answers to other survey questions, allowing you to focus on specific groups of participants.",
+      "translated_from_hash": "7c46783c6416",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "ℹ️ The ESRI Shapefile visualisation in the AI interface shows simplified shapes for clarity. To explore detailed geographic data (including colours and textures), open the shapefile in an external mapping tool such as Mapshaper.",
+      "source_hash": "b8737a68fa11",
+      "target": "ℹ️ The ESRI Shapefile visualisation in the AI interface shows simplified shapes for clarity. To explore detailed geographic data (including colours and textures), open the shapefile in an external mapping tool such as Mapshaper.",
+      "translated_from_hash": "b8737a68fa11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Advanced Analysis",
+      "source_hash": "dd7b1fd5b0cd",
+      "target": "Advanced Analysis",
+      "translated_from_hash": "dd7b1fd5b0cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "The AI Analysis Interface is not designed for deep geographic filtering or pattern discovery.<br/>For more advanced geospatial analysis (e.g. filtering, combining, or comparing areas), export the shapefiles by pressing <b>Expore as GeoJson</b> in the top right corner of the <b>Aggregated Map View</b> in the survey <b>Insights</b> tab and use third-party tools like <b>Mapshaper</b> or your preferred GIS software.",
+      "source_hash": "6ab355ec0ebd",
+      "target": "The AI Analysis Interface is not designed for deep geographic filtering or pattern discovery.<br/>For more advanced geospatial analysis (e.g. filtering, combining, or comparing areas), export the shapefiles by pressing <b>Expore as GeoJson</b> in the top right corner of the <b>Aggregated Map View</b> in the survey <b>Insights</b> tab and use third-party tools like <b>Mapshaper</b> or your preferred GIS software.",
+      "translated_from_hash": "6ab355ec0ebd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Benefits of map consultations",
+      "source_hash": "6bc23f24a389",
+      "target": "Benefits of map consultations",
+      "translated_from_hash": "6bc23f24a389",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Precise data collection:</b> Inputs tied to exact locations",
+      "source_hash": "6eaf96ea94bc",
+      "target": "<b>Precise data collection:</b> Inputs tied to exact locations",
+      "translated_from_hash": "6eaf96ea94bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Better visualization:</b> Trends and hotspots become clear",
+      "source_hash": "b56ced3de0aa",
+      "target": "<b>Better visualization:</b> Trends and hotspots become clear",
+      "translated_from_hash": "b56ced3de0aa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<b>Flexible results viewing:</b> View results on one map or user‑by‑user; export for external GIS work",
+      "source_hash": "91a1c4fa0c35",
+      "target": "<b>Flexible results viewing:</b> View results on one map or user‑by‑user; export for external GIS work",
+      "translated_from_hash": "91a1c4fa0c35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<b>Supports better planning:</b> Helps teams make informed, data‑driven urban planning decisions",
+      "source_hash": "697de7eec998",
+      "target": "<b>Supports better planning:</b> Helps teams make informed, data‑driven urban planning decisions",
+      "translated_from_hash": "697de7eec998",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "ESRI integration",
+      "source_hash": "61c1ad327896",
+      "target": "ESRI integration",
+      "translated_from_hash": "61c1ad327896",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "The ESRI add‑on allows admins to integrate ArcGIS maps into projects for richer data and visualization.",
+      "source_hash": "54a912608693",
+      "target": "The ESRI add‑on allows admins to integrate ArcGIS maps into projects for richer data and visualization.",
+      "translated_from_hash": "54a912608693",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "What ESRI adds",
+      "source_hash": "b7688e4c4b65",
+      "target": "What ESRI adds",
+      "translated_from_hash": "b7688e4c4b65",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Replace the default OpenStreetMap style with custom ESRI maps.",
+      "source_hash": "48e00cacbcfa",
+      "target": "Replace the default OpenStreetMap style with custom ESRI maps.",
+      "translated_from_hash": "48e00cacbcfa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Add Feature Layers and Web Maps to display detailed spatial data.",
+      "source_hash": "0b16e2957f6d",
+      "target": "Add Feature Layers and Web Maps to display detailed spatial data.",
+      "translated_from_hash": "0b16e2957f6d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Use ESRI maps in both Collect Input &amp; Feedback (map view) and map‑based survey questions.",
+      "source_hash": "32b2d7ec5f26",
+      "target": "Use ESRI maps in both Collect Input &amp; Feedback (map view) and map‑based survey questions.",
+      "translated_from_hash": "32b2d7ec5f26",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Feature Layers vs. Web Maps",
+      "source_hash": "0f50401e2719",
+      "target": "Feature Layers vs. Web Maps",
+      "translated_from_hash": "0f50401e2719",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "<b>ESRI Feature Layer</b> – A single data layer (e.g., zoning, parks). Multiple layers can be added on the same map.",
+      "source_hash": "420f933fa406",
+      "target": "<b>ESRI Feature Layer</b> – A single data layer (e.g., zoning, parks). Multiple layers can be added on the same map.",
+      "translated_from_hash": "420f933fa406",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "<b>ESRI Web Map</b> – A fully configured ArcGIS map (base map + layers). Only one can be used per map.",
+      "source_hash": "bfb602035ee8",
+      "target": "<b>ESRI Web Map</b> – A fully configured ArcGIS map (base map + layers). Only one can be used per map.",
+      "translated_from_hash": "bfb602035ee8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "ℹ️ Once ESRI is enabled on a map, GeoJSON imports are disabled — you can’t mix ESRI and non‑ESRI elements.",
+      "source_hash": "28963ba10cf1",
+      "target": "ℹ️ Once ESRI is enabled on a map, GeoJSON imports are disabled — you can’t mix ESRI and non‑ESRI elements.",
+      "translated_from_hash": "28963ba10cf1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "How to enable ESRI",
+      "source_hash": "60b478008f47",
+      "target": "How to enable ESRI",
+      "translated_from_hash": "60b478008f47",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Purchase the ESRI add‑on by contacting your government success manager",
+      "source_hash": "ec70ee6c77a7",
+      "target": "Purchase the ESRI add‑on by contacting your government success manager",
+      "translated_from_hash": "ec70ee6c77a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "Go to <b>Tools → Enable ESRI</b>",
+      "source_hash": "dce1dae7abfd",
+      "target": "Go to <b>Tools → Enable ESRI</b>",
+      "translated_from_hash": "dce1dae7abfd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "Paste your ESRI API key (get it from ESRI documentation) and <b>Save key</b>",
+      "source_hash": "b9391624d9fa",
+      "target": "Paste your ESRI API key (get it from ESRI documentation) and <b>Save key</b>",
+      "translated_from_hash": "b9391624d9fa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "How to add ESRI maps",
+      "source_hash": "a88ce5668ecf",
+      "target": "How to add ESRI maps",
+      "translated_from_hash": "a88ce5668ecf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "<b>Feature Layer</b>: In back office map config, click <b>Import ESRI Feature Layer</b> → paste the Feature Layer URL from ArcGIS → Import",
+      "source_hash": "4b710344f48a",
+      "target": "<b>Feature Layer</b>: In back office map config, click <b>Import ESRI Feature Layer</b> → paste the Feature Layer URL from ArcGIS → Import",
+      "translated_from_hash": "4b710344f48a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "<b>Web Map</b>: Click <b>Import ESRI Web Map</b> → paste the Web Map ID from ArcGIS → Import",
+      "source_hash": "1098645486b8",
+      "target": "<b>Web Map</b>: Click <b>Import ESRI Web Map</b> → paste the Web Map ID from ArcGIS → Import",
+      "translated_from_hash": "1098645486b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "Legend for Feature Layers is auto‑generated but can be toggled off.",
+      "source_hash": "3877f62b7434",
+      "target": "Legend for Feature Layers is auto‑generated but can be toggled off.",
+      "translated_from_hash": "3877f62b7434",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "Using ESRI in surveys",
+      "source_hash": "f7944bc0e842",
+      "target": "Using ESRI in surveys",
+      "translated_from_hash": "f7944bc0e842",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "When adding a mapping question in a survey, click <b>Configure Map</b> to add ESRI layers or a Web Map to the question’s map.",
+      "source_hash": "066a7433dc04",
+      "target": "When adding a mapping question in a survey, click <b>Configure Map</b> to add ESRI layers or a Web Map to the question’s map.",
+      "translated_from_hash": "066a7433dc04",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "Troubleshooting: “On‑Click” conflicts",
+      "source_hash": "d2f19c64a7ed",
+      "target": "Troubleshooting: “On‑Click” conflicts",
+      "translated_from_hash": "d2f19c64a7ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "Both ESRI and the platform have “click” features (e.g., clicking a shape to show info). If both try to respond at once, it can cause:",
+      "source_hash": "00952a0d4f38",
+      "target": "Both ESRI and the platform have “click” features (e.g., clicking a shape to show info). If both try to respond at once, it can cause:",
+      "translated_from_hash": "00952a0d4f38",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "Wrong info showing, pop‑ups failing, or map freezing.",
+      "source_hash": "6fb645639491",
+      "target": "Wrong info showing, pop‑ups failing, or map freezing.",
+      "translated_from_hash": "6fb645639491",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "<b>Solution:</b> Disable ESRI’s “on‑click” features and let the platform handle clicks for a smoother user experience.",
+      "source_hash": "7cb32b690050",
+      "target": "<b>Solution:</b> Disable ESRI’s “on‑click” features and let the platform handle clicks for a smoother user experience.",
+      "translated_from_hash": "7cb32b690050",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "article_id": "527644",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Manual Email campaigns on the platform",
+      "source_hash": "209598e99a1f",
+      "target": "Manual Email campaigns on the platform",
+      "translated_from_hash": "209598e99a1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are manual emails on the platform?",
+      "source_hash": "e3d20f2e6418",
+      "target": "What are manual emails on the platform?",
+      "translated_from_hash": "e3d20f2e6418",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The “Messaging” tab in the admin panel allows you to create, edit, and track email campaigns sent to users. You can design campaigns, send them to specific user groups, test and preview emails, and analyze engagement metrics.",
+      "source_hash": "e857f1ba8f4c",
+      "target": "The “Messaging” tab in the admin panel allows you to create, edit, and track email campaigns sent to users. You can design campaigns, send them to specific user groups, test and preview emails, and analyze engagement metrics.",
+      "translated_from_hash": "e857f1ba8f4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "In the \"Messaging\" tab you find both Custom Emails and Automatic Emails. This article is about Custom Emails, for more information about Automatic Emails read this support article.",
+      "source_hash": "e36740c2e337",
+      "target": "In the \"Messaging\" tab you find both Custom Emails and Automatic Emails. This article is about Custom Emails, for more information about Automatic Emails read this support article.",
+      "translated_from_hash": "e36740c2e337",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Manual emails",
+      "source_hash": "c345349d2a89",
+      "target": "Manual emails",
+      "translated_from_hash": "c345349d2a89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Messaging campaigns (manual emails) help you:",
+      "source_hash": "a148ae9ead5b",
+      "target": "Messaging campaigns (manual emails) help you:",
+      "translated_from_hash": "a148ae9ead5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Communicate important updates or calls to action",
+      "source_hash": "d70f8c0bdf2d",
+      "target": "Communicate important updates or calls to action",
+      "translated_from_hash": "d70f8c0bdf2d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Target specific user groups (e.g., participants of a single project)",
+      "source_hash": "a4a694599aa6",
+      "target": "Target specific user groups (e.g., participants of a single project)",
+      "translated_from_hash": "a4a694599aa6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Personalize messages using variables like <code>####{{first_name}}</code> and <code>####{{last_name}}</code>",
+      "source_hash": "d73d8a2a0a10",
+      "target": "Personalize messages using variables like <code>####{{first_name}}</code> and <code>####{{last_name}}</code>",
+      "translated_from_hash": "d73d8a2a0a10",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Learn and improve based on open rates and click-through statistics",
+      "source_hash": "a2929e7efccb",
+      "target": "Learn and improve based on open rates and click-through statistics",
+      "translated_from_hash": "a2929e7efccb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "There are two types of manual emails:",
+      "source_hash": "5600c51046a3",
+      "target": "There are two types of manual emails:",
+      "translated_from_hash": "5600c51046a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Platform-level manual emails:</b> only accessible by admins to send emails to different user groups or all registered users on the platform.",
+      "source_hash": "2ff262a57e4b",
+      "target": "<b>Platform-level manual emails:</b> only accessible by admins to send emails to different user groups or all registered users on the platform.",
+      "translated_from_hash": "2ff262a57e4b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "accessible via the <b>Messaging</b> general tab &gt; <b>Custom emails</b>",
+      "source_hash": "41215cf766fd",
+      "target": "accessible via the <b>Messaging</b> general tab &gt; <b>Custom emails</b>",
+      "translated_from_hash": "41215cf766fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Project-level custom emails</b>: accessible by project managers to send emails to only their project participants",
+      "source_hash": "be89440697a3",
+      "target": "<b>Project-level custom emails</b>: accessible by project managers to send emails to only their project participants",
+      "translated_from_hash": "be89440697a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "accessible via the project <b>Messaging</b> tab",
+      "source_hash": "0f9d6fe47f5e",
+      "target": "accessible via the project <b>Messaging</b> tab",
+      "translated_from_hash": "0f9d6fe47f5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "How to create an email campaign?",
+      "source_hash": "821051cb1a8c",
+      "target": "How to create an email campaign?",
+      "translated_from_hash": "821051cb1a8c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Platform Level</b>",
+      "source_hash": "43e2a89405da",
+      "target": "<b>Platform Level</b>",
+      "translated_from_hash": "43e2a89405da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Go to <b>Messaging &gt; Create a new email</b>.",
+      "source_hash": "c68901eddd83",
+      "target": "Go to <b>Messaging &gt; Create a new email</b>.",
+      "translated_from_hash": "c68901eddd83",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Define the sender (person name or organization).",
+      "source_hash": "9c45db25257d",
+      "target": "Define the sender (person name or organization).",
+      "translated_from_hash": "9c45db25257d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Define the recipients: choose “all users” or a specific smart group (e.g., participants of a project).",
+      "source_hash": "a8b8f71521d4",
+      "target": "Define the recipients: choose “all users” or a specific smart group (e.g., participants of a project).",
+      "translated_from_hash": "a8b8f71521d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "ℹ️ You cannot add individual email addresses here. Users must belong to a group.",
+      "source_hash": "a6717fa40d2c",
+      "target": "ℹ️ You cannot add individual email addresses here. Users must belong to a group.",
+      "translated_from_hash": "a6717fa40d2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Define <b>reply handling</b>: who will receive replies.",
+      "source_hash": "51a81c698989",
+      "target": "Define <b>reply handling</b>: who will receive replies.",
+      "translated_from_hash": "51a81c698989",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Add your <b>email subject</b> (make it clear, engaging, and personal).",
+      "source_hash": "4d2cfc0000d6",
+      "target": "Add your <b>email subject</b> (make it clear, engaging, and personal).",
+      "translated_from_hash": "4d2cfc0000d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Write the <b>email body</b>. Add layout, images, hyperlinks, and personalization tokens like <code>####{{first_name}}</code> and <code>####{{last_name}}</code>.",
+      "source_hash": "ebc9ce81fe85",
+      "target": "Write the <b>email body</b>. Add layout, images, hyperlinks, and personalization tokens like <code>####{{first_name}}</code> and <code>####{{last_name}}</code>.",
+      "translated_from_hash": "ebc9ce81fe85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Remember: the header (platform logo) and footer (legal info) are fixed.",
+      "source_hash": "e8c30a952072",
+      "target": "Remember: the header (platform logo) and footer (legal info) are fixed.",
+      "translated_from_hash": "e8c30a952072",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "If your platform is multilingual, fill in all language fields.",
+      "source_hash": "a68298942866",
+      "target": "If your platform is multilingual, fill in all language fields.",
+      "translated_from_hash": "a68298942866",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Click <b>Save as draft</b>.",
+      "source_hash": "af6ae7fe00d4",
+      "target": "Click <b>Save as draft</b>.",
+      "translated_from_hash": "af6ae7fe00d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Your draft can be reviewed, edited, and tested before sending.",
+      "source_hash": "c5cf5a40f8b9",
+      "target": "Your draft can be reviewed, edited, and tested before sending.",
+      "translated_from_hash": "c5cf5a40f8b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Project Level</b>",
+      "source_hash": "5eef891693a3",
+      "target": "<b>Project Level</b>",
+      "translated_from_hash": "5eef891693a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Go to your project &gt; <b>Messaging</b>",
+      "source_hash": "a32c7515d185",
+      "target": "Go to your project &gt; <b>Messaging</b>",
+      "translated_from_hash": "a32c7515d185",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Create Email</b>",
+      "source_hash": "0fdea713de5e",
+      "target": "<b>Create Email</b>",
+      "translated_from_hash": "0fdea713de5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "ℹ️ From the Project Messaging tab you can only email all project participants.",
+      "source_hash": "5776781fe9ed",
+      "target": "ℹ️ From the Project Messaging tab you can only email all project participants.",
+      "translated_from_hash": "5776781fe9ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Define <b>reply handling</b>: who will receive replies.",
+      "source_hash": "51a81c698989",
+      "target": "Define <b>reply handling</b>: who will receive replies.",
+      "translated_from_hash": "51a81c698989",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Add your <b>email subject</b> (make it clear, engaging, and personal).",
+      "source_hash": "4d2cfc0000d6",
+      "target": "Add your <b>email subject</b> (make it clear, engaging, and personal).",
+      "translated_from_hash": "4d2cfc0000d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Write the <b>email body</b>. Add layout, images, hyperlinks, and personalization tokens like <code>####{{first_name}}</code> and <code>####{{last_name}}</code>.",
+      "source_hash": "ebc9ce81fe85",
+      "target": "Write the <b>email body</b>. Add layout, images, hyperlinks, and personalization tokens like <code>####{{first_name}}</code> and <code>####{{last_name}}</code>.",
+      "translated_from_hash": "ebc9ce81fe85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "If your platform is multilingual, fill in all language fields.",
+      "source_hash": "a68298942866",
+      "target": "If your platform is multilingual, fill in all language fields.",
+      "translated_from_hash": "a68298942866",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Click <b>Save as draft</b>.",
+      "source_hash": "af6ae7fe00d4",
+      "target": "Click <b>Save as draft</b>.",
+      "translated_from_hash": "af6ae7fe00d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Your draft can be reviewed, edited, and tested before sending.",
+      "source_hash": "c5cf5a40f8b9",
+      "target": "Your draft can be reviewed, edited, and tested before sending.",
+      "translated_from_hash": "c5cf5a40f8b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "How to preview, edit and test your email campaigns?",
+      "source_hash": "0333ddfa6454",
+      "target": "How to preview, edit and test your email campaigns?",
+      "translated_from_hash": "0333ddfa6454",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "After saving as draft, click <b>Edit</b> to preview the email",
+      "source_hash": "b4f0a082055c",
+      "target": "After saving as draft, click <b>Edit</b> to preview the email",
+      "translated_from_hash": "b4f0a082055c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Click <b>Send me a test email</b> to send the campaign to yourself",
+      "source_hash": "acb028f9c471",
+      "target": "Click <b>Send me a test email</b> to send the campaign to yourself",
+      "translated_from_hash": "acb028f9c471",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Resize images by clicking and dragging from the corners",
+      "source_hash": "215d9d099ac3",
+      "target": "Resize images by clicking and dragging from the corners",
+      "translated_from_hash": "215d9d099ac3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Make any needed edits",
+      "source_hash": "3ff052e70ab0",
+      "target": "Make any needed edits",
+      "translated_from_hash": "3ff052e70ab0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Click <b>Send</b> when you are satisfied",
+      "source_hash": "01888697bffb",
+      "target": "Click <b>Send</b> when you are satisfied",
+      "translated_from_hash": "01888697bffb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>How to schedule a manual email</b>",
+      "source_hash": "4bf0775d5afc",
+      "target": "<b>How to schedule a manual email</b>",
+      "translated_from_hash": "4bf0775d5afc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "create a new email and save the draft email",
+      "source_hash": "043188102e92",
+      "target": "create a new email and save the draft email",
+      "translated_from_hash": "043188102e92",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "go back to your list of all emails and press <b>Edit</b> on the draft you created",
+      "source_hash": "3430996f2b11",
+      "target": "go back to your list of all emails and press <b>Edit</b> on the draft you created",
+      "translated_from_hash": "3430996f2b11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "next to the <b>Send</b> button, press the down arrow to open the open to schedule the email",
+      "source_hash": "84a446d7a5e8",
+      "target": "next to the <b>Send</b> button, press the down arrow to open the open to schedule the email",
+      "translated_from_hash": "84a446d7a5e8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "set the time and date it should be sent",
+      "source_hash": "ec2b7c529059",
+      "target": "set the time and date it should be sent",
+      "translated_from_hash": "ec2b7c529059",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "you can edit the scheduled time or cancel the scheduling by pressing again on the down arrow",
+      "source_hash": "3b04f87602eb",
+      "target": "you can edit the scheduled time or cancel the scheduling by pressing again on the down arrow",
+      "translated_from_hash": "3b04f87602eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Email scheduling only applies to manual emails in the Messaging tab of projects and admin panel - it does not apply to automatic emails that have their own trigger",
+      "source_hash": "86bd36fb8104",
+      "target": "Email scheduling only applies to manual emails in the Messaging tab of projects and admin panel - it does not apply to automatic emails that have their own trigger",
+      "translated_from_hash": "86bd36fb8104",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "How to measure campaign results?",
+      "source_hash": "3446f51322d4",
+      "target": "How to measure campaign results?",
+      "translated_from_hash": "3446f51322d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>Steps:</b>",
+      "source_hash": "79ea6cc10451",
+      "target": "<b>Steps:</b>",
+      "translated_from_hash": "79ea6cc10451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Go to <b>Messaging &gt; Emails tab</b>",
+      "source_hash": "0b0dcf43105a",
+      "target": "Go to <b>Messaging &gt; Emails tab</b>",
+      "translated_from_hash": "0b0dcf43105a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Click <b>Statistics</b> on any sent campaign",
+      "source_hash": "d35847b75188",
+      "target": "Click <b>Statistics</b> on any sent campaign",
+      "translated_from_hash": "d35847b75188",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "You’ll see:",
+      "source_hash": "6803887bcb77",
+      "target": "You’ll see:",
+      "translated_from_hash": "6803887bcb77",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Sent &amp; delivered counts",
+      "source_hash": "af405598388b",
+      "target": "Sent &amp; delivered counts",
+      "translated_from_hash": "af405598388b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Open rates",
+      "source_hash": "0bd35e629f0f",
+      "target": "Open rates",
+      "translated_from_hash": "0bd35e629f0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Click-through rates on links",
+      "source_hash": "12adbab5f6d3",
+      "target": "Click-through rates on links",
+      "translated_from_hash": "12adbab5f6d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "A list of recipients with individual status",
+      "source_hash": "cbedd4a75dc8",
+      "target": "A list of recipients with individual status",
+      "translated_from_hash": "cbedd4a75dc8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "💡Use these insights to refine future campaigns.",
+      "source_hash": "ceca590290ab",
+      "target": "💡Use these insights to refine future campaigns.",
+      "translated_from_hash": "ceca590290ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Campaign elements explained",
+      "source_hash": "94c4ce784069",
+      "target": "Campaign elements explained",
+      "translated_from_hash": "94c4ce784069",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>From:</b> Display name in the “From” field (person or organization)",
+      "source_hash": "943411e05f85",
+      "target": "<b>From:</b> Display name in the “From” field (person or organization)",
+      "translated_from_hash": "943411e05f85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>To:</b> Which smart group or user set will receive the email",
+      "source_hash": "ae1fded5910a",
+      "target": "<b>To:</b> Which smart group or user set will receive the email",
+      "translated_from_hash": "ae1fded5910a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "<b>Replies Should Go To:</b> Recipient for email replies",
+      "source_hash": "bb0e71660edb",
+      "target": "<b>Replies Should Go To:</b> Recipient for email replies",
+      "translated_from_hash": "bb0e71660edb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "<b>Email Subject:</b> The subject line in recipients’ inboxes",
+      "source_hash": "bef2fcdad653",
+      "target": "<b>Email Subject:</b> The subject line in recipients’ inboxes",
+      "translated_from_hash": "bef2fcdad653",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "<b>Email Body:</b> The main content area. Supports images, hyperlinks, and personalization tokens",
+      "source_hash": "6fe82c91b1de",
+      "target": "<b>Email Body:</b> The main content area. Supports images, hyperlinks, and personalization tokens",
+      "translated_from_hash": "6fe82c91b1de",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "<b>Header &amp; Footer:</b> Logo (header) and legal info (footer) are automatically added",
+      "source_hash": "32ffd411fe00",
+      "target": "<b>Header &amp; Footer:</b> Logo (header) and legal info (footer) are automatically added",
+      "translated_from_hash": "32ffd411fe00",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

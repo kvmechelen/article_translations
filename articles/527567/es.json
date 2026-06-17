@@ -1,0 +1,646 @@
+{
+  "article_id": "527567",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Collecting residents proposals/petitions",
+      "source_hash": "47bd353e07bd",
+      "target": "Collecting residents proposals/petitions",
+      "translated_from_hash": "47bd353e07bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Collecting Residents' proposals and petitions",
+      "source_hash": "8c52f3dcb195",
+      "target": "Collecting Residents' proposals and petitions",
+      "translated_from_hash": "8c52f3dcb195",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Unlike standard ideation projects, proposals and petitions are bottom-up contributions initiated by citizens themselves.",
+      "source_hash": "30aa7ec818cb",
+      "target": "Unlike standard ideation projects, proposals and petitions are bottom-up contributions initiated by citizens themselves.",
+      "translated_from_hash": "30aa7ec818cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Citizens can submit proposals at any time.",
+      "source_hash": "e492e71d1ef6",
+      "target": "Citizens can submit proposals at any time.",
+      "translated_from_hash": "e492e71d1ef6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Proposals gather support via votes and/or cosponsors.",
+      "source_hash": "0ae4d83290fa",
+      "target": "Proposals gather support via votes and/or cosponsors.",
+      "translated_from_hash": "0ae4d83290fa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "When proposals meet the defined threshold, they receive an official response.",
+      "source_hash": "6bbb84a4ebb0",
+      "target": "When proposals meet the defined threshold, they receive an official response.",
+      "translated_from_hash": "6bbb84a4ebb0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "This method helps governments track what citizens find important, fill policy gaps, and strengthen participatory democracy.",
+      "source_hash": "4ab30d10a65c",
+      "target": "This method helps governments track what citizens find important, fill policy gaps, and strengthen participatory democracy.",
+      "translated_from_hash": "4ab30d10a65c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Communication on proposals/petitions",
+      "source_hash": "cd011e703bfd",
+      "target": "Communication on proposals/petitions",
+      "translated_from_hash": "cd011e703bfd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Reaching the threshold signals a promise between residents and your organization. To maintain credibility:",
+      "source_hash": "a60b581cb64a",
+      "target": "Reaching the threshold signals a promise between residents and your organization. To maintain credibility:",
+      "translated_from_hash": "a60b581cb64a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Communicate expectations in the project description",
+      "source_hash": "6a7f033c5c5e",
+      "target": "Communicate expectations in the project description",
+      "translated_from_hash": "6a7f033c5c5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Ensure resources (time, staff, budget) are available to follow through",
+      "source_hash": "8d1752e4d46a",
+      "target": "Ensure resources (time, staff, budget) are available to follow through",
+      "translated_from_hash": "8d1752e4d46a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Balance ambition with feasibility",
+      "source_hash": "85a5ef212f7a",
+      "target": "Balance ambition with feasibility",
+      "translated_from_hash": "85a5ef212f7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Determine how you will follow up with resident proposals. Some examples include<b>:</b>",
+      "source_hash": "875f7da807e5",
+      "target": "Determine how you will follow up with resident proposals. Some examples include<b>:</b>",
+      "translated_from_hash": "875f7da807e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Invite author(s) to present at a council meeting",
+      "source_hash": "8ffef9f896db",
+      "target": "Invite author(s) to present at a council meeting",
+      "translated_from_hash": "8ffef9f896db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Provide advice or refer internally to the right department",
+      "source_hash": "1a3230f8f7c8",
+      "target": "Provide advice or refer internally to the right department",
+      "translated_from_hash": "1a3230f8f7c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Offer financial or communicational support based on your insights",
+      "source_hash": "9c4bd90936ea",
+      "target": "Offer financial or communicational support based on your insights",
+      "translated_from_hash": "9c4bd90936ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Platform context:</b>",
+      "source_hash": "45ad3d79f535",
+      "target": "<b>Platform context:</b>",
+      "translated_from_hash": "45ad3d79f535",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Use statuses (e.g., <i>Threshold Reached</i>, <i>Answered</i>) and official updates in the Input Manager so supporters see, and are notified of, next steps.",
+      "source_hash": "e6e551d47bf0",
+      "target": "Use statuses (e.g., <i>Threshold Reached</i>, <i>Answered</i>) and official updates in the Input Manager so supporters see, and are notified of, next steps.",
+      "translated_from_hash": "e6e551d47bf0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to set up a proposal/petition?",
+      "source_hash": "996a84a6fe61",
+      "target": "How to set up a proposal/petition?",
+      "translated_from_hash": "996a84a6fe61",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Enable proposals and petitions",
+      "source_hash": "7cddca757239",
+      "target": "Enable proposals and petitions",
+      "translated_from_hash": "7cddca757239",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Create a new project and name it for example: “Proposals” or “Petitions”",
+      "source_hash": "d058b2cac862",
+      "target": "Create a new project and name it for example: “Proposals” or “Petitions”",
+      "translated_from_hash": "d058b2cac862",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "In the <b>Setup</b> phase, select <b>Proposals, petitions, or initiatives</b> as the participation method",
+      "source_hash": "e55ed9c9da19",
+      "target": "In the <b>Setup</b> phase, select <b>Proposals, petitions, or initiatives</b> as the participation method",
+      "translated_from_hash": "e55ed9c9da19",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Customize the description to explain goals, rules, and submission criteria",
+      "source_hash": "af0bb438fa81",
+      "target": "Customize the description to explain goals, rules, and submission criteria",
+      "translated_from_hash": "af0bb438fa81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Define eligibility criteria",
+      "source_hash": "8a0a241c874d",
+      "target": "Define eligibility criteria",
+      "translated_from_hash": "8a0a241c874d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Eligibility criteria help filter relevant proposals. Common criteria:",
+      "source_hash": "933ca0f5857c",
+      "target": "Eligibility criteria help filter relevant proposals. Common criteria:",
+      "translated_from_hash": "933ca0f5857c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Within local government competences",
+      "source_hash": "1ec32fae688e",
+      "target": "Within local government competences",
+      "translated_from_hash": "1ec32fae688e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Serves common interest, not personal gain",
+      "source_hash": "a2c585494f3b",
+      "target": "Serves common interest, not personal gain",
+      "translated_from_hash": "a2c585494f3b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Non-discriminatory and non-harmful",
+      "source_hash": "a24f41e5a06c",
+      "target": "Non-discriminatory and non-harmful",
+      "translated_from_hash": "a24f41e5a06c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Feasible within budget and timing",
+      "source_hash": "cb171a4e99be",
+      "target": "Feasible within budget and timing",
+      "translated_from_hash": "cb171a4e99be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Not already covered by an existing plan or duplicate of another proposal",
+      "source_hash": "73e7e5c7f019",
+      "target": "Not already covered by an existing plan or duplicate of another proposal",
+      "translated_from_hash": "73e7e5c7f019",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Communicate these criteria in the project description.",
+      "source_hash": "ec7c32f2c81a",
+      "target": "Communicate these criteria in the project description.",
+      "translated_from_hash": "ec7c32f2c81a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Voting tresholds and limits",
+      "source_hash": "ee6ba187c1b0",
+      "target": "Voting tresholds and limits",
+      "translated_from_hash": "ee6ba187c1b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Define the conditions under which a proposal qualifies for response.",
+      "source_hash": "0d473e85f11c",
+      "target": "Define the conditions under which a proposal qualifies for response.",
+      "translated_from_hash": "0d473e85f11c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Voting threshold:</b> often 1–3% of the population",
+      "source_hash": "2bda3371a1f2",
+      "target": "<b>Voting threshold:</b> often 1–3% of the population",
+      "translated_from_hash": "2bda3371a1f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Days to reach threshold:</b> typically ~90 days (balance between urgency and opportunity)",
+      "source_hash": "070651ba803a",
+      "target": "<b>Days to reach threshold:</b> typically ~90 days (balance between urgency and opportunity)",
+      "translated_from_hash": "070651ba803a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Configure participation options",
+      "source_hash": "5e177636eeff",
+      "target": "Configure participation options",
+      "translated_from_hash": "5e177636eeff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>User anonymity:</b> Hide participant identity if allowed",
+      "source_hash": "85dfc8879ec8",
+      "target": "<b>User anonymity:</b> Hide participant identity if allowed",
+      "translated_from_hash": "85dfc8879ec8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Review of proposals:</b> Enable “Require screening of inputs” to approve before publishing",
+      "source_hash": "321540bf7617",
+      "target": "<b>Review of proposals:</b> Enable “Require screening of inputs” to approve before publishing",
+      "translated_from_hash": "321540bf7617",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Cosponsorship:</b> Require cosponsors for legitimacy. Cosponsors must be invited and accept before the proposal goes public",
+      "source_hash": "c183be51c32a",
+      "target": "<b>Cosponsorship:</b> Require cosponsors for legitimacy. Cosponsors must be invited and accept before the proposal goes public",
+      "translated_from_hash": "c183be51c32a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Choose an Available view",
+      "source_hash": "5698e7d9482c",
+      "target": "Choose an Available view",
+      "translated_from_hash": "5698e7d9482c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "You can choose from 3 different views on how you want your proposals to appear: <b>List, Map or Feed.</b>",
+      "source_hash": "54d38dfa04e1",
+      "target": "You can choose from 3 different views on how you want your proposals to appear: <b>List, Map or Feed.</b>",
+      "translated_from_hash": "54d38dfa04e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">To learn more on each of these views and how to set them up you can read more about it here</a>",
+      "source_hash": "69a3f8807f59",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">To learn more on each of these views and how to set them up you can read more about it here</a>",
+      "translated_from_hash": "69a3f8807f59",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Set up the input form",
+      "source_hash": "445b8abd473e",
+      "target": "Set up the input form",
+      "translated_from_hash": "445b8abd473e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Customize the submission form for proposals:",
+      "source_hash": "3afb9e7ffc43",
+      "target": "Customize the submission form for proposals:",
+      "translated_from_hash": "3afb9e7ffc43",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Default question “Title” is mandatory",
+      "source_hash": "81759d4de6fe",
+      "target": "Default question “Title” is mandatory",
+      "translated_from_hash": "81759d4de6fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Description question is recommended",
+      "source_hash": "5082ef39943b",
+      "target": "Description question is recommended",
+      "translated_from_hash": "5082ef39943b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Cosponsorship and anonymity fields appear if enabled",
+      "source_hash": "22e2dbbffd7e",
+      "target": "Cosponsorship and anonymity fields appear if enabled",
+      "translated_from_hash": "22e2dbbffd7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Use multiple pages and an end page to provide process information",
+      "source_hash": "bc271fd18a75",
+      "target": "Use multiple pages and an end page to provide process information",
+      "translated_from_hash": "bc271fd18a75",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Similar Input Detection can be enabled to reduce duplicates",
+      "source_hash": "e95b1a9bf6f3",
+      "target": "Similar Input Detection can be enabled to reduce duplicates",
+      "translated_from_hash": "e95b1a9bf6f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Proposal statuses",
+      "source_hash": "364b4919f212",
+      "target": "Proposal statuses",
+      "translated_from_hash": "364b4919f212",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Use statuses to communicate progress and manage proposals internally. We separate automatic and manual statuses depending on how you configured your project, see below the differences of each status and what they mean",
+      "source_hash": "389b6c9d043e",
+      "target": "Use statuses to communicate progress and manage proposals internally. We separate automatic and manual statuses depending on how you configured your project, see below the differences of each status and what they mean",
+      "translated_from_hash": "389b6c9d043e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "<b>Automatic statuses:</b>",
+      "source_hash": "b11f95987158",
+      "target": "<b>Automatic statuses:</b>",
+      "translated_from_hash": "b11f95987158",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>Proposed:</b> published, gathering support",
+      "source_hash": "085a57be3f23",
+      "target": "<b>Proposed:</b> published, gathering support",
+      "translated_from_hash": "085a57be3f23",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<b>Expired:</b> didn’t reach threshold in time",
+      "source_hash": "70010624e30a",
+      "target": "<b>Expired:</b> didn’t reach threshold in time",
+      "translated_from_hash": "70010624e30a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "<b>Threshold Reached:</b> gathered enough support in time",
+      "source_hash": "3431de98c389",
+      "target": "<b>Threshold Reached:</b> gathered enough support in time",
+      "translated_from_hash": "3431de98c389",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "<b>Pre-screening</b> :submitted, awaiting admin approval (if enabled)",
+      "source_hash": "8c22b0804ed0",
+      "target": "<b>Pre-screening</b> :submitted, awaiting admin approval (if enabled)",
+      "translated_from_hash": "8c22b0804ed0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "<b>Manual statuses:</b>",
+      "source_hash": "91e74fd79af8",
+      "target": "<b>Manual statuses:</b>",
+      "translated_from_hash": "91e74fd79af8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Ineligible:</b> doesn’t meet criteria, cannot be voted on.",
+      "source_hash": "0d3ce32c5223",
+      "target": "<b>Ineligible:</b> doesn’t meet criteria, cannot be voted on.",
+      "translated_from_hash": "0d3ce32c5223",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Answered:</b> reached threshold and response is published.",
+      "source_hash": "a87931d7889b",
+      "target": "<b>Answered:</b> reached threshold and response is published.",
+      "translated_from_hash": "a87931d7889b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Custom statuses:</b> Create in <b>Platform settings → Input statuses</b>. Define name, color, and function.",
+      "source_hash": "b0ee2258a3d4",
+      "target": "<b>Custom statuses:</b> Create in <b>Platform settings → Input statuses</b>. Define name, color, and function.",
+      "translated_from_hash": "b0ee2258a3d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "How to make your proposals visible?",
+      "source_hash": "f97ad658b9d0",
+      "target": "How to make your proposals visible?",
+      "translated_from_hash": "f97ad658b9d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "To emphasize your proposals/petitions you can pin them in the navigation bar and/or highlight them on the homepage.",
+      "source_hash": "a62258157885",
+      "target": "To emphasize your proposals/petitions you can pin them in the navigation bar and/or highlight them on the homepage.",
+      "translated_from_hash": "a62258157885",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>Navigation bar:</b> Go to <b>Pages &amp; Menu → Add project to navbar.</b>",
+      "source_hash": "dff628f07886",
+      "target": "<b>Navigation bar:</b> Go to <b>Pages &amp; Menu → Add project to navbar.</b>",
+      "translated_from_hash": "dff628f07886",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>Homepage:</b> Go to <b>Pages &amp; Menu → Edit Home → Spotlight widget.</b>",
+      "source_hash": "2878ce04df19",
+      "target": "<b>Homepage:</b> Go to <b>Pages &amp; Menu → Edit Home → Spotlight widget.</b>",
+      "translated_from_hash": "2878ce04df19",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "How to moderate and manage proposals?",
+      "source_hash": "96f67c06bcd9",
+      "target": "How to moderate and manage proposals?",
+      "translated_from_hash": "96f67c06bcd9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Use the project-level Input Manager to assign, update, and respond to proposals.",
+      "source_hash": "b5da1c4c98f3",
+      "target": "Use the project-level Input Manager to assign, update, and respond to proposals.",
+      "translated_from_hash": "b5da1c4c98f3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Assign default or individual assignees via <b>Project General tab → Access rights</b> or in the Input Manager of the timeline.",
+      "source_hash": "0fadf9d06b86",
+      "target": "Assign default or individual assignees via <b>Project General tab → Access rights</b> or in the Input Manager of the timeline.",
+      "translated_from_hash": "0fadf9d06b86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Change statuses (automatic or manual). Status changes trigger email notifications for followers.",
+      "source_hash": "2451bcf672e4",
+      "target": "Change statuses (automatic or manual). Status changes trigger email notifications for followers.",
+      "translated_from_hash": "2451bcf672e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Add internal comments for private admin discussions.",
+      "source_hash": "2d521ecaab1b",
+      "target": "Add internal comments for private admin discussions.",
+      "translated_from_hash": "2d521ecaab1b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "⚠️ Proposals only appear in project-level Input Manager, not in the platform-level one. You cannot move proposals from phase to phase.",
+      "source_hash": "7cd093031e0c",
+      "target": "⚠️ Proposals only appear in project-level Input Manager, not in the platform-level one. You cannot move proposals from phase to phase.",
+      "translated_from_hash": "7cd093031e0c",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

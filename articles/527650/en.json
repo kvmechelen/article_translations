@@ -1,0 +1,123 @@
+{
+  "article_id": "527650",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_4e8038746e\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ul><p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0009@@</p><ul><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul><p class=\"no-margin\">@@body:0012@@</p><ul><li><p class=\"no-margin\">@@body:0013@@</p></li><li><p class=\"no-margin\">@@body:0014@@</p></li><li><p class=\"no-margin\">@@body:0015@@</p></li></ul><h1 id=\"h_97add97a5b\">@@body:0016@@</h1><p class=\"no-margin\">@@body:0017@@</p><ul><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li></ul><p class=\"no-margin\">@@body:0021@@</p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Does your platform work on all browsers?",
+      "hash": "c2df8f93b36c"
+    },
+    "description": {
+      "field": "description",
+      "text": "Make sure you always update to the latest browser version and reconsider sticking to Internet Explorer.",
+      "hash": "49429e93f612"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Which browsers are supported?",
+      "hash": "e263653896d5"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Your engagement platform works smoothly on all modern and widely used browsers, including:",
+      "hash": "592eb342aa0e"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Google Chrome",
+      "hash": "0e99a87ff0da"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Mozilla Firefox",
+      "hash": "acc08972fddf"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Safari",
+      "hash": "5f0330392292"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Microsoft Edge",
+      "hash": "951e7f890431"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "To ensure the platform performs correctly and looks as expected, always use the latest version of your chosen browser. Browser updates improve security, speed, and compatibility with newer web technologies used in the platform.",
+      "hash": "4ddd6ddac9be"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "⚠️ Unsupported browser: Internet Explorer 11",
+      "hash": "1fc797c4ace1"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "As of July 1, 2021, we no longer support Internet Explorer 11. This decision follows Microsoft's own deprecation timeline:",
+      "hash": "75185e9101dc"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Microsoft Teams stopped supporting IE11 on November 30, 2020",
+      "hash": "01ff0d44ea50"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Microsoft 365 products ended IE11 support on August 17, 2021",
+      "hash": "7aeeb83e4692"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Since Microsoft has stopped updating Internet Explorer, we also no longer develop or test our platform for it. This means:",
+      "hash": "55916ec1abde"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Certain actions may not work properly",
+      "hash": "11829169db9f"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "The interface may not display as expected",
+      "hash": "0a99ed43b073"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Bugs or layout issues will not be fixed for IE11 users",
+      "hash": "08c7a5fa1372"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Recommendation",
+      "hash": "bc92e0e35c9a"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "For a reliable, secure, and seamless experience, we strongly recommend:",
+      "hash": "1847e03e7273"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Switching to a modern browser if you're still using Internet Explorer",
+      "hash": "1f6db3f49d34"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Upgrading to Microsoft Edge, the successor to Internet Explorer",
+      "hash": "82244771ebc4"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Encouraging your platform visitors to do the same",
+      "hash": "067954e643b5"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Modern browsers are designed to support current web standards, ensuring the platform remains fast, secure, and accessible to everyone.",
+      "hash": "b03aea80b65b"
+    }
+  }
+}

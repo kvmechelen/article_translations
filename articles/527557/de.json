@@ -1,0 +1,160 @@
+{
+  "article_id": "527557",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Visitors Dashboard",
+      "source_hash": "ff18ecda72da",
+      "target": "Visitors Dashboard",
+      "translated_from_hash": "ff18ecda72da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Interpreting the visitors dashboard",
+      "source_hash": "d811e1df520a",
+      "target": "Interpreting the visitors dashboard",
+      "translated_from_hash": "d811e1df520a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the visitors dashboard?",
+      "source_hash": "12cad1cd2a5c",
+      "target": "What is the visitors dashboard?",
+      "translated_from_hash": "12cad1cd2a5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The <b>Visitors Dashboard</b> gives you a high-level overview of the traffic on your platform. It helps you understand how people find, explore, and engage with your platform through the following key metrics:",
+      "source_hash": "9bc2ac6da575",
+      "target": "The <b>Visitors Dashboard</b> gives you a high-level overview of the traffic on your platform. It helps you understand how people find, explore, and engage with your platform through the following key metrics:",
+      "translated_from_hash": "9bc2ac6da575",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "<b>Total amount of visitors:</b> Shows how many visitors your platform has, along with their average visit duration and number of pages viewed.",
+      "source_hash": "f12bc9824852",
+      "target": "<b>Total amount of visitors:</b> Shows how many visitors your platform has, along with their average visit duration and number of pages viewed.",
+      "translated_from_hash": "f12bc9824852",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Traffic sources:</b> Displays the channels through which your visitors found you and entered the platform from (e.g., direct links, search engines, social media). By pressing the list icon in the right corner of the widget you can see the list of exact URL visitors are coming from.",
+      "source_hash": "2f956fdf6564",
+      "target": "<b>Traffic sources:</b> Displays the channels through which your visitors found you and entered the platform from (e.g., direct links, search engines, social media). By pressing the list icon in the right corner of the widget you can see the list of exact URL visitors are coming from.",
+      "translated_from_hash": "2f956fdf6564",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Registrations:</b> Highlights the total number of new registrations and the conversion rate of unregistered users who decide to register.",
+      "source_hash": "a0efdcc66b89",
+      "target": "<b>Registrations:</b> Highlights the total number of new registrations and the conversion rate of unregistered users who decide to register.",
+      "translated_from_hash": "a0efdcc66b89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Participants:</b> Shows how many visitors actively participate in one or more of your projects.",
+      "source_hash": "a984ab20cd53",
+      "target": "<b>Participants:</b> Shows how many visitors actively participate in one or more of your projects.",
+      "translated_from_hash": "a984ab20cd53",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Language:</b> Gives insight into the language diversity among your platform’s visitors.",
+      "source_hash": "11cc860c1bd1",
+      "target": "<b>Language:</b> Gives insight into the language diversity among your platform’s visitors.",
+      "translated_from_hash": "11cc860c1bd1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Visitor types:</b> Differentiates between <i>visitors</i> (unique individuals) and <i>visits</i> (total entries). A single visitor can generate multiple visits if they return to the platform multiple times.",
+      "source_hash": "6c57d3935825",
+      "target": "<b>Visitor types:</b> Differentiates between <i>visitors</i> (unique individuals) and <i>visits</i> (total entries). A single visitor can generate multiple visits if they return to the platform multiple times.",
+      "translated_from_hash": "6c57d3935825",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "This dashboard helps you monitor platform engagement and identify trends in your audience’s behavior. You can see this data per time period by editing the date manually. You can download the raw data in excel for each widget.",
+      "source_hash": "9c5cf9df87a4",
+      "target": "This dashboard helps you monitor platform engagement and identify trends in your audience’s behavior. You can see this data per time period by editing the date manually. You can download the raw data in excel for each widget.",
+      "translated_from_hash": "9c5cf9df87a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Who has access to the visitors dashboard?",
+      "source_hash": "8a679e7a0533",
+      "target": "Who has access to the visitors dashboard?",
+      "translated_from_hash": "8a679e7a0533",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Only Admins have access to the Dashboard tab, which includes the Visitors Dashboard with platform-wide data. Project Managers and Folder Managers do not have access to this tab.",
+      "source_hash": "bcc6ae288ce3",
+      "target": "Only Admins have access to the Dashboard tab, which includes the Visitors Dashboard with platform-wide data. Project Managers and Folder Managers do not have access to this tab.",
+      "translated_from_hash": "bcc6ae288ce3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "However, they can still view related insights at different levels:",
+      "source_hash": "1229afdd98bf",
+      "target": "However, they can still view related insights at different levels:",
+      "translated_from_hash": "1229afdd98bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Project level:</b> Within a project, managers can access the <b>Traffic</b> tab in the top panel to view visitor metrics specific to that project. They can also explore participant-related insights (but not visitor data) in the <b>Participants</b> tab.",
+      "source_hash": "c51ea3966a7f",
+      "target": "<b>Project level:</b> Within a project, managers can access the <b>Traffic</b> tab in the top panel to view visitor metrics specific to that project. They can also explore participant-related insights (but not visitor data) in the <b>Participants</b> tab.",
+      "translated_from_hash": "c51ea3966a7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Folder level:</b> Visitor data at the folder level is currently not available in the platform. If needed, you can contact the <b>support team</b> through the chat bubble in the bottom-right corner of your platform to request this data.",
+      "source_hash": "e99413bafa7a",
+      "target": "<b>Folder level:</b> Visitor data at the folder level is currently not available in the platform. If needed, you can contact the <b>support team</b> through the chat bubble in the bottom-right corner of your platform to request this data.",
+      "translated_from_hash": "e99413bafa7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Phase level: </b>The<b> Insights</b> tab on each phase shows phase level data such as visitors and participation rate. You can download this data by pressing Download on the left hand side.",
+      "source_hash": "2223e788b5cf",
+      "target": "<b>Phase level: </b>The<b> Insights</b> tab on each phase shows phase level data such as visitors and participation rate. You can download this data by pressing Download on the left hand side.",
+      "translated_from_hash": "2223e788b5cf",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

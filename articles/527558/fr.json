@@ -1,0 +1,142 @@
+{
+  "article_id": "527558",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "The link I have communicated to users for participating doesn't work",
+      "source_hash": "43023430a624",
+      "target": "The link I have communicated to users for participating doesn't work",
+      "translated_from_hash": "43023430a624",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Why is the link I shared not working?",
+      "source_hash": "24d077ae469e",
+      "target": "Why is the link I shared not working?",
+      "translated_from_hash": "24d077ae469e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "If users receive an error message saying they don’t have permission to view your project or survey, it’s usually due to one of the following reasons:",
+      "source_hash": "322274efd4ec",
+      "target": "If users receive an error message saying they don’t have permission to view your project or survey, it’s usually due to one of the following reasons:",
+      "translated_from_hash": "322274efd4ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "1. The project isn’t published",
+      "source_hash": "e8f43b62ef1b",
+      "target": "1. The project isn’t published",
+      "translated_from_hash": "e8f43b62ef1b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "If your project hasn’t been published yet, it won’t be visible to users (unless they are using the preview link)",
+      "source_hash": "0396daac67bc",
+      "target": "If your project hasn’t been published yet, it won’t be visible to users (unless they are using the preview link)",
+      "translated_from_hash": "0396daac67bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "ℹ️<b> </b>Action:<b> </b>Publish the project before sharing the link.",
+      "source_hash": "a4b3f7da3769",
+      "target": "ℹ️<b> </b>Action:<b> </b>Publish the project before sharing the link.",
+      "translated_from_hash": "a4b3f7da3769",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "2. Project visibility settings restrict access",
+      "source_hash": "d8e9c88e7099",
+      "target": "2. Project visibility settings restrict access",
+      "translated_from_hash": "d8e9c88e7099",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Go to the <b>General</b> tab to your project settings<b> → Access Rights</b> and check the <b>Visibility</b> settings.",
+      "source_hash": "ee58a620d67b",
+      "target": "Go to the <b>General</b> tab to your project settings<b> → Access Rights</b> and check the <b>Visibility</b> settings.",
+      "translated_from_hash": "ee58a620d67b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "If visibility is limited to specific users or groups, anyone outside of that selection won’t be able to access the project.",
+      "source_hash": "1d51023d76f5",
+      "target": "If visibility is limited to specific users or groups, anyone outside of that selection won’t be able to access the project.",
+      "translated_from_hash": "1d51023d76f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "ℹ️ Action: Adjust the visibility settings to include your intended participants.",
+      "source_hash": "4c84e1f3335d",
+      "target": "ℹ️ Action: Adjust the visibility settings to include your intended participants.",
+      "translated_from_hash": "4c84e1f3335d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "3. The wrong link is being shared",
+      "source_hash": "6e9ba9d7e7f6",
+      "target": "3. The wrong link is being shared",
+      "translated_from_hash": "6e9ba9d7e7f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Make sure you’re sharing the project URL, not the survey URL.",
+      "source_hash": "5c655bdf9936",
+      "target": "Make sure you’re sharing the project URL, not the survey URL.",
+      "translated_from_hash": "5c655bdf9936",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "If you share the survey URL directly and it requires login, email verification, or demographic pre-screening, users may get an error.",
+      "source_hash": "a54decaaae72",
+      "target": "If you share the survey URL directly and it requires login, email verification, or demographic pre-screening, users may get an error.",
+      "translated_from_hash": "a54decaaae72",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "ℹ️ <b>Action:</b> Always share the project URL, which ensures users complete any required steps before accessing the survey.",
+      "source_hash": "f3c18976132c",
+      "target": "ℹ️ <b>Action:</b> Always share the project URL, which ensures users complete any required steps before accessing the survey.",
+      "translated_from_hash": "f3c18976132c",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

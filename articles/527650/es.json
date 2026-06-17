@@ -1,0 +1,214 @@
+{
+  "article_id": "527650",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Does your platform work on all browsers?",
+      "source_hash": "c2df8f93b36c",
+      "target": "Does your platform work on all browsers?",
+      "translated_from_hash": "c2df8f93b36c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Make sure you always update to the latest browser version and reconsider sticking to Internet Explorer.",
+      "source_hash": "49429e93f612",
+      "target": "Make sure you always update to the latest browser version and reconsider sticking to Internet Explorer.",
+      "translated_from_hash": "49429e93f612",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Which browsers are supported?",
+      "source_hash": "e263653896d5",
+      "target": "Which browsers are supported?",
+      "translated_from_hash": "e263653896d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Your engagement platform works smoothly on all modern and widely used browsers, including:",
+      "source_hash": "592eb342aa0e",
+      "target": "Your engagement platform works smoothly on all modern and widely used browsers, including:",
+      "translated_from_hash": "592eb342aa0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Google Chrome",
+      "source_hash": "0e99a87ff0da",
+      "target": "Google Chrome",
+      "translated_from_hash": "0e99a87ff0da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Mozilla Firefox",
+      "source_hash": "acc08972fddf",
+      "target": "Mozilla Firefox",
+      "translated_from_hash": "acc08972fddf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Safari",
+      "source_hash": "5f0330392292",
+      "target": "Safari",
+      "translated_from_hash": "5f0330392292",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Microsoft Edge",
+      "source_hash": "951e7f890431",
+      "target": "Microsoft Edge",
+      "translated_from_hash": "951e7f890431",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "To ensure the platform performs correctly and looks as expected, always use the latest version of your chosen browser. Browser updates improve security, speed, and compatibility with newer web technologies used in the platform.",
+      "source_hash": "4ddd6ddac9be",
+      "target": "To ensure the platform performs correctly and looks as expected, always use the latest version of your chosen browser. Browser updates improve security, speed, and compatibility with newer web technologies used in the platform.",
+      "translated_from_hash": "4ddd6ddac9be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "⚠️ Unsupported browser: Internet Explorer 11",
+      "source_hash": "1fc797c4ace1",
+      "target": "⚠️ Unsupported browser: Internet Explorer 11",
+      "translated_from_hash": "1fc797c4ace1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "As of July 1, 2021, we no longer support Internet Explorer 11. This decision follows Microsoft's own deprecation timeline:",
+      "source_hash": "75185e9101dc",
+      "target": "As of July 1, 2021, we no longer support Internet Explorer 11. This decision follows Microsoft's own deprecation timeline:",
+      "translated_from_hash": "75185e9101dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Microsoft Teams stopped supporting IE11 on November 30, 2020",
+      "source_hash": "01ff0d44ea50",
+      "target": "Microsoft Teams stopped supporting IE11 on November 30, 2020",
+      "translated_from_hash": "01ff0d44ea50",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Microsoft 365 products ended IE11 support on August 17, 2021",
+      "source_hash": "7aeeb83e4692",
+      "target": "Microsoft 365 products ended IE11 support on August 17, 2021",
+      "translated_from_hash": "7aeeb83e4692",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Since Microsoft has stopped updating Internet Explorer, we also no longer develop or test our platform for it. This means:",
+      "source_hash": "55916ec1abde",
+      "target": "Since Microsoft has stopped updating Internet Explorer, we also no longer develop or test our platform for it. This means:",
+      "translated_from_hash": "55916ec1abde",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Certain actions may not work properly",
+      "source_hash": "11829169db9f",
+      "target": "Certain actions may not work properly",
+      "translated_from_hash": "11829169db9f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "The interface may not display as expected",
+      "source_hash": "0a99ed43b073",
+      "target": "The interface may not display as expected",
+      "translated_from_hash": "0a99ed43b073",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Bugs or layout issues will not be fixed for IE11 users",
+      "source_hash": "08c7a5fa1372",
+      "target": "Bugs or layout issues will not be fixed for IE11 users",
+      "translated_from_hash": "08c7a5fa1372",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Recommendation",
+      "source_hash": "bc92e0e35c9a",
+      "target": "Recommendation",
+      "translated_from_hash": "bc92e0e35c9a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "For a reliable, secure, and seamless experience, we strongly recommend:",
+      "source_hash": "1847e03e7273",
+      "target": "For a reliable, secure, and seamless experience, we strongly recommend:",
+      "translated_from_hash": "1847e03e7273",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Switching to a modern browser if you're still using Internet Explorer",
+      "source_hash": "1f6db3f49d34",
+      "target": "Switching to a modern browser if you're still using Internet Explorer",
+      "translated_from_hash": "1f6db3f49d34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Upgrading to Microsoft Edge, the successor to Internet Explorer",
+      "source_hash": "82244771ebc4",
+      "target": "Upgrading to Microsoft Edge, the successor to Internet Explorer",
+      "translated_from_hash": "82244771ebc4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Encouraging your platform visitors to do the same",
+      "source_hash": "067954e643b5",
+      "target": "Encouraging your platform visitors to do the same",
+      "translated_from_hash": "067954e643b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Modern browsers are designed to support current web standards, ensuring the platform remains fast, secure, and accessible to everyone.",
+      "source_hash": "b03aea80b65b",
+      "target": "Modern browsers are designed to support current web standards, ensuring the platform remains fast, secure, and accessible to everyone.",
+      "translated_from_hash": "b03aea80b65b",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

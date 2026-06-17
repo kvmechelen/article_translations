@@ -1,0 +1,228 @@
+{
+  "article_id": "527561",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_9d13d4a41f\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372169/85cdd72bb99202d8ef83f9a2277f/upload_12143858313270712835.png?expires=1781805600&amp;signature=8a58ccdf480787c85edc58f1cccd0c484d71b8f951434407ea3722b4f9a9d05a&amp;req=2dVswlr7qj5k2hj99dpg6sA1TzLvVtw9DEUqo%2F%2BBF%2BTZIlrCEbcwL7l0wbo0%0A3VFKfimjbMG3%2Fw0c3LqDdhVY%0A\"/></div><p class=\"no-margin\"></p>\n<h1 id=\"h_ceea048ae7\">@@body:0003@@</h1><p class=\"no-margin\">@@body:0004@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0005@@</p><ul><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li></ul><p class=\"no-margin\">@@body:0010@@</p><ol><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ol><p class=\"no-margin\">@@body:0014@@</p><ol><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ol><p class=\"no-margin\">@@body:0019@@</p><ul><li><p class=\"no-margin\">@@body:0020@@</p></li></ul><h1 id=\"h_b71718fe8f\">@@body:0021@@</h1><p class=\"no-margin\">@@body:0022@@</p><ul><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li></ul><p class=\"no-margin\">@@body:0025@@</p><ul><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li></ul><div class=\"intercom-container\"><img height=\"1276\" src=\"https://downloads.intercomcdn.eu/i/o/nfttr45j/120853226/953ef3fcbaf48a078c68b8eed6d1/Screenshot+2026-03-24+at+11_49_38.png?expires=1781805600&amp;signature=b812945f9b850489beedd1f48cca97e0ea5b277c76e60d70192f78f7c0aac60d&amp;req=0ddvzV35rjUulxv2%2Btxgppryyd6gT0WDh1%2FWbPopdlljuP03hm2cyH4Vq4Pq%0AmlxOs1z1RZSWtwTaxy9PIJ2rgA%3D%3D%0A\" style=\"height: auto;\" width=\"2576\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0028@@</p><ul><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li></ul><p class=\"no-margin\">@@body:0031@@</p><ul><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li></ul><h1 id=\"h_a1473dc011\">@@body:0034@@</h1><p class=\"no-margin\">@@body:0035@@</p><p class=\"no-margin\">@@body:0036@@</p><ol><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ol><p class=\"no-margin\">@@body:0039@@</p><ul><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Using the text box editor",
+      "hash": "4d7f6867c482"
+    },
+    "description": {
+      "field": "description",
+      "text": "The text field allows you manipulate text, images & videos in a flexible way",
+      "hash": "9c823169614c"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is our text editor?",
+      "hash": "45ca77f48b17"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The text editor is where you create and format your content. It’s a WYSIWYG (“What You See Is What You Get”) editor, meaning your content appears the same during editing as it will when published. Below, you’ll find how to format text, add media, and manage images in the editor.",
+      "hash": "b26448c50669"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "How to format content in the text box?",
+      "hash": "0c983f350dba"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "<b>Apply text formatting:</b>",
+      "hash": "9c09d673ceb0"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Use the toolbar at the top of the editor to format text:",
+      "hash": "46e295642702"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "<b>Bold</b>: Select text and click the <b>B</b> icon",
+      "hash": "4e0bc33b30c6"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Italics</b>: Use the <b>I</b> icon for emphasis",
+      "hash": "f1a11373d27b"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Headers</b>: Choose heading styles to structure your content",
+      "hash": "dbbebcdc16a2"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "<b>Lists</b>: Create bullet or numbered lists for easier readability",
+      "hash": "510efd28cc5d"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Insert links:</b>",
+      "hash": "327dc9cf069c"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Highlight the text you want to link.",
+      "hash": "b9eec8326e0c"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Click the <b>link icon</b>.",
+      "hash": "853655ca9654"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Enter or paste the destination URL.",
+      "hash": "383fd9a5d6bd"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "<b>Create a button: </b>",
+      "hash": "67a4b291e289"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Highlight the text you want to link.",
+      "hash": "b9eec8326e0c"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Click the <b>link icon</b>.",
+      "hash": "853655ca9654"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "select the <b>Add Button</b> option",
+      "hash": "f61ff210d299"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Enter or paste the destination URL.",
+      "hash": "383fd9a5d6bd"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>Align content:</b>",
+      "hash": "3d76ffb245ca"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Use the alignment icons to align text or elements left, center, or right",
+      "hash": "0ab9ae558837"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "How to add media in the text box?",
+      "hash": "06bbd4ff2b4d"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Add an image:</b>",
+      "hash": "a80f071f82e5"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Click the <b>image icon</b> in the toolbar.",
+      "hash": "f88ef775009b"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Upload a new image or select an existing one.",
+      "hash": "380bf35c9b56"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>Add alt text to an image:</b>",
+      "hash": "d5b20e0eb4fb"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "click on the image and press on the T icon that appears",
+      "hash": "81ae3299e59a"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "a pop up will appear to add alt-text and image title",
+      "hash": "518e0d78bf57"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<b>Add a video:</b>",
+      "hash": "846890099d97"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Click the <b>video icon</b> (only available in standard editors, <i>not in email editors</i>).",
+      "hash": "08811d735d44"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Paste the video URL to embed it.",
+      "hash": "3b21272fbf4e"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "ℹ️ : The custom email text editor has fewer features. It does not include a video icon. To add a video in an email:",
+      "hash": "47a3bbbe0735"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Hyperlink a piece of text with the video URL",
+      "hash": "ce837e521cfa"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Or upload an image and hyperlink it with the video URL",
+      "hash": "9c0dcc2937f3"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "How to delete images from the text box?",
+      "hash": "cb4e58f3e1b5"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Two methods for removing images from the text editor.",
+      "hash": "853d11284d13"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>Path 1:</b>",
+      "hash": "e0994f97ca30"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Click and drag until the image is selected",
+      "hash": "32e3c7ce0102"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "Press <b>Backspace</b>",
+      "hash": "76957d749718"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "<b>Path 2 (for large images):</b>",
+      "hash": "7f90113f4bdc"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Resize the image from a corner",
+      "hash": "5dde2c00cfbf"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "Click just to the right of the image",
+      "hash": "f325491cfcf1"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Press <b>Backspace</b> to delete",
+      "hash": "51417b3972c0"
+    }
+  }
+}

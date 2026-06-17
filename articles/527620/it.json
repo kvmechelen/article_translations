@@ -1,0 +1,619 @@
+{
+  "article_id": "527620",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "What data can you export from your platform?",
+      "source_hash": "30495b867bd8",
+      "target": "What data can you export from your platform?",
+      "translated_from_hash": "30495b867bd8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "How to export the different types of data collected on the platform",
+      "source_hash": "cf68e7a4852f",
+      "target": "How to export the different types of data collected on the platform",
+      "translated_from_hash": "cf68e7a4852f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are data exports on the platform?",
+      "source_hash": "b2775364e58c",
+      "target": "What are data exports on the platform?",
+      "translated_from_hash": "b2775364e58c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "You can export most types of data from the platform to analyze participation, track activity, and generate reports.",
+      "source_hash": "ff2e8ebe4acb",
+      "target": "You can export most types of data from the platform to analyze participation, track activity, and generate reports.",
+      "translated_from_hash": "ff2e8ebe4acb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Exportable data includes:",
+      "source_hash": "25728557f019",
+      "target": "Exportable data includes:",
+      "translated_from_hash": "25728557f019",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Invitation records</b>",
+      "source_hash": "e61cc7aca439",
+      "target": "<b>Invitation records</b>",
+      "translated_from_hash": "e61cc7aca439",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>User registration details</b>",
+      "source_hash": "77f47cf4beaf",
+      "target": "<b>User registration details</b>",
+      "translated_from_hash": "77f47cf4beaf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>Input (ideas, comments, statuses, tags)</b>",
+      "source_hash": "36b24b88b992",
+      "target": "<b>Input (ideas, comments, statuses, tags)</b>",
+      "translated_from_hash": "36b24b88b992",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Surveys and polls</b>",
+      "source_hash": "4f5e677bfd21",
+      "target": "<b>Surveys and polls</b>",
+      "translated_from_hash": "4f5e677bfd21",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Workshops</b> (polls, cards, conclusions — <b>not</b> chat)",
+      "source_hash": "368e971da196",
+      "target": "<b>Workshops</b> (polls, cards, conclusions — <b>not</b> chat)",
+      "translated_from_hash": "368e971da196",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "How to export invitation data?",
+      "source_hash": "41bf8a9a87f9",
+      "target": "How to export invitation data?",
+      "translated_from_hash": "41bf8a9a87f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Go to <b>Invitations &gt; All Invitations</b>",
+      "source_hash": "a4ae6546265f",
+      "target": "Go to <b>Invitations &gt; All Invitations</b>",
+      "translated_from_hash": "a4ae6546265f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Click <b>Export</b>",
+      "source_hash": "7851874f7b79",
+      "target": "Click <b>Export</b>",
+      "translated_from_hash": "7851874f7b79",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "You’ll receive an Excel file with:",
+      "source_hash": "2d5cc7c00f11",
+      "target": "You’ll receive an Excel file with:",
+      "translated_from_hash": "2d5cc7c00f11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Email addresses",
+      "source_hash": "6a2e6841d18e",
+      "target": "Email addresses",
+      "translated_from_hash": "6a2e6841d18e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Status",
+      "source_hash": "920e413c7d41",
+      "target": "Status",
+      "translated_from_hash": "920e413c7d41",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Unique registration token",
+      "source_hash": "6f0244d6d2f1",
+      "target": "Unique registration token",
+      "translated_from_hash": "6f0244d6d2f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Assigned groups/roles (if any)",
+      "source_hash": "a0759dfd0f60",
+      "target": "Assigned groups/roles (if any)",
+      "translated_from_hash": "a0759dfd0f60",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Use this data to resend invites or track group-specific outreach efforts.",
+      "source_hash": "869868283125",
+      "target": "Use this data to resend invites or track group-specific outreach efforts.",
+      "translated_from_hash": "869868283125",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to export user data?",
+      "source_hash": "489d6789ebee",
+      "target": "How to export user data?",
+      "translated_from_hash": "489d6789ebee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Go to <b>Users</b> in the admin panel",
+      "source_hash": "34d583413d5c",
+      "target": "Go to <b>Users</b> in the admin panel",
+      "translated_from_hash": "34d583413d5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Choose to export:",
+      "source_hash": "ce0dd7859212",
+      "target": "Choose to export:",
+      "translated_from_hash": "ce0dd7859212",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "All users",
+      "source_hash": "f7898130e557",
+      "target": "All users",
+      "translated_from_hash": "f7898130e557",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "A specific group (manual or smart)",
+      "source_hash": "8644a7ff6e61",
+      "target": "A specific group (manual or smart)",
+      "translated_from_hash": "8644a7ff6e61",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "A custom selection",
+      "source_hash": "f4846bec6d96",
+      "target": "A custom selection",
+      "translated_from_hash": "f4846bec6d96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "The exported file will include:",
+      "source_hash": "43b6ac29a7cd",
+      "target": "The exported file will include:",
+      "translated_from_hash": "43b6ac29a7cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "User ID",
+      "source_hash": "7967e089a7b9",
+      "target": "User ID",
+      "translated_from_hash": "7967e089a7b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Name and email",
+      "source_hash": "9024f54b7c45",
+      "target": "Name and email",
+      "translated_from_hash": "9024f54b7c45",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Account creation date",
+      "source_hash": "139250adb6c4",
+      "target": "Account creation date",
+      "translated_from_hash": "139250adb6c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Profile link",
+      "source_hash": "bdb5518e8c0f",
+      "target": "Profile link",
+      "translated_from_hash": "bdb5518e8c0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Group memberships",
+      "source_hash": "6ec54d702538",
+      "target": "Group memberships",
+      "translated_from_hash": "6ec54d702538",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "How to export survey data?",
+      "source_hash": "f3ee98b3602c",
+      "target": "How to export survey data?",
+      "translated_from_hash": "f3ee98b3602c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Go to the <b>Poll</b> or <b>Survey</b> phase in your project",
+      "source_hash": "0ad35f32ec00",
+      "target": "Go to the <b>Poll</b> or <b>Survey</b> phase in your project",
+      "translated_from_hash": "0ad35f32ec00",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Go to the <b>Insights</b> tab",
+      "source_hash": "e8f6b664d05f",
+      "target": "Go to the <b>Insights</b> tab",
+      "translated_from_hash": "e8f6b664d05f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Click <b>the 3 dots</b> on the left and select <b>‘Download survey results’</b>",
+      "source_hash": "5e383bf1d538",
+      "target": "Click <b>the 3 dots</b> on the left and select <b>‘Download survey results’</b>",
+      "translated_from_hash": "5e383bf1d538",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Notes:",
+      "source_hash": "da4f7ea58d96",
+      "target": "Notes:",
+      "translated_from_hash": "da4f7ea58d96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Survey export options may depend on the survey tool used (Typeform, Google Forms, or in-platform survey).",
+      "source_hash": "38fae753824f",
+      "target": "Survey export options may depend on the survey tool used (Typeform, Google Forms, or in-platform survey).",
+      "translated_from_hash": "38fae753824f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Currently, you can’t export multiple polls across projects in one batch.<br/>AI Analysis tags applied to survey responses are not included in the export (tags are exported only for ideas, not for surveys).",
+      "source_hash": "b66bfb40207e",
+      "target": "Currently, you can’t export multiple polls across projects in one batch.<br/>AI Analysis tags applied to survey responses are not included in the export (tags are exported only for ideas, not for surveys).",
+      "translated_from_hash": "b66bfb40207e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "How to export ideas?",
+      "source_hash": "dcec71e22de5",
+      "target": "How to export ideas?",
+      "translated_from_hash": "dcec71e22de5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Go to a project’s <b>Input Manager</b> tab.",
+      "source_hash": "42117427ecfd",
+      "target": "Go to a project’s <b>Input Manager</b> tab.",
+      "translated_from_hash": "42117427ecfd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Click <b>Export &gt; Export all ideas of this project</b> or select individual ideas.",
+      "source_hash": "48b55f22cba0",
+      "target": "Click <b>Export &gt; Export all ideas of this project</b> or select individual ideas.",
+      "translated_from_hash": "48b55f22cba0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "The Excel file will include:",
+      "source_hash": "84e50561ba30",
+      "target": "The Excel file will include:",
+      "translated_from_hash": "84e50561ba30",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Title and description",
+      "source_hash": "679d5af5537a",
+      "target": "Title and description",
+      "translated_from_hash": "679d5af5537a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Author name, email, and user ID",
+      "source_hash": "a5ce6386d285",
+      "target": "Author name, email, and user ID",
+      "translated_from_hash": "a5ce6386d285",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Upvotes/downvotes/comments count",
+      "source_hash": "1e06b2a145b9",
+      "target": "Upvotes/downvotes/comments count",
+      "translated_from_hash": "1e06b2a145b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Publication date",
+      "source_hash": "29473cdce82e",
+      "target": "Publication date",
+      "translated_from_hash": "29473cdce82e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Input status and tags",
+      "source_hash": "000c0a1fdb91",
+      "target": "Input status and tags",
+      "translated_from_hash": "000c0a1fdb91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "URL to the input",
+      "source_hash": "acea2d9e0edb",
+      "target": "URL to the input",
+      "translated_from_hash": "acea2d9e0edb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Link to each attachment</b> (see limitations)",
+      "source_hash": "cbaac0b9925d",
+      "target": "<b>Link to each attachment</b> (see limitations)",
+      "translated_from_hash": "cbaac0b9925d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "<b>Limitations:</b>",
+      "source_hash": "af1b0e97da34",
+      "target": "<b>Limitations:</b>",
+      "translated_from_hash": "af1b0e97da34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<b>Images cannot be exported</b>.",
+      "source_hash": "e0e63d78a747",
+      "target": "<b>Images cannot be exported</b>.",
+      "translated_from_hash": "e0e63d78a747",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Attachments are <b>linked</b>, not batched, each must be downloaded individually.",
+      "source_hash": "7177076b6f7a",
+      "target": "Attachments are <b>linked</b>, not batched, each must be downloaded individually.",
+      "translated_from_hash": "7177076b6f7a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Only public comments are included (not admin/internal comments or feedback)",
+      "source_hash": "b3703ef7c48e",
+      "target": "Only public comments are included (not admin/internal comments or feedback)",
+      "translated_from_hash": "b3703ef7c48e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "How to export attachments from ideas?",
+      "source_hash": "c75d2c19b286",
+      "target": "How to export attachments from ideas?",
+      "translated_from_hash": "c75d2c19b286",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Export ideas following the steps above - you will therefore have a full excel files of ideas/comments. One of the columns will be called \"attachements\" this is where the link to the attachment can be found.",
+      "source_hash": "f63fead6e7f5",
+      "target": "Export ideas following the steps above - you will therefore have a full excel files of ideas/comments. One of the columns will be called \"attachements\" this is where the link to the attachment can be found.",
+      "translated_from_hash": "f63fead6e7f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Each attachment has its own download link, batch downloading is not supported.",
+      "source_hash": "7ea563be637d",
+      "target": "Each attachment has its own download link, batch downloading is not supported.",
+      "translated_from_hash": "7ea563be637d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Images embedded in idea descriptions or comments are <b>not exportable</b>.",
+      "source_hash": "4b1f128b31cb",
+      "target": "Images embedded in idea descriptions or comments are <b>not exportable</b>.",
+      "translated_from_hash": "4b1f128b31cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "The export also includes useful details such as title, description, author info, publication date, metrics, tags, and status.",
+      "source_hash": "63ba62caca63",
+      "target": "The export also includes useful details such as title, description, author info, publication date, metrics, tags, and status.",
+      "translated_from_hash": "63ba62caca63",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "How to export workshop results?",
+      "source_hash": "a5541d91ce36",
+      "target": "How to export workshop results?",
+      "translated_from_hash": "a5541d91ce36",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "After the workshop is complete, click <b>Export Data</b>.",
+      "source_hash": "0882ab9086fd",
+      "target": "After the workshop is complete, click <b>Export Data</b>.",
+      "translated_from_hash": "0882ab9086fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "An Excel file is generated with:",
+      "source_hash": "90b807c12dc0",
+      "target": "An Excel file is generated with:",
+      "translated_from_hash": "90b807c12dc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Separate sheets for each workshop step",
+      "source_hash": "1d332d62da06",
+      "target": "Separate sheets for each workshop step",
+      "translated_from_hash": "1d332d62da06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Participant inputs from each activity",
+      "source_hash": "2921dfc2f7e3",
+      "target": "Participant inputs from each activity",
+      "translated_from_hash": "2921dfc2f7e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "<b>Note:</b> Workshop <b>chat</b> messages are <b>not</b> exportable due to privacy and data formatting limitations.",
+      "source_hash": "d61de4712470",
+      "target": "<b>Note:</b> Workshop <b>chat</b> messages are <b>not</b> exportable due to privacy and data formatting limitations.",
+      "translated_from_hash": "d61de4712470",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Using the API to export all other data",
+      "source_hash": "aec00cdce415",
+      "target": "Using the API to export all other data",
+      "translated_from_hash": "aec00cdce415",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "For other data that cannot be easily downloaded from the platform, you are able to use our public API to pull all types of data from the platform and use it for external data analysis. For example to download things like a master list of all projects on the platform (like project names, dates, status) with the API you can easily pull such a list.",
+      "source_hash": "956da72109dd",
+      "target": "For other data that cannot be easily downloaded from the platform, you are able to use our public API to pull all types of data from the platform and use it for external data analysis. For example to download things like a master list of all projects on the platform (like project names, dates, status) with the API you can easily pull such a list.",
+      "translated_from_hash": "956da72109dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "All API documentation can be found here: <a class=\"intercom-content-link\" href=\"https://developers.govocal.com/api/\" target=\"_blank\">https://developers.govocal.com/api/</a>. There you can see all the information that you can pull with the API. For example for projects you can see all the data attributes that you can pull:",
+      "source_hash": "c94eaf75708f",
+      "target": "All API documentation can be found here: <a class=\"intercom-content-link\" href=\"https://developers.govocal.com/api/\" target=\"_blank\">https://developers.govocal.com/api/</a>. There you can see all the information that you can pull with the API. For example for projects you can see all the data attributes that you can pull:",
+      "translated_from_hash": "c94eaf75708f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527578-use-govocal-data-in-powerbi\" target=\"_blank\">Read more about using the API to pull data into PowerBI here</a>",
+      "source_hash": "4bb23422ae72",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527578-use-govocal-data-in-powerbi\" target=\"_blank\">Read more about using the API to pull data into PowerBI here</a>",
+      "translated_from_hash": "4bb23422ae72",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

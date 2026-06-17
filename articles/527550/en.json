@@ -1,0 +1,213 @@
+{
+  "article_id": "527550",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_d1ac01a799\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_2cdd145c97\">@@body:0003@@</h2><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li></ul><h2 id=\"h_9fc50ea930\">@@body:0008@@</h2><ul><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li></ul><h1 id=\"h_b99f9096d0\">@@body:0012@@</h1><p class=\"no-margin\">@@body:0013@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0014@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0015@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_dbb278332a\">@@body:0016@@</h1><ol><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p><ul><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li></ol><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90371982/484a5e0e4029402ac76a11e95da5/upload_5045557068863680915.png?expires=1781805600&amp;signature=5b7cf99e52b93a81c3a075dc363704680dca44400ea27618fdd80d2b2cdb77b1&amp;req=2dVswlnzpDVk2hj99dpg6k%2F6UJO%2F2zdynGpuqoAkkeEFjlPS2c7HLZU6tltQ%0Ase2ZIAaOad4Gu4VoWKtGSh6P%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0024@@</p><ul><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_cea0e63578\">@@body:0027@@</h1><p class=\"no-margin\">@@body:0028@@</p><ul><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li></ul><p class=\"no-margin\">@@body:0033@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_05290d2e23\">@@body:0034@@</h1><p class=\"no-margin\">@@body:0035@@</p><ul><li><p class=\"no-margin\">@@body:0036@@</p><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p><p class=\"no-margin\">@@body:0039@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "ECHO  by Dembrane - Voice capture & automatic transcription",
+      "hash": "99850cfe6ea3"
+    },
+    "description": {
+      "field": "description",
+      "text": "Record offline conversations, uncover insights and bring them on your platform.",
+      "hash": "f3716d88a035"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is ECHO by Dembrane?",
+      "hash": "bcdaf9a04126"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "ECHO is a voice recording and auto-transcription tool that helps capture insights from public meetings, interviews, or citizen assemblies. It turns spoken conversations into written transcripts and summary reports.",
+      "hash": "956f1d5999e8"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "ECHO's features:",
+      "hash": "f58e1807ba85"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Phone recording of conversations",
+      "hash": "1496986f8cc6"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Auto-transcription from speech to text",
+      "hash": "219eee983846"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Sensemaking applied to the transcript to identify key insights and the ability to do sensemaking across different transcripts.",
+      "hash": "8e06803f5c81"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Auto-generate meeting reports",
+      "hash": "376a4e34a625"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Common use cases:",
+      "hash": "abbf5c9a65df"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Citizen Assemblies",
+      "hash": "563aa5493674"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Street interviews",
+      "hash": "b053baac5bc5"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Council Meetings",
+      "hash": "5a33a308087a"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "How to integrate ECHO with your Go Vocal platform?",
+      "hash": "ee3c6fc86385"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Currently the best way to use ECHO in correlation with your Go Vocal platform is to use the Go Vocal platform as the user facing projects and communication point, and use ECHO as the place to collect insights and analysis insights.",
+      "hash": "4ece6530258b"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "For example for a Citizen Assembly: Use Go Vocal platform to set up an event page, add a screenshot of the ECHO QR code to your event description. You can always have a pre-event phase to collect ideas for the assembly day. Then use a post-event phase in Go Vocal to share insights and reports from ECHO.",
+      "hash": "3dc6de204e0f"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "In this future we hope to have a full integration where you will be able to bring insights from ECHO into your ideation project for example, so we can support offline ideation projects better!",
+      "hash": "4f74e2d7cfb3"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "How to access and setup your ECHO account?",
+      "hash": "5146ae4714d9"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "Contact support via the chat bubble on your Go Vocal platform.",
+      "hash": "042141243bfc"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Provide:",
+      "hash": "d6e5c8d6766c"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "First name",
+      "hash": "702ef921ed1d"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Last name",
+      "hash": "7b4888049459"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Email (use a shared one if multiple users need access)",
+      "hash": "b7fe58ca0f2a"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "You’ll receive an email from Dembrane with login credentials.",
+      "hash": "eecbbd16c6d9"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "Visit <a class=\"intercom-content-link\" href=\"https://docs.dembrane.com\" target=\"_blank\">https://docs.dembrane.com</a> to learn how to use the interface or head to Documentation in your new account",
+      "hash": "0e4936ef20e3"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "This tool is available to:",
+      "hash": "61ef64aa3cab"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>All clients</b> (purchase required for unlimited use)",
+      "hash": "fb843f8093de"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "<b>Premium clients</b> (free trial: 1 project/year, 20 hours of recording)",
+      "hash": "296def9b8b35"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "Multilingual support in ECHO",
+      "hash": "2510bff977de"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "ECHO supports multiple interface and transcription languages.",
+      "hash": "dfff7d3a2329"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "<b>Interface languages</b>: English, German, French, Spanish, Dutch",
+      "hash": "65ab8757c222"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "<b>Speech recognition</b>: Supports all major languages found online",
+      "hash": "866a0e0e6806"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>Translation options</b>: Transcripts can be translated into EN, DE, FR, ES, or NL",
+      "hash": "a442d303cc04"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Other target languages available on request",
+      "hash": "f55686f9b04f"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "More info at: <a class=\"intercom-content-link\" href=\"https://docs.dembrane.com/echo/getting-started/creating-project#language-settings\" target=\"_blank\">https://docs.dembrane.com/echo/getting-started/creating-project#language-settings</a>",
+      "hash": "d14003ad5784"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "How to report issues regarding ECHO?",
+      "hash": "d8e43dd57b07"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Get support for ECHO either from within Dembrane or via your Go Vocal support team.",
+      "hash": "fd53af202058"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "<b>To report bugs</b>:",
+      "hash": "4f88c352ec41"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Use the <b>Report an issue</b> button under the settings icon in your Dembrane account.",
+      "hash": "5999397c0688"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "<b>For general support</b>:",
+      "hash": "f2d578847c68"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Use the chat bubble on your Go Vocal platform or email <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>",
+      "hash": "6c3f9fbb90f1"
+    }
+  }
+}

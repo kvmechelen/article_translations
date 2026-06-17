@@ -1,0 +1,511 @@
+{
+  "article_id": "527630",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Language and translation options on your platform",
+      "source_hash": "e3e9e7c77c89",
+      "target": "Language and translation options on your platform",
+      "translated_from_hash": "e3e9e7c77c89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are language options on the platform?",
+      "source_hash": "7853a5af080d",
+      "target": "What are language options on the platform?",
+      "translated_from_hash": "7853a5af080d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Understand how language settings shape the user experience and make your platform accessible to multilingual communities.",
+      "source_hash": "cbb9256d22ca",
+      "target": "Understand how language settings shape the user experience and make your platform accessible to multilingual communities.",
+      "translated_from_hash": "cbb9256d22ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Your platform can support multiple languages. You control:",
+      "source_hash": "489c1a6fb2ab",
+      "target": "Your platform can support multiple languages. You control:",
+      "translated_from_hash": "489c1a6fb2ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "The default platform language shown to first-time visitors.",
+      "source_hash": "8940b142de68",
+      "target": "The default platform language shown to first-time visitors.",
+      "translated_from_hash": "8940b142de68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "The languages users can choose to interact with.",
+      "source_hash": "2c371aa28b23",
+      "target": "The languages users can choose to interact with.",
+      "translated_from_hash": "2c371aa28b23",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Whether content is translated manually or through automatic translation tools.",
+      "source_hash": "bdee038f8f74",
+      "target": "Whether content is translated manually or through automatic translation tools.",
+      "translated_from_hash": "bdee038f8f74",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Supporting multiple languages helps you engage a broader audience, improve inclusivity, and increase participation.",
+      "source_hash": "d3e3584092d8",
+      "target": "Supporting multiple languages helps you engage a broader audience, improve inclusivity, and increase participation.",
+      "translated_from_hash": "d3e3584092d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How to enable auto translations?",
+      "source_hash": "d7b45c5b951f",
+      "target": "How to enable auto translations?",
+      "translated_from_hash": "d7b45c5b951f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Contact support via the chat bubble on your platform.",
+      "source_hash": "17289ecc0d65",
+      "target": "Contact support via the chat bubble on your platform.",
+      "translated_from_hash": "17289ecc0d65",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Access depends on your subscription plan.",
+      "source_hash": "63d9a1d8f27a",
+      "target": "Access depends on your subscription plan.",
+      "translated_from_hash": "63d9a1d8f27a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "There are two options:",
+      "source_hash": "39e4b301ce31",
+      "target": "There are two options:",
+      "translated_from_hash": "39e4b301ce31",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Weglot:</b> Translates the entire frontend UI and user-generated content.",
+      "source_hash": "b91dec9285bf",
+      "target": "<b>Weglot:</b> Translates the entire frontend UI and user-generated content.",
+      "translated_from_hash": "b91dec9285bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Google Translate:</b> Translates only ideas and comments.",
+      "source_hash": "22f2959adf9e",
+      "target": "<b>Google Translate:</b> Translates only ideas and comments.",
+      "translated_from_hash": "22f2959adf9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "What is weglot?",
+      "source_hash": "1251ac068529",
+      "target": "What is weglot?",
+      "translated_from_hash": "1251ac068529",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Weglot is an add-on that auto-translates everything on your platform’s interface.",
+      "source_hash": "ad9d2c5b9118",
+      "target": "Weglot is an add-on that auto-translates everything on your platform’s interface.",
+      "translated_from_hash": "ad9d2c5b9118",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "A language switcher appears in the bottom-left of the screen.",
+      "source_hash": "ad2b899edcd9",
+      "target": "A language switcher appears in the bottom-left of the screen.",
+      "translated_from_hash": "ad2b899edcd9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Weglot translates all visible content (UI, posts, project titles, etc.).",
+      "source_hash": "1c54e8a02c3f",
+      "target": "Weglot translates all visible content (UI, posts, project titles, etc.).",
+      "translated_from_hash": "1c54e8a02c3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Supports up to 3 languages by default (extendable to 10 upon agreement).",
+      "source_hash": "aea8ba8c2183",
+      "target": "Supports up to 3 languages by default (extendable to 10 upon agreement).",
+      "translated_from_hash": "aea8ba8c2183",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Sharing Weglot-translated URLs:",
+      "source_hash": "6b5668578536",
+      "target": "Sharing Weglot-translated URLs:",
+      "translated_from_hash": "6b5668578536",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "To link directly to a specific language version, append <code>?lang=xx</code> to any URL.",
+      "source_hash": "3cfaafbb9df8",
+      "target": "To link directly to a specific language version, append <code>?lang=xx</code> to any URL.",
+      "translated_from_hash": "3cfaafbb9df8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Example:",
+      "source_hash": "872887e563e7",
+      "target": "Example:",
+      "translated_from_hash": "872887e563e7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<code>https://yourplatform.com/projects/community/?lang=fr</code>",
+      "source_hash": "033df1f698d1",
+      "target": "<code>https://yourplatform.com/projects/community/?lang=fr</code>",
+      "translated_from_hash": "033df1f698d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "ℹ️ The language must already be configured in Weglot for the link to work.",
+      "source_hash": "2007e4fe1804",
+      "target": "ℹ️ The language must already be configured in Weglot for the link to work.",
+      "translated_from_hash": "2007e4fe1804",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "What is google translate?",
+      "source_hash": "014b5f3c63b8",
+      "target": "What is google translate?",
+      "translated_from_hash": "014b5f3c63b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Google translate is a lightweight translation of ideas, comments, and proposals without translating the full interface.",
+      "source_hash": "0fbd1734b2f6",
+      "target": "Google translate is a lightweight translation of ideas, comments, and proposals without translating the full interface.",
+      "translated_from_hash": "0fbd1734b2f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Google Translate covers:",
+      "source_hash": "44c2df57ad0f",
+      "target": "Google Translate covers:",
+      "translated_from_hash": "44c2df57ad0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Proposals: via a \"Translate\" box",
+      "source_hash": "b254d6237a21",
+      "target": "Proposals: via a \"Translate\" box",
+      "translated_from_hash": "b254d6237a21",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Ideas and project input: also via \"Translate\" option",
+      "source_hash": "1229b01948d8",
+      "target": "Ideas and project input: also via \"Translate\" option",
+      "translated_from_hash": "1229b01948d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Comments: with a “See translation” toggle",
+      "source_hash": "af5cf86fe252",
+      "target": "Comments: with a “See translation” toggle",
+      "translated_from_hash": "af5cf86fe252",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Limitations:",
+      "source_hash": "5957808233e5",
+      "target": "Limitations:",
+      "translated_from_hash": "5957808233e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Does not translate admin content or project descriptions.",
+      "source_hash": "51fbee1d076e",
+      "target": "Does not translate admin content or project descriptions.",
+      "translated_from_hash": "51fbee1d076e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Assumes the user writes in their chosen default language — it won't detect and translate mismatched input.",
+      "source_hash": "ccfde7dd6819",
+      "target": "Assumes the user writes in their chosen default language — it won't detect and translate mismatched input.",
+      "translated_from_hash": "ccfde7dd6819",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Does not support automatic translation of user profile language mismatches.",
+      "source_hash": "3b516049565a",
+      "target": "Does not support automatic translation of user profile language mismatches.",
+      "translated_from_hash": "3b516049565a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "To fix incorrect or incomplete translations:",
+      "source_hash": "6727d43fef0b",
+      "target": "To fix incorrect or incomplete translations:",
+      "translated_from_hash": "6727d43fef0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Manually go to <b>Edit Idea</b>.",
+      "source_hash": "7818cda04d99",
+      "target": "Manually go to <b>Edit Idea</b>.",
+      "translated_from_hash": "7818cda04d99",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Use the language toggle to enter your own version in other languages.",
+      "source_hash": "45d68dbcca6e",
+      "target": "Use the language toggle to enter your own version in other languages.",
+      "translated_from_hash": "45d68dbcca6e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "How to change the default language ?",
+      "source_hash": "0f564e93758f",
+      "target": "How to change the default language ?",
+      "translated_from_hash": "0f564e93758f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Go to <b>Settings &gt; General &gt; Languages</b>.",
+      "source_hash": "03e03867e68a",
+      "target": "Go to <b>Settings &gt; General &gt; Languages</b>.",
+      "translated_from_hash": "03e03867e68a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Make sure your preferred default language appears at the first language, on the far left of the language boxes.",
+      "source_hash": "d7ac403cb5b0",
+      "target": "Make sure your preferred default language appears at the first language, on the far left of the language boxes.",
+      "translated_from_hash": "d7ac403cb5b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "To adjust, drag or delete other languages until the correct one is in the first position.",
+      "source_hash": "a6d6c2836148",
+      "target": "To adjust, drag or delete other languages until the correct one is in the first position.",
+      "translated_from_hash": "a6d6c2836148",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "The default language determines the first impression visitors receive, and the base language used for account registration.",
+      "source_hash": "11e462f66aa8",
+      "target": "The default language determines the first impression visitors receive, and the base language used for account registration.",
+      "translated_from_hash": "11e462f66aa8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "How to add a new language?",
+      "source_hash": "7d4bf7757439",
+      "target": "How to add a new language?",
+      "translated_from_hash": "7d4bf7757439",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Go to <b>Settings &gt; General &gt; Languages</b>.",
+      "source_hash": "03e03867e68a",
+      "target": "Go to <b>Settings &gt; General &gt; Languages</b>.",
+      "translated_from_hash": "03e03867e68a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Click the dropdown arrow to view the full list of available languages.",
+      "source_hash": "b49f7229c536",
+      "target": "Click the dropdown arrow to view the full list of available languages.",
+      "translated_from_hash": "b49f7229c536",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Select the languages you want to add.",
+      "source_hash": "5305b78488df",
+      "target": "Select the languages you want to add.",
+      "translated_from_hash": "5305b78488df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Important note: maintaining extra languages",
+      "source_hash": "fca2decc54b2",
+      "target": "Important note: maintaining extra languages",
+      "translated_from_hash": "fca2decc54b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Adding a language does NOT auto-translate content, multiple languages need to be maintained manually",
+      "source_hash": "611e2315da48",
+      "target": "Adding a language does NOT auto-translate content, multiple languages need to be maintained manually",
+      "translated_from_hash": "611e2315da48",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "When publishing a project: You must enter a translated title for each added language (required to publish). Descriptions can be added per language but are not required to publish, though strongly recommended.",
+      "source_hash": "d65da72d2c7c",
+      "target": "When publishing a project: You must enter a translated title for each added language (required to publish). Descriptions can be added per language but are not required to publish, though strongly recommended.",
+      "translated_from_hash": "d65da72d2c7c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "You cannot hide a project in specific languages. All added platform languages will show the project, even if translations are missing.",
+      "source_hash": "81654ca9b964",
+      "target": "You cannot hide a project in specific languages. All added platform languages will show the project, even if translations are missing.",
+      "translated_from_hash": "81654ca9b964",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "What are user language preferences?",
+      "source_hash": "7e010fc26bc4",
+      "target": "What are user language preferences?",
+      "translated_from_hash": "7e010fc26bc4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Each user controls their own platform language preference.",
+      "source_hash": "daff140909ef",
+      "target": "Each user controls their own platform language preference.",
+      "translated_from_hash": "daff140909ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "The language a user registers with becomes their default platform language.",
+      "source_hash": "0da7dcb040a4",
+      "target": "The language a user registers with becomes their default platform language.",
+      "translated_from_hash": "0da7dcb040a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Users can change their preferred language anytime by clicking on their profile &gt; <b>My Settings &gt; Language</b>.",
+      "source_hash": "90c3137222c3",
+      "target": "Users can change their preferred language anytime by clicking on their profile &gt; <b>My Settings &gt; Language</b>.",
+      "translated_from_hash": "90c3137222c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "This preference affects the UI and how auto-translation is applied to ideas/comments.",
+      "source_hash": "c7f222080bef",
+      "target": "This preference affects the UI and how auto-translation is applied to ideas/comments.",
+      "translated_from_hash": "c7f222080bef",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

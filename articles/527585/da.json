@@ -1,0 +1,808 @@
+{
+  "article_id": "527585",
+  "language": "da",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Creating reports with Report Builder",
+      "source_hash": "b97ddd75d935",
+      "target": "Creating reports with Report Builder",
+      "translated_from_hash": "b97ddd75d935",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the report builder?",
+      "source_hash": "804aea511aba",
+      "target": "What is the report builder?",
+      "translated_from_hash": "804aea511aba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Allows platform administrators to generate, customize, and share reports with platform/project data.",
+      "source_hash": "fb858bfdb9bb",
+      "target": "Allows platform administrators to generate, customize, and share reports with platform/project data.",
+      "translated_from_hash": "fb858bfdb9bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Provides clear, visual, tailored reports for colleagues or community",
+      "source_hash": "7d471b39c8f2",
+      "target": "Provides clear, visual, tailored reports for colleagues or community",
+      "translated_from_hash": "7d471b39c8f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Pulls data from ideation projects, surveys, and visitor insights",
+      "source_hash": "74586a4f9857",
+      "target": "Pulls data from ideation projects, surveys, and visitor insights",
+      "translated_from_hash": "74586a4f9857",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Supports both PDF sharing and mobile-friendly phase reports",
+      "source_hash": "2bd89f0993ad",
+      "target": "Supports both PDF sharing and mobile-friendly phase reports",
+      "translated_from_hash": "2bd89f0993ad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Types of reports",
+      "source_hash": "06319806d1bc",
+      "target": "Types of reports",
+      "translated_from_hash": "06319806d1bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "You can find reports in the <b>Reporting</b> tab in the back office, these are what we call <b>platform reports</b>. You can also create reports directly from an information phase, which we refer to as <b>phase reports</b>.",
+      "source_hash": "d182510494d5",
+      "target": "You can find reports in the <b>Reporting</b> tab in the back office, these are what we call <b>platform reports</b>. You can also create reports directly from an information phase, which we refer to as <b>phase reports</b>.",
+      "translated_from_hash": "d182510494d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "⚠️ Platform reports and project reports are separate. Platform reports can't be added to a project, and project reports can't appear in the Reporting tab.",
+      "source_hash": "1ba3319a489d",
+      "target": "⚠️ Platform reports and project reports are separate. Platform reports can't be added to a project, and project reports can't appear in the Reporting tab.",
+      "translated_from_hash": "1ba3319a489d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Platform Reports:",
+      "source_hash": "805a988b89cd",
+      "target": "Platform Reports:",
+      "translated_from_hash": "805a988b89cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Platform reports</b> are available to <b>admins only</b> and provide an overview of platform-wide data, including:",
+      "source_hash": "97508ae37a31",
+      "target": "<b>Platform reports</b> are available to <b>admins only</b> and provide an overview of platform-wide data, including:",
+      "translated_from_hash": "97508ae37a31",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Visitor and registration metrics",
+      "source_hash": "c324821dbb38",
+      "target": "Visitor and registration metrics",
+      "translated_from_hash": "c324821dbb38",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Demographics (age, gender, location)",
+      "source_hash": "11c034687895",
+      "target": "Demographics (age, gender, location)",
+      "translated_from_hash": "11c034687895",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Project-level activity",
+      "source_hash": "69eb01f028f5",
+      "target": "Project-level activity",
+      "translated_from_hash": "69eb01f028f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "By default, <b>Community Monitor</b> reports are included here. To learn more about the Community Monitor feature, see our article:",
+      "source_hash": "e4c52fa629e5",
+      "target": "By default, <b>Community Monitor</b> reports are included here. To learn more about the Community Monitor feature, see our article:",
+      "translated_from_hash": "e4c52fa629e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527552-community-monitoring-resident-satisfaction-survey\" target=\"_blank\">Community Monitoring</a>",
+      "source_hash": "1e0c8eccc1d0",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527552-community-monitoring-resident-satisfaction-survey\" target=\"_blank\">Community Monitoring</a>",
+      "translated_from_hash": "1e0c8eccc1d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Project Reports:",
+      "source_hash": "f4dd6141b039",
+      "target": "Project Reports:",
+      "translated_from_hash": "f4dd6141b039",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Project reports</b> are created within a specific project, during a <b>Share Information</b> phase.",
+      "source_hash": "ad9b300b4106",
+      "target": "<b>Project reports</b> are created within a specific project, during a <b>Share Information</b> phase.",
+      "translated_from_hash": "ad9b300b4106",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<br/>They can be made visible in the <b>front office</b>, allowing you to share results directly with users.",
+      "source_hash": "202fccb53d2c",
+      "target": "<br/>They can be made visible in the <b>front office</b>, allowing you to share results directly with users.",
+      "translated_from_hash": "202fccb53d2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Different widgets in the report builder",
+      "source_hash": "09afa2d43779",
+      "target": "Different widgets in the report builder",
+      "translated_from_hash": "09afa2d43779",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Widgets are reusable blocks you drag into your report.",
+      "source_hash": "75fc37a0754c",
+      "target": "Widgets are reusable blocks you drag into your report.",
+      "translated_from_hash": "75fc37a0754c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Content Widgets:",
+      "source_hash": "3bf8b02020ab",
+      "target": "Content Widgets:",
+      "translated_from_hash": "3bf8b02020ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Text: gives you a box where you can freely write and edit some text",
+      "source_hash": "cca3c09edd50",
+      "target": "Text: gives you a box where you can freely write and edit some text",
+      "translated_from_hash": "cca3c09edd50",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Image: gives you the ability to add an image to the report",
+      "source_hash": "11d260f716ff",
+      "target": "Image: gives you the ability to add an image to the report",
+      "translated_from_hash": "11d260f716ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "2 column: gives you the ability to create 2 columns in your report",
+      "source_hash": "a16b3420cfbe",
+      "target": "2 column: gives you the ability to create 2 columns in your report",
+      "translated_from_hash": "a16b3420cfbe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "White space: gives you the ability to add a blank section within your report",
+      "source_hash": "c68dec3ce6f0",
+      "target": "White space: gives you the ability to add a blank section within your report",
+      "translated_from_hash": "c68dec3ce6f0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Embed: gives you the ability to embed for example a video in your report",
+      "source_hash": "f712e594fa3c",
+      "target": "Embed: gives you the ability to embed for example a video in your report",
+      "translated_from_hash": "f712e594fa3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Data Widgets:",
+      "source_hash": "aee55a605296",
+      "target": "Data Widgets:",
+      "translated_from_hash": "aee55a605296",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Survey Questions: you can visualize specific survey results in your report",
+      "source_hash": "91c045154af9",
+      "target": "Survey Questions: you can visualize specific survey results in your report",
+      "translated_from_hash": "91c045154af9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Most reacted inputs: you can show the most reacted inputs in your report",
+      "source_hash": "2352f635cee2",
+      "target": "Most reacted inputs: you can show the most reacted inputs in your report",
+      "translated_from_hash": "2352f635cee2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Input: you can show a specific (manually selected) input in your report",
+      "source_hash": "0c8adcdbd86a",
+      "target": "Input: you can show a specific (manually selected) input in your report",
+      "translated_from_hash": "0c8adcdbd86a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Community Monitor Health Score: you can show the health score of your community monitor",
+      "source_hash": "ca093a9169e6",
+      "target": "Community Monitor Health Score: you can show the health score of your community monitor",
+      "translated_from_hash": "ca093a9169e6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Visitor timeline: you show the visitors timeline in your report. It also show number of visitors, number of visits, visit duration and number of page view per visit.",
+      "source_hash": "2f9e69e53b18",
+      "target": "Visitor timeline: you show the visitors timeline in your report. It also show number of visitors, number of visits, visit duration and number of page view per visit.",
+      "translated_from_hash": "2f9e69e53b18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Participants timeline: you show the participants timeline in your report",
+      "source_hash": "4b0d5aeed692",
+      "target": "Participants timeline: you show the participants timeline in your report",
+      "translated_from_hash": "4b0d5aeed692",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Registration timeline: you show the registration timeline in your report",
+      "source_hash": "c658adec318f",
+      "target": "Registration timeline: you show the registration timeline in your report",
+      "translated_from_hash": "c658adec318f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Traffic sources: you can show where users are coming from in your report",
+      "source_hash": "18cd592a0c77",
+      "target": "Traffic sources: you can show where users are coming from in your report",
+      "translated_from_hash": "18cd592a0c77",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Demographics: you can show certain demographics in your report",
+      "source_hash": "7a6de4339242",
+      "target": "Demographics: you can show certain demographics in your report",
+      "translated_from_hash": "7a6de4339242",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Participation: you can show participation in your report",
+      "source_hash": "cbcadecae962",
+      "target": "Participation: you can show participation in your report",
+      "translated_from_hash": "cbcadecae962",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Methods used: you can show which methods are used in your report",
+      "source_hash": "e06407185f16",
+      "target": "Methods used: you can show which methods are used in your report",
+      "translated_from_hash": "e06407185f16",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Projects: you can show which projects are on the platform in your report",
+      "source_hash": "ed42dbd3bced",
+      "target": "Projects: you can show which projects are on the platform in your report",
+      "translated_from_hash": "ed42dbd3bced",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "How to create and customize a report?",
+      "source_hash": "0868356cc93c",
+      "target": "How to create and customize a report?",
+      "translated_from_hash": "0868356cc93c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "How to create a report",
+      "source_hash": "f94cd8ddcd4c",
+      "target": "How to create a report",
+      "translated_from_hash": "f94cd8ddcd4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "<b>Access Report Builder</b>",
+      "source_hash": "28e494b73cf6",
+      "target": "<b>Access Report Builder</b>",
+      "translated_from_hash": "28e494b73cf6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Platform-level: <b>Reporting</b> &gt; <b>Create a report</b>",
+      "source_hash": "cc8b555b8e14",
+      "target": "Platform-level: <b>Reporting</b> &gt; <b>Create a report</b>",
+      "translated_from_hash": "cc8b555b8e14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Project-level: create Share information phase &gt; click <b>Report &gt; Create a report</b>. Watch video below:",
+      "source_hash": "241d6f331da0",
+      "target": "Project-level: create Share information phase &gt; click <b>Report &gt; Create a report</b>. Watch video below:",
+      "translated_from_hash": "241d6f331da0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>Choose Report Type</b>",
+      "source_hash": "b302af2ccaa1",
+      "target": "<b>Choose Report Type</b>",
+      "translated_from_hash": "b302af2ccaa1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Blank page",
+      "source_hash": "8c59d15f0238",
+      "target": "Blank page",
+      "translated_from_hash": "8c59d15f0238",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Project template",
+      "source_hash": "d708059e62c4",
+      "target": "Project template",
+      "translated_from_hash": "d708059e62c4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Platform template",
+      "source_hash": "d5fbb99c5969",
+      "target": "Platform template",
+      "translated_from_hash": "d5fbb99c5969",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Add Report Title and start building",
+      "source_hash": "13b1cb0b9631",
+      "target": "Add Report Title and start building",
+      "translated_from_hash": "13b1cb0b9631",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "How to customize a report",
+      "source_hash": "89824df113c5",
+      "target": "How to customize a report",
+      "translated_from_hash": "89824df113c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Use the drag-and-drop interface for fast setup",
+      "source_hash": "95dff7cdb2bf",
+      "target": "Use the drag-and-drop interface for fast setup",
+      "translated_from_hash": "95dff7cdb2bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Left-hand panel: Widgets &amp; AI tabs",
+      "source_hash": "f8e9e1b040f7",
+      "target": "Left-hand panel: Widgets &amp; AI tabs",
+      "translated_from_hash": "f8e9e1b040f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Right-hand panel: Editor for modifying selected elements",
+      "source_hash": "e93932a8225c",
+      "target": "Right-hand panel: Editor for modifying selected elements",
+      "translated_from_hash": "e93932a8225c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "Data grouping",
+      "source_hash": "66ba76ce57d7",
+      "target": "Data grouping",
+      "translated_from_hash": "66ba76ce57d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Use data grouping to break down survey results by different segments, helping you uncover patterns and insights across different groups of participants.",
+      "source_hash": "f3d3730e610b",
+      "target": "Use data grouping to break down survey results by different segments, helping you uncover patterns and insights across different groups of participants.",
+      "translated_from_hash": "f3d3730e610b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "You can group your survey data by:",
+      "source_hash": "e34855f7bc9a",
+      "target": "You can group your survey data by:",
+      "translated_from_hash": "e34855f7bc9a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Registration fields</b> <i>(age, gender, location)</i>",
+      "source_hash": "8b0b02cc81c1",
+      "target": "<b>Registration fields</b> <i>(age, gender, location)</i>",
+      "translated_from_hash": "8b0b02cc81c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Survey answers</b> <i>(group responses to one question by how people answered another question)</i>",
+      "source_hash": "f07cac180bd6",
+      "target": "<b>Survey answers</b> <i>(group responses to one question by how people answered another question)</i>",
+      "translated_from_hash": "f07cac180bd6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "You can add grouping in your report by:",
+      "source_hash": "91bede59c6a5",
+      "target": "You can add grouping in your report by:",
+      "translated_from_hash": "91bede59c6a5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Step 1: Adding a survey question widget (see image below)",
+      "source_hash": "99ead1222f80",
+      "target": "Step 1: Adding a survey question widget (see image below)",
+      "translated_from_hash": "99ead1222f80",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Step 2: Select a question in your survey",
+      "source_hash": "c83da1c3c121",
+      "target": "Step 2: Select a question in your survey",
+      "translated_from_hash": "c83da1c3c121",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Step 3: Select what type of grouping you would like to apply",
+      "source_hash": "77caea3204e1",
+      "target": "Step 3: Select what type of grouping you would like to apply",
+      "translated_from_hash": "77caea3204e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "Step 4: Select the specific attribute that you want to use to group the data",
+      "source_hash": "0106a38fa45e",
+      "target": "Step 4: Select the specific attribute that you want to use to group the data",
+      "translated_from_hash": "0106a38fa45e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "This lets you answer questions like:",
+      "source_hash": "6cc2026145b7",
+      "target": "This lets you answer questions like:",
+      "translated_from_hash": "6cc2026145b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "“Do younger participants rate our service differently than older ones?”",
+      "source_hash": "aa6154fecf9d",
+      "target": "“Do younger participants rate our service differently than older ones?”",
+      "translated_from_hash": "aa6154fecf9d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "“How do people from different cities respond to our key questions?”",
+      "source_hash": "a2d037919852",
+      "target": "“How do people from different cities respond to our key questions?”",
+      "translated_from_hash": "a2d037919852",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "“Does answering ‘Yes’ to Question 3 correlate with higher satisfaction scores?”",
+      "source_hash": "95f36fb38098",
+      "target": "“Does answering ‘Yes’ to Question 3 correlate with higher satisfaction scores?”",
+      "translated_from_hash": "95f36fb38098",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "💡 Grouping helps you find trends and correlations that might be hidden in the overall data.",
+      "source_hash": "1acd51518ca7",
+      "target": "💡 Grouping helps you find trends and correlations that might be hidden in the overall data.",
+      "translated_from_hash": "1acd51518ca7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "ℹ️ Access to this feature depends on your plan.",
+      "source_hash": "3927e100e8ce",
+      "target": "ℹ️ Access to this feature depends on your plan.",
+      "translated_from_hash": "3927e100e8ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "How to add AI in your report?",
+      "source_hash": "ce5cb20cddad",
+      "target": "How to add AI in your report?",
+      "translated_from_hash": "ce5cb20cddad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "AI tab summarizes open text survey questions or phase inputs",
+      "source_hash": "209f30672831",
+      "target": "AI tab summarizes open text survey questions or phase inputs",
+      "translated_from_hash": "209f30672831",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Select <b>project + phase</b> → AI summary appears → drag summary into report",
+      "source_hash": "b397780b2add",
+      "target": "Select <b>project + phase</b> → AI summary appears → drag summary into report",
+      "translated_from_hash": "b397780b2add",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "ℹ️ Notes:",
+      "source_hash": "be4d2018a68d",
+      "target": "ℹ️ Notes:",
+      "translated_from_hash": "be4d2018a68d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "References shown in AI summary don’t carry over to the final report block.",
+      "source_hash": "f8c7541c0955",
+      "target": "References shown in AI summary don’t carry over to the final report block.",
+      "translated_from_hash": "f8c7541c0955",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "Auto tags created in the AI analysis can’t be carried over to the report builder automatically",
+      "source_hash": "666705c002c6",
+      "target": "Auto tags created in the AI analysis can’t be carried over to the report builder automatically",
+      "translated_from_hash": "666705c002c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "How to export and share your report?",
+      "source_hash": "6b400bff88a2",
+      "target": "How to export and share your report?",
+      "translated_from_hash": "6b400bff88a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "Attach PDF to a Share Information phase.",
+      "source_hash": "bbee47d39900",
+      "target": "Attach PDF to a Share Information phase.",
+      "translated_from_hash": "bbee47d39900",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Go to a Share information phase &gt; <b>Report</b> &gt; Toggle <b>Visible</b>",
+      "source_hash": "9a3e72da0493",
+      "target": "Go to a Share information phase &gt; <b>Report</b> &gt; Toggle <b>Visible</b>",
+      "translated_from_hash": "9a3e72da0493",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "⚠️: Platform reports can not be carried over to an information phase",
+      "source_hash": "242910b909d2",
+      "target": "⚠️: Platform reports can not be carried over to an information phase",
+      "translated_from_hash": "242910b909d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "<i>or </i>",
+      "source_hash": "783e76493af0",
+      "target": "<i>or </i>",
+      "translated_from_hash": "783e76493af0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "Share PDF or Word manually",
+      "source_hash": "98e3ca77f80c",
+      "target": "Share PDF or Word manually",
+      "translated_from_hash": "98e3ca77f80c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "Download as PDF via: <b>Print &gt; Save as PDF</b>",
+      "source_hash": "97e3d5a3dcaf",
+      "target": "Download as PDF via: <b>Print &gt; Save as PDF</b>",
+      "translated_from_hash": "97e3d5a3dcaf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "Download as Word via <b>Download &gt; Download as Word</b>",
+      "source_hash": "053705d50724",
+      "target": "Download as Word via <b>Download &gt; Download as Word</b>",
+      "translated_from_hash": "053705d50724",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "Troubleshooting: Report Builder",
+      "source_hash": "76b174482ed0",
+      "target": "Troubleshooting: Report Builder",
+      "translated_from_hash": "76b174482ed0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "Contact support via the the chat bubble on the bottom right corner of your platform if:",
+      "source_hash": "27968c344a9e",
+      "target": "Contact support via the the chat bubble on the bottom right corner of your platform if:",
+      "translated_from_hash": "27968c344a9e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "The Weglot translation button is appearing on your reports",
+      "source_hash": "d68c078c2d29",
+      "target": "The Weglot translation button is appearing on your reports",
+      "translated_from_hash": "d68c078c2d29",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "To get names and emails for voting data as it is not automatically included",
+      "source_hash": "04de2181bce4",
+      "target": "To get names and emails for voting data as it is not automatically included",
+      "translated_from_hash": "04de2181bce4",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

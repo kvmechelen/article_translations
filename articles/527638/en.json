@@ -1,0 +1,183 @@
+{
+  "article_id": "527638",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_e528464668\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0003@@</p><ul><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><ul><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li></ul><h1 id=\"h_952143170d\">@@body:0009@@</h1><h2 id=\"h_358810bbfe\">@@body:0010@@</h2><ul><li><p class=\"no-margin\">@@body:0011@@</p><ul><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0014@@</p><ol><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p></li></ol></li></ul><h2 id=\"h_09d5230744\">@@body:0018@@</h2><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373957/5ef040c9eec8a0465d6ac4c020a3/upload_14870652914126532106.png?expires=1781805600&amp;signature=bde6b2d09ba70abc8586cdd89b863d550c380b0b395edee1019332642b09e416&amp;req=2dVswlvzqTBk2hj99dpg6pkg5W4BcgacW%2FLgNs1Z%2BaqLtMIE3Gy1DBi3Aj3t%0AIhjRdR9RhTfXkjV94JhNw%2Foz%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li></ul><h1 id=\"h_57b221b108\">@@body:0022@@</h1><p class=\"no-margin\">@@body:0023@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373987/f1a4775b1c7350a86f1aab432ca5/upload_12009871257943386833.png?expires=1781805600&amp;signature=ef0ac853c40fad0818f633349bd5649b578bd2ed5e1f993ac3aec21158e08d2c&amp;req=2dVswlvzpDBk2hj99dpg6piQHLdQNfVrMwYfOiMcqqGD%2Bn7F8qtHpQyCcfVP%0A%2FLCx4tlN1o9YJo03j%2B9cfvMF%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li></ul><p class=\"no-margin\">@@body:0027@@</p><ul><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_8361347510\">@@body:0030@@</h1><ul><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373999/3d8e8758caaa4fe9e4253b75fe29/upload_16038859374456734242.png?expires=1781805600&amp;signature=726f7f7f5a66e0da47ade00b1562b353ffd3569d6402f6e5ac1927b6469b4e5b&amp;req=2dVswlvzpT5k2hj99dpg6rvHxpWsTgIwINv8iNkUovsWqHJJ7OUbW0QFGExl%0AS8%2BVsxc5R7CF%2BLtEa%2FBy6e7B%0A\"/></div><p class=\"no-margin\"></p>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Assigning input and ideas to your colleagues",
+      "hash": "12e8b4a9f373"
+    },
+    "description": {
+      "field": "description",
+      "text": "Collaborate with colleagues on inputs inside a project and on proposals",
+      "hash": "4101e5a2a73a"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What does assigning input mean?",
+      "hash": "f4732145b672"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Assigning input and ideas to colleagues allows you to distribute work across your team so that every idea, comment, or proposal gets timely follow‑up.",
+      "hash": "00be6fe309ab"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "This feature:",
+      "hash": "f928fee98922"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Increases internal efficiency by making clear who is responsible for each item.",
+      "hash": "aa552bc8e781"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Ensures participants see their input processed quickly, which improves trust and encourages them to return.",
+      "hash": "7dac5a781411"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Assignments apply to:",
+      "hash": "019fa094cb8f"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Ideas</b> (via the Input Manager in each project)",
+      "hash": "b2f499544b6a"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "<b>Proposals</b> (via the Proposals overview in the back‑end)",
+      "hash": "86bb681374f4"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "How to assign inputs to colleagues?",
+      "hash": "8e8cbde897a9"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Default assignee (Ideation and Proposals):",
+      "hash": "24c0d1117a52"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "By default, every new idea is assigned to:",
+      "hash": "168e8438c37f"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "The first project manager created for that project.",
+      "hash": "123e624722d4"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "If there’s no project manager, the first platform administrator.",
+      "hash": "ee2e33d5e6f4"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "To change the default assignee:",
+      "hash": "ca740746974e"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Go to <b>General</b> Tab of your project page<b> → Access Rights</b> tab.",
+      "hash": "24194f98e6af"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Select a PM or admins in the section <b>Who is responsible for processing the posts?</b>",
+      "hash": "b5e3ae71fa2d"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "You can update this at any time.",
+      "hash": "36cfcb27137c"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "Assigning individual inputs:",
+      "hash": "9a7786747520"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "Open the <b>Input Manager</b> for the project.",
+      "hash": "b7722d0d84a9"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "Reassign any idea to a specific colleague.",
+      "hash": "35f989c3e60b"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "The new assignee receives an <b>email notification</b> and a <b>platform notification</b> immediately.",
+      "hash": "31751c9613cf"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "How to follow up on assigned inputs?",
+      "hash": "fc44813ffd49"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Personal overview in Input Manager:</b>",
+      "hash": "e9eba729ae85"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "Use the dropdown filter to see only the ideas assigned to you.",
+      "hash": "52904eff11e3"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Switch the toggle to show inputs that still need feedback.",
+      "hash": "4313c1f3a66b"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Use the dropdown to view another colleague’s assignments if needed.",
+      "hash": "58f6a66fb8ef"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "<b>Weekly email reminders:</b>",
+      "hash": "54b545fb972f"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Admins and project managers receive a weekly email listing all their assigned inputs that still require feedback.",
+      "hash": "76bb2b382c3d"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "An input remains in this list until feedback has been given.",
+      "hash": "abecb12fb4c3"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Internal communication on ideas",
+      "hash": "e0a92ac2a0bf"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "Project managers/admins can leave internal comments on ideas",
+      "hash": "15cc30d8e3d7"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Internal comments are visible only to staff, not to participants",
+      "hash": "7e840d21a38e"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Find this by: <b>Project → Ideation/Proposal phase → Click an idea → Internal Comments</b>",
+      "hash": "60ff90f1250d"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "article_id": "527614",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_674c8e3b12\">@@body:0001@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373284/3b83195a81301fc05a2b49f9f91c/upload_10471047964456955145.png?expires=1781805600&amp;signature=b623153f734457cbae35f5ab81189dabb2d0c4f7d253fac9098ea4646e4c4080&amp;req=2dVswlv4pDNk2hj99dpg6ka%2Bra9ojLACUKZtSsUc3ghU6YYn3VYD9EKCLWqL%0Ac%2FvieJ34qp1Igb3H%2Fqk9de60%0A\"/></div><ol><li><p class=\"no-margin\">@@body:0002@@</p></li><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li><li><p class=\"no-margin\">@@body:0006@@</p></li></ol><p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_0e4c4643fb\">@@body:0008@@</h1><ol><li><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ol>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Customizing the policies on your platform",
+      "hash": "76bef31bfc9c"
+    },
+    "description": {
+      "field": "description",
+      "text": "Add your organisational items to your policy pages",
+      "hash": "ede36cac5b0c"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "How to edit the terms and conditions?",
+      "hash": "db0bb9b5a169"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Go to <b>Settings &gt; Policies</b>",
+      "hash": "a39f534ac746"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Select <b>Terms and Conditions</b>",
+      "hash": "3e606d21fbca"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Update the text as needed",
+      "hash": "2b0da3b4336a"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Optionally, upload attachments (e.g. organizational documents)",
+      "hash": "a87a956f719b"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Click <b>Save</b> at the bottom",
+      "hash": "4b10dede97ba"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Users must accept these terms during registration.",
+      "hash": "8f73763cc103"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "How to edit the privacy policy?",
+      "hash": "35499aae429b"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Go to <b>Settings &gt; Policies</b>",
+      "hash": "a39f534ac746"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Select <b>Privacy Policy</b>",
+      "hash": "7b87311fe11d"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Update the text as needed",
+      "hash": "2b0da3b4336a"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Optionally, add supporting documents (e.g. how your org handles data)",
+      "hash": "8d182d946fe0"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Click <b>Save</b> at the bottom",
+      "hash": "4b10dede97ba"
+    }
+  }
+}

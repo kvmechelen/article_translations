@@ -1,0 +1,565 @@
+{
+  "article_id": "527627",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Adding events to your platform",
+      "source_hash": "a9b3fe4e45a4",
+      "target": "Adding events to your platform",
+      "translated_from_hash": "a9b3fe4e45a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Augment your digital engagement strategy with online and offline events",
+      "source_hash": "e4e666b92e33",
+      "target": "Augment your digital engagement strategy with online and offline events",
+      "translated_from_hash": "e4e666b92e33",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are events on the platform?",
+      "source_hash": "c91078a6a8a6",
+      "target": "What are events on the platform?",
+      "translated_from_hash": "c91078a6a8a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Events on the platform let you blend offline, online, and digital engagement into your strategy.",
+      "source_hash": "8d69f994edea",
+      "target": "Events on the platform let you blend offline, online, and digital engagement into your strategy.",
+      "translated_from_hash": "8d69f994edea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Whether it’s a public meeting at City Hall, an online workshop, or a pop-up event at a metro station, the Events feature lets you display, manage, and publicize past and upcoming events all in one place.",
+      "source_hash": "098ee454f0ff",
+      "target": "Whether it’s a public meeting at City Hall, an online workshop, or a pop-up event at a metro station, the Events feature lets you display, manage, and publicize past and upcoming events all in one place.",
+      "translated_from_hash": "098ee454f0ff",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Using events:",
+      "source_hash": "65e9c0bc9974",
+      "target": "Using events:",
+      "translated_from_hash": "65e9c0bc9974",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Creates more touchpoints for your community",
+      "source_hash": "5f5f98ef5426",
+      "target": "Creates more touchpoints for your community",
+      "translated_from_hash": "5f5f98ef5426",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Makes it easy to manage registrations and track attendees directly on the platform",
+      "source_hash": "5219e553ce85",
+      "target": "Makes it easy to manage registrations and track attendees directly on the platform",
+      "translated_from_hash": "5219e553ce85",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Bridges online participation with real‑world engagement",
+      "source_hash": "dd0fb43ae466",
+      "target": "Bridges online participation with real‑world engagement",
+      "translated_from_hash": "dd0fb43ae466",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How are events displayed on the platform?",
+      "source_hash": "6e8d899c8cca",
+      "target": "How are events displayed on the platform?",
+      "translated_from_hash": "6e8d899c8cca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Events Page:",
+      "source_hash": "f9a98e009004",
+      "target": "Events Page:",
+      "translated_from_hash": "f9a98e009004",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "All events from across projects are listed on one page.",
+      "source_hash": "2c14c4a8fd71",
+      "target": "All events from across projects are listed on one page.",
+      "translated_from_hash": "2c14c4a8fd71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Access by adding <code>/events</code> to your platform URL.",
+      "source_hash": "7708727dd824",
+      "target": "Access by adding <code>/events</code> to your platform URL.",
+      "translated_from_hash": "7708727dd824",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Or add “Events” to the navigation bar via <b>Pages &amp; Menu → Add to navbar</b>.",
+      "source_hash": "67586865d168",
+      "target": "Or add “Events” to the navigation bar via <b>Pages &amp; Menu → Add to navbar</b>.",
+      "translated_from_hash": "67586865d168",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Project Pages:",
+      "source_hash": "5bccbb44816b",
+      "target": "Project Pages:",
+      "translated_from_hash": "5bccbb44816b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Events show at the bottom of the project page. If they’re linked to a phase, they also appear in the phase description.",
+      "source_hash": "8e5e1c33ad27",
+      "target": "Events show at the bottom of the project page. If they’re linked to a phase, they also appear in the phase description.",
+      "translated_from_hash": "8e5e1c33ad27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Homepage Widget:",
+      "source_hash": "5389432e2f20",
+      "target": "Homepage Widget:",
+      "translated_from_hash": "5389432e2f20",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Standard &amp; Premium plans can show up to three upcoming events via the Events Widget.",
+      "source_hash": "52abad16bb25",
+      "target": "Standard &amp; Premium plans can show up to three upcoming events via the Events Widget.",
+      "translated_from_hash": "52abad16bb25",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Enable via <b>Pages &amp; Menu → Edit (Home)</b> → update the “Events” section.",
+      "source_hash": "5585c1638150",
+      "target": "Enable via <b>Pages &amp; Menu → Edit (Home)</b> → update the “Events” section.",
+      "translated_from_hash": "5585c1638150",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "How to set up an event?",
+      "source_hash": "ac06fa2c83b5",
+      "target": "How to set up an event?",
+      "translated_from_hash": "ac06fa2c83b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Step 1: Go to the Project Settings</b>",
+      "source_hash": "1222cc70e15f",
+      "target": "<b>Step 1: Go to the Project Settings</b>",
+      "translated_from_hash": "1222cc70e15f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Open the project where you want the event.",
+      "source_hash": "e6ae98da0cdf",
+      "target": "Open the project where you want the event.",
+      "translated_from_hash": "e6ae98da0cdf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Navigate to <b>Project Settings → Events tab</b>.",
+      "source_hash": "883fb8fc9944",
+      "target": "Navigate to <b>Project Settings → Events tab</b>.",
+      "translated_from_hash": "883fb8fc9944",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Step 2: Create the Event Page</b>",
+      "source_hash": "40bbb4f0a36d",
+      "target": "<b>Step 2: Create the Event Page</b>",
+      "translated_from_hash": "40bbb4f0a36d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Fill in event title, description, image, and attachments",
+      "source_hash": "181608d49d6c",
+      "target": "Fill in event title, description, image, and attachments",
+      "translated_from_hash": "181608d49d6c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Set the event date and time (residents and project managers see times converted to their own browser timezone, with a timezone abbreviation appended)",
+      "source_hash": "a143bad5d8e0",
+      "target": "Set the event date and time (residents and project managers see times converted to their own browser timezone, with a timezone abbreviation appended)",
+      "translated_from_hash": "a143bad5d8e0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Add location details (including hybrid or fully online events)",
+      "source_hash": "4f59c1bce321",
+      "target": "Add location details (including hybrid or fully online events)",
+      "translated_from_hash": "4f59c1bce321",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Optional: enable registration limit and set maximum allowed registrations",
+      "source_hash": "a95eed5179f9",
+      "target": "Optional: enable registration limit and set maximum allowed registrations",
+      "translated_from_hash": "a95eed5179f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Step 3: Plan a One-Day Phase (Optional)</b>",
+      "source_hash": "2524e789cbf7",
+      "target": "<b>Step 3: Plan a One-Day Phase (Optional)</b>",
+      "translated_from_hash": "2524e789cbf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "If the event is a single day, you can create a one‑day‑long phase for scheduling flexibility.",
+      "source_hash": "1cdf48e082ec",
+      "target": "If the event is a single day, you can create a one‑day‑long phase for scheduling flexibility.",
+      "translated_from_hash": "1cdf48e082ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "How to remove the registration button from an event?",
+      "source_hash": "53156da582db",
+      "target": "How to remove the registration button from an event?",
+      "translated_from_hash": "53156da582db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "You can turn off the register button for events. Here's how:",
+      "source_hash": "e9c79f2b0405",
+      "target": "You can turn off the register button for events. Here's how:",
+      "translated_from_hash": "e9c79f2b0405",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "1. Go to the project where the event is attached.",
+      "source_hash": "5c6e1c428f09",
+      "target": "1. Go to the project where the event is attached.",
+      "translated_from_hash": "5c6e1c428f09",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "2. Navigate to the <b>Events</b> tab and click <b>Edit.</b>",
+      "source_hash": "952d556b8ba1",
+      "target": "2. Navigate to the <b>Events</b> tab and click <b>Edit.</b>",
+      "translated_from_hash": "952d556b8ba1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "3. Find the <b>Register button</b> option.",
+      "source_hash": "0e501a8e4320",
+      "target": "3. Find the <b>Register button</b> option.",
+      "translated_from_hash": "0e501a8e4320",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "4. Switch it to <b>Link the button to an external URL</b>",
+      "source_hash": "869f03f26a5e",
+      "target": "4. Switch it to <b>Link the button to an external URL</b>",
+      "translated_from_hash": "869f03f26a5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "This action will change the attendance button's function, effectively turning off the registration for that event. Instead of allowing users to register, you can make it an information button by linking it to the event page and calling the button “More Information”. Remember, this method doesn't completely remove the button, but it does prevent users from registering through it.",
+      "source_hash": "bce7c6b12271",
+      "target": "This action will change the attendance button's function, effectively turning off the registration for that event. Instead of allowing users to register, you can make it an information button by linking it to the event page and calling the button “More Information”. Remember, this method doesn't completely remove the button, but it does prevent users from registering through it.",
+      "translated_from_hash": "bce7c6b12271",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "How to manage event registrations?",
+      "source_hash": "ddda1d39313e",
+      "target": "How to manage event registrations?",
+      "translated_from_hash": "ddda1d39313e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Residents can register up until the event ends (e.g., if the event runs until 19:00, registration is open until 19:00).",
+      "source_hash": "6479e39bca8b",
+      "target": "Residents can register up until the event ends (e.g., if the event runs until 19:00, registration is open until 19:00).",
+      "translated_from_hash": "6479e39bca8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Set up access rights for your event",
+      "source_hash": "8074c4367a20",
+      "target": "Set up access rights for your event",
+      "translated_from_hash": "8074c4367a20",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "The access rights for your event are linked to the phase of the project that is currently active. To read more about access rights read this <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">support article</a>.",
+      "source_hash": "23b01f08d760",
+      "target": "The access rights for your event are linked to the phase of the project that is currently active. To read more about access rights read this <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527570-understanding-access-rights\" target=\"_blank\">support article</a>.",
+      "translated_from_hash": "23b01f08d760",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "💡 <b>Tip:</b>",
+      "source_hash": "1596a22a38ce",
+      "target": "💡 <b>Tip:</b>",
+      "translated_from_hash": "1596a22a38ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "If access rights play an important role in your event, we recommend creating a <b>dedicated project</b> for it. Configure a single phase (for example, an <i>Information phase</i>) that runs from the current date until the event date.",
+      "source_hash": "719ffb562f88",
+      "target": "If access rights play an important role in your event, we recommend creating a <b>dedicated project</b> for it. Configure a single phase (for example, an <i>Information phase</i>) that runs from the current date until the event date.",
+      "translated_from_hash": "719ffb562f88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "This ensures that the access rights defined for this phase remain consistent throughout the entire registration process.",
+      "source_hash": "98b0b0245e73",
+      "target": "This ensures that the access rights defined for this phase remain consistent throughout the entire registration process.",
+      "translated_from_hash": "98b0b0245e73",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Set a registration limit",
+      "source_hash": "9c2721816cdd",
+      "target": "Set a registration limit",
+      "translated_from_hash": "9c2721816cdd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Turn on Registration limit toggle in event settings.",
+      "source_hash": "04e2d8618e5a",
+      "target": "Turn on Registration limit toggle in event settings.",
+      "translated_from_hash": "04e2d8618e5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Enter max registrations. Users will see how many spots are left.",
+      "source_hash": "c8e8b9c00a2a",
+      "target": "Enter max registrations. Users will see how many spots are left.",
+      "translated_from_hash": "c8e8b9c00a2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "How to manage event attendees and communication?",
+      "source_hash": "bb234209b811",
+      "target": "How to manage event attendees and communication?",
+      "translated_from_hash": "bb234209b811",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "You can export attendees via the Events tab. Attendees automatically get a confirmation email after signing up.",
+      "source_hash": "d4704468672f",
+      "target": "You can export attendees via the Events tab. Attendees automatically get a confirmation email after signing up.",
+      "translated_from_hash": "d4704468672f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "You can contact attendees by:",
+      "source_hash": "f1f4972b1426",
+      "target": "You can contact attendees by:",
+      "translated_from_hash": "f1f4972b1426",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Creating a smart group of attendees.",
+      "source_hash": "cd556ef51fb0",
+      "target": "Creating a smart group of attendees.",
+      "translated_from_hash": "cd556ef51fb0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Using the Messaging tab to send emails (before the event with prep materials or after the event for follow‑up engagement).",
+      "source_hash": "38649dcb326a",
+      "target": "Using the Messaging tab to send emails (before the event with prep materials or after the event for follow‑up engagement).",
+      "translated_from_hash": "38649dcb326a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Event ideas for local governments",
+      "source_hash": "3efb84c8402c",
+      "target": "Event ideas for local governments",
+      "translated_from_hash": "3efb84c8402c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Ways local governments are successfully using events:",
+      "source_hash": "fdc9fa559850",
+      "target": "Ways local governments are successfully using events:",
+      "translated_from_hash": "fdc9fa559850",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "<b>Kick-off events:</b> Launch a project and create buzz.",
+      "source_hash": "91494e6fdadb",
+      "target": "<b>Kick-off events:</b> Launch a project and create buzz.",
+      "translated_from_hash": "91494e6fdadb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "<b>Relationship &amp; trust-building events:</b> Drop-in meet-and-greets with council members. <i>(Example: Municipality of Houten engaged 345 attendees.)</i>",
+      "source_hash": "647eed68a736",
+      "target": "<b>Relationship &amp; trust-building events:</b> Drop-in meet-and-greets with council members. <i>(Example: Municipality of Houten engaged 345 attendees.)</i>",
+      "translated_from_hash": "647eed68a736",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "<b>Information-sharing events:</b> Topic‑specific meetings before major projects. <i>(Example: City of Vienna for local planning.)</i>",
+      "source_hash": "ad88688746ac",
+      "target": "<b>Information-sharing events:</b> Topic‑specific meetings before major projects. <i>(Example: City of Vienna for local planning.)</i>",
+      "translated_from_hash": "ad88688746ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "<b>Project-site events:</b> Gather feedback directly at project locations (e.g., playground design discussions).",
+      "source_hash": "dd53d8942fa4",
+      "target": "<b>Project-site events:</b> Gather feedback directly at project locations (e.g., playground design discussions).",
+      "translated_from_hash": "dd53d8942fa4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Reveal events:</b> Celebrate milestones or unveil final results. <i>(Example: City of Ostend’s Christmas lights project.)</i>",
+      "source_hash": "55d03a5d7184",
+      "target": "<b>Reveal events:</b> Celebrate milestones or unveil final results. <i>(Example: City of Ostend’s Christmas lights project.)</i>",
+      "translated_from_hash": "55d03a5d7184",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Pop-up events:</b> Surprise events to reach new audiences. <i>(Example: Copenhagen pop-up at a metro station.)</i>",
+      "source_hash": "8e023d47559d",
+      "target": "<b>Pop-up events:</b> Surprise events to reach new audiences. <i>(Example: Copenhagen pop-up at a metro station.)</i>",
+      "translated_from_hash": "8e023d47559d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "<b>Educational workshops:</b> Teach residents about city operations or policies. <i>(Examples: Chile on gender lens; Netherlands on wind turbines.)</i>",
+      "source_hash": "b040ee523656",
+      "target": "<b>Educational workshops:</b> Teach residents about city operations or policies. <i>(Examples: Chile on gender lens; Netherlands on wind turbines.)</i>",
+      "translated_from_hash": "b040ee523656",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "<b>Offline voting events:</b> Combine in-person and online voting (offline votes can be uploaded to the platform).",
+      "source_hash": "31e78d24962e",
+      "target": "<b>Offline voting events:</b> Combine in-person and online voting (offline votes can be uploaded to the platform).",
+      "translated_from_hash": "31e78d24962e",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

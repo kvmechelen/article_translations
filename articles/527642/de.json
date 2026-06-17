@@ -1,0 +1,709 @@
+{
+  "article_id": "527642",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Different roles and permissions on the platform",
+      "source_hash": "57d03bf5eb4c",
+      "target": "Different roles and permissions on the platform",
+      "translated_from_hash": "57d03bf5eb4c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Learn more about roles and permissions on the platform",
+      "source_hash": "8c52cd2c9e49",
+      "target": "Learn more about roles and permissions on the platform",
+      "translated_from_hash": "8c52cd2c9e49",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What are roles and permissions?",
+      "source_hash": "714d08d4bd8d",
+      "target": "What are roles and permissions?",
+      "translated_from_hash": "714d08d4bd8d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Roles define what users are allowed to do, from simply visiting the platform to managing complex multi-project structures. Assigning the right roles ensures responsibilities are distributed efficiently, data privacy is respected, and users only access what they need.",
+      "source_hash": "2b1a471446f6",
+      "target": "Roles define what users are allowed to do, from simply visiting the platform to managing complex multi-project structures. Assigning the right roles ensures responsibilities are distributed efficiently, data privacy is respected, and users only access what they need.",
+      "translated_from_hash": "2b1a471446f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "What are the different roles on the platform?",
+      "source_hash": "646e5da02481",
+      "target": "What are the different roles on the platform?",
+      "translated_from_hash": "646e5da02481",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "End-user roles:",
+      "source_hash": "7a188fa3e7d7",
+      "target": "End-user roles:",
+      "translated_from_hash": "7a188fa3e7d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Visitor</b>: Anyone who visits the platform without registering",
+      "source_hash": "6817a07a6187",
+      "target": "<b>Visitor</b>: Anyone who visits the platform without registering",
+      "translated_from_hash": "6817a07a6187",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>User</b>: Someone who has registered but hasn't interacted yet",
+      "source_hash": "627c8345ff18",
+      "target": "<b>User</b>: Someone who has registered but hasn't interacted yet",
+      "translated_from_hash": "627c8345ff18",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Participant</b>: A registered user who has taken action (posted input, commented, voted, etc.)",
+      "source_hash": "9838039ec1cf",
+      "target": "<b>Participant</b>: A registered user who has taken action (posted input, commented, voted, etc.)",
+      "translated_from_hash": "9838039ec1cf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Platform management roles:",
+      "source_hash": "131d89de6137",
+      "target": "Platform management roles:",
+      "translated_from_hash": "131d89de6137",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Project Manager</b>: Manages a (or more) specific project(s)",
+      "source_hash": "d69de4a96742",
+      "target": "<b>Project Manager</b>: Manages a (or more) specific project(s)",
+      "translated_from_hash": "d69de4a96742",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Folder Manager</b>: Manages a folder and its projects",
+      "source_hash": "760ee652d7a6",
+      "target": "<b>Folder Manager</b>: Manages a folder and its projects",
+      "translated_from_hash": "760ee652d7a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Platform Admin</b>: Has access to the entire admin panel and platform-level tools",
+      "source_hash": "b60eee998197",
+      "target": "<b>Platform Admin</b>: Has access to the entire admin panel and platform-level tools",
+      "translated_from_hash": "b60eee998197",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "What can platform admins do?",
+      "source_hash": "bd32e3895369",
+      "target": "What can platform admins do?",
+      "translated_from_hash": "bd32e3895369",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Admins are the highest-level users who manage the entire platform.",
+      "source_hash": "1a4361e862c7",
+      "target": "Admins are the highest-level users who manage the entire platform.",
+      "translated_from_hash": "1a4361e862c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Admin capabilities:</b>",
+      "source_hash": "a2f6a2bb923e",
+      "target": "<b>Admin capabilities:</b>",
+      "translated_from_hash": "a2f6a2bb923e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Create, approve, and publish projects.",
+      "source_hash": "d78722aaffa8",
+      "target": "Create, approve, and publish projects.",
+      "translated_from_hash": "d78722aaffa8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Assign project or folder managers.",
+      "source_hash": "dfe4d607940a",
+      "target": "Assign project or folder managers.",
+      "translated_from_hash": "dfe4d607940a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Access the Users tab, smart groups, and user data.",
+      "source_hash": "853685d817fb",
+      "target": "Access the Users tab, smart groups, and user data.",
+      "translated_from_hash": "853685d817fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Manage platform branding and homepage.",
+      "source_hash": "b4e5452b0d27",
+      "target": "Manage platform branding and homepage.",
+      "translated_from_hash": "b4e5452b0d27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Send messages using platform-wide email tools.",
+      "source_hash": "9ce949a67855",
+      "target": "Send messages using platform-wide email tools.",
+      "translated_from_hash": "9ce949a67855",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "View full dashboard and analytics tools.",
+      "source_hash": "6c59c572fafc",
+      "target": "View full dashboard and analytics tools.",
+      "translated_from_hash": "6c59c572fafc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Post content using a general admin profile.",
+      "source_hash": "4ac28ae5831c",
+      "target": "Post content using a general admin profile.",
+      "translated_from_hash": "4ac28ae5831c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Admins are the only users who can grant admin rights or assign others to manage folders or projects.",
+      "source_hash": "e412ca032a84",
+      "target": "Admins are the only users who can grant admin rights or assign others to manage folders or projects.",
+      "translated_from_hash": "e412ca032a84",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "What can project managers do?",
+      "source_hash": "9f3b5a0388a8",
+      "target": "What can project managers do?",
+      "translated_from_hash": "9f3b5a0388a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Project managers handle individual projects and participant engagement.",
+      "source_hash": "e3658df24524",
+      "target": "Project managers handle individual projects and participant engagement.",
+      "translated_from_hash": "e3658df24524",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Project manager capabilities:</b>",
+      "source_hash": "106d382389fb",
+      "target": "<b>Project manager capabilities:</b>",
+      "translated_from_hash": "106d382389fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Edit project title, description, and access rights",
+      "source_hash": "6c919c64af35",
+      "target": "Edit project title, description, and access rights",
+      "translated_from_hash": "6c919c64af35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "View participation metrics and demographic breakdowns",
+      "source_hash": "b8eff8f16ae6",
+      "target": "View participation metrics and demographic breakdowns",
+      "translated_from_hash": "b8eff8f16ae6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Respond to input and send emails to project participants",
+      "source_hash": "aa30bf2052a9",
+      "target": "Respond to input and send emails to project participants",
+      "translated_from_hash": "aa30bf2052a9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Add events and export attendee lists",
+      "source_hash": "88b3f810a31f",
+      "target": "Add events and export attendee lists",
+      "translated_from_hash": "88b3f810a31f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Track participation and traffic sources",
+      "source_hash": "a324b872b986",
+      "target": "Track participation and traffic sources",
+      "translated_from_hash": "a324b872b986",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Access user data for their project (excluding votes with personal identifiers)",
+      "source_hash": "6881f42a111c",
+      "target": "Access user data for their project (excluding votes with personal identifiers)",
+      "translated_from_hash": "6881f42a111c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Send project-specific emails using either their name or a generic platform name",
+      "source_hash": "d97c26e10d05",
+      "target": "Send project-specific emails using either their name or a generic platform name",
+      "translated_from_hash": "d97c26e10d05",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Use testing features (e.g., multiple survey submissions or participation during closed phases)",
+      "source_hash": "4172b96603c2",
+      "target": "Use testing features (e.g., multiple survey submissions or participation during closed phases)",
+      "translated_from_hash": "4172b96603c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Limitations:</b>",
+      "source_hash": "af1b0e97da34",
+      "target": "<b>Limitations:</b>",
+      "translated_from_hash": "af1b0e97da34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Cannot create new registration questions or invite other project managers",
+      "source_hash": "be11e435d7a0",
+      "target": "Cannot create new registration questions or invite other project managers",
+      "translated_from_hash": "be11e435d7a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Cannot email users outside their assigned projects",
+      "source_hash": "8010d50a025a",
+      "target": "Cannot email users outside their assigned projects",
+      "translated_from_hash": "8010d50a025a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "What can folder managers do?",
+      "source_hash": "83e2a76886bb",
+      "target": "What can folder managers do?",
+      "translated_from_hash": "83e2a76886bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Folder managers oversee a group of projects and assist in organization-wide coordination.",
+      "source_hash": "01b8ddd590ea",
+      "target": "Folder managers oversee a group of projects and assist in organization-wide coordination.",
+      "translated_from_hash": "01b8ddd590ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Folder manager capabilities:</b>",
+      "source_hash": "e98a8f5798f5",
+      "target": "<b>Folder manager capabilities:</b>",
+      "translated_from_hash": "e98a8f5798f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Modify folder description and settings",
+      "source_hash": "d87632121b97",
+      "target": "Modify folder description and settings",
+      "translated_from_hash": "d87632121b97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Create projects within their folder",
+      "source_hash": "d4a985ee66e0",
+      "target": "Create projects within their folder",
+      "translated_from_hash": "d4a985ee66e0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Automatically become project manager for projects they create",
+      "source_hash": "853320000687",
+      "target": "Automatically become project manager for projects they create",
+      "translated_from_hash": "853320000687",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Publish and approve projects in their folder",
+      "source_hash": "77c7118648d5",
+      "target": "Publish and approve projects in their folder",
+      "translated_from_hash": "77c7118648d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Set unused projects to draft (instead of deleting)",
+      "source_hash": "79d9cb6a4b11",
+      "target": "Set unused projects to draft (instead of deleting)",
+      "translated_from_hash": "79d9cb6a4b11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>Limitations:</b>",
+      "source_hash": "af1b0e97da34",
+      "target": "<b>Limitations:</b>",
+      "translated_from_hash": "af1b0e97da34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Cannot delete projects",
+      "source_hash": "42e43a04d49f",
+      "target": "Cannot delete projects",
+      "translated_from_hash": "42e43a04d49f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Cannot create platform-wide changes",
+      "source_hash": "58fad3f3960f",
+      "target": "Cannot create platform-wide changes",
+      "translated_from_hash": "58fad3f3960f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "How to assign/remove a role?",
+      "source_hash": "33fd8eabba8a",
+      "target": "How to assign/remove a role?",
+      "translated_from_hash": "33fd8eabba8a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "How to assign a project manager:",
+      "source_hash": "85649ca4dea6",
+      "target": "How to assign a project manager:",
+      "translated_from_hash": "85649ca4dea6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "1. Through the user list if you are an admin:",
+      "source_hash": "b8e4e8f0e77b",
+      "target": "1. Through the user list if you are an admin:",
+      "translated_from_hash": "b8e4e8f0e77b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Go to the <b>Users</b> tab",
+      "source_hash": "de7bca150d14",
+      "target": "Go to the <b>Users</b> tab",
+      "translated_from_hash": "de7bca150d14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "select the 3 dots on the far right side of the person's name",
+      "source_hash": "4b768b6da5eb",
+      "target": "select the 3 dots on the far right side of the person's name",
+      "translated_from_hash": "4b768b6da5eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "select <b>Set as Project Manager</b>",
+      "source_hash": "deb2d2d96795",
+      "target": "select <b>Set as Project Manager</b>",
+      "translated_from_hash": "deb2d2d96795",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "a window will appear to select the project to assign to this new Project Manager",
+      "source_hash": "03f690bb8329",
+      "target": "a window will appear to select the project to assign to this new Project Manager",
+      "translated_from_hash": "03f690bb8329",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "2. through the project management rights",
+      "source_hash": "324b0a426230",
+      "target": "2. through the project management rights",
+      "translated_from_hash": "324b0a426230",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "Navigate to the project.",
+      "source_hash": "ce842b33b934",
+      "target": "Navigate to the project.",
+      "translated_from_hash": "ce842b33b934",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "Go to <b>General </b>tab<b> &gt; Access Rights</b>.",
+      "source_hash": "53c9f82968bb",
+      "target": "Go to <b>General </b>tab<b> &gt; Access Rights</b>.",
+      "translated_from_hash": "53c9f82968bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Under <b>Project Management</b>, add the user's name.",
+      "source_hash": "0efb2a322705",
+      "target": "Under <b>Project Management</b>, add the user's name.",
+      "translated_from_hash": "0efb2a322705",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "How to assign a folder manager:",
+      "source_hash": "1695ce760e64",
+      "target": "How to assign a folder manager:",
+      "translated_from_hash": "1695ce760e64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Navigate to the folder.",
+      "source_hash": "d71b491e5025",
+      "target": "Navigate to the folder.",
+      "translated_from_hash": "d71b491e5025",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Open the <b>Permissions tab</b>.",
+      "source_hash": "8f1f6dec47fe",
+      "target": "Open the <b>Permissions tab</b>.",
+      "translated_from_hash": "8f1f6dec47fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Add the user under <b>Folder Management</b>.",
+      "source_hash": "9bbfc48f3894",
+      "target": "Add the user under <b>Folder Management</b>.",
+      "translated_from_hash": "9bbfc48f3894",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "How to assign a platform admin:",
+      "source_hash": "5160af510139",
+      "target": "How to assign a platform admin:",
+      "translated_from_hash": "5160af510139",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "Choose a shared email address (e.g. <a class=\"intercom-content-link\" href=\"mailto:participation@cityname.com\" target=\"_blank\"><code>participation@cityname.com</code></a>).",
+      "source_hash": "245fd2ed1799",
+      "target": "Choose a shared email address (e.g. <a class=\"intercom-content-link\" href=\"mailto:participation@cityname.com\" target=\"_blank\"><code>participation@cityname.com</code></a>).",
+      "translated_from_hash": "245fd2ed1799",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "Register it as a user.",
+      "source_hash": "95e9a90a813d",
+      "target": "Register it as a user.",
+      "translated_from_hash": "95e9a90a813d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Enter a clear and recognizable name like <code>Moderator [City]</code> or <code>City of Springfield</code>.",
+      "source_hash": "7000f8150b50",
+      "target": "Enter a clear and recognizable name like <code>Moderator [City]</code> or <code>City of Springfield</code>.",
+      "translated_from_hash": "7000f8150b50",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Set a profile picture if desired.",
+      "source_hash": "3c057b8466b4",
+      "target": "Set a profile picture if desired.",
+      "translated_from_hash": "3c057b8466b4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Log in through another Admin account",
+      "source_hash": "0773ecaedb8f",
+      "target": "Log in through another Admin account",
+      "translated_from_hash": "0773ecaedb8f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "Go to the <b>Users</b> tab",
+      "source_hash": "de7bca150d14",
+      "target": "Go to the <b>Users</b> tab",
+      "translated_from_hash": "de7bca150d14",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "select the 3 dots on the far right side of the users's name",
+      "source_hash": "57007763ff62",
+      "target": "select the 3 dots on the far right side of the users's name",
+      "translated_from_hash": "57007763ff62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "select <b>Set as Admin</b>",
+      "source_hash": "b6b9db3c7e70",
+      "target": "select <b>Set as Admin</b>",
+      "translated_from_hash": "b6b9db3c7e70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Remove rights from a user",
+      "source_hash": "d2466df50754",
+      "target": "Remove rights from a user",
+      "translated_from_hash": "d2466df50754",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Navigate to the users tab",
+      "source_hash": "f11e3fd4b156",
+      "target": "Navigate to the users tab",
+      "translated_from_hash": "f11e3fd4b156",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "Find the user",
+      "source_hash": "01eb70ef7230",
+      "target": "Find the user",
+      "translated_from_hash": "01eb70ef7230",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "Click on the 3 dots at the right side",
+      "source_hash": "51b7806ab74a",
+      "target": "Click on the 3 dots at the right side",
+      "translated_from_hash": "51b7806ab74a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "Select ‘Set as normal user’",
+      "source_hash": "a7fed9bca29a",
+      "target": "Select ‘Set as normal user’",
+      "translated_from_hash": "a7fed9bca29a",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

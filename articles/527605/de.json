@@ -1,0 +1,313 @@
+{
+  "article_id": "527605",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Platform Launch Checklist",
+      "source_hash": "ac033f688f01",
+      "target": "Platform Launch Checklist",
+      "translated_from_hash": "ac033f688f01",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Must-do's before you launch your platform",
+      "source_hash": "dd210bb110ec",
+      "target": "Must-do's before you launch your platform",
+      "translated_from_hash": "dd210bb110ec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Why a platform launch checklist?",
+      "source_hash": "f89808f577bb",
+      "target": "Why a platform launch checklist?",
+      "translated_from_hash": "f89808f577bb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Before your platform goes live, there are several essential steps to take to ensure a smooth and professional launch. Some of these tasks are highly recommended and others optional, but completing the checklist will help you deliver the best platform experience from day one.",
+      "source_hash": "01a3c246faa7",
+      "target": "Before your platform goes live, there are several essential steps to take to ensure a smooth and professional launch. Some of these tasks are highly recommended and others optional, but completing the checklist will help you deliver the best platform experience from day one.",
+      "translated_from_hash": "01a3c246faa7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Many of these settings are long-term decisions that will rarely change, so think about potential future use cases when configuring them.",
+      "source_hash": "0dbde7484fc8",
+      "target": "Many of these settings are long-term decisions that will rarely change, so think about potential future use cases when configuring them.",
+      "translated_from_hash": "0dbde7484fc8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "If any steps require assistance, you can contact the support team via the chat bubble at the bottom right of your platform (make sure you’re logged in).",
+      "source_hash": "f8420173a594",
+      "target": "If any steps require assistance, you can contact the support team via the chat bubble at the bottom right of your platform (make sure you’re logged in).",
+      "translated_from_hash": "f8420173a594",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Platform launch checklist",
+      "source_hash": "cdf2542e201e",
+      "target": "Platform launch checklist",
+      "translated_from_hash": "cdf2542e201e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Customizing Your Platform URL",
+      "source_hash": "d2ea81c42728",
+      "target": "Customizing Your Platform URL",
+      "translated_from_hash": "d2ea81c42728",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Your platform needs a unique URL before launch. Decide on a clear and memorable address that reflects your organization or community. This URL will be how participants find and remember your platform.",
+      "source_hash": "11361d566ef1",
+      "target": "Your platform needs a unique URL before launch. Decide on a clear and memorable address that reflects your organization or community. This URL will be how participants find and remember your platform.",
+      "translated_from_hash": "11361d566ef1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527651-setting-up-your-platform-url-and-email\" target=\"_blank\">Setting up your platform URL and Email</a>",
+      "source_hash": "162dc16aea98",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527651-setting-up-your-platform-url-and-email\" target=\"_blank\">Setting up your platform URL and Email</a>",
+      "translated_from_hash": "162dc16aea98",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Adding Your “Reply-To” Email Address",
+      "source_hash": "4550d38bb654",
+      "target": "Adding Your “Reply-To” Email Address",
+      "translated_from_hash": "4550d38bb654",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Automated emails sent from your platform don’t process replies. Add a “reply-to” email address so that any replies are routed to the right inbox (e.g., your support or info mailbox).",
+      "source_hash": "9b94461f3011",
+      "target": "Automated emails sent from your platform don’t process replies. Add a “reply-to” email address so that any replies are routed to the right inbox (e.g., your support or info mailbox).",
+      "translated_from_hash": "9b94461f3011",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527651-setting-up-your-platform-url-and-email\" target=\"_blank\">Setting up your platform URL and Email</a>",
+      "source_hash": "162dc16aea98",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527651-setting-up-your-platform-url-and-email\" target=\"_blank\">Setting up your platform URL and Email</a>",
+      "translated_from_hash": "162dc16aea98",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Adding Places of Residence",
+      "source_hash": "3abbf44e56c9",
+      "target": "Adding Places of Residence",
+      "translated_from_hash": "3abbf44e56c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Set up your <b>geographic areas</b> (e.g., neighborhoods, districts, or zones) that are relevant for your organization. These areas will become key for smart groups, segmentation, and project targeting.",
+      "source_hash": "6fd1ba7b32ce",
+      "target": "Set up your <b>geographic areas</b> (e.g., neighborhoods, districts, or zones) that are relevant for your organization. These areas will become key for smart groups, segmentation, and project targeting.",
+      "translated_from_hash": "6fd1ba7b32ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "source_hash": "4f5bc586b35a",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "translated_from_hash": "4f5bc586b35a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Finalizing the User Registration Flow",
+      "source_hash": "5bdc75b92e00",
+      "target": "Finalizing the User Registration Flow",
+      "translated_from_hash": "5bdc75b92e00",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Define what information you want to collect during registration (e.g., age, residence, occupation). Locking in the registration flow ensures all projects collect consistent data from the start — making reporting and analysis much easier later.",
+      "source_hash": "3d967c11a1c3",
+      "target": "Define what information you want to collect during registration (e.g., age, residence, occupation). Locking in the registration flow ensures all projects collect consistent data from the start — making reporting and analysis much easier later.",
+      "translated_from_hash": "3d967c11a1c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "source_hash": "4f5bc586b35a",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Setting up the registration process and registration questions</a>",
+      "translated_from_hash": "4f5bc586b35a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Customizing Content Pages and Policies",
+      "source_hash": "ae4c5004c12f",
+      "target": "Customizing Content Pages and Policies",
+      "translated_from_hash": "ae4c5004c12f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Update your platform’s Privacy Policy, “About” page, and any other static pages. Include key details like contact information, support links, and any required legal disclaimers.",
+      "source_hash": "762ddf7defa3",
+      "target": "Update your platform’s Privacy Policy, “About” page, and any other static pages. Include key details like contact information, support links, and any required legal disclaimers.",
+      "translated_from_hash": "762ddf7defa3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527614-customizing-the-policies-on-your-platform\" target=\"_blank\">Customizing the policies on your platform</a> and <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527601-navigation-bar-and-custom-pages\" target=\"_blank\">Navigation Bar and Custom Pages</a>",
+      "source_hash": "a85e96fa43e4",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527614-customizing-the-policies-on-your-platform\" target=\"_blank\">Customizing the policies on your platform</a> and <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527601-navigation-bar-and-custom-pages\" target=\"_blank\">Navigation Bar and Custom Pages</a>",
+      "translated_from_hash": "a85e96fa43e4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Adding a Custom Favicon",
+      "source_hash": "6cb6304cb5df",
+      "target": "Adding a Custom Favicon",
+      "translated_from_hash": "6cb6304cb5df",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Upload a favicon (the small icon shown in browser tabs) to reinforce your platform’s identity. Go to <code>yourplatformurl.co/admin/favicon</code> to set this up.",
+      "source_hash": "3f3f6d32d853",
+      "target": "Upload a favicon (the small icon shown in browser tabs) to reinforce your platform’s identity. Go to <code>yourplatformurl.co/admin/favicon</code> to set this up.",
+      "translated_from_hash": "3f3f6d32d853",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Linking Your Platform to Your Website",
+      "source_hash": "3734d7854b97",
+      "target": "Linking Your Platform to Your Website",
+      "translated_from_hash": "3734d7854b97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Add your platform’s URL to your organization’s website so users can easily find it. You can do this by adding the URL in the General tab of your platform’s Settings.",
+      "source_hash": "289b5ce5520d",
+      "target": "Add your platform’s URL to your organization’s website so users can easily find it. You can do this by adding the URL in the General tab of your platform’s Settings.",
+      "translated_from_hash": "289b5ce5520d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Adapting Your Platform’s Look and Feel",
+      "source_hash": "b2ba3a352db4",
+      "target": "Adapting Your Platform’s Look and Feel",
+      "translated_from_hash": "b2ba3a352db4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Match your platform’s design to your organization’s visual identity. Customize colors, fonts, and branding so the platform feels like an extension of your existing communication channels.",
+      "source_hash": "d0d9a15a49c7",
+      "target": "Match your platform’s design to your organization’s visual identity. Customize colors, fonts, and branding so the platform feels like an extension of your existing communication channels.",
+      "translated_from_hash": "d0d9a15a49c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527637-branding-your-platform\" target=\"_blank\">Branding your platform</a>",
+      "source_hash": "4170d72d25b0",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527637-branding-your-platform\" target=\"_blank\">Branding your platform</a>",
+      "translated_from_hash": "4170d72d25b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Deciding on Notifications and Automated Emails",
+      "source_hash": "915fe450f345",
+      "target": "Deciding on Notifications and Automated Emails",
+      "translated_from_hash": "915fe450f345",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Review which automatic email notifications will be active when the platform launches. Choose which updates users should receive (and which they shouldn’t) to keep communication relevant.",
+      "source_hash": "1940fd7340ea",
+      "target": "Review which automatic email notifications will be active when the platform launches. Choose which updates users should receive (and which they shouldn’t) to keep communication relevant.",
+      "translated_from_hash": "1940fd7340ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">Automatic emails or Notifications on the platform</a>",
+      "source_hash": "e09e152d663a",
+      "target": "ℹ️ For more information visit our support article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527592-automatic-emails-or-notifications-on-the-platform\" target=\"_blank\">Automatic emails or Notifications on the platform</a>",
+      "translated_from_hash": "e09e152d663a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Updating your platform and project tags",
+      "source_hash": "1913cbf5c8bd",
+      "target": "Updating your platform and project tags",
+      "translated_from_hash": "1913cbf5c8bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Platform and project tags can be found in the general <b>Settings</b> &gt; <b>Tags </b>tab of the platform. Platform tags are used to categorize projects, for example on the homepage. You can add the tags to specific projects in the project settings. Review the list of default tag list, delete, edit, or add tags that are relevant to your projects. <br/><br/>Input tags are used to categorize inputs within projects, typically chosen by the author. The inputs tags available to authors can be configured per project. It's good practice to have a default list though that you can configure here.",
+      "source_hash": "e4bb5096860a",
+      "target": "Platform and project tags can be found in the general <b>Settings</b> &gt; <b>Tags </b>tab of the platform. Platform tags are used to categorize projects, for example on the homepage. You can add the tags to specific projects in the project settings. Review the list of default tag list, delete, edit, or add tags that are relevant to your projects. <br/><br/>Input tags are used to categorize inputs within projects, typically chosen by the author. The inputs tags available to authors can be configured per project. It's good practice to have a default list though that you can configure here.",
+      "translated_from_hash": "e4bb5096860a",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

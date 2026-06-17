@@ -1,0 +1,673 @@
+{
+  "article_id": "527641",
+  "language": "da",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Providing feedback and managing inputs",
+      "source_hash": "12559f2300a3",
+      "target": "Providing feedback and managing inputs",
+      "translated_from_hash": "12559f2300a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Providing feedback and managing inputs",
+      "source_hash": "12559f2300a3",
+      "target": "Providing feedback and managing inputs",
+      "translated_from_hash": "12559f2300a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Providing feedback",
+      "source_hash": "7713eae8b2be",
+      "target": "Providing feedback",
+      "translated_from_hash": "7713eae8b2be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Managing project input is essential to maintain quality and trust. Project managers and admins handle updates manually, while the platform also provides automated notifications.",
+      "source_hash": "9cfbabcba514",
+      "target": "Managing project input is essential to maintain quality and trust. Project managers and admins handle updates manually, while the platform also provides automated notifications.",
+      "translated_from_hash": "9cfbabcba514",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Effective project management includes:",
+      "source_hash": "8e825b82a23a",
+      "target": "Effective project management includes:",
+      "translated_from_hash": "8e825b82a23a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Assigning the right project managers to distribute responsibilities",
+      "source_hash": "74a0b6a9e686",
+      "target": "Assigning the right project managers to distribute responsibilities",
+      "translated_from_hash": "74a0b6a9e686",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Keeping participants informed by updating content with text, PDFs, images, or videos",
+      "source_hash": "4b37ed0e665f",
+      "target": "Keeping participants informed by updating content with text, PDFs, images, or videos",
+      "translated_from_hash": "4b37ed0e665f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Actively taking part in discussions with comments, statuses, and tags",
+      "source_hash": "edfad954df16",
+      "target": "Actively taking part in discussions with comments, statuses, and tags",
+      "translated_from_hash": "edfad954df16",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Moderating inappropriate content such as spam or profanity",
+      "source_hash": "03cf24560446",
+      "target": "Moderating inappropriate content such as spam or profanity",
+      "translated_from_hash": "03cf24560446",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Assigning ideas internally to colleagues for collaboration",
+      "source_hash": "f58fc7843c4d",
+      "target": "Assigning ideas internally to colleagues for collaboration",
+      "translated_from_hash": "f58fc7843c4d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "💡 Create a shared admin or project manager profile (e.g., <a class=\"intercom-content-link\" href=\"mailto:communication@\" target=\"_blank\">communication@</a>...) to simplify collaboration among colleagues",
+      "source_hash": "cb9e523e13af",
+      "target": "💡 Create a shared admin or project manager profile (e.g., <a class=\"intercom-content-link\" href=\"mailto:communication@\" target=\"_blank\">communication@</a>...) to simplify collaboration among colleagues",
+      "translated_from_hash": "cb9e523e13af",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Managing the status of the input",
+      "source_hash": "b93fe18206d0",
+      "target": "Managing the status of the input",
+      "translated_from_hash": "b93fe18206d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "As an <b>admin</b> or <b>project manager</b>, you can easily update the <b>status</b> of an idea. When you change a status, the <b>author</b> and anyone who has <b>commented on or voted for</b> that idea will automatically receive a notification.",
+      "source_hash": "16da4a9cc80b",
+      "target": "As an <b>admin</b> or <b>project manager</b>, you can easily update the <b>status</b> of an idea. When you change a status, the <b>author</b> and anyone who has <b>commented on or voted for</b> that idea will automatically receive a notification.",
+      "translated_from_hash": "16da4a9cc80b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "The platform includes a set of <b>default statuses</b>, but you can also create your own. Just contact us at <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> with the list of statuses you’d like to use and their preferred colours, and we’ll set them up for you.",
+      "source_hash": "5872df157d91",
+      "target": "The platform includes a set of <b>default statuses</b>, but you can also create your own. Just contact us at <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a> with the list of statuses you’d like to use and their preferred colours, and we’ll set them up for you.",
+      "translated_from_hash": "5872df157d91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Examples of custom statuses:</b><br/>​<i>Under consideration, Seen by project manager, To be completed, Not an idea, Needs more explanation,</i> or even placeholders like <i>Status 1, Status 2,</i> etc. Feel free to be creative, statuses are a great communication tool, as they’re <b>visible on the platform</b> and help keep participants informed about progress.",
+      "source_hash": "6150aa8ddd55",
+      "target": "<b>Examples of custom statuses:</b><br/>​<i>Under consideration, Seen by project manager, To be completed, Not an idea, Needs more explanation,</i> or even placeholders like <i>Status 1, Status 2,</i> etc. Feel free to be creative, statuses are a great communication tool, as they’re <b>visible on the platform</b> and help keep participants informed about progress.",
+      "translated_from_hash": "6150aa8ddd55",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "ℹ️ Ideas are always immediately visible in the timeline phase where they were submitted, you can move them between phases and projects, read more about this in our <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527588-tag-copy-and-move-ideas-and-posts\" target=\"_blank\">support article.</a>",
+      "source_hash": "e08d995a8db3",
+      "target": "ℹ️ Ideas are always immediately visible in the timeline phase where they were submitted, you can move them between phases and projects, read more about this in our <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527588-tag-copy-and-move-ideas-and-posts\" target=\"_blank\">support article.</a>",
+      "translated_from_hash": "e08d995a8db3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Bulk uploading feedback",
+      "source_hash": "242cb1977535",
+      "target": "Bulk uploading feedback",
+      "translated_from_hash": "242cb1977535",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Bulk official feedback allows admins to add official updates and change the status of many ideas at once by using a structured Excel sheet.",
+      "source_hash": "4886bca5267c",
+      "target": "Bulk official feedback allows admins to add official updates and change the status of many ideas at once by using a structured Excel sheet.",
+      "translated_from_hash": "4886bca5267c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "This process is useful when:",
+      "source_hash": "b452da9af418",
+      "target": "This process is useful when:",
+      "translated_from_hash": "b452da9af418",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "You need to give the community updates on a large number of ideas at once.",
+      "source_hash": "6c2ea2859e3c",
+      "target": "You need to give the community updates on a large number of ideas at once.",
+      "translated_from_hash": "6c2ea2859e3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "You want to change multiple ideas’ statuses in a single action.",
+      "source_hash": "ace51d8ebdda",
+      "target": "You want to change multiple ideas’ statuses in a single action.",
+      "translated_from_hash": "ace51d8ebdda",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Instead of updating each idea manually, you send a filled‑out template Excel file to support, and the team imports the updates for you.",
+      "source_hash": "59865b272c95",
+      "target": "Instead of updating each idea manually, you send a filled‑out template Excel file to support, and the team imports the updates for you.",
+      "translated_from_hash": "59865b272c95",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "How to bulk update ideas with official feedback is described below.",
+      "source_hash": "eb3f760ef83f",
+      "target": "How to bulk update ideas with official feedback is described below.",
+      "translated_from_hash": "eb3f760ef83f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "How to track and provide official feedback on inputs?",
+      "source_hash": "c3f687aac3fb",
+      "target": "How to track and provide official feedback on inputs?",
+      "translated_from_hash": "c3f687aac3fb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "1. Find inputs that need your attention",
+      "source_hash": "e9926cede9d4",
+      "target": "1. Find inputs that need your attention",
+      "translated_from_hash": "e9926cede9d4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Go to the <b>Input Manager</b>",
+      "source_hash": "2dddf52e3e0e",
+      "target": "Go to the <b>Input Manager</b>",
+      "translated_from_hash": "2dddf52e3e0e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Use the dropdown filter to:",
+      "source_hash": "8ae79f150e73",
+      "target": "Use the dropdown filter to:",
+      "translated_from_hash": "8ae79f150e73",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "View ideas assigned to you, or",
+      "source_hash": "b15637ace735",
+      "target": "View ideas assigned to you, or",
+      "translated_from_hash": "b15637ace735",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Filter by another colleague to check their assignments.",
+      "source_hash": "82c6be66c554",
+      "target": "Filter by another colleague to check their assignments.",
+      "translated_from_hash": "82c6be66c554",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Toggle <code>Only show posts that need feedback</code>",
+      "source_hash": "a3921bafc741",
+      "target": "Toggle <code>Only show posts that need feedback</code>",
+      "translated_from_hash": "a3921bafc741",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "A red badge indicates how many inputs (ideas or proposals) still need feedback.",
+      "source_hash": "9dee244d9af5",
+      "target": "A red badge indicates how many inputs (ideas or proposals) still need feedback.",
+      "translated_from_hash": "9dee244d9af5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "2. Respond to inputs",
+      "source_hash": "8177dcfcd940",
+      "target": "2. Respond to inputs",
+      "translated_from_hash": "8177dcfcd940",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "You can give official feedback by changing the status of the input or by adding it manually.",
+      "source_hash": "616c784858b5",
+      "target": "You can give official feedback by changing the status of the input or by adding it manually.",
+      "translated_from_hash": "616c784858b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Give official feedback by changing the status</b>",
+      "source_hash": "5f17173bdaaf",
+      "target": "<b>Give official feedback by changing the status</b>",
+      "translated_from_hash": "5f17173bdaaf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Change the item’s status (e.g. <i>Proposed → Under Review</i>)",
+      "source_hash": "a4555730576d",
+      "target": "Change the item’s status (e.g. <i>Proposed → Under Review</i>)",
+      "translated_from_hash": "a4555730576d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Leave an official comment explaining the status change or giving feedback",
+      "source_hash": "b677ad8919a3",
+      "target": "Leave an official comment explaining the status change or giving feedback",
+      "translated_from_hash": "b677ad8919a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "This keeps participants informed and shows visible progress on the platform",
+      "source_hash": "ec37e4b475fc",
+      "target": "This keeps participants informed and shows visible progress on the platform",
+      "translated_from_hash": "ec37e4b475fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Give official feedback manually</b>",
+      "source_hash": "9cc0f41b6d95",
+      "target": "<b>Give official feedback manually</b>",
+      "translated_from_hash": "9cc0f41b6d95",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "open the input you wish to give feedback",
+      "source_hash": "0e98a4442a1c",
+      "target": "open the input you wish to give feedback",
+      "translated_from_hash": "0e98a4442a1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "there will be a red box that allows you to give official feedback - when submitted it will appear also in red for the user",
+      "source_hash": "a1763c1507a3",
+      "target": "there will be a red box that allows you to give official feedback - when submitted it will appear also in red for the user",
+      "translated_from_hash": "a1763c1507a3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "3. Stay on top of assigned work",
+      "source_hash": "b915d905c431",
+      "target": "3. Stay on top of assigned work",
+      "translated_from_hash": "b915d905c431",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "All admins and project managers receive a weekly email reminder listing:",
+      "source_hash": "3b37b729ed7e",
+      "target": "All admins and project managers receive a weekly email reminder listing:",
+      "translated_from_hash": "3b37b729ed7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Items assigned to them.",
+      "source_hash": "f234ae2b4658",
+      "target": "Items assigned to them.",
+      "translated_from_hash": "f234ae2b4658",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Items still awaiting feedback.",
+      "source_hash": "750213cf9c24",
+      "target": "Items still awaiting feedback.",
+      "translated_from_hash": "750213cf9c24",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Note: Items remain on your list until official feedback is provided (changing status or commenting).",
+      "source_hash": "4691dae37e28",
+      "target": "Note: Items remain on your list until official feedback is provided (changing status or commenting).",
+      "translated_from_hash": "4691dae37e28",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Responsibilities in managing inputs",
+      "source_hash": "ad61de3ae0f4",
+      "target": "Responsibilities in managing inputs",
+      "translated_from_hash": "ad61de3ae0f4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "<b>Assign project managers:</b> distribute management responsibilities. <i>(Visible to participants)</i>",
+      "source_hash": "abab4a09dd8e",
+      "target": "<b>Assign project managers:</b> distribute management responsibilities. <i>(Visible to participants)</i>",
+      "translated_from_hash": "abab4a09dd8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Keep participants up-to-date:</b> update content, add PDFs, images, or videos. <i>(Visible to participants)</i>",
+      "source_hash": "7fc2b8252686",
+      "target": "<b>Keep participants up-to-date:</b> update content, add PDFs, images, or videos. <i>(Visible to participants)</i>",
+      "translated_from_hash": "7fc2b8252686",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "<b>Take part in discussions:</b> use comments, feedback, statuses, and tags. <i>(Visible to participants)</i>",
+      "source_hash": "ae3fe8949019",
+      "target": "<b>Take part in discussions:</b> use comments, feedback, statuses, and tags. <i>(Visible to participants)</i>",
+      "translated_from_hash": "ae3fe8949019",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<b>Moderate inappropriate content:</b> handle spam, delete posts, or remove profanity. <i>(Not visible to participants)</i>",
+      "source_hash": "9ff96a619010",
+      "target": "<b>Moderate inappropriate content:</b> handle spam, delete posts, or remove profanity. <i>(Not visible to participants)</i>",
+      "translated_from_hash": "9ff96a619010",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Assign ideas internally:</b> collaborate by assigning inputs to colleagues. <i>(Not visible to participants)</i>",
+      "source_hash": "2682f150ff5f",
+      "target": "<b>Assign ideas internally:</b> collaborate by assigning inputs to colleagues. <i>(Not visible to participants)</i>",
+      "translated_from_hash": "2682f150ff5f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "How to bulk update ideas with official feedback?",
+      "source_hash": "f2db6d0d074b",
+      "target": "How to bulk update ideas with official feedback?",
+      "translated_from_hash": "f2db6d0d074b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "<b>Step 1: Export the ideas</b>",
+      "source_hash": "8c3e485efb71",
+      "target": "<b>Step 1: Export the ideas</b>",
+      "translated_from_hash": "8c3e485efb71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Export all ideas you want to comment on or update.",
+      "source_hash": "981b5e9122c8",
+      "target": "Export all ideas you want to comment on or update.",
+      "translated_from_hash": "981b5e9122c8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "<b>Step 2: Prepare the template</b>",
+      "source_hash": "e84fc729476d",
+      "target": "<b>Step 2: Prepare the template</b>",
+      "translated_from_hash": "e84fc729476d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "Copy all <b>I</b>Ds (column A in your export) into column A (“ID”) of the provided Excel template.",
+      "source_hash": "63e64fdb954c",
+      "target": "Copy all <b>I</b>Ds (column A in your export) into column A (“ID”) of the provided Excel template.",
+      "translated_from_hash": "63e64fdb954c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "[Include link or reference to download the template Excel sheet.]",
+      "source_hash": "221af090ee16",
+      "target": "[Include link or reference to download the template Excel sheet.]",
+      "translated_from_hash": "221af090ee16",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Step 3: Fill out the columns</b>",
+      "source_hash": "14c4a65a2272",
+      "target": "<b>Step 3: Fill out the columns</b>",
+      "translated_from_hash": "14c4a65a2272",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "<b>Feedback Author Name (Column B)</b> – <i>Required</i>",
+      "source_hash": "1f34ac09315a",
+      "target": "<b>Feedback Author Name (Column B)</b> – <i>Required</i>",
+      "translated_from_hash": "1f34ac09315a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "Shown publicly on the platform (e.g. “Team Mobility – City of Nanaimo”).",
+      "source_hash": "91901efcaa3c",
+      "target": "Shown publicly on the platform (e.g. “Team Mobility – City of Nanaimo”).",
+      "translated_from_hash": "91901efcaa3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "Does <b>not</b> have to be a registered user.",
+      "source_hash": "04f554a52de7",
+      "target": "Does <b>not</b> have to be a registered user.",
+      "translated_from_hash": "04f554a52de7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "<b>Feedback Email (Column C)</b> – <i>Required</i>",
+      "source_hash": "13e334f0e89e",
+      "target": "<b>Feedback Email (Column C)</b> – <i>Required</i>",
+      "translated_from_hash": "13e334f0e89e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Not shown publicly. Must be the email of a registered admin on the platform.",
+      "source_hash": "d6130c3cc26b",
+      "target": "Not shown publicly. Must be the email of a registered admin on the platform.",
+      "translated_from_hash": "d6130c3cc26b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "<b>Your Feedback (Column D)</b> – <i>Required</i>",
+      "source_hash": "dd6d48bcb8ea",
+      "target": "<b>Your Feedback (Column D)</b> – <i>Required</i>",
+      "translated_from_hash": "dd6d48bcb8ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "The text of the official update. You can personalize with <code>####{{first_name}}</code> to auto‑insert the participant's first name.",
+      "source_hash": "25d2dce01daa",
+      "target": "The text of the official update. You can personalize with <code>####{{first_name}}</code> to auto‑insert the participant's first name.",
+      "translated_from_hash": "25d2dce01daa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "<b>New Status (Column E)</b> – <i>Optional</i>",
+      "source_hash": "3d4a39d29698",
+      "target": "<b>New Status (Column E)</b> – <i>Optional</i>",
+      "translated_from_hash": "3d4a39d29698",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "If you want to change the status, type the exact status name as it appears on your platform.",
+      "source_hash": "9be977366649",
+      "target": "If you want to change the status, type the exact status name as it appears on your platform.",
+      "translated_from_hash": "9be977366649",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "<b>First Name (Column F)</b> – <i>Optional</i>",
+      "source_hash": "129db664d5b7",
+      "target": "<b>First Name (Column F)</b> – <i>Optional</i>",
+      "translated_from_hash": "129db664d5b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Used when the participant deleted their account, so a placeholder name can appear instead of leaving it blank.",
+      "source_hash": "e3a8f0e81b62",
+      "target": "Used when the participant deleted their account, so a placeholder name can appear instead of leaving it blank.",
+      "translated_from_hash": "e3a8f0e81b62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "<b>Step 4: Send to support</b>",
+      "source_hash": "89cb69a2550e",
+      "target": "<b>Step 4: Send to support</b>",
+      "translated_from_hash": "89cb69a2550e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "Email the filled template to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>",
+      "source_hash": "b4b906ca6f95",
+      "target": "Email the filled template to <a class=\"intercom-content-link\" href=\"mailto:support@govocal.com\" target=\"_blank\">support@govocal.com</a>",
+      "translated_from_hash": "b4b906ca6f95",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "Include the exact day and time you want the updates applied",
+      "source_hash": "89ccbce8ea6f",
+      "target": "Include the exact day and time you want the updates applied",
+      "translated_from_hash": "89ccbce8ea6f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Allow 10 working days for the task to be scheduled",
+      "source_hash": "47dc737844bb",
+      "target": "Allow 10 working days for the task to be scheduled",
+      "translated_from_hash": "47dc737844bb",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

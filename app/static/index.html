@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Translation Manager</title>
+  <link rel="stylesheet" href="/styles.css?v=3">
+</head>
+<body>
+
+<!-- Login page (shown when unauthenticated) -->
+<div id="page-login">
+  <div class="card login-box">
+    <h1>Translation Manager</h1>
+    <div id="login-form">
+      <div class="field">
+        <label for="login-email">Email</label>
+        <input id="login-email" type="email" autocomplete="username">
+      </div>
+      <div class="field">
+        <label for="login-password">Password</label>
+        <input id="login-password" type="password" autocomplete="current-password">
+      </div>
+      <button id="btn-signin" type="button" class="btn btn-primary" style="width:100%">Sign in</button>
+      <p id="login-error" class="login-error"></p>
+    </div>
+  </div>
+</div>
+
+<!-- App shell (shown when authenticated) -->
+<div id="app">
+  <nav id="nav" class="hidden">
+    <span class="brand">Translation Manager</span>
+    <span class="spacer"></span>
+    <span id="nav-user" class="user-info"></span>
+    <button id="btn-logout" class="btn btn-ghost btn-sm">Sign out</button>
+  </nav>
+
+  <div id="page-app" class="hidden">
+    <main>
+
+      <!-- Queue page -->
+      <div id="page-queue">
+        <div class="queue-header">
+          <h1>Review queue</h1>
+          <div class="spacer" style="flex:1"></div>
+          <button id="btn-sync" class="btn btn-ghost btn-sm">Sync</button>
+        </div>
+
+        <div id="sync-result"></div>
+
+        <div id="lang-filter" class="filter-bar"></div>
+
+        <div id="article-list" class="article-list"></div>
+      </div>
+
+      <!-- Editor page -->
+      <div id="page-editor" class="hidden">
+        <div class="editor-header">
+          <button id="btn-back" class="btn btn-ghost btn-sm">&larr; Queue</button>
+          <h1 id="editor-title"></h1>
+          <span id="editor-lang" style="font-size:13px;font-weight:700;color:var(--accent)"></span>
+        </div>
+
+        <div class="editor-controls">
+          <label>
+            <input type="checkbox" id="chk-unverified">
+            Show only unverified
+          </label>
+          <div style="flex:1"></div>
+          <button id="btn-verify-all" class="btn btn-success btn-sm">Verify all unverified</button>
+        </div>
+
+        <div id="editor-content" class="segment-list"></div>
+      </div>
+
+    </main>
+  </div>
+</div>
+
+<div id="toast"></div>
+<script src="/app.js?v=3"></script>
+</body>
+</html>

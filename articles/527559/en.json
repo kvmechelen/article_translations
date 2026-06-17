@@ -1,0 +1,193 @@
+{
+  "article_id": "527559",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_c5ae960c0a\">@@body:0001@@</h1><ul><li><p class=\"no-margin\">@@body:0002@@</p></li><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li></ul><p class=\"no-margin\">@@body:0005@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_f9edb0b877\">@@body:0006@@</h1><ul><li><p class=\"no-margin\">@@body:0007@@</p><p class=\"no-margin\">@@body:0008@@</p><p class=\"no-margin\">@@body:0009@@</p></li><li><p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\">@@body:0011@@</p><p class=\"no-margin\">@@body:0012@@</p><p class=\"no-margin\">@@body:0013@@</p></li></ul><h1 id=\"h_1bbbdb8525\">@@body:0014@@</h1><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372144/7b2f0d4ce51aeee3d2ed40a3e5f2/upload_11103832495433660623.png?expires=1781805600&amp;signature=d1939e5747fa1b9a6fef876b20bda6b4f18778658833266ea185bced43ced98b&amp;req=2dVswlr7qDNk2hj99dpg6t4QHvj2DV72Lr2JzaEEau4MU4VspW3kgC327zXM%0An9XlleOAVh1UM60kf9pr3ULj%0A\"/></div><p class=\"no-margin\"></p>\n<ol><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li></ul></li></ol><p class=\"no-margin\">@@body:0019@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_9197ab104c\">@@body:0020@@</h1><h2 id=\"h_3057450c84\">@@body:0021@@</h2><p class=\"no-margin\">@@body:0022@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90372151/dae3affb22106b7bd43390cf8869/upload_2236465051991091462.png?expires=1781805600&amp;signature=3d85af827ea7fd9d7c56be62f4e6ba812bd108953f8ad01d25d5481ca89e3994&amp;req=2dVswlr7qTZk2hj99dpg6gkC7Aj0UgGqufBQHWN2lxt57GPwkEUUBWaI2fgB%0ASqzV9t58i0mDV65oT7FpQDtT%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0023@@</p><ol><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li></ol><p class=\"no-margin\">@@body:0027@@</p><ul><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li></ul><h2 id=\"h_6ff20d4a06\">@@body:0033@@</h2><ul><li><p class=\"no-margin\">@@body:0034@@</p></li><li><p class=\"no-margin\">@@body:0035@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Hiding and testing your projects",
+      "hash": "50b4447dfb78"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Understanding hidden vs draft projects",
+      "hash": "04bfac686fc5"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "<b>Unlisted Projects:</b> Published but invisible on the homepage; only accessible via a direct URL.",
+      "hash": "bc284719d442"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "<b>Draft Projects + Preview Links:</b> Still unpublished, but sharable for testing and feedback.",
+      "hash": "39cf9e2c3cb1"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "<b>Folders:</b> unlisting is a project-only setting. To remove a folder from the homepage and the <i>Participate</i> navigation menu, set the folder to <b>Draft</b> instead (note this also hides the folder and its contents entirely).",
+      "hash": "58befdc012cf"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Both methods can be used flexibly depending on whether you want restricted participation or pre‑launch testing.",
+      "hash": "6523ac943abc"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "When to use preview link or unlisted project?",
+      "hash": "4dbf5078d6d9"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "<b>Unlisted Project:</b>",
+      "hash": "e289023a835d"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Project is published but for a restricted audience.",
+      "hash": "05cc22dfdec4"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Shareable via URL but not publicly visible.",
+      "hash": "1f7f07d3ca88"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "<b>Preview Link:</b>",
+      "hash": "ee6e9b9af084"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Project is still in draft.",
+      "hash": "41c4552e3e91"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Great for testing, stakeholder review, and UX validation.",
+      "hash": "2fea540b7ee2"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Can regenerate links to revoke access.",
+      "hash": "7400bd8be745"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "How to (un)list a project?",
+      "hash": "d59c76bee457"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Open the project’s <b>General tab</b> &gt; <b>Access rights</b>",
+      "hash": "fdd534d5cdf1"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "Toggle <b>List/Unlist</b>",
+      "hash": "dc027d80d3c5"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Listed:</b> Appears on homepage &amp; widgets.",
+      "hash": "af67f6618e4a"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Unlisted:</b> Removed from platform navigation <i>(e.g. homepage widgets)</i> &amp; search engines. Only accessible via direct link.",
+      "hash": "8399fab63896"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>ℹ️</b> You can re‑list/unlist at any time.",
+      "hash": "2b2902c319db"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "How to create and use a preview link",
+      "hash": "91c302015f7d"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "Creating a preview link",
+      "hash": "94d1969a9eab"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "Preview links allow anyone, even non‑registered external stakeholders, to test a draft project.",
+      "hash": "36b345a67dc7"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Steps:</b>",
+      "hash": "79ea6cc10451"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "In the project back office, click <b>Share</b> (top‑right corner).",
+      "hash": "d868bbf2e9d4"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Click <b>Copy link</b> in the pop‑up.",
+      "hash": "275662f86b14"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Share this link with colleagues or external partners.",
+      "hash": "93133a55575f"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "<b>Key considerations:</b>",
+      "hash": "a308ece9d05e"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "The preview link tries to recreate the user experience therefore it respects access rights (e.g., user group restrictions or account requirements) and phase status.",
+      "hash": "3a284d954ad1"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "A preview link is only for testing a draft project, so it is not suitable for a durable link such as a printed QR code. To prepare a link in advance (for example, a QR code on a leaflet), use the project's public URL instead: the URL stays the same once the project is published, so a QR code created while the project is still in draft will keep working after you publish.",
+      "hash": "b701e29a387e"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "Therefore, to make sure people can test the survey, ensure the phase is active: edit the phase dates to make sure it includes the dates of when the testing will happen",
+      "hash": "78177d3d2846"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>Open to Participation</b> is toggled on (survey only): go to <b>Insights &gt;</b> and toggle on <b>Open for Participation</b>",
+      "hash": "47047101b60e"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "There are no phase access restrictions: edit the <b>Phase Access and User Data</b> tab to make sure authentication is set to none",
+      "hash": "a9d3c060724f"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Regenerating a preview link",
+      "hash": "4ddd74f9b331"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "Click the <b>circular arrow icon</b> next to the preview link to generate a new one.",
+      "hash": "e61afb4d07c5"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Note: Old links immediately become invalid: useful for <b>revoking access</b>.",
+      "hash": "9b4de95113f9"
+    }
+  }
+}

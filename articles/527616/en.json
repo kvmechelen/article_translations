@@ -1,0 +1,253 @@
+{
+  "article_id": "527616",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_10f1425cf8\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><h1 id=\"h_f39fdbeb3a\">@@body:0006@@</h1><ul><li><p class=\"no-margin\">@@body:0007@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373312/048a309ad617eb0ea62f7a52a174/upload_7821121725409344558.png?expires=1781805600&amp;signature=52ccb6dbadf1b8dba37e3d0f33b273307447268cb875dbba55a2a791a36a9042&amp;req=2dVswlv5rTVk2hj99dpg6rxXIioqMqStpObQBgeDoMsCvpGAU9rftRNSUz9a%0ATcnrYU9s1vGraTx7Flr%2FtrfW%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li></ul><p class=\"no-margin\">@@body:0010@@</p><ul><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ul><h1 id=\"h_856d4c2d43\">@@body:0014@@</h1><h2 id=\"h_71c59fb9d1\">@@body:0015@@</h2><ul><li><p class=\"no-margin\">@@body:0016@@</p></li><li><p class=\"no-margin\">@@body:0017@@</p><ul><li><p class=\"no-margin\">@@body:0018@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0019@@</p></li></ul><h2 id=\"h_88053dd4be\">@@body:0020@@</h2><ul><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373322/cee67b9bea5d820a08cfe6647c3d/upload_3554154493476691854.png?expires=1781805600&amp;signature=ee47fb27e6987a49c17f9f4026d3b7f1f17e59fbafc3e9eff3d3762549343750&amp;req=2dVswlv5rjVk2hj99dpg6rizPL19Evfm3UAGbNm0gpcKoCIqkWjwdKSC93t4%0AyQd0YIRI75rkrPt13PMDl5qK%0A\"/></div><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">@@body:0023@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373330/63469c2b4b5c8565ceb339dcdc24/upload_16075150181957817929.png?expires=1781805600&amp;signature=fcfb1cc48fe879541193a4caafc9d2f1fd0b58feaac69369232c362d39c27d46&amp;req=2dVswlv5rzdk2hj99dpg6mRGaNAQ9h8KxXGVoIvgp%2B7QpGRttTYJRY6TyPHP%0ABMHyRnTBlFlPEJStWmFfxmuK%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0024@@</p><ol><li><p class=\"no-margin\">@@body:0025@@</p></li><li><p class=\"no-margin\">@@body:0026@@</p></li><li><p class=\"no-margin\">@@body:0027@@</p></li><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li></ol><p class=\"no-margin\">@@body:0030@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-h2b-video\"><iframe allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" mozallowfullscreen=\"\" src=\"https://www.loom.com/embed/d0f8e22230414ba3a1e8d5e71f4f6229\" webkitallowfullscreen=\"\"></iframe></div><h1 id=\"h_b99783819f\">@@body:0031@@</h1><ul><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p><ul><li><p class=\"no-margin\">@@body:0035@@</p></li><li><p class=\"no-margin\">@@body:0036@@</p></li></ul></li><li><p class=\"no-margin\">@@body:0037@@</p></li></ul><h1 id=\"h_a96ac45f80\">@@body:0038@@</h1><ul><li><p class=\"no-margin\">@@body:0039@@</p></li><li><p class=\"no-margin\">@@body:0040@@</p></li><li><p class=\"no-margin\">@@body:0041@@</p></li><li><p class=\"no-margin\">@@body:0042@@</p></li></ul><h1 id=\"h_c0c8d7408b\">@@body:0043@@</h1><ol><li><p class=\"no-margin\">@@body:0044@@</p></li><li><p class=\"no-margin\">@@body:0045@@</p></li><li><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p></li></ol>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "How can you edit your comments, inputs and votes on the platform?",
+      "hash": "9b0484e3a491"
+    },
+    "description": {
+      "field": "description",
+      "text": "How to contribute to a project and think along with other participants.",
+      "hash": "03a83929ab10"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "Managing contributions on the platform",
+      "hash": "f4e21675b1e3"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "Contributions on the platform include comments, inputs (ideas, proposals, or posts), and votes.",
+      "hash": "748c7f7279ad"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Participants can create and edit their own content during active phases",
+      "hash": "1c1b63f801fa"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Admins and project managers can moderate, edit, or add inputs and votes depending on permissions",
+      "hash": "9a55bf13296a"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Customization options in project setup determine which actions are enabled",
+      "hash": "df845efe8a62"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Configuring contribution settings",
+      "hash": "ff0f33bd5c2b"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "In <b>Projects → Setup </b>tab, toggle whether participants can submit posts, comments, or reactions.",
+      "hash": "2f7d8ceef22d"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Optionally disable dislikes or set vote limits per participant",
+      "hash": "1629fae979f2"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Admins can still add submissions after a phase has ended",
+      "hash": "2716de2d6f2a"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Limitations:",
+      "hash": "5957808233e5"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "No limit on comments",
+      "hash": "c5cc9b8f92d5"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "No limit on inputs",
+      "hash": "78d9770e5c26"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Only votes can be controlled",
+      "hash": "64d1b24a07cf"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "How to edit or delete comments and inputs?",
+      "hash": "3066547721b7"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "As a participant:",
+      "hash": "91cd4d291c07"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "<b>Comments</b>: Locate your comment → Click the <b>three dots</b> → Edit/Delete",
+      "hash": "e26bddbbde04"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Inputs</b>: Locate your input → Click the <b>three dots</b> → Edit/Delete",
+      "hash": "3ec49d8ad17b"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "⚠️ Inputs can be modified or deleted if the project is still active and not archived, once the idea’s status changes, the input becomes locked.",
+      "hash": "9a9329ec6c5b"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>Votes</b>: Locate the input you voted on → Click on the vote/like again to undo your vote",
+      "hash": "7ea32ced680f"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "As an admin or project moderator:",
+      "hash": "f52bf92f1258"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>Comments:</b> remove or moderate participant comments",
+      "hash": "9b8c0f267d69"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Inputs:</b> add, edit, or remove inputs; submit ideas on behalf of others using the <b>Author</b> field.",
+      "hash": "809afe430801"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Votes:</b> add offline votes on behalf of participants; cannot add or remove online votes.",
+      "hash": "6b11d91d2c3a"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "<b>To edit an input as an admin or project moderator:</b>",
+      "hash": "fb649f4c706a"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "Open the <b>Input Manager</b> of the project phase",
+      "hash": "3855ae108180"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Select the submitted input",
+      "hash": "c24ad68fb72a"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "In the pop-up window, click <b>Edit</b>",
+      "hash": "9475b3f285cb"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "Update the title, description, or other fields",
+      "hash": "7c1c794bb6f0"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "Click <b>Save</b>",
+      "hash": "e27d7793461d"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "ℹ️ <b>Only as an admin</b> you can also submit on behalf of users by editing the <b>Author</b> field.",
+      "hash": "a4069f512df3"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "How to submit an input?",
+      "hash": "e9fd0fd2e07a"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "Click <b>Submit your idea</b> or a similar button (name depends on project setup)",
+      "hash": "453f32aa775b"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "Complete the input form with a title, description, and any additional details",
+      "hash": "89436c8ee2a4"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "(If available) Add a location:",
+      "hash": "15229c14e7a2"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "Enter coordinates or street name in the form, <b>or</b>",
+      "hash": "dd2e05662f68"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Pin directly on the project map",
+      "hash": "d888d9dc1118"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "Submit the form",
+      "hash": "50ea5ee7ee5e"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "How to react on inputs?",
+      "hash": "e97100416993"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Click the <b>thumbs-up</b> icon to like",
+      "hash": "c0e672f612ca"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "If enabled, click the <b>thumbs-down</b> icon to dislike",
+      "hash": "0de0c321b33a"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "Undo a vote by clicking the same icon again",
+      "hash": "608ab0fe5470"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "User names of voters cannot be exported; contact support if this data is required",
+      "hash": "5c3bd8a316da"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "How to comment to inputs?",
+      "hash": "8a888646b397"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "Click the <b>speech bubble</b> icon on the input",
+      "hash": "353a87c73ea5"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "Scroll to the <b>Comment</b> field",
+      "hash": "254a264a872b"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "Enter your comment",
+      "hash": "121b1c118a35"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "To address the author directly, type <code>@username</code>",
+      "hash": "9bda1dcf46cf"
+    }
+  }
+}

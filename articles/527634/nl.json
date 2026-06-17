@@ -1,0 +1,502 @@
+{
+  "article_id": "527634",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Protecting and Moderating your platform",
+      "source_hash": "efb9ce312a46",
+      "target": "Protecting and Moderating your platform",
+      "translated_from_hash": "efb9ce312a46",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Overview of protection and moderation of your platform",
+      "source_hash": "665ab99f11ab",
+      "target": "Overview of protection and moderation of your platform",
+      "translated_from_hash": "665ab99f11ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Your platform has built‑in protections and moderation tools to ensure safe and respectful participation.",
+      "source_hash": "9190569089be",
+      "target": "Your platform has built‑in protections and moderation tools to ensure safe and respectful participation.",
+      "translated_from_hash": "9190569089be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Key mechanisms include:",
+      "source_hash": "1d42d4757e71",
+      "target": "Key mechanisms include:",
+      "translated_from_hash": "1d42d4757e71",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Community reporting</b> for inappropriate content",
+      "source_hash": "0e7cbc91afda",
+      "target": "<b>Community reporting</b> for inappropriate content",
+      "translated_from_hash": "0e7cbc91afda",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Profanity filtering</b> to block offensive language",
+      "source_hash": "943c5e3e404f",
+      "target": "<b>Profanity filtering</b> to block offensive language",
+      "translated_from_hash": "943c5e3e404f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>AI-powered detection</b> using Natural Language Processing (NLP)",
+      "source_hash": "92dc3a9b4c77",
+      "target": "<b>AI-powered detection</b> using Natural Language Processing (NLP)",
+      "translated_from_hash": "92dc3a9b4c77",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "<b>Spam and throttling prevention</b> to block malicious or automated abuse",
+      "source_hash": "53aadc4ef506",
+      "target": "<b>Spam and throttling prevention</b> to block malicious or automated abuse",
+      "translated_from_hash": "53aadc4ef506",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Strong Terms &amp; Conditions, Privacy Policy, and GDPR compliance</b>",
+      "source_hash": "be24f97bb4ac",
+      "target": "<b>Strong Terms &amp; Conditions, Privacy Policy, and GDPR compliance</b>",
+      "translated_from_hash": "be24f97bb4ac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Together, these tools help admins maintain a healthy, constructive environment with minimal manual intervention.",
+      "source_hash": "ed6848511e27",
+      "target": "Together, these tools help admins maintain a healthy, constructive environment with minimal manual intervention.",
+      "translated_from_hash": "ed6848511e27",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Platform protection systems",
+      "source_hash": "04eb6eed7c22",
+      "target": "Platform protection systems",
+      "translated_from_hash": "04eb6eed7c22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Every GoVocal platform includes:",
+      "source_hash": "b5231dc17150",
+      "target": "Every GoVocal platform includes:",
+      "translated_from_hash": "b5231dc17150",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Spam and throttling detection:</b> Automatically stops suspicious behavior, such as mass idea submissions or repeated spammy responses.",
+      "source_hash": "53284b855b54",
+      "target": "<b>Spam and throttling detection:</b> Automatically stops suspicious behavior, such as mass idea submissions or repeated spammy responses.",
+      "translated_from_hash": "53284b855b54",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>IP monitoring:</b> Flags unusual activity, such as multiple accounts created rapidly from the same IP address, while accounting for shared networks.",
+      "source_hash": "a3e48cef2397",
+      "target": "<b>IP monitoring:</b> Flags unusual activity, such as multiple accounts created rapidly from the same IP address, while accounting for shared networks.",
+      "translated_from_hash": "a3e48cef2397",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Downvote-based self-moderation:</b> Poorly received content naturally sinks in ranking, helping maintain constructive discussions.",
+      "source_hash": "0d59258c1343",
+      "target": "<b>Downvote-based self-moderation:</b> Poorly received content naturally sinks in ranking, helping maintain constructive discussions.",
+      "translated_from_hash": "0d59258c1343",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Admin digest emails:</b> Weekly summaries of submitted content for easy monitoring and quick identification of issues.",
+      "source_hash": "ab1430633cae",
+      "target": "<b>Admin digest emails:</b> Weekly summaries of submitted content for easy monitoring and quick identification of issues.",
+      "translated_from_hash": "ab1430633cae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Manual spam flagging:</b> Both users and administrators can flag ideas as spam and specify a reason for reporting.",
+      "source_hash": "4364b8b1d417",
+      "target": "<b>Manual spam flagging:</b> Both users and administrators can flag ideas as spam and specify a reason for reporting.",
+      "translated_from_hash": "4364b8b1d417",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Email and citizen verification:</b> Email verification is enabled by default to confirm valid registrations. In certain regions, citizen verification (e.g., via ItsMe) is also supported, read more about it in <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527631-setting-up-sso-login-options-and-user-identity-verification-methods\" target=\"_blank\">this support article</a>.",
+      "source_hash": "757b9731a914",
+      "target": "<b>Email and citizen verification:</b> Email verification is enabled by default to confirm valid registrations. In certain regions, citizen verification (e.g., via ItsMe) is also supported, read more about it in <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527631-setting-up-sso-login-options-and-user-identity-verification-methods\" target=\"_blank\">this support article</a>.",
+      "translated_from_hash": "757b9731a914",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "<b>Terms of Use enforcement:</b> Administrators can remove accounts, ideas, or comments when improper use is detected.",
+      "source_hash": "517c56f64da4",
+      "target": "<b>Terms of Use enforcement:</b> Administrators can remove accounts, ideas, or comments when improper use is detected.",
+      "translated_from_hash": "517c56f64da4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Privacy Policy &amp; GDPR alignment:</b> Protects user data and ensures compliance with European data protection regulations.",
+      "source_hash": "7ea50b8f4195",
+      "target": "<b>Privacy Policy &amp; GDPR alignment:</b> Protects user data and ensures compliance with European data protection regulations.",
+      "translated_from_hash": "7ea50b8f4195",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "How inappropriate content is detected",
+      "source_hash": "2cdd536010b5",
+      "target": "How inappropriate content is detected",
+      "translated_from_hash": "2cdd536010b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Your platform uses three complementary detection methods:",
+      "source_hash": "8c02687002b8",
+      "target": "Your platform uses three complementary detection methods:",
+      "translated_from_hash": "8c02687002b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Community Reporting:</b> Any participant can flag a post, proposal, or comment as inappropriate.",
+      "source_hash": "3d8bb77f4491",
+      "target": "<b>Community Reporting:</b> Any participant can flag a post, proposal, or comment as inappropriate.",
+      "translated_from_hash": "3d8bb77f4491",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Profanity Filter:</b> Blocks common offensive words in supported languages and prompts users to edit before posting.",
+      "source_hash": "c351b3601490",
+      "target": "<b>Profanity Filter:</b> Blocks common offensive words in supported languages and prompts users to edit before posting.",
+      "translated_from_hash": "c351b3601490",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>AI/NLP Detection:</b> Uses Natural Language Processing to detect abusive, toxic, or inappropriate language automatically. Flagged ideas will remain visible to the public but be flagged to admins in their notification center where they can decide to delete or make the flagged content private.",
+      "source_hash": "a00a71a741b5",
+      "target": "<b>AI/NLP Detection:</b> Uses Natural Language Processing to detect abusive, toxic, or inappropriate language automatically. Flagged ideas will remain visible to the public but be flagged to admins in their notification center where they can decide to delete or make the flagged content private.",
+      "translated_from_hash": "a00a71a741b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Note: NLP detection is available in English, French, German, Spanish, and Portuguese.",
+      "source_hash": "ba74b442c4c1",
+      "target": "Note: NLP detection is available in English, French, German, Spanish, and Portuguese.",
+      "translated_from_hash": "ba74b442c4c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "How to review and moderate inappropriate content?",
+      "source_hash": "66c2971499d1",
+      "target": "How to review and moderate inappropriate content?",
+      "translated_from_hash": "66c2971499d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Go to the <b>Notifications</b> tab in the admin panel.",
+      "source_hash": "ae03646294b0",
+      "target": "Go to the <b>Notifications</b> tab in the admin panel.",
+      "translated_from_hash": "ae03646294b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Click on the content warning or report notification.",
+      "source_hash": "21e35e8a5678",
+      "target": "Click on the content warning or report notification.",
+      "translated_from_hash": "21e35e8a5678",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Review the reported item (post, comment, proposal).",
+      "source_hash": "da6b56a41a0b",
+      "target": "Review the reported item (post, comment, proposal).",
+      "translated_from_hash": "da6b56a41a0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Take moderation action based on your guidelines:",
+      "source_hash": "b81024fdddc0",
+      "target": "Take moderation action based on your guidelines:",
+      "translated_from_hash": "b81024fdddc0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Edit or delete</b> input/proposals.",
+      "source_hash": "ae6a9cef77fe",
+      "target": "<b>Edit or delete</b> input/proposals.",
+      "translated_from_hash": "ae6a9cef77fe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Post an official update</b> or a clarifying comment.",
+      "source_hash": "703e7d29bb11",
+      "target": "<b>Post an official update</b> or a clarifying comment.",
+      "translated_from_hash": "703e7d29bb11",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Hide items</b> (for timeline projects) by deselecting their associated phases.",
+      "source_hash": "b5870a093c2f",
+      "target": "<b>Hide items</b> (for timeline projects) by deselecting their associated phases.",
+      "translated_from_hash": "b5870a093c2f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Important notes:</b>",
+      "source_hash": "6d35246af61c",
+      "target": "<b>Important notes:</b>",
+      "translated_from_hash": "6d35246af61c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "If you delete input/proposals, authors will not receive an email (notify separately if needed).",
+      "source_hash": "fb2ae3db8a9c",
+      "target": "If you delete input/proposals, authors will not receive an email (notify separately if needed).",
+      "translated_from_hash": "fb2ae3db8a9c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Comments cannot be edited, only deleted. If deleted, the author <b>will</b> receive an email explaining why.",
+      "source_hash": "4e3c9f0d64ed",
+      "target": "Comments cannot be edited, only deleted. If deleted, the author <b>will</b> receive an email explaining why.",
+      "translated_from_hash": "4e3c9f0d64ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "What can be edited vs deleted?",
+      "source_hash": "eac63edd4cb2",
+      "target": "What can be edited vs deleted?",
+      "translated_from_hash": "eac63edd4cb2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Inputs (ideas, contributions) &amp; Proposals:</b> Can be <b>edited</b> or <b>deleted</b> by admins/managers.",
+      "source_hash": "1f84ef2e22d3",
+      "target": "<b>Inputs (ideas, contributions) &amp; Proposals:</b> Can be <b>edited</b> or <b>deleted</b> by admins/managers.",
+      "translated_from_hash": "1f84ef2e22d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "<b>Comments:</b> Cannot be edited — only <b>deleted</b>.",
+      "source_hash": "db4dadce5926",
+      "target": "<b>Comments:</b> Cannot be edited — only <b>deleted</b>.",
+      "translated_from_hash": "db4dadce5926",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "When deleted, the author gets an <b>email notification</b>.",
+      "source_hash": "a57842585b06",
+      "target": "When deleted, the author gets an <b>email notification</b>.",
+      "translated_from_hash": "a57842585b06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>Hiding content:</b> In timeline projects, you can hide items instead of deleting them by deselecting all associated phases.",
+      "source_hash": "784d1444901d",
+      "target": "<b>Hiding content:</b> In timeline projects, you can hide items instead of deleting them by deselecting all associated phases.",
+      "translated_from_hash": "784d1444901d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "How to enable/disable moderation features?",
+      "source_hash": "83739c15cf10",
+      "target": "How to enable/disable moderation features?",
+      "translated_from_hash": "83739c15cf10",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Go to <b>Platform Settings.</b>",
+      "source_hash": "6ddbee7a7f4a",
+      "target": "Go to <b>Platform Settings.</b>",
+      "translated_from_hash": "6ddbee7a7f4a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Enable or disable:",
+      "source_hash": "30a235cb98c3",
+      "target": "Enable or disable:",
+      "translated_from_hash": "30a235cb98c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "<b>Profanity filter</b> (blocks common offensive words).",
+      "source_hash": "3df5b2731dc2",
+      "target": "<b>Profanity filter</b> (blocks common offensive words).",
+      "translated_from_hash": "3df5b2731dc2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "<b>Detect inappropriate content</b> (AI/NLP scanning).",
+      "source_hash": "8b5283946b8e",
+      "target": "<b>Detect inappropriate content</b> (AI/NLP scanning).",
+      "translated_from_hash": "8b5283946b8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Save changes.",
+      "source_hash": "ff55a978ddd4",
+      "target": "Save changes.",
+      "translated_from_hash": "ff55a978ddd4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "You can toggle these features on or off anytime.",
+      "source_hash": "aad9746c119c",
+      "target": "You can toggle these features on or off anytime.",
+      "translated_from_hash": "aad9746c119c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "How to add custom inappropriate words?",
+      "source_hash": "8083a082870f",
+      "target": "How to add custom inappropriate words?",
+      "translated_from_hash": "8083a082870f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Prepare a list of single words (phrases are not supported).",
+      "source_hash": "864402bc8940",
+      "target": "Prepare a list of single words (phrases are not supported).",
+      "translated_from_hash": "864402bc8940",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Contact support via the chat bubble.",
+      "source_hash": "a5b6125fe29a",
+      "target": "Contact support via the chat bubble.",
+      "translated_from_hash": "a5b6125fe29a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Send the list (for longer lists, prepare an .xlsx or similar file).",
+      "source_hash": "2c86d51fa709",
+      "target": "Send the list (for longer lists, prepare an .xlsx or similar file).",
+      "translated_from_hash": "2c86d51fa709",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Support will add the words to your platform’s filter.",
+      "source_hash": "ef387a8af304",
+      "target": "Support will add the words to your platform’s filter.",
+      "translated_from_hash": "ef387a8af304",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

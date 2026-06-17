@@ -1,0 +1,1537 @@
+{
+  "article_id": "527594",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Creating and Managing Projects",
+      "source_hash": "9bad635e911a",
+      "target": "Creating and Managing Projects",
+      "translated_from_hash": "9bad635e911a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "<i>This article is machine translated from english</i>",
+      "source_hash": "71361155ecf7",
+      "target": "<i>This article is machine translated from english</i>",
+      "translated_from_hash": "71361155ecf7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "What is a project?",
+      "source_hash": "d94b578b788e",
+      "target": "What is a project?",
+      "translated_from_hash": "d94b578b788e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "A project on our platform is a dedicated space where engagement and participation take place. It’s where you structure an initiative, invite input, and guide participants through a process.",
+      "source_hash": "78351f7bafd4",
+      "target": "A project on our platform is a dedicated space where engagement and participation take place. It’s where you structure an initiative, invite input, and guide participants through a process.",
+      "translated_from_hash": "78351f7bafd4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Projects are the core building blocks of your platform:",
+      "source_hash": "8b0f9a7cd9b0",
+      "target": "Projects are the core building blocks of your platform:",
+      "translated_from_hash": "8b0f9a7cd9b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "They can be used to gather ideas, run surveys, ask questions, or organize community discussions.",
+      "source_hash": "4e581abbc7d7",
+      "target": "They can be used to gather ideas, run surveys, ask questions, or organize community discussions.",
+      "translated_from_hash": "4e581abbc7d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Each project contains phases (steps on a timeline) that define how and when users can contribute.",
+      "source_hash": "88a50b015844",
+      "target": "Each project contains phases (steps on a timeline) that define how and when users can contribute.",
+      "translated_from_hash": "88a50b015844",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Projects hold their own content, settings, access rules, and branding. Making them distinct from each other.",
+      "source_hash": "05d38b5dcb12",
+      "target": "Projects hold their own content, settings, access rules, and branding. Making them distinct from each other.",
+      "translated_from_hash": "05d38b5dcb12",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Key things to know about projects on our platform:</b>",
+      "source_hash": "47df0926e999",
+      "target": "<b>Key things to know about projects on our platform:</b>",
+      "translated_from_hash": "47df0926e999",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "<b>Standalone spaces:</b> Each project can be tailored to a goal (e.g., co-creating a policy, running a consultation)",
+      "source_hash": "32854c335438",
+      "target": "<b>Standalone spaces:</b> Each project can be tailored to a goal (e.g., co-creating a policy, running a consultation)",
+      "translated_from_hash": "32854c335438",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Phases and timelines:</b> Projects use phases to structure participation over time.",
+      "source_hash": "238b82ac1243",
+      "target": "<b>Phases and timelines:</b> Projects use phases to structure participation over time.",
+      "translated_from_hash": "238b82ac1243",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Access control:</b> You decide who sees and participates in a project (admins only, selected groups, or open to everyone)",
+      "source_hash": "67f1c5c49bab",
+      "target": "<b>Access control:</b> You decide who sees and participates in a project (admins only, selected groups, or open to everyone)",
+      "translated_from_hash": "67f1c5c49bab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Optional folders:</b> Projects can be grouped into folders for better organization but still function independently",
+      "source_hash": "1ff5c7e9de3c",
+      "target": "<b>Optional folders:</b> Projects can be grouped into folders for better organization but still function independently",
+      "translated_from_hash": "1ff5c7e9de3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "In short: A project is the “container” for your initiative: everything from design, phases, and input forms to events and participation methods lives inside it.",
+      "source_hash": "bac36056168d",
+      "target": "In short: A project is the “container” for your initiative: everything from design, phases, and input forms to events and participation methods lives inside it.",
+      "translated_from_hash": "bac36056168d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "In terms of hierarchy on the platform we separate a project from a folder and a phase:",
+      "source_hash": "7e0715884892",
+      "target": "In terms of hierarchy on the platform we separate a project from a folder and a phase:",
+      "translated_from_hash": "7e0715884892",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "A folder is used to group together multiple projects that have a certain similarity <i>(e.g. infrastructure work, an area/district, …). </i>We'll go more in depth about folders in this article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Creating and Managing Folders</a></i>",
+      "source_hash": "4ec922f1e750",
+      "target": "A folder is used to group together multiple projects that have a certain similarity <i>(e.g. infrastructure work, an area/district, …). </i>We'll go more in depth about folders in this article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527547-creating-and-managing-folders\" target=\"_blank\">Creating and Managing Folders</a></i>",
+      "translated_from_hash": "4ec922f1e750",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "A phase is used to describe what’s going on within a project <i>(e.g. a project can start with a survey phase, after which an information phase follows to inform the users of the findings in the survey) </i>We'll go more in depth about phases in this article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Creating and Managing Phases</a></i>",
+      "source_hash": "7f033c6dd0a6",
+      "target": "A phase is used to describe what’s going on within a project <i>(e.g. a project can start with a survey phase, after which an information phase follows to inform the users of the findings in the survey) </i>We'll go more in depth about phases in this article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Creating and Managing Phases</a></i>",
+      "translated_from_hash": "7f033c6dd0a6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Why is project setup important?",
+      "source_hash": "3a5d1559302a",
+      "target": "Why is project setup important?",
+      "translated_from_hash": "3a5d1559302a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Setting up a project properly on our platform is more than just filling in a few fields, it lays the foundation for how your engagement will run.",
+      "source_hash": "380e63d0733d",
+      "target": "Setting up a project properly on our platform is more than just filling in a few fields, it lays the foundation for how your engagement will run.",
+      "translated_from_hash": "380e63d0733d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>A well-set-up project ensures:</b>",
+      "source_hash": "c4bc3e82c65b",
+      "target": "<b>A well-set-up project ensures:</b>",
+      "translated_from_hash": "c4bc3e82c65b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Clarity for participants:</b> users instantly understand what the project is about, how to contribute, and when",
+      "source_hash": "3552bd2dd28c",
+      "target": "<b>Clarity for participants:</b> users instantly understand what the project is about, how to contribute, and when",
+      "translated_from_hash": "3552bd2dd28c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Smooth participation flow:</b> well-structured phases and input forms prevent confusion or bottlenecks",
+      "source_hash": "ffa01f3b252f",
+      "target": "<b>Smooth participation flow:</b> well-structured phases and input forms prevent confusion or bottlenecks",
+      "translated_from_hash": "ffa01f3b252f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Consistent branding and messaging:</b> visuals, descriptions, and tags help the project feel coherent and professional",
+      "source_hash": "b966aac5af21",
+      "target": "<b>Consistent branding and messaging:</b> visuals, descriptions, and tags help the project feel coherent and professional",
+      "translated_from_hash": "b966aac5af21",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Proper access control:</b> only the right audience sees and interacts with your project",
+      "source_hash": "bf7e366fb123",
+      "target": "<b>Proper access control:</b> only the right audience sees and interacts with your project",
+      "translated_from_hash": "bf7e366fb123",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Easier management later:</b> good setup means less troubleshooting, fewer edits, and smoother archiving or duplication",
+      "source_hash": "7eacb7ac9008",
+      "target": "<b>Easier management later:</b> good setup means less troubleshooting, fewer edits, and smoother archiving or duplication",
+      "translated_from_hash": "7eacb7ac9008",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>A rushed or incomplete setup often leads to:</b>",
+      "source_hash": "368d6259d481",
+      "target": "<b>A rushed or incomplete setup often leads to:</b>",
+      "translated_from_hash": "368d6259d481",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Missing context for users (they don’t know why or how to engage)",
+      "source_hash": "e2951ffe689a",
+      "target": "Missing context for users (they don’t know why or how to engage)",
+      "translated_from_hash": "e2951ffe689a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Broken timelines or inactive phases",
+      "source_hash": "1c5e4a657518",
+      "target": "Broken timelines or inactive phases",
+      "translated_from_hash": "1c5e4a657518",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Manual rework later (editing tags, fixing URLs, patching access rights)",
+      "source_hash": "f208bbc0f9dc",
+      "target": "Manual rework later (editing tags, fixing URLs, patching access rights)",
+      "translated_from_hash": "f208bbc0f9dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "In short: Good setup upfront saves time, avoids confusion, and makes your project more impactful.",
+      "source_hash": "d80f204b85bc",
+      "target": "In short: Good setup upfront saves time, avoids confusion, and makes your project more impactful.",
+      "translated_from_hash": "d80f204b85bc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "What is a project lifecycle?",
+      "source_hash": "2e761d712757",
+      "target": "What is a project lifecycle?",
+      "translated_from_hash": "2e761d712757",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "A project lifecycle describes the stages a project goes through from creation to closure. Understanding these stages helps you plan, manage, and communicate your project effectively.",
+      "source_hash": "6d576baf1fb5",
+      "target": "A project lifecycle describes the stages a project goes through from creation to closure. Understanding these stages helps you plan, manage, and communicate your project effectively.",
+      "translated_from_hash": "6d576baf1fb5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>The four main stages are:</b>",
+      "source_hash": "8c0a5aa6d9db",
+      "target": "<b>The four main stages are:</b>",
+      "translated_from_hash": "8c0a5aa6d9db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Draft:</b> The project is being built and isn’t visible to participants. Only admins, project managers, or reviewers (via preview links) can see it",
+      "source_hash": "1495c974a0bd",
+      "target": "<b>Draft:</b> The project is being built and isn’t visible to participants. Only admins, project managers, or reviewers (via preview links) can see it",
+      "translated_from_hash": "1495c974a0bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Published:</b> The project is live and visible to users. Participation is possible when there are active phases",
+      "source_hash": "399eba708850",
+      "target": "<b>Published:</b> The project is live and visible to users. Participation is possible when there are active phases",
+      "translated_from_hash": "399eba708850",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "<b>Archived:</b> The project is no longer open for participation but remains visible in the archive section of the platform",
+      "source_hash": "e17744dc2857",
+      "target": "<b>Archived:</b> The project is no longer open for participation but remains visible in the archive section of the platform",
+      "translated_from_hash": "e17744dc2857",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>Published – Finished:</b> A status applied automatically when the last phase has ended. The project is visible but no longer active",
+      "source_hash": "4442ef3c0f1e",
+      "target": "<b>Published – Finished:</b> A status applied automatically when the last phase has ended. The project is visible but no longer active",
+      "translated_from_hash": "4442ef3c0f1e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "<b>Why it matters:</b>",
+      "source_hash": "c46d2e13411f",
+      "target": "<b>Why it matters:</b>",
+      "translated_from_hash": "c46d2e13411f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Helps you know when to make changes (some edits aren’t possible after certain statuses).",
+      "source_hash": "53cae10c5c96",
+      "target": "Helps you know when to make changes (some edits aren’t possible after certain statuses).",
+      "translated_from_hash": "53cae10c5c96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Ensures participants see the right version of the project at the right time.",
+      "source_hash": "60689a4022d8",
+      "target": "Ensures participants see the right version of the project at the right time.",
+      "translated_from_hash": "60689a4022d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Keeps your platform organized: projects don’t clutter the homepage when they’re archived.",
+      "source_hash": "9887b7ed63c2",
+      "target": "Keeps your platform organized: projects don’t clutter the homepage when they’re archived.",
+      "translated_from_hash": "9887b7ed63c2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>Testing your project before publishing it:</b>",
+      "source_hash": "2779052386eb",
+      "target": "<b>Testing your project before publishing it:</b>",
+      "translated_from_hash": "2779052386eb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "We have a feature called ‘preview link’ that allows you to share a project with key stakeholders before you Publish your project, this way you can test and preview your project while it is still in the Draft stage.",
+      "source_hash": "f55df85a3f96",
+      "target": "We have a feature called ‘preview link’ that allows you to share a project with key stakeholders before you Publish your project, this way you can test and preview your project while it is still in the Draft stage.",
+      "translated_from_hash": "f55df85a3f96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "You can find out more about preview links in the support article: here.",
+      "source_hash": "5abdcc43afe1",
+      "target": "You can find out more about preview links in the support article: here.",
+      "translated_from_hash": "5abdcc43afe1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Project Publication Status",
+      "source_hash": "7ce537ea5c15",
+      "target": "Project Publication Status",
+      "translated_from_hash": "7ce537ea5c15",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "This status can by default only be managed by platform admins, therefore Project Managers are required to contact their admins (or folder manager) in order to get their project published or archived.",
+      "source_hash": "4ac2ca33a789",
+      "target": "This status can by default only be managed by platform admins, therefore Project Managers are required to contact their admins (or folder manager) in order to get their project published or archived.",
+      "translated_from_hash": "4ac2ca33a789",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "ℹ️ Project managers can publish projects using the approval flow feature. For more details, see the <b>Approval Flow Feature</b> section below.",
+      "source_hash": "6a2c641ec238",
+      "target": "ℹ️ Project managers can publish projects using the approval flow feature. For more details, see the <b>Approval Flow Feature</b> section below.",
+      "translated_from_hash": "6a2c641ec238",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Note on Archived Projects:</b>",
+      "source_hash": "357734af9879",
+      "target": "<b>Note on Archived Projects:</b>",
+      "translated_from_hash": "357734af9879",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Archived projects remain visible in the main project list. However, if you want to hide them from the navigation bar’s dropdown menu, you have two options:",
+      "source_hash": "3abedede1d88",
+      "target": "Archived projects remain visible in the main project list. However, if you want to hide them from the navigation bar’s dropdown menu, you have two options:",
+      "translated_from_hash": "3abedede1d88",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "<b>Reorder the project list:</b> Go to the “ordering” tab in the top left corner of the “Projects” list. Drag the archived projects to the bottom of the list.",
+      "source_hash": "1df21d772074",
+      "target": "<b>Reorder the project list:</b> Go to the “ordering” tab in the top left corner of the “Projects” list. Drag the archived projects to the bottom of the list.",
+      "translated_from_hash": "1df21d772074",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "<b>Organize them into a folder:</b> Move them into a “Finished Projects” folder to keep your active list clean and focused.",
+      "source_hash": "526fab39ca3c",
+      "target": "<b>Organize them into a folder:</b> Move them into a “Finished Projects” folder to keep your active list clean and focused.",
+      "translated_from_hash": "526fab39ca3c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Different views for Project Management",
+      "source_hash": "ee5582b41ca7",
+      "target": "Different views for Project Management",
+      "translated_from_hash": "ee5582b41ca7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "The <b>Project Management View</b> helps you manage participation projects efficiently and in an organized way. It offers multiple views with filtering, editing, and organizing options.",
+      "source_hash": "34a51c406f6a",
+      "target": "The <b>Project Management View</b> helps you manage participation projects efficiently and in an organized way. It offers multiple views with filtering, editing, and organizing options.",
+      "translated_from_hash": "34a51c406f6a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Project List Tab",
+      "source_hash": "d55d8e0faf99",
+      "target": "Project List Tab",
+      "translated_from_hash": "d55d8e0faf99",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0054": {
+      "field": "body",
+      "source": "You can use the many filters to find projects better.",
+      "source_hash": "2a4175869034",
+      "target": "You can use the many filters to find projects better.",
+      "translated_from_hash": "2a4175869034",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0055": {
+      "field": "body",
+      "source": "You can also take the following actions on this tab:",
+      "source_hash": "2dcd600c41e3",
+      "target": "You can also take the following actions on this tab:",
+      "translated_from_hash": "2dcd600c41e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0056": {
+      "field": "body",
+      "source": "<b>Copy or delete</b> a project: Click the three dots next to the \"End date\" column",
+      "source_hash": "b7304a5ffaa6",
+      "target": "<b>Copy or delete</b> a project: Click the three dots next to the \"End date\" column",
+      "translated_from_hash": "b7304a5ffaa6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0057": {
+      "field": "body",
+      "source": "<b>Edit</b> a project: Click the project title",
+      "source_hash": "5fc3216199c5",
+      "target": "<b>Edit</b> a project: Click the project title",
+      "translated_from_hash": "5fc3216199c5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0058": {
+      "field": "body",
+      "source": "Folder List Tab",
+      "source_hash": "d9dc051df7d2",
+      "target": "Folder List Tab",
+      "translated_from_hash": "d9dc051df7d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0059": {
+      "field": "body",
+      "source": "You can use the many filters to find folders better.",
+      "source_hash": "37b126b15397",
+      "target": "You can use the many filters to find folders better.",
+      "translated_from_hash": "37b126b15397",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0060": {
+      "field": "body",
+      "source": "You can also take the following actions on this tab:",
+      "source_hash": "2dcd600c41e3",
+      "target": "You can also take the following actions on this tab:",
+      "translated_from_hash": "2dcd600c41e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0061": {
+      "field": "body",
+      "source": "Delete a folder: Click the three dots next to the \"Status\" column.",
+      "source_hash": "da320dd6a641",
+      "target": "Delete a folder: Click the three dots next to the \"Status\" column.",
+      "translated_from_hash": "da320dd6a641",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0062": {
+      "field": "body",
+      "source": "Timeline View (available on higher-tier plans)",
+      "source_hash": "459de732d5c3",
+      "target": "Timeline View (available on higher-tier plans)",
+      "translated_from_hash": "459de732d5c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0063": {
+      "field": "body",
+      "source": "The Timeline View shows projects in a visual timeline for better scheduling and planning. Access it via the <b>Timeline</b> tab in the top-left corner.",
+      "source_hash": "4abcb26e59f2",
+      "target": "The Timeline View shows projects in a visual timeline for better scheduling and planning. Access it via the <b>Timeline</b> tab in the top-left corner.",
+      "translated_from_hash": "4abcb26e59f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0064": {
+      "field": "body",
+      "source": "You can use the many filters to show the timeline of filtered projects.",
+      "source_hash": "a955f54cbbde",
+      "target": "You can use the many filters to show the timeline of filtered projects.",
+      "translated_from_hash": "a955f54cbbde",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0065": {
+      "field": "body",
+      "source": "You can also take the following actions on this tab:",
+      "source_hash": "2dcd600c41e3",
+      "target": "You can also take the following actions on this tab:",
+      "translated_from_hash": "2dcd600c41e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0066": {
+      "field": "body",
+      "source": "Change timeline view to: Monthly, Quarterly, Yearly, or Multi-year",
+      "source_hash": "44d8cfe1a483",
+      "target": "Change timeline view to: Monthly, Quarterly, Yearly, or Multi-year",
+      "translated_from_hash": "44d8cfe1a483",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0067": {
+      "field": "body",
+      "source": "Spot gaps to apply engagement strategies",
+      "source_hash": "bb0c821ce58c",
+      "target": "Spot gaps to apply engagement strategies",
+      "translated_from_hash": "bb0c821ce58c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0068": {
+      "field": "body",
+      "source": "Ordering View (available to admins)",
+      "source_hash": "7fbf79f55f95",
+      "target": "Ordering View (available to admins)",
+      "translated_from_hash": "7fbf79f55f95",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0069": {
+      "field": "body",
+      "source": "The Ordering View lets admins reorder projects and folders.",
+      "source_hash": "08ea901f28be",
+      "target": "The Ordering View lets admins reorder projects and folders.",
+      "translated_from_hash": "08ea901f28be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0070": {
+      "field": "body",
+      "source": "<b>You can:</b>",
+      "source_hash": "e96d08b763d7",
+      "target": "<b>You can:</b>",
+      "translated_from_hash": "e96d08b763d7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0071": {
+      "field": "body",
+      "source": "View all projects",
+      "source_hash": "9547ad79f693",
+      "target": "View all projects",
+      "translated_from_hash": "9547ad79f693",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0072": {
+      "field": "body",
+      "source": "Reorder project by dragging and dropping",
+      "source_hash": "55165bb71656",
+      "target": "Reorder project by dragging and dropping",
+      "translated_from_hash": "55165bb71656",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0073": {
+      "field": "body",
+      "source": "Customize the order for the project and folder legacy widget on the homepage.",
+      "source_hash": "b71e3df3e789",
+      "target": "Customize the order for the project and folder legacy widget on the homepage.",
+      "translated_from_hash": "b71e3df3e789",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0074": {
+      "field": "body",
+      "source": "Customize the oder the the \"all projects\" drop down in your navigation bar",
+      "source_hash": "52add832d7a8",
+      "target": "Customize the oder the the \"all projects\" drop down in your navigation bar",
+      "translated_from_hash": "52add832d7a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0075": {
+      "field": "body",
+      "source": "What are the different project settings?",
+      "source_hash": "403b9464a323",
+      "target": "What are the different project settings?",
+      "translated_from_hash": "403b9464a323",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0076": {
+      "field": "body",
+      "source": "When creating and editing a project, there are several settings to help you configure your project to your needs. Below you’ll see a summary of these settings and a brief explanation of what they mean and are intended to achieve.",
+      "source_hash": "de765f2aa8f1",
+      "target": "When creating and editing a project, there are several settings to help you configure your project to your needs. Below you’ll see a summary of these settings and a brief explanation of what they mean and are intended to achieve.",
+      "translated_from_hash": "de765f2aa8f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0077": {
+      "field": "body",
+      "source": "You can find the project settings when you are in the back office of your project in the General tab",
+      "source_hash": "f0aaa2bb5a81",
+      "target": "You can find the project settings when you are in the back office of your project in the General tab",
+      "translated_from_hash": "f0aaa2bb5a81",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0078": {
+      "field": "body",
+      "source": "Set up",
+      "source_hash": "4da10f1fbb17",
+      "target": "Set up",
+      "translated_from_hash": "4da10f1fbb17",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0079": {
+      "field": "body",
+      "source": "<b>Project Name (Title): </b>",
+      "source_hash": "c669b7d27266",
+      "target": "<b>Project Name (Title): </b>",
+      "translated_from_hash": "c669b7d27266",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0080": {
+      "field": "body",
+      "source": "Your project title is the first thing people will see, it’s how your work will appear on the homepage widgets, in the Projects tab and if you haven’t set a custom “slug,” this title will also automatically become the default URL for your project.",
+      "source_hash": "1c37ebbe4c9a",
+      "target": "Your project title is the first thing people will see, it’s how your work will appear on the homepage widgets, in the Projects tab and if you haven’t set a custom “slug,” this title will also automatically become the default URL for your project.",
+      "translated_from_hash": "1c37ebbe4c9a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0081": {
+      "field": "body",
+      "source": "<b>Project URL (slug): </b>",
+      "source_hash": "146970f13c42",
+      "target": "<b>Project URL (slug): </b>",
+      "translated_from_hash": "146970f13c42",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0082": {
+      "field": "body",
+      "source": "<b>The URL of your project: </b>By default the slug (the part after '/projects/') is the title of the project. This can be changed in Project Settings. You can also change this for folders. Go to Edit folder and go to \"Settings\" and fill in you desired slug under \"URL\". This is not possible for inputs or ideas.",
+      "source_hash": "c2988501f6f6",
+      "target": "<b>The URL of your project: </b>By default the slug (the part after '/projects/') is the title of the project. This can be changed in Project Settings. You can also change this for folders. Go to Edit folder and go to \"Settings\" and fill in you desired slug under \"URL\". This is not possible for inputs or ideas.",
+      "translated_from_hash": "c2988501f6f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0083": {
+      "field": "body",
+      "source": "Furthermore, the language part of the URL (eg: /en-CA/) is not important for the functionality of the URL - it only brings information. Therefore you can share your project URL without the language part and it will still work.",
+      "source_hash": "61e01711613e",
+      "target": "Furthermore, the language part of the URL (eg: /en-CA/) is not important for the functionality of the URL - it only brings information. Therefore you can share your project URL without the language part and it will still work.",
+      "translated_from_hash": "61e01711613e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0084": {
+      "field": "body",
+      "source": "<b>Redirects and shortened URLs: </b>You can not delete the \"/project/\" or \"/folder/\" section on the url when editing the slug yourself. If you want this part of the URL to be removed you need to ask the support team to create a redirect for you.",
+      "source_hash": "372f4b8b650e",
+      "target": "<b>Redirects and shortened URLs: </b>You can not delete the \"/project/\" or \"/folder/\" section on the url when editing the slug yourself. If you want this part of the URL to be removed you need to ask the support team to create a redirect for you.",
+      "translated_from_hash": "372f4b8b650e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0085": {
+      "field": "body",
+      "source": "The support team can create redirects for you as long as the domain stays the same. This is most useful to be able to share shortened URLs for your project.",
+      "source_hash": "3114a4088f1f",
+      "target": "The support team can create redirects for you as long as the domain stays the same. This is most useful to be able to share shortened URLs for your project.",
+      "translated_from_hash": "3114a4088f1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0086": {
+      "field": "body",
+      "source": "Before: <a class=\"intercom-content-link\" href=\"https://website.en/en-CA/project/make-the-city-centre-more-lively\" target=\"_blank\">https://website.en/en-CA/project/make-the-city-centre-more-lively</a>",
+      "source_hash": "9662693ecf75",
+      "target": "Before: <a class=\"intercom-content-link\" href=\"https://website.en/en-CA/project/make-the-city-centre-more-lively\" target=\"_blank\">https://website.en/en-CA/project/make-the-city-centre-more-lively</a>",
+      "translated_from_hash": "9662693ecf75",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0087": {
+      "field": "body",
+      "source": "After: <a class=\"intercom-content-link\" href=\"https://website.en/lively-city\" target=\"_blank\">https://website.en/lively-city</a>",
+      "source_hash": "6f0b0899f145",
+      "target": "After: <a class=\"intercom-content-link\" href=\"https://website.en/lively-city\" target=\"_blank\">https://website.en/lively-city</a>",
+      "translated_from_hash": "6f0b0899f145",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0088": {
+      "field": "body",
+      "source": "<b>Description: </b>",
+      "source_hash": "95295aa08c44",
+      "target": "<b>Description: </b>",
+      "translated_from_hash": "95295aa08c44",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0089": {
+      "field": "body",
+      "source": "Every project has a short project description that is, together with a project image, shown on the homepage. This and other settings are defined in the Project settings through the <b>General</b> and <b>Description</b> tabs. You can fully customize your longer project description, using the text-editor or have more advanced design options by using the content builder.",
+      "source_hash": "eabe7da0e73d",
+      "target": "Every project has a short project description that is, together with a project image, shown on the homepage. This and other settings are defined in the Project settings through the <b>General</b> and <b>Description</b> tabs. You can fully customize your longer project description, using the text-editor or have more advanced design options by using the content builder.",
+      "translated_from_hash": "eabe7da0e73d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0090": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527598-customizing-project-descriptions-with-the-content-builder\" target=\"_blank\">To get more in-depth into our content builder feature, read our support article: here.</a>",
+      "source_hash": "c248fc4a55f5",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527598-customizing-project-descriptions-with-the-content-builder\" target=\"_blank\">To get more in-depth into our content builder feature, read our support article: here.</a>",
+      "translated_from_hash": "c248fc4a55f5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0091": {
+      "field": "body",
+      "source": "<b>Project Tags and Areas</b>",
+      "source_hash": "2575d5da328c",
+      "target": "<b>Project Tags and Areas</b>",
+      "translated_from_hash": "2575d5da328c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0092": {
+      "field": "body",
+      "source": "<b>Used on our platform in 2 ways:</b>",
+      "source_hash": "ec923fb0ad86",
+      "target": "<b>Used on our platform in 2 ways:</b>",
+      "translated_from_hash": "ec923fb0ad86",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0093": {
+      "field": "body",
+      "source": "User notifications: When a user registers, they can select certain tags and/or areas to follow. When you assign a project with these tags, users will get (if enabled, see article 'Emails on the platform') an email notification saying that a project they might be interested in is published. We also have a ‘for you’ widget on the homepage builder (see article 'Homepage Builder') where projects that fit the user’s preferences where the projects will appear that have overlapping tags and/or areas with the ones that the user follows.",
+      "source_hash": "1cb069d25943",
+      "target": "User notifications: When a user registers, they can select certain tags and/or areas to follow. When you assign a project with these tags, users will get (if enabled, see article 'Emails on the platform') an email notification saying that a project they might be interested in is published. We also have a ‘for you’ widget on the homepage builder (see article 'Homepage Builder') where projects that fit the user’s preferences where the projects will appear that have overlapping tags and/or areas with the ones that the user follows.",
+      "translated_from_hash": "1cb069d25943",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0094": {
+      "field": "body",
+      "source": "Use on custom pages<b>:</b> By giving a project a project tag or areas you can then create a custom page where all projects with that certain tag or area are aggregated in 1 place making easier for users to find.",
+      "source_hash": "43d218ec3d8b",
+      "target": "Use on custom pages<b>:</b> By giving a project a project tag or areas you can then create a custom page where all projects with that certain tag or area are aggregated in 1 place making easier for users to find.",
+      "translated_from_hash": "43d218ec3d8b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0095": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527601-navigation-bar-and-custom-pages\" target=\"_blank\">📖 learn more about creating custom pages based on project tags and areas here</a>",
+      "source_hash": "2e16e211bfbf",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527601-navigation-bar-and-custom-pages\" target=\"_blank\">📖 learn more about creating custom pages based on project tags and areas here</a>",
+      "translated_from_hash": "2e16e211bfbf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0096": {
+      "field": "body",
+      "source": "<b>Setting up the list of project tags to choose from - Only admins can do this!</b>",
+      "source_hash": "5dd736da4d4f",
+      "target": "<b>Setting up the list of project tags to choose from - Only admins can do this!</b>",
+      "translated_from_hash": "5dd736da4d4f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0097": {
+      "field": "body",
+      "source": "go to your overall platform <b>Settings </b>tab",
+      "source_hash": "85b874f05644",
+      "target": "go to your overall platform <b>Settings </b>tab",
+      "translated_from_hash": "85b874f05644",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0098": {
+      "field": "body",
+      "source": "Go to <b>Tags</b> tab",
+      "source_hash": "cbd11b662a6c",
+      "target": "Go to <b>Tags</b> tab",
+      "translated_from_hash": "cbd11b662a6c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0099": {
+      "field": "body",
+      "source": "Go to<b> Platform tags </b>tab.",
+      "source_hash": "8d6437b6d17f",
+      "target": "Go to<b> Platform tags </b>tab.",
+      "translated_from_hash": "8d6437b6d17f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0100": {
+      "field": "body",
+      "source": "add the <b>Platform tags</b> that you wish all projects can choose from",
+      "source_hash": "6c9674d64adc",
+      "target": "add the <b>Platform tags</b> that you wish all projects can choose from",
+      "translated_from_hash": "6c9674d64adc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0101": {
+      "field": "body",
+      "source": "Input Tags",
+      "source_hash": "a685097515ce",
+      "target": "Input Tags",
+      "translated_from_hash": "a685097515ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0102": {
+      "field": "body",
+      "source": "In this section you will see a list of default tags. You can add/created/edit tags and subtags, to create the themes/sub-themes that users will be able to select to categorize their submission during a proposal or ideation phase. Only tags that have been set up here can be chosen by users to add to their idea. Letting users categorize their inputs by selecting a tag when submitting an idea is essential for helping you and users filter and find ideas that relate to specific tags.",
+      "source_hash": "b41d81f38f4b",
+      "target": "In this section you will see a list of default tags. You can add/created/edit tags and subtags, to create the themes/sub-themes that users will be able to select to categorize their submission during a proposal or ideation phase. Only tags that have been set up here can be chosen by users to add to their idea. Letting users categorize their inputs by selecting a tag when submitting an idea is essential for helping you and users filter and find ideas that relate to specific tags.",
+      "translated_from_hash": "b41d81f38f4b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0103": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">Read more about how to use tags for categorizing inputs during an ideation/proposal phase here</a>",
+      "source_hash": "b4a3dd89dd76",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">Read more about how to use tags for categorizing inputs during an ideation/proposal phase here</a>",
+      "translated_from_hash": "b4a3dd89dd76",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0104": {
+      "field": "body",
+      "source": "While project managers and folder manager can add/created/edit tags and subtags for their projects in this tab, only admins can set what is the default list of tags that will appear here. Admins can set this default tag in their overall platform <b>Settings </b>tab &gt; <b>Tags</b> tab &gt; <b>Input tags (default)</b> tab. This makes sure that all new created projects can have a base of default tags to use.",
+      "source_hash": "d806802cf53e",
+      "target": "While project managers and folder manager can add/created/edit tags and subtags for their projects in this tab, only admins can set what is the default list of tags that will appear here. Admins can set this default tag in their overall platform <b>Settings </b>tab &gt; <b>Tags</b> tab &gt; <b>Input tags (default)</b> tab. This makes sure that all new created projects can have a base of default tags to use.",
+      "translated_from_hash": "d806802cf53e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0105": {
+      "field": "body",
+      "source": "Access Rights (Project Level)",
+      "source_hash": "e944f5ec218a",
+      "target": "Access Rights (Project Level)",
+      "translated_from_hash": "e944f5ec218a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0106": {
+      "field": "body",
+      "source": "The access rights on the project level <i>(which are different from the phase level access rights, see section in Phase Settings below)</i> allow you to configure 3 things: discoverability, visibility and assigning project managers that act as admins within the context of the project.",
+      "source_hash": "d19c682d3276",
+      "target": "The access rights on the project level <i>(which are different from the phase level access rights, see section in Phase Settings below)</i> allow you to configure 3 things: discoverability, visibility and assigning project managers that act as admins within the context of the project.",
+      "translated_from_hash": "d19c682d3276",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0107": {
+      "field": "body",
+      "source": "To learn more about our project-level access rights, read our article on ‘Access Rights’",
+      "source_hash": "78f9d703d054",
+      "target": "To learn more about our project-level access rights, read our article on ‘Access Rights’",
+      "translated_from_hash": "78f9d703d054",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0108": {
+      "field": "body",
+      "source": "Data",
+      "source_hash": "cec3a9b89b2e",
+      "target": "Data",
+      "translated_from_hash": "cec3a9b89b2e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0109": {
+      "field": "body",
+      "source": "If you’ve already set up your project and run some tests (for example, by filling out a survey), you can choose to reset all participation data. This action will keep your project setup intact but will permanently remove all data collected so far, essentially giving you a clean slate for real participation.",
+      "source_hash": "26f7801ca6ee",
+      "target": "If you’ve already set up your project and run some tests (for example, by filling out a survey), you can choose to reset all participation data. This action will keep your project setup intact but will permanently remove all data collected so far, essentially giving you a clean slate for real participation.",
+      "translated_from_hash": "26f7801ca6ee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0110": {
+      "field": "body",
+      "source": "Timeline tab",
+      "source_hash": "60d0b09cba9a",
+      "target": "Timeline tab",
+      "translated_from_hash": "60d0b09cba9a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0111": {
+      "field": "body",
+      "source": "The <b>Timeline</b> is the default tab you’ll see when you access your project’s back office. It allows you to manage the phases of your project in a clear, chronological order. Phases must be set up sequentially, and only one phase can be active at any given time.",
+      "source_hash": "b718b0727b1e",
+      "target": "The <b>Timeline</b> is the default tab you’ll see when you access your project’s back office. It allows you to manage the phases of your project in a clear, chronological order. Phases must be set up sequentially, and only one phase can be active at any given time.",
+      "translated_from_hash": "b718b0727b1e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0112": {
+      "field": "body",
+      "source": "Use the Timeline to structure your project and clearly communicate its schedule and approach to end-users.",
+      "source_hash": "6794a520dc8e",
+      "target": "Use the Timeline to structure your project and clearly communicate its schedule and approach to end-users.",
+      "translated_from_hash": "6794a520dc8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0113": {
+      "field": "body",
+      "source": "Within each section of the Timeline, you can configure the specific phases you want to include. For more details on configuring the phase settings, see the article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Creating and Managing Phases</a></i>",
+      "source_hash": "15f1d0efd08d",
+      "target": "Within each section of the Timeline, you can configure the specific phases you want to include. For more details on configuring the phase settings, see the article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527546-creating-and-managing-phases\" target=\"_blank\">Creating and Managing Phases</a></i>",
+      "translated_from_hash": "15f1d0efd08d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0114": {
+      "field": "body",
+      "source": "Audience tab",
+      "source_hash": "856f6d67584d",
+      "target": "Audience tab",
+      "translated_from_hash": "856f6d67584d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0115": {
+      "field": "body",
+      "source": "In this tab of the project settings, you can see:",
+      "source_hash": "520562631435",
+      "target": "In this tab of the project settings, you can see:",
+      "translated_from_hash": "520562631435",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0116": {
+      "field": "body",
+      "source": "the list of all participants of the project as a whole (includes all phases)",
+      "source_hash": "ff7ddc2d40d0",
+      "target": "the list of all participants of the project as a whole (includes all phases)",
+      "translated_from_hash": "ff7ddc2d40d0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0117": {
+      "field": "body",
+      "source": "track demographics information of your participants of the project as a whole (includes all phases). You’ll see when users have participated, how many have taken part, and view available demographic insights. If you want to see demographics information on phase level specifics go to the <b>Insights</b> tab of that phase",
+      "source_hash": "45f8160d94d8",
+      "target": "track demographics information of your participants of the project as a whole (includes all phases). You’ll see when users have participated, how many have taken part, and view available demographic insights. If you want to see demographics information on phase level specifics go to the <b>Insights</b> tab of that phase",
+      "translated_from_hash": "45f8160d94d8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0118": {
+      "field": "body",
+      "source": "<b>Note:</b> If your project allows participation without an account, or if anonymous participation is enabled, demographic information will not be displayed.",
+      "source_hash": "37aad0acb6c7",
+      "target": "<b>Note:</b> If your project allows participation without an account, or if anonymous participation is enabled, demographic information will not be displayed.",
+      "translated_from_hash": "37aad0acb6c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0119": {
+      "field": "body",
+      "source": "traffic: In this tab of the project settings, you can track the visits on your project page, as well as their language, device type and source from where they came from before they landed on the project page.",
+      "source_hash": "2f692e7a07e1",
+      "target": "traffic: In this tab of the project settings, you can track the visits on your project page, as well as their language, device type and source from where they came from before they landed on the project page.",
+      "translated_from_hash": "2f692e7a07e1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0120": {
+      "field": "body",
+      "source": "Messaging tab",
+      "source_hash": "f4b10b56d2ce",
+      "target": "Messaging tab",
+      "translated_from_hash": "f4b10b56d2ce",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0121": {
+      "field": "body",
+      "source": "You can use the Messaging app to send emails to users who have participated in or are following the project.",
+      "source_hash": "d021e1c9af5d",
+      "target": "You can use the Messaging app to send emails to users who have participated in or are following the project.",
+      "translated_from_hash": "d021e1c9af5d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0122": {
+      "field": "body",
+      "source": "ℹ️ If your project allows participation without an account or anonymous participation, those users cannot be contacted through the Messaging tab.",
+      "source_hash": "c04282312d56",
+      "target": "ℹ️ If your project allows participation without an account or anonymous participation, those users cannot be contacted through the Messaging tab.",
+      "translated_from_hash": "c04282312d56",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0123": {
+      "field": "body",
+      "source": "Events tab",
+      "source_hash": "46948f910cbc",
+      "target": "Events tab",
+      "translated_from_hash": "46948f910cbc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0124": {
+      "field": "body",
+      "source": "You can find the events in the <b>project settings</b>, as the events aren't directly related to a phase, but always to the main project. Events allow you to link between your process and events happening outside the platform, for instance a launch event, offline participation sessions, theme-related events, or the release of final conclusions.",
+      "source_hash": "0e4910ce6c08",
+      "target": "You can find the events in the <b>project settings</b>, as the events aren't directly related to a phase, but always to the main project. Events allow you to link between your process and events happening outside the platform, for instance a launch event, offline participation sessions, theme-related events, or the release of final conclusions.",
+      "translated_from_hash": "0e4910ce6c08",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0125": {
+      "field": "body",
+      "source": "Events are displayed in a card view under timeline and separately in a tab on the project page. We still show the relevant events for every phase (happening when the phase is active) in that phase.",
+      "source_hash": "a0e5bf63e8f2",
+      "target": "Events are displayed in a card view under timeline and separately in a tab on the project page. We still show the relevant events for every phase (happening when the phase is active) in that phase.",
+      "translated_from_hash": "a0e5bf63e8f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0126": {
+      "field": "body",
+      "source": "360 inputs tab",
+      "source_hash": "fcb4e8ccc0ed",
+      "target": "360 inputs tab",
+      "translated_from_hash": "fcb4e8ccc0ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0127": {
+      "field": "body",
+      "source": "<b>360 Input</b> is GoVocal’s central hub for all your project files. It allows you to collect, organize and manage <b>any type of file</b> directly within your project, keeping everything in one place as your work progresses through the different phases.",
+      "source_hash": "f38ca4761435",
+      "target": "<b>360 Input</b> is GoVocal’s central hub for all your project files. It allows you to collect, organize and manage <b>any type of file</b> directly within your project, keeping everything in one place as your work progresses through the different phases.",
+      "translated_from_hash": "f38ca4761435",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0128": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527548-360-input-managing-your-files\" target=\"_blank\">📖 learn more about this tab and how attachments work on the platform here</a>",
+      "source_hash": "3fd8a53281a0",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527548-360-input-managing-your-files\" target=\"_blank\">📖 learn more about this tab and how attachments work on the platform here</a>",
+      "translated_from_hash": "3fd8a53281a0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0129": {
+      "field": "body",
+      "source": "Showing the participation numbers",
+      "source_hash": "f88c694a6be4",
+      "target": "Showing the participation numbers",
+      "translated_from_hash": "f88c694a6be4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0130": {
+      "field": "body",
+      "source": "The participation numbers for the project will appear in different places on the platform:",
+      "source_hash": "69cd96a85d0d",
+      "target": "The participation numbers for the project will appear in different places on the platform:",
+      "translated_from_hash": "69cd96a85d0d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0131": {
+      "field": "body",
+      "source": "It will appear on the project card on the homepage: not possible to remove",
+      "source_hash": "d2586be80c77",
+      "target": "It will appear on the project card on the homepage: not possible to remove",
+      "translated_from_hash": "d2586be80c77",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0132": {
+      "field": "body",
+      "source": "It will appear on the project card inside a folder: not possible to remove",
+      "source_hash": "d02a85f8afe7",
+      "target": "It will appear on the project card inside a folder: not possible to remove",
+      "translated_from_hash": "d02a85f8afe7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0133": {
+      "field": "body",
+      "source": "on the project description under the participation button: this participation number can be remove only if you are using the content builder for the project description:",
+      "source_hash": "aa777d201383",
+      "target": "on the project description under the participation button: this participation number can be remove only if you are using the content builder for the project description:",
+      "translated_from_hash": "aa777d201383",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0134": {
+      "field": "body",
+      "source": "Go to the <b>General</b> project settings tab of your project",
+      "source_hash": "1bb466e3da92",
+      "target": "Go to the <b>General</b> project settings tab of your project",
+      "translated_from_hash": "1bb466e3da92",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0135": {
+      "field": "body",
+      "source": "Turn on the <b>Content Builder for Description</b>",
+      "source_hash": "4a24932526bf",
+      "target": "Turn on the <b>Content Builder for Description</b>",
+      "translated_from_hash": "4a24932526bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0136": {
+      "field": "body",
+      "source": "In the content builder for project description you can add, move or remove the <b>Participation Box</b> widget",
+      "source_hash": "78d0cff334b6",
+      "target": "In the content builder for project description you can add, move or remove the <b>Participation Box</b> widget",
+      "translated_from_hash": "78d0cff334b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0137": {
+      "field": "body",
+      "source": "Toggle on or off <b>Hide participation avatars</b> option in the settings of this widget in the right hand panel",
+      "source_hash": "64740c81f277",
+      "target": "Toggle on or off <b>Hide participation avatars</b> option in the settings of this widget in the right hand panel",
+      "translated_from_hash": "64740c81f277",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0138": {
+      "field": "body",
+      "source": "How to create a project?",
+      "source_hash": "cb0db199942d",
+      "target": "How to create a project?",
+      "translated_from_hash": "cb0db199942d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0139": {
+      "field": "body",
+      "source": "Click on the <b>Projects</b> tab in the back office of your platform",
+      "source_hash": "c5b208709121",
+      "target": "Click on the <b>Projects</b> tab in the back office of your platform",
+      "translated_from_hash": "c5b208709121",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0140": {
+      "field": "body",
+      "source": "Click on <b>New Project</b> in the top right",
+      "source_hash": "fc256f3f450b",
+      "target": "Click on <b>New Project</b> in the top right",
+      "translated_from_hash": "fc256f3f450b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0141": {
+      "field": "body",
+      "source": "Fill in a title for your project in all available languages for your platform",
+      "source_hash": "1b08fb6b938b",
+      "target": "Fill in a title for your project in all available languages for your platform",
+      "translated_from_hash": "1b08fb6b938b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0142": {
+      "field": "body",
+      "source": "Create a timeline of different phases that outline your project",
+      "source_hash": "3c6436f0df84",
+      "target": "Create a timeline of different phases that outline your project",
+      "translated_from_hash": "3c6436f0df84",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0143": {
+      "field": "body",
+      "source": "Configure the project settings as per your preferences",
+      "source_hash": "be64e2f483c1",
+      "target": "Configure the project settings as per your preferences",
+      "translated_from_hash": "be64e2f483c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0144": {
+      "field": "body",
+      "source": "How to copy a project?",
+      "source_hash": "0120979ac5ab",
+      "target": "How to copy a project?",
+      "translated_from_hash": "0120979ac5ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0145": {
+      "field": "body",
+      "source": "To copy a project, go to the project management view, click the three dots in the far right of the bar to the project you want to duplicate, and select <b>Copy project</b>. You can then rename it and update the details as needed.",
+      "source_hash": "1adfbc44550f",
+      "target": "To copy a project, go to the project management view, click the three dots in the far right of the bar to the project you want to duplicate, and select <b>Copy project</b>. You can then rename it and update the details as needed.",
+      "translated_from_hash": "1adfbc44550f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0146": {
+      "field": "body",
+      "source": "You can also use this as a quick way to create multiple similar projects that only require minor adjustments.",
+      "source_hash": "8bc0e9d96295",
+      "target": "You can also use this as a quick way to create multiple similar projects that only require minor adjustments.",
+      "translated_from_hash": "8bc0e9d96295",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0147": {
+      "field": "body",
+      "source": "How to delete a project?",
+      "source_hash": "76265054efd2",
+      "target": "How to delete a project?",
+      "translated_from_hash": "76265054efd2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0148": {
+      "field": "body",
+      "source": "Navigate to the <b>Projects</b> tab in your back office",
+      "source_hash": "9dba3f049648",
+      "target": "Navigate to the <b>Projects</b> tab in your back office",
+      "translated_from_hash": "9dba3f049648",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0149": {
+      "field": "body",
+      "source": "Find the project you want to delete in the list",
+      "source_hash": "8fa0716abc96",
+      "target": "Find the project you want to delete in the list",
+      "translated_from_hash": "8fa0716abc96",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0150": {
+      "field": "body",
+      "source": "Click the 3 dots at the right and click <b>Delete Project</b>",
+      "source_hash": "2e61fe7b5a19",
+      "target": "Click the 3 dots at the right and click <b>Delete Project</b>",
+      "translated_from_hash": "2e61fe7b5a19",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0151": {
+      "field": "body",
+      "source": "<b>Confirm</b>",
+      "source_hash": "9a4d5e9bc037",
+      "target": "<b>Confirm</b>",
+      "translated_from_hash": "9a4d5e9bc037",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0152": {
+      "field": "body",
+      "source": "How to publish a project?",
+      "source_hash": "11e87a638c72",
+      "target": "How to publish a project?",
+      "translated_from_hash": "11e87a638c72",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0153": {
+      "field": "body",
+      "source": "The status of a project can by default only be managed by platform admins (or folder managers within their folder), therefore Project Managers are required to contact their admins (or folder manager) in order to get their project published or archived.",
+      "source_hash": "a34a2aca653b",
+      "target": "The status of a project can by default only be managed by platform admins (or folder managers within their folder), therefore Project Managers are required to contact their admins (or folder manager) in order to get their project published or archived.",
+      "translated_from_hash": "a34a2aca653b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0154": {
+      "field": "body",
+      "source": "Approval Flow Feature",
+      "source_hash": "fa01aae6fc22",
+      "target": "Approval Flow Feature",
+      "translated_from_hash": "fa01aae6fc22",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0155": {
+      "field": "body",
+      "source": "We have a feature ‘approver flow functionality’, and if this is enabled for your platform, you will be able to request project publication approval from your admin or folder manager. This request will trigger a notification to the admin or folder manager requesting them to review and approve the project. Once approved, the project manager can publish the project at their own leisure.",
+      "source_hash": "65277e6ff490",
+      "target": "We have a feature ‘approver flow functionality’, and if this is enabled for your platform, you will be able to request project publication approval from your admin or folder manager. This request will trigger a notification to the admin or folder manager requesting them to review and approve the project. Once approved, the project manager can publish the project at their own leisure.",
+      "translated_from_hash": "65277e6ff490",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0156": {
+      "field": "body",
+      "source": "The approval flow is a 1 time approval flow - therefore if the project has been approved once, then the button to ask for review/ask for approval will not appear again even if changes have been made.",
+      "source_hash": "5d1251afa12b",
+      "target": "The approval flow is a 1 time approval flow - therefore if the project has been approved once, then the button to ask for review/ask for approval will not appear again even if changes have been made.",
+      "translated_from_hash": "5d1251afa12b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0157": {
+      "field": "body",
+      "source": "ℹ️ The approval Flow Functionality is available to Premium and Enterprise Price Plan, if you would like this feature disabled you can contact our support team via the chat bubble.",
+      "source_hash": "da6ec00d61db",
+      "target": "ℹ️ The approval Flow Functionality is available to Premium and Enterprise Price Plan, if you would like this feature disabled you can contact our support team via the chat bubble.",
+      "translated_from_hash": "da6ec00d61db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0158": {
+      "field": "body",
+      "source": "Archived Projects:",
+      "source_hash": "c5a3ce16099e",
+      "target": "Archived Projects:",
+      "translated_from_hash": "c5a3ce16099e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0159": {
+      "field": "body",
+      "source": "Archived projects remain visible in the main project list. However, if you want to <b>hide them from the navigation bar’s dropdown menu</b>, you have two options:",
+      "source_hash": "ab9f7e111443",
+      "target": "Archived projects remain visible in the main project list. However, if you want to <b>hide them from the navigation bar’s dropdown menu</b>, you have two options:",
+      "translated_from_hash": "ab9f7e111443",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0160": {
+      "field": "body",
+      "source": "<b>Reorder the project list:</b> Drag the archived projects to the bottom of the list in the <b>All Projects</b> tab in the back office.",
+      "source_hash": "de73fac3d69f",
+      "target": "<b>Reorder the project list:</b> Drag the archived projects to the bottom of the list in the <b>All Projects</b> tab in the back office.",
+      "translated_from_hash": "de73fac3d69f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0161": {
+      "field": "body",
+      "source": "<b>Organize them into a folder:</b> Move them into a \"Finished Projects\" folder to keep your active list clean and focused.",
+      "source_hash": "685d5994d17b",
+      "target": "<b>Organize them into a folder:</b> Move them into a \"Finished Projects\" folder to keep your active list clean and focused.",
+      "translated_from_hash": "685d5994d17b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0162": {
+      "field": "body",
+      "source": "<b>How to schedule publishing a project:</b>",
+      "source_hash": "79306eaf51dd",
+      "target": "<b>How to schedule publishing a project:</b>",
+      "translated_from_hash": "79306eaf51dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0163": {
+      "field": "body",
+      "source": "When you project is ready you can decide to publish it now or schedule when it is published. Once published the project will be public.",
+      "source_hash": "6ba3a286d4b9",
+      "target": "When you project is ready you can decide to publish it now or schedule when it is published. Once published the project will be public.",
+      "translated_from_hash": "6ba3a286d4b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0164": {
+      "field": "body",
+      "source": "When you are ready press on <b>Publish</b> button in the top right corner of your project",
+      "source_hash": "a815ea535aa7",
+      "target": "When you are ready press on <b>Publish</b> button in the top right corner of your project",
+      "translated_from_hash": "a815ea535aa7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0165": {
+      "field": "body",
+      "source": "A pop up will then appear and ask you to schedule it at a specific date or published now. In this pop up you can edit the date and time, you can also edit visibility and see how many users will receive the “new published project” email notification which you can toggle off if you don’t want to send this notification for this project.",
+      "source_hash": "72d02378a81b",
+      "target": "A pop up will then appear and ask you to schedule it at a specific date or published now. In this pop up you can edit the date and time, you can also edit visibility and see how many users will receive the “new published project” email notification which you can toggle off if you don’t want to send this notification for this project.",
+      "translated_from_hash": "72d02378a81b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0166": {
+      "field": "body",
+      "source": "you can edit the scheduled time or cancel the scheduling by pressing on the Scheduled button in the top right at any time",
+      "source_hash": "7ea5c20691b8",
+      "target": "you can edit the scheduled time or cancel the scheduling by pressing on the Scheduled button in the top right at any time",
+      "translated_from_hash": "7ea5c20691b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0167": {
+      "field": "body",
+      "source": "you can continue to edit the project while scheduled",
+      "source_hash": "fe84d1d35603",
+      "target": "you can continue to edit the project while scheduled",
+      "translated_from_hash": "fe84d1d35603",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0168": {
+      "field": "body",
+      "source": "At the scheduled time and date, the platform publishes the project automatically — no manual intervention required",
+      "source_hash": "b8130eb7ebe8",
+      "target": "At the scheduled time and date, the platform publishes the project automatically — no manual intervention required",
+      "translated_from_hash": "b8130eb7ebe8",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

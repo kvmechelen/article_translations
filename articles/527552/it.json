@@ -1,0 +1,502 @@
+{
+  "article_id": "527552",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Community Monitoring/Resident Satisfaction Survey",
+      "source_hash": "46ae17833764",
+      "target": "Community Monitoring/Resident Satisfaction Survey",
+      "translated_from_hash": "46ae17833764",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is the Community Monitor?",
+      "source_hash": "22585f2eef16",
+      "target": "What is the Community Monitor?",
+      "translated_from_hash": "22585f2eef16",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "The Community Monitoring Survey is an “always-on” survey designed to continuously capture resident sentiment and provide long‑term insights.",
+      "source_hash": "aadbe20c333a",
+      "target": "The Community Monitoring Survey is an “always-on” survey designed to continuously capture resident sentiment and provide long‑term insights.",
+      "translated_from_hash": "aadbe20c333a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "It delivers:",
+      "source_hash": "e22c6f5d961c",
+      "target": "It delivers:",
+      "translated_from_hash": "e22c6f5d961c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "<b>Strategic value:</b> Acts as an early warning system for declining satisfaction in trust, services, or quality of life. Helps policy makers act proactively rather than reactively.",
+      "source_hash": "d0094591584c",
+      "target": "<b>Strategic value:</b> Acts as an early warning system for declining satisfaction in trust, services, or quality of life. Helps policy makers act proactively rather than reactively.",
+      "translated_from_hash": "d0094591584c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "<b>Cost &amp; resource efficiency:</b> More affordable and efficient than manually administered surveys. It continuously collects data and streamlines analysis directly within the platform, reducing reliance on external consultants.",
+      "source_hash": "9567b051db0f",
+      "target": "<b>Cost &amp; resource efficiency:</b> More affordable and efficient than manually administered surveys. It continuously collects data and streamlines analysis directly within the platform, reducing reliance on external consultants.",
+      "translated_from_hash": "9567b051db0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "<b>A culture of engagement:</b> Because the survey is always available, it normalizes ongoing feedback, builds trust, and offers a low‑barrier way for residents to share input.",
+      "source_hash": "14bf55079035",
+      "target": "<b>A culture of engagement:</b> Because the survey is always available, it normalizes ongoing feedback, builds trust, and offers a low‑barrier way for residents to share input.",
+      "translated_from_hash": "14bf55079035",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "When to enable to Community monitor",
+      "source_hash": "8ab8764fabac",
+      "target": "When to enable to Community monitor",
+      "translated_from_hash": "8ab8764fabac",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "We recommend launching the Community Monitor from the start, especially if there is at least one active consultation driving regular traffic. This allows you to capture longitudinal data from day one, though initial results may not be statistically significant if responses are low. Treat early data as directional or exploratory rather than representative.To maximize its effectiveness, you should plan to promote the Community Monitor survey separately from project launches. Given that it’s an always-on tool, sustained visibility through existing communication channels, websites, and local news sites is essential to drive ongoing participation.",
+      "source_hash": "e77211c59bf5",
+      "target": "We recommend launching the Community Monitor from the start, especially if there is at least one active consultation driving regular traffic. This allows you to capture longitudinal data from day one, though initial results may not be statistically significant if responses are low. Treat early data as directional or exploratory rather than representative.To maximize its effectiveness, you should plan to promote the Community Monitor survey separately from project launches. Given that it’s an always-on tool, sustained visibility through existing communication channels, websites, and local news sites is essential to drive ongoing participation.",
+      "translated_from_hash": "e77211c59bf5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "How and what data is managed in the Community Monitor?",
+      "source_hash": "dad4d93e47b5",
+      "target": "How and what data is managed in the Community Monitor?",
+      "translated_from_hash": "dad4d93e47b5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "How data is collected and used",
+      "source_hash": "60c477524288",
+      "target": "How data is collected and used",
+      "translated_from_hash": "60c477524288",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Answer frequency:</b> Residents can only submit the survey once per quarter.",
+      "source_hash": "c612d429c179",
+      "target": "<b>Answer frequency:</b> Residents can only submit the survey once per quarter.",
+      "translated_from_hash": "c612d429c179",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Duplicate prevention:</b> Device recognition helps limit multiple submissions from the same device, but it’s possible for one user to submit more than once if they use different devices or networks.",
+      "source_hash": "12fc3739d024",
+      "target": "<b>Duplicate prevention:</b> Device recognition helps limit multiple submissions from the same device, but it’s possible for one user to submit more than once if they use different devices or networks.",
+      "translated_from_hash": "12fc3739d024",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "The Live Monitor Dashboard",
+      "source_hash": "d0dc741b47d2",
+      "target": "The Live Monitor Dashboard",
+      "translated_from_hash": "d0dc741b47d2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "The Live Monitor Dashboard provides a top‑level “Health Score” and category breakdown:",
+      "source_hash": "25dea5447714",
+      "target": "The Live Monitor Dashboard provides a top‑level “Health Score” and category breakdown:",
+      "translated_from_hash": "25dea5447714",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Governance &amp; Trust",
+      "source_hash": "19f3305db317",
+      "target": "Governance &amp; Trust",
+      "translated_from_hash": "19f3305db317",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Community Life",
+      "source_hash": "e0ea8e496c7c",
+      "target": "Community Life",
+      "translated_from_hash": "e0ea8e496c7c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Services",
+      "source_hash": "604dce445e32",
+      "target": "Services",
+      "translated_from_hash": "604dce445e32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Other (for any additional questions admins added)",
+      "source_hash": "3ab02b20832e",
+      "target": "Other (for any additional questions admins added)",
+      "translated_from_hash": "3ab02b20832e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>What you can do in the dashboard:</b>",
+      "source_hash": "2479ad44bf62",
+      "target": "<b>What you can do in the dashboard:</b>",
+      "translated_from_hash": "2479ad44bf62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "View scores per quarter and switch between quarters",
+      "source_hash": "15118049d1b8",
+      "target": "View scores per quarter and switch between quarters",
+      "translated_from_hash": "15118049d1b8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Track quarter‑over‑quarter trends and benchmarking",
+      "source_hash": "08bac28e70a2",
+      "target": "Track quarter‑over‑quarter trends and benchmarking",
+      "translated_from_hash": "08bac28e70a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "How is the Health Score calculated?",
+      "source_hash": "9ec796611aed",
+      "target": "How is the Health Score calculated?",
+      "translated_from_hash": "9ec796611aed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "The Health Score is the average of all sentiment questions.",
+      "source_hash": "302d71cc22ea",
+      "target": "The Health Score is the average of all sentiment questions.",
+      "translated_from_hash": "302d71cc22ea",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Each default question contributes to one of the three main pillars.",
+      "source_hash": "c16370cc938c",
+      "target": "Each default question contributes to one of the three main pillars.",
+      "translated_from_hash": "c16370cc938c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Newly added questions:",
+      "source_hash": "f863a19c817c",
+      "target": "Newly added questions:",
+      "translated_from_hash": "f863a19c817c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Are automatically categorized as Other.",
+      "source_hash": "e72371f87ab5",
+      "target": "Are automatically categorized as Other.",
+      "translated_from_hash": "e72371f87ab5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "Their scores are included in both the Other category average and the Overall Health Score.",
+      "source_hash": "374d9f882ac6",
+      "target": "Their scores are included in both the Other category average and the Overall Health Score.",
+      "translated_from_hash": "374d9f882ac6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "How to set up the Community Monitor?",
+      "source_hash": "d0c5f738704d",
+      "target": "How to set up the Community Monitor?",
+      "translated_from_hash": "d0c5f738704d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>1. Access the feature</b>",
+      "source_hash": "f8226bb8bd5b",
+      "target": "<b>1. Access the feature</b>",
+      "translated_from_hash": "f8226bb8bd5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Find the survey under the Community Monitor tab in the admin panel.",
+      "source_hash": "488bcc0178e9",
+      "target": "Find the survey under the Community Monitor tab in the admin panel.",
+      "translated_from_hash": "488bcc0178e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>2. General settings &amp; survey creation</b>",
+      "source_hash": "64d814164e93",
+      "target": "<b>2. General settings &amp; survey creation</b>",
+      "translated_from_hash": "64d814164e93",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Use the community monitor <b>Settings</b> tab &gt; <b>General Settings</b> to build your survey.",
+      "source_hash": "2128b12b91b6",
+      "target": "Use the community monitor <b>Settings</b> tab &gt; <b>General Settings</b> to build your survey.",
+      "translated_from_hash": "2128b12b91b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "By default, 11 sentiment scale questions across Quality of Life, Service Delivery, and Governance &amp; Trust are included. These can be edited.",
+      "source_hash": "c0646251fcfb",
+      "target": "By default, 11 sentiment scale questions across Quality of Life, Service Delivery, and Governance &amp; Trust are included. These can be edited.",
+      "translated_from_hash": "c0646251fcfb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Add new sentiment questions if needed. These appear under the “Other” category in the live monitor (they don’t slot into the three default pillars).",
+      "source_hash": "5bed597e9034",
+      "target": "Add new sentiment questions if needed. These appear under the “Other” category in the live monitor (they don’t slot into the three default pillars).",
+      "translated_from_hash": "5bed597e9034",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Optionally, add demographic questions.",
+      "source_hash": "8b6f0bd7ffa7",
+      "target": "Optionally, add demographic questions.",
+      "translated_from_hash": "8b6f0bd7ffa7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>3. Pop‑up settings</b>",
+      "source_hash": "19573e88036d",
+      "target": "<b>3. Pop‑up settings</b>",
+      "translated_from_hash": "19573e88036d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Pop‑ups appear only when:",
+      "source_hash": "1395ca91a89f",
+      "target": "Pop‑ups appear only when:",
+      "translated_from_hash": "1395ca91a89f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Submissions are being accepted.",
+      "source_hash": "19474d1a90f9",
+      "target": "Submissions are being accepted.",
+      "translated_from_hash": "19474d1a90f9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "The resident hasn’t seen the pop‑up or submitted a survey in the past 3 months.",
+      "source_hash": "42c6c17081e3",
+      "target": "The resident hasn’t seen the pop‑up or submitted a survey in the past 3 months.",
+      "translated_from_hash": "42c6c17081e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Pop‑ups trigger on homepage load, custom pages, event registrations, voting, or when returning to a project page after submitting a survey.",
+      "source_hash": "e09679c9f218",
+      "target": "Pop‑ups trigger on homepage load, custom pages, event registrations, voting, or when returning to a project page after submitting a survey.",
+      "translated_from_hash": "e09679c9f218",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Admins can set the number of times a pop‑up appears per quarter, or disable it entirely by setting the frequency to 0.",
+      "source_hash": "2a366a9758b3",
+      "target": "Admins can set the number of times a pop‑up appears per quarter, or disable it entirely by setting the frequency to 0.",
+      "translated_from_hash": "2a366a9758b3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "A homepage widget can also be added via the homepage builder (<b>Pages and menu</b> tab &gt; <b>homepage</b> edit). Make sure the Community monitor is <b>Open For Responses </b>in the community monitor <b>Settings</b> tab &gt; <b>General Settings, </b>otherwise this homeapge widget will not be visible on the homepage.",
+      "source_hash": "4a6735457c7c",
+      "target": "A homepage widget can also be added via the homepage builder (<b>Pages and menu</b> tab &gt; <b>homepage</b> edit). Make sure the Community monitor is <b>Open For Responses </b>in the community monitor <b>Settings</b> tab &gt; <b>General Settings, </b>otherwise this homeapge widget will not be visible on the homepage.",
+      "translated_from_hash": "4a6735457c7c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "<b>4. Access rights</b>",
+      "source_hash": "68764ed787a2",
+      "target": "<b>4. Access rights</b>",
+      "translated_from_hash": "68764ed787a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Configure who can participate (open to all or restricted to registered users).",
+      "source_hash": "6e309d975d67",
+      "target": "Configure who can participate (open to all or restricted to registered users).",
+      "translated_from_hash": "6e309d975d67",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "If set to “none” (no login required), users can answer anonymously, but device recognition used to prevent duplicate submissions is not foolproof.",
+      "source_hash": "252f1a4003b9",
+      "target": "If set to “none” (no login required), users can answer anonymously, but device recognition used to prevent duplicate submissions is not foolproof.",
+      "translated_from_hash": "252f1a4003b9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "How to view the responses?",
+      "source_hash": "2e71c802d29d",
+      "target": "How to view the responses?",
+      "translated_from_hash": "2e71c802d29d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "<b>Qualitative analysis:</b> Turn on <code>ask follow up</code> in the survey builder to enable AI to analyze open‑ended responses.",
+      "source_hash": "910c9f1c7604",
+      "target": "<b>Qualitative analysis:</b> Turn on <code>ask follow up</code> in the survey builder to enable AI to analyze open‑ended responses.",
+      "translated_from_hash": "910c9f1c7604",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "<b>Download raw data:</b> Go to <b>General Settings → click the 3 dots next to Edit Survey → Download survey results</b>.",
+      "source_hash": "1c8c60736a0b",
+      "target": "<b>Download raw data:</b> Go to <b>General Settings → click the 3 dots next to Edit Survey → Download survey results</b>.",
+      "translated_from_hash": "1c8c60736a0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "How to create quarterly reports?",
+      "source_hash": "56aa797e9692",
+      "target": "How to create quarterly reports?",
+      "translated_from_hash": "56aa797e9692",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "The Community Monitor reports are also automatically generated quarterly - At the start of each quarter, admins automatically receive an email with the report for the previous quarter. To create your follow the steps below:",
+      "source_hash": "57c1cc851f5a",
+      "target": "The Community Monitor reports are also automatically generated quarterly - At the start of each quarter, admins automatically receive an email with the report for the previous quarter. To create your follow the steps below:",
+      "translated_from_hash": "57c1cc851f5a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Go to the <b>Reporting</b> tab.",
+      "source_hash": "70ddb909ea13",
+      "target": "Go to the <b>Reporting</b> tab.",
+      "translated_from_hash": "70ddb909ea13",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Select the <b>Community Monitor template</b> and generate an auto‑populated report with one click.",
+      "source_hash": "5746be6a366f",
+      "target": "Select the <b>Community Monitor template</b> and generate an auto‑populated report with one click.",
+      "translated_from_hash": "5746be6a366f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "Use the Survey Question Widget to filter and analyze responses by registration fields for a demographic breakdown.",
+      "source_hash": "c20c7f1d3bbb",
+      "target": "Use the Survey Question Widget to filter and analyze responses by registration fields for a demographic breakdown.",
+      "translated_from_hash": "c20c7f1d3bbb",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

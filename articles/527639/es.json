@@ -1,0 +1,466 @@
+{
+  "article_id": "527639",
+  "language": "es",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Optimizing metadata for SEO and Social Sharing",
+      "source_hash": "b55dac6b5c45",
+      "target": "Optimizing metadata for SEO and Social Sharing",
+      "translated_from_hash": "b55dac6b5c45",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is metadata?",
+      "source_hash": "1311bc565a87",
+      "target": "What is metadata?",
+      "translated_from_hash": "1311bc565a87",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Metadata is descriptive information about your platform content that appears in search engines or on social media previews. It includes:",
+      "source_hash": "8e55b0289a4b",
+      "target": "Metadata is descriptive information about your platform content that appears in search engines or on social media previews. It includes:",
+      "translated_from_hash": "8e55b0289a4b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "The meta title (page headline)",
+      "source_hash": "b9981afd9ed1",
+      "target": "The meta title (page headline)",
+      "translated_from_hash": "b9981afd9ed1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "The meta description (preview text)",
+      "source_hash": "dad3c8d343e9",
+      "target": "The meta description (preview text)",
+      "translated_from_hash": "dad3c8d343e9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "The preview image",
+      "source_hash": "ec699716f006",
+      "target": "The preview image",
+      "translated_from_hash": "ec699716f006",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "These tags are not visible on the platform itself, but they influence how people discover and click on your platform externally. Proper metadata improves:",
+      "source_hash": "0659e3e1ad7e",
+      "target": "These tags are not visible on the platform itself, but they influence how people discover and click on your platform externally. Proper metadata improves:",
+      "translated_from_hash": "0659e3e1ad7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Your platform’s visibility (SEO)",
+      "source_hash": "e4a90453ee7e",
+      "target": "Your platform’s visibility (SEO)",
+      "translated_from_hash": "e4a90453ee7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "How trustworthy and clear it looks when shared",
+      "source_hash": "ebe700aaab0f",
+      "target": "How trustworthy and clear it looks when shared",
+      "translated_from_hash": "ebe700aaab0f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Engagement and click-through rates",
+      "source_hash": "9b90e1484ed6",
+      "target": "Engagement and click-through rates",
+      "translated_from_hash": "9b90e1484ed6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "What is default metadata on the platform?",
+      "source_hash": "1c70aaf7e26e",
+      "target": "What is default metadata on the platform?",
+      "translated_from_hash": "1c70aaf7e26e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Platform homepage",
+      "source_hash": "2d3f6ce3d674",
+      "target": "Platform homepage",
+      "translated_from_hash": "2d3f6ce3d674",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Title: <i>Citizen engagement platform of [Organization Name] | GoVocal</i>",
+      "source_hash": "c5eea4437a0b",
+      "target": "Title: <i>Citizen engagement platform of [Organization Name] | GoVocal</i>",
+      "translated_from_hash": "c5eea4437a0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Description: <i>Welcome to the online citizen engagement platform of [Organization Name]. Explore local projects and vote on your favourite ideas. Come participate in the discussions!</i>",
+      "source_hash": "76d0ff403117",
+      "target": "Description: <i>Welcome to the online citizen engagement platform of [Organization Name]. Explore local projects and vote on your favourite ideas. Come participate in the discussions!</i>",
+      "translated_from_hash": "76d0ff403117",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Image: Platform header image",
+      "source_hash": "4189241029d3",
+      "target": "Image: Platform header image",
+      "translated_from_hash": "4189241029d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Projects overview",
+      "source_hash": "910d616e28c7",
+      "target": "Projects overview",
+      "translated_from_hash": "910d616e28c7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "Title: <i>Projects • [Organization Name]</i>",
+      "source_hash": "5c51ec2a8667",
+      "target": "Title: <i>Projects • [Organization Name]</i>",
+      "translated_from_hash": "5c51ec2a8667",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Description: <i>Explore all ongoing projects...</i>",
+      "source_hash": "9d0ad158c3d6",
+      "target": "Description: <i>Explore all ongoing projects...</i>",
+      "translated_from_hash": "9d0ad158c3d6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Image: Platform header image",
+      "source_hash": "4189241029d3",
+      "target": "Image: Platform header image",
+      "translated_from_hash": "4189241029d3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "Individual project page",
+      "source_hash": "710f36414d1d",
+      "target": "Individual project page",
+      "translated_from_hash": "710f36414d1d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Title: <i>Project • [Project Title]</i>",
+      "source_hash": "db0886ee9418",
+      "target": "Title: <i>Project • [Project Title]</i>",
+      "translated_from_hash": "db0886ee9418",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Image: Project banner image",
+      "source_hash": "6d0d7a3fbd70",
+      "target": "Image: Project banner image",
+      "translated_from_hash": "6d0d7a3fbd70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "Ideas overview",
+      "source_hash": "c78faa0eefc3",
+      "target": "Ideas overview",
+      "translated_from_hash": "c78faa0eefc3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Title: <i>All Ideas • [Organization Name]</i>",
+      "source_hash": "96c8ee191fc4",
+      "target": "Title: <i>All Ideas • [Organization Name]</i>",
+      "translated_from_hash": "96c8ee191fc4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "Description: <i>Explore all ideas posted...</i>",
+      "source_hash": "93c80221fcbf",
+      "target": "Description: <i>Explore all ideas posted...</i>",
+      "translated_from_hash": "93c80221fcbf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Individual idea",
+      "source_hash": "3d74f8dd497c",
+      "target": "Individual idea",
+      "translated_from_hash": "3d74f8dd497c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Title: <i>Idea • [Idea Title]</i>",
+      "source_hash": "a12999b0716a",
+      "target": "Title: <i>Idea • [Idea Title]</i>",
+      "translated_from_hash": "a12999b0716a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "If shared by author: <i>Support my idea: [Idea Title]</i>",
+      "source_hash": "efc43e8e49a7",
+      "target": "If shared by author: <i>Support my idea: [Idea Title]</i>",
+      "translated_from_hash": "efc43e8e49a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Image: User-uploaded image",
+      "source_hash": "2fcdd983ba91",
+      "target": "Image: User-uploaded image",
+      "translated_from_hash": "2fcdd983ba91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "These defaults update dynamically based on the page being viewed to optimize discoverability.",
+      "source_hash": "844f37e5559f",
+      "target": "These defaults update dynamically based on the page being viewed to optimize discoverability.",
+      "translated_from_hash": "844f37e5559f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Tips on how to improve search engine ranking",
+      "source_hash": "8d34329edc42",
+      "target": "Tips on how to improve search engine ranking",
+      "translated_from_hash": "8d34329edc42",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Search engines use many factors to rank pages, but two areas you can influence are metadata and content popularity.",
+      "source_hash": "46f0867e7644",
+      "target": "Search engines use many factors to rank pages, but two areas you can influence are metadata and content popularity.",
+      "translated_from_hash": "46f0867e7644",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Metadata tips:",
+      "source_hash": "608eff47e1f8",
+      "target": "Metadata tips:",
+      "translated_from_hash": "608eff47e1f8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Use clear, descriptive titles and descriptions",
+      "source_hash": "17aef515f936",
+      "target": "Use clear, descriptive titles and descriptions",
+      "translated_from_hash": "17aef515f936",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Include relevant keywords (e.g. city name, voting, participation)",
+      "source_hash": "c31b737120a1",
+      "target": "Include relevant keywords (e.g. city name, voting, participation)",
+      "translated_from_hash": "c31b737120a1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Content popularity tips:",
+      "source_hash": "57f80a79fb54",
+      "target": "Content popularity tips:",
+      "translated_from_hash": "57f80a79fb54",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Publish content regularly (e.g. ideas, updates, events)",
+      "source_hash": "cd3c3266248c",
+      "target": "Publish content regularly (e.g. ideas, updates, events)",
+      "translated_from_hash": "cd3c3266248c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Share links on reliable channels (e.g. newsletters, social media)",
+      "source_hash": "b6197c06aed3",
+      "target": "Share links on reliable channels (e.g. newsletters, social media)",
+      "translated_from_hash": "b6197c06aed3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Encourage backlinking from official websites",
+      "source_hash": "828f1db6aa1c",
+      "target": "Encourage backlinking from official websites",
+      "translated_from_hash": "828f1db6aa1c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Avoid spamming, quality matters more than quantity.",
+      "source_hash": "11537fcf1037",
+      "target": "Avoid spamming, quality matters more than quantity.",
+      "translated_from_hash": "11537fcf1037",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "How to customize your platforms metadata?",
+      "source_hash": "a3a960a4e65d",
+      "target": "How to customize your platforms metadata?",
+      "translated_from_hash": "a3a960a4e65d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "<b>Steps:</b>",
+      "source_hash": "79ea6cc10451",
+      "target": "<b>Steps:</b>",
+      "translated_from_hash": "79ea6cc10451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Identify which page(s) you want to update (e.g., homepage, a project, idea page).",
+      "source_hash": "60cfe3ce6a0c",
+      "target": "Identify which page(s) you want to update (e.g., homepage, a project, idea page).",
+      "translated_from_hash": "60cfe3ce6a0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "Prepare the new metadata:",
+      "source_hash": "0207017e7c79",
+      "target": "Prepare the new metadata:",
+      "translated_from_hash": "0207017e7c79",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Title",
+      "source_hash": "7e8cd2056da7",
+      "target": "Title",
+      "translated_from_hash": "7e8cd2056da7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Description",
+      "source_hash": "526e0087cc3f",
+      "target": "Description",
+      "translated_from_hash": "526e0087cc3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Optional preview image (where applicable)",
+      "source_hash": "a91858b2afb0",
+      "target": "Optional preview image (where applicable)",
+      "translated_from_hash": "a91858b2afb0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Open the chat bubble on the bottom right of your platform.",
+      "source_hash": "01404005d12e",
+      "target": "Open the chat bubble on the bottom right of your platform.",
+      "translated_from_hash": "01404005d12e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "Contact the Go Vocal support team and provide the new metadata.",
+      "source_hash": "a849202ec972",
+      "target": "Contact the Go Vocal support team and provide the new metadata.",
+      "translated_from_hash": "a849202ec972",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "They will update the tags on your behalf.",
+      "source_hash": "71c2965eef81",
+      "target": "They will update the tags on your behalf.",
+      "translated_from_hash": "71c2965eef81",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

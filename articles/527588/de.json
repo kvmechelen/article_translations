@@ -1,0 +1,421 @@
+{
+  "article_id": "527588",
+  "language": "de",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Tag, copy and move ideas and posts",
+      "source_hash": "ad97476a5909",
+      "target": "Tag, copy and move ideas and posts",
+      "translated_from_hash": "ad97476a5909",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Moving input between phases and projects.",
+      "source_hash": "046fb8519c1b",
+      "target": "Moving input between phases and projects.",
+      "translated_from_hash": "046fb8519c1b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Why moving and copying inputs?",
+      "source_hash": "f41e2c3758cd",
+      "target": "Why moving and copying inputs?",
+      "translated_from_hash": "f41e2c3758cd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "There are many reasons why you might want to reuse or highlight contributions, some examples are:",
+      "source_hash": "2fc47b68f971",
+      "target": "There are many reasons why you might want to reuse or highlight contributions, some examples are:",
+      "translated_from_hash": "2fc47b68f971",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Present winners in a new phase after jury evaluation",
+      "source_hash": "a912e2a0f932",
+      "target": "Present winners in a new phase after jury evaluation",
+      "translated_from_hash": "a912e2a0f932",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Prepare a pre-selection for citizens to vote on",
+      "source_hash": "1ea60b05f0ef",
+      "target": "Prepare a pre-selection for citizens to vote on",
+      "translated_from_hash": "1ea60b05f0ef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Showcase high-quality ideas in later stages",
+      "source_hash": "a76f0df49675",
+      "target": "Showcase high-quality ideas in later stages",
+      "translated_from_hash": "a76f0df49675",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Copying and moving input helps carry ideas forward in the project timeline or into other projects.",
+      "source_hash": "562fcc8058f1",
+      "target": "Copying and moving input helps carry ideas forward in the project timeline or into other projects.",
+      "translated_from_hash": "562fcc8058f1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "⚠️ : Moving input doesn’t create a new idea, the same input simply appears in multiple phases. If you edit it later, the change applies everywhere it appears. This also means that if you move an input to another project it doesn't live in both projects, it only lives in the one it was moved to.",
+      "source_hash": "5df44ec5b109",
+      "target": "⚠️ : Moving input doesn’t create a new idea, the same input simply appears in multiple phases. If you edit it later, the change applies everywhere it appears. This also means that if you move an input to another project it doesn't live in both projects, it only lives in the one it was moved to.",
+      "translated_from_hash": "5df44ec5b109",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Input manager overview",
+      "source_hash": "993421adaf3d",
+      "target": "Input manager overview",
+      "translated_from_hash": "993421adaf3d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "The Input Manager exists at two levels:",
+      "source_hash": "93eb6f0cd197",
+      "target": "The Input Manager exists at two levels:",
+      "translated_from_hash": "93eb6f0cd197",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "<b>Platform-level:</b> Backoffice → Input Manager",
+      "source_hash": "e813ed339944",
+      "target": "<b>Platform-level:</b> Backoffice → Input Manager",
+      "translated_from_hash": "e813ed339944",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "<b>Project-level:</b> Ideation, proposals, or voting phase → Input Manager",
+      "source_hash": "c809b6aa1f89",
+      "target": "<b>Project-level:</b> Ideation, proposals, or voting phase → Input Manager",
+      "translated_from_hash": "c809b6aa1f89",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "<b>Functionality:</b>",
+      "source_hash": "422cbd404f35",
+      "target": "<b>Functionality:</b>",
+      "translated_from_hash": "422cbd404f35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Default view is <i>Timeline</i>, showing which phase inputs belong to",
+      "source_hash": "bb655f6a24a8",
+      "target": "Default view is <i>Timeline</i>, showing which phase inputs belong to",
+      "translated_from_hash": "bb655f6a24a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Numbers below contributions indicate assigned phases",
+      "source_hash": "27dfae80db00",
+      "target": "Numbers below contributions indicate assigned phases",
+      "translated_from_hash": "27dfae80db00",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "Drag-and-drop bulk actions let you assign up to 10 inputs at once",
+      "source_hash": "da1609888b23",
+      "target": "Drag-and-drop bulk actions let you assign up to 10 inputs at once",
+      "translated_from_hash": "da1609888b23",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Limitations:</b>",
+      "source_hash": "af1b0e97da34",
+      "target": "<b>Limitations:</b>",
+      "translated_from_hash": "af1b0e97da34",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Proposal submissions do not appear in the platform-level Input Manager",
+      "source_hash": "9b3eba64bcd3",
+      "target": "Proposal submissions do not appear in the platform-level Input Manager",
+      "translated_from_hash": "9b3eba64bcd3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Proposals can only be managed through the project-level Input Manager",
+      "source_hash": "5d88fd6192ba",
+      "target": "Proposals can only be managed through the project-level Input Manager",
+      "translated_from_hash": "5d88fd6192ba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "How to move or copy inputs between phases?",
+      "source_hash": "4f8c2e72e8c3",
+      "target": "How to move or copy inputs between phases?",
+      "translated_from_hash": "4f8c2e72e8c3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Inputs can be moved between ideation phases (phases using the <i>Collect input and feedback</i> or <i>Proposals, petitions or initiatives</i> method, or voting phases ( phases using the <i>Conduct a voting or prioritization exercise </i>method).",
+      "source_hash": "101592a69d0c",
+      "target": "Inputs can be moved between ideation phases (phases using the <i>Collect input and feedback</i> or <i>Proposals, petitions or initiatives</i> method, or voting phases ( phases using the <i>Conduct a voting or prioritization exercise </i>method).",
+      "translated_from_hash": "101592a69d0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "Ensure your targeted phases are using the <i>Collect input and feedback</i> or <i>Proposals, petitions or initiatives</i> OR <i>Conduct a voting or prioritization exercise </i>methods.",
+      "source_hash": "b67e755c658c",
+      "target": "Ensure your targeted phases are using the <i>Collect input and feedback</i> or <i>Proposals, petitions or initiatives</i> OR <i>Conduct a voting or prioritization exercise </i>methods.",
+      "translated_from_hash": "b67e755c658c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "In the Admin panel, open the project and select the phase where the current inputs is in",
+      "source_hash": "29d85cc6688c",
+      "target": "In the Admin panel, open the project and select the phase where the current inputs is in",
+      "translated_from_hash": "29d85cc6688c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Click <b>Input Manager </b>tab.",
+      "source_hash": "b6233e798e32",
+      "target": "Click <b>Input Manager </b>tab.",
+      "translated_from_hash": "b6233e798e32",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "In the <i>Timeline</i> view, select the input you want to copy or move.",
+      "source_hash": "4d451b6bd506",
+      "target": "In the <i>Timeline</i> view, select the input you want to copy or move.",
+      "translated_from_hash": "4d451b6bd506",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>To copy</b>: keep the input in multiple phases by selecting multiple blue number bubbles below the input, which corresponds to the phases you want the input in",
+      "source_hash": "3be055ae9dec",
+      "target": "<b>To copy</b>: keep the input in multiple phases by selecting multiple blue number bubbles below the input, which corresponds to the phases you want the input in",
+      "translated_from_hash": "3be055ae9dec",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>To move</b>: remove it from the original phase and add it to another by de-selecting the current blue number bubble and select the correct blue number bubble below the input, which corresponds to the phases you want the input in.",
+      "source_hash": "1410f841f7d1",
+      "target": "<b>To move</b>: remove it from the original phase and add it to another by de-selecting the current blue number bubble and select the correct blue number bubble below the input, which corresponds to the phases you want the input in.",
+      "translated_from_hash": "1410f841f7d1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>To unassign input and remove it from all phases</b>: deselect all blue number bubble below the input. The input moves to the <i>All Phases</i> tab until reassigned.",
+      "source_hash": "fcd3fe34a57d",
+      "target": "<b>To unassign input and remove it from all phases</b>: deselect all blue number bubble below the input. The input moves to the <i>All Phases</i> tab until reassigned.",
+      "translated_from_hash": "fcd3fe34a57d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>To bulk move up to 10 inputs</b>: select them and click and drag to the desired phase listed on the left.",
+      "source_hash": "36efedda6128",
+      "target": "<b>To bulk move up to 10 inputs</b>: select them and click and drag to the desired phase listed on the left.",
+      "translated_from_hash": "36efedda6128",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "How to add tags to inputs?",
+      "source_hash": "89a1534b4f4e",
+      "target": "How to add tags to inputs?",
+      "translated_from_hash": "89a1534b4f4e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "<b>Step 1</b>: go to the <b>Input Manager</b> of the phase where you want to add tags to your inputs",
+      "source_hash": "ba994c1e6d9b",
+      "target": "<b>Step 1</b>: go to the <b>Input Manager</b> of the phase where you want to add tags to your inputs",
+      "translated_from_hash": "ba994c1e6d9b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "<b>Step 2</b>: go to the <b>Tags</b> section of the Input Manager",
+      "source_hash": "346fbaf0ad67",
+      "target": "<b>Step 2</b>: go to the <b>Tags</b> section of the Input Manager",
+      "translated_from_hash": "346fbaf0ad67",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "<b>Step 3</b>: select the inputs that you want to assign a tag to by clicking the square box",
+      "source_hash": "f6053cbefe97",
+      "target": "<b>Step 3</b>: select the inputs that you want to assign a tag to by clicking the square box",
+      "translated_from_hash": "f6053cbefe97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "<b>Step 4</b>: drag-and-drop any of the selected inputs to a tag and all the selected inputs will be assigned this tag",
+      "source_hash": "56aa4ffec3b0",
+      "target": "<b>Step 4</b>: drag-and-drop any of the selected inputs to a tag and all the selected inputs will be assigned this tag",
+      "translated_from_hash": "56aa4ffec3b0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "How to move input between projects?",
+      "source_hash": "886fa6561036",
+      "target": "How to move input between projects?",
+      "translated_from_hash": "886fa6561036",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "<b>Step 1</b>: Go to the <b>platform‑level Input Manager</b>.",
+      "source_hash": "868b7c96dde5",
+      "target": "<b>Step 1</b>: Go to the <b>platform‑level Input Manager</b>.",
+      "translated_from_hash": "868b7c96dde5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>Step 2</b>: Drag and drop the input onto the <b>destination project</b>.",
+      "source_hash": "6a15d88e38bd",
+      "target": "<b>Step 2</b>: Drag and drop the input onto the <b>destination project</b>.",
+      "translated_from_hash": "6a15d88e38bd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "ℹ️ : Drag‑and‑drop only works this way: inputs → projects (not projects → inputs).",
+      "source_hash": "cf812057bf5d",
+      "target": "ℹ️ : Drag‑and‑drop only works this way: inputs → projects (not projects → inputs).",
+      "translated_from_hash": "cf812057bf5d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "<b>Step 3</b>: Manually assign the input to the right <b>phase</b> in the new project:",
+      "source_hash": "f35df2a60cbe",
+      "target": "<b>Step 3</b>: Manually assign the input to the right <b>phase</b> in the new project:",
+      "translated_from_hash": "f35df2a60cbe",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Go to the new project via the <b>Projects</b> tab.",
+      "source_hash": "4eccff2af4b2",
+      "target": "Go to the new project via the <b>Projects</b> tab.",
+      "translated_from_hash": "4eccff2af4b2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "Click the correct <b>phase number</b> under the input to place it.",
+      "source_hash": "7daf3e99175b",
+      "target": "Click the correct <b>phase number</b> under the input to place it.",
+      "translated_from_hash": "7daf3e99175b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "If you don’t assign a phase, it defaults to <b>All Phases</b> and won’t show up in any phase view.",
+      "source_hash": "579b7e15a75b",
+      "target": "If you don’t assign a phase, it defaults to <b>All Phases</b> and won’t show up in any phase view.",
+      "translated_from_hash": "579b7e15a75b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "ℹ️ Notes:",
+      "source_hash": "be4d2018a68d",
+      "target": "ℹ️ Notes:",
+      "translated_from_hash": "be4d2018a68d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "The URL of the contribution doesn’t change when it moves between projects.",
+      "source_hash": "c9dba9184b4e",
+      "target": "The URL of the contribution doesn’t change when it moves between projects.",
+      "translated_from_hash": "c9dba9184b4e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Inputs from proposals can not be moved to ideation projects and vice versa.",
+      "source_hash": "4c7327d17a56",
+      "target": "Inputs from proposals can not be moved to ideation projects and vice versa.",
+      "translated_from_hash": "4c7327d17a56",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

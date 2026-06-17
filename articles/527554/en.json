@@ -1,0 +1,98 @@
+{
+  "article_id": "527554",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_6096af7b7a\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><p class=\"no-margin\">@@body:0003@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_a16d3a6b90\">@@body:0004@@</h1><h2 id=\"h_507dc388d9\">@@body:0005@@</h2><ol><li><p class=\"no-margin\">@@body:0006@@</p></li><li><p class=\"no-margin\">@@body:0007@@</p></li><li><p class=\"no-margin\">@@body:0008@@</p></li></ol><h1 id=\"h_2296d32355\">@@body:0009@@</h1><div class=\"intercom-h2b-video\"><iframe allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" mozallowfullscreen=\"\" src=\"https://www.loom.com/embed/7b5fc2a5260b4098bfcd9999268bfe1b\" webkitallowfullscreen=\"\"></iframe></div><ol><li><p class=\"no-margin\">@@body:0010@@</p></li><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ol><h1 id=\"h_de57bfecc9\">@@body:0014@@</h1><ol><li><p class=\"no-margin\">@@body:0015@@</p></li><li><p class=\"no-margin\">@@body:0016@@</p></li></ol>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Onboarding product tours",
+      "hash": "0a30be77b2bc"
+    },
+    "description": {
+      "field": "description",
+      "text": "",
+      "hash": "e3b0c44298fc"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What are onboarding tours?",
+      "hash": "12e647b0790d"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The product onboarding tours help new users quickly become familiar with the platform’s key features by offering an interactive tutorial through the backoffice of the platform.",
+      "hash": "d30056703a87"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "We have two onboarding tours: one for Platform Admins and one for Project Managers.",
+      "hash": "9118b6e0a9b8"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "What is covered in the onboarding tours?",
+      "hash": "5e3e413a4ed9"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Platform Admin Tour – 8 sections:",
+      "hash": "f1ab7555a027"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Get to know the platform",
+      "hash": "dcecbd0b990f"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "Define your registration questions",
+      "hash": "cfbf0522df8b"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "How to set up a project",
+      "hash": "c2b9e1c33540"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "How to access the onboarding tours?",
+      "hash": "5a4b933cc93c"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "Open your platform dashboard.",
+      "hash": "561cf8e16fcc"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "Find the <b>Chat bubble</b> in the bottom-right corner.",
+      "hash": "87706c67a54c"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "Click <b>Tasks</b>.",
+      "hash": "2ec4ab20fc31"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "Choose the <b>Platform Admin</b> tour.",
+      "hash": "b08f658dcdc3"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "How to troubleshoot issues with the onboarding tours?",
+      "hash": "40ecd2f60c69"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Refresh the page if a tour doesn’t trigger or gets stuck.",
+      "hash": "18716add6a0d"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "If the issue continues, <b>contact support</b>. Our support team will review your tour settings and resolve the issue.",
+      "hash": "36da4fe24b2a"
+    }
+  }
+}

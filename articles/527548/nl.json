@@ -1,0 +1,376 @@
+{
+  "article_id": "527548",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "360 input: managing your files",
+      "source_hash": "92ab3d2b70ab",
+      "target": "360 input: managing your files",
+      "translated_from_hash": "92ab3d2b70ab",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "",
+      "source_hash": "e3b0c44298fc",
+      "target": "",
+      "translated_from_hash": "e3b0c44298fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "What is 360 input?",
+      "source_hash": "286256087c5b",
+      "target": "What is 360 input?",
+      "translated_from_hash": "286256087c5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "<b>360 Input</b> is GoVocal’s central hub for all your project files. It allows you to collect, organize and manage <b>any type of file</b> directly within your project, keeping everything in one place as your work progresses through the different phases.",
+      "source_hash": "f38ca4761435",
+      "target": "<b>360 Input</b> is GoVocal’s central hub for all your project files. It allows you to collect, organize and manage <b>any type of file</b> directly within your project, keeping everything in one place as your work progresses through the different phases.",
+      "translated_from_hash": "f38ca4761435",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Once uploaded, files can also be <b>referenced as downloadable attachments</b> in your <b>project</b> or <b>phase descriptions</b>, making it simple for end-users to access relevant information at every step.",
+      "source_hash": "af345698e58e",
+      "target": "Once uploaded, files can also be <b>referenced as downloadable attachments</b> in your <b>project</b> or <b>phase descriptions</b>, making it simple for end-users to access relevant information at every step.",
+      "translated_from_hash": "af345698e58e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "How to manage files using 360 input?",
+      "source_hash": "ac608eb7885e",
+      "target": "How to manage files using 360 input?",
+      "translated_from_hash": "ac608eb7885e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Uploading files",
+      "source_hash": "37d313e3a81b",
+      "target": "Uploading files",
+      "translated_from_hash": "37d313e3a81b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "There are 2 ways to upload files to the 360 input:",
+      "source_hash": "08950256d1ed",
+      "target": "There are 2 ways to upload files to the 360 input:",
+      "translated_from_hash": "08950256d1ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "You add them directly in your phase description, they will also automatically be added to the 360 input files. To do this navigate to ‘Your phase’ → ‘Setup’ → scroll down and ‘Upload attachments’",
+      "source_hash": "981e98af2a06",
+      "target": "You add them directly in your phase description, they will also automatically be added to the 360 input files. To do this navigate to ‘Your phase’ → ‘Setup’ → scroll down and ‘Upload attachments’",
+      "translated_from_hash": "981e98af2a06",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "You add them directly in your 360 input where you can later reference them in project or phase descriptions. To do this navigate to ‘Your Project’ → ‘360 input’ tab → ‘Upload files’",
+      "source_hash": "fb9ffb343688",
+      "target": "You add them directly in your 360 input where you can later reference them in project or phase descriptions. To do this navigate to ‘Your Project’ → ‘360 input’ tab → ‘Upload files’",
+      "translated_from_hash": "fb9ffb343688",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Editing or removing files",
+      "source_hash": "5070e42935da",
+      "target": "Editing or removing files",
+      "translated_from_hash": "5070e42935da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Navigate to ‘your project’",
+      "source_hash": "a46b51ec496d",
+      "target": "Navigate to ‘your project’",
+      "translated_from_hash": "a46b51ec496d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Go to ‘360 input’ tab",
+      "source_hash": "c9c3971077ad",
+      "target": "Go to ‘360 input’ tab",
+      "translated_from_hash": "c9c3971077ad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Select the file you want to edit/remove",
+      "source_hash": "6ab553a73052",
+      "target": "Select the file you want to edit/remove",
+      "translated_from_hash": "6ab553a73052",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "You can edit the file name, category and description",
+      "source_hash": "3385e3c9f1be",
+      "target": "You can edit the file name, category and description",
+      "translated_from_hash": "3385e3c9f1be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Organising files with Categories",
+      "source_hash": "4560e62fba8e",
+      "target": "Organising files with Categories",
+      "translated_from_hash": "4560e62fba8e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "When uploading a file, you can assign it to a <i>category</i>.",
+      "source_hash": "1da19185b76d",
+      "target": "When uploading a file, you can assign it to a <i>category</i>.",
+      "translated_from_hash": "1da19185b76d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "This is especially useful when bulk-uploading or when you are managing many files in one project, as it helps you keep files organized for later referencing.",
+      "source_hash": "59473ab8df2c",
+      "target": "This is especially useful when bulk-uploading or when you are managing many files in one project, as it helps you keep files organized for later referencing.",
+      "translated_from_hash": "59473ab8df2c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "Transcribing MP3 audio files - Only for Premium price plan",
+      "source_hash": "705a2f438aee",
+      "target": "Transcribing MP3 audio files - Only for Premium price plan",
+      "translated_from_hash": "705a2f438aee",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Turn meetings and conversations into structured insights in seconds. Just upload audio and instantly explore clear, AI-powered transcripts you can act on.",
+      "source_hash": "7bb2e4cfcd35",
+      "target": "Turn meetings and conversations into structured insights in seconds. Just upload audio and instantly explore clear, AI-powered transcripts you can act on.",
+      "translated_from_hash": "7bb2e4cfcd35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "This feature is only available based on price plans - contact your Government Success manager to enable it.",
+      "source_hash": "c52672a43faa",
+      "target": "This feature is only available based on price plans - contact your Government Success manager to enable it.",
+      "translated_from_hash": "c52672a43faa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Extra information on file uploads - Only for Premium price plan",
+      "source_hash": "31a98d474f0c",
+      "target": "Extra information on file uploads - Only for Premium price plan",
+      "translated_from_hash": "31a98d474f0c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Previews</b>: Common file types will display a preview, but not all formats are supported. You can preview your files by navigating to the 360 input tab and clicking on the file you wish to preview.",
+      "source_hash": "4b7b814e9cc8",
+      "target": "<b>Previews</b>: Common file types will display a preview, but not all formats are supported. You can preview your files by navigating to the 360 input tab and clicking on the file you wish to preview.",
+      "translated_from_hash": "4b7b814e9cc8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Description</b>: If applicable, our AI will automatically create a short summary of your file. You can find this by navigating to the 360 input tab and clicking on the file you wish to see the description of.",
+      "source_hash": "2fd4476de46f",
+      "target": "<b>Description</b>: If applicable, our AI will automatically create a short summary of your file. You can find this by navigating to the 360 input tab and clicking on the file you wish to see the description of.",
+      "translated_from_hash": "2fd4476de46f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "Limitations on file uploads:",
+      "source_hash": "bea6e264eaef",
+      "target": "Limitations on file uploads:",
+      "translated_from_hash": "bea6e264eaef",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Supported formats</b>: All file types are accepted.",
+      "source_hash": "b09ce859e18a",
+      "target": "<b>Supported formats</b>: All file types are accepted.",
+      "translated_from_hash": "b09ce859e18a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Bulk upload limit</b>: Up to 35 files at a time. For more, repeat the upload in batches.",
+      "source_hash": "0e2d37ee69dd",
+      "target": "<b>Bulk upload limit</b>: Up to 35 files at a time. For more, repeat the upload in batches.",
+      "translated_from_hash": "0e2d37ee69dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>File size limit</b>: 50 MB per file",
+      "source_hash": "d67ac6623c91",
+      "target": "<b>File size limit</b>: 50 MB per file",
+      "translated_from_hash": "d67ac6623c91",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>No total limit</b>: You can upload as many files as needed.",
+      "source_hash": "7aa5d507f7bf",
+      "target": "<b>No total limit</b>: You can upload as many files as needed.",
+      "translated_from_hash": "7aa5d507f7bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "<b>Folder uploads</b>: When adding a file to a folder it will not be in the 360 input tab of any project",
+      "source_hash": "0e8f1a7eafca",
+      "target": "<b>Folder uploads</b>: When adding a file to a folder it will not be in the 360 input tab of any project",
+      "translated_from_hash": "0e8f1a7eafca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "<b>Reports</b> are not considered files in 360 input, you can manually download and upload them if wanted",
+      "source_hash": "8e4f4289ebca",
+      "target": "<b>Reports</b> are not considered files in 360 input, you can manually download and upload them if wanted",
+      "translated_from_hash": "8e4f4289ebca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Using 360 input with AI sensemaking",
+      "source_hash": "3ac109a086a8",
+      "target": "Using 360 input with AI sensemaking",
+      "translated_from_hash": "3ac109a086a8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "When working with AI Sensemaking, you can attach files from the 360 input to give the AI more context.",
+      "source_hash": "adc30e3fbeba",
+      "target": "When working with AI Sensemaking, you can attach files from the 360 input to give the AI more context.",
+      "translated_from_hash": "adc30e3fbeba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "These files help improve analysis, making summaries and answers more accurate and relevant.",
+      "source_hash": "c2152499dc1e",
+      "target": "These files help improve analysis, making summaries and answers more accurate and relevant.",
+      "translated_from_hash": "c2152499dc1e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "How can you add files to AI sensemaking for extra context?",
+      "source_hash": "189aba6e65be",
+      "target": "How can you add files to AI sensemaking for extra context?",
+      "translated_from_hash": "189aba6e65be",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "Navigate to the AI analysis tool",
+      "source_hash": "81b48469b319",
+      "target": "Navigate to the AI analysis tool",
+      "translated_from_hash": "81b48469b319",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Click ‘Attach files’ in the top right",
+      "source_hash": "976180568a3f",
+      "target": "Click ‘Attach files’ in the top right",
+      "translated_from_hash": "976180568a3f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Select the files you want to add as context",
+      "source_hash": "28dc752bdc2b",
+      "target": "Select the files you want to add as context",
+      "translated_from_hash": "28dc752bdc2b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Limitations:",
+      "source_hash": "5957808233e5",
+      "target": "Limitations:",
+      "translated_from_hash": "5957808233e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "When adding files as context that are too big or too many, the AI might not be able to analyze everything as expected. Therefore we suggest using the right files for the right purpose and keep it as concise as possible",
+      "source_hash": "c26fa100c45b",
+      "target": "When adding files as context that are too big or too many, the AI might not be able to analyze everything as expected. Therefore we suggest using the right files for the right purpose and keep it as concise as possible",
+      "translated_from_hash": "c26fa100c45b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "You can’t use AI sensemaking exclusively on a file without any inputs in the phase (for example, using AI summaries, or AI tagging on a document is not possible)",
+      "source_hash": "9ba92094472e",
+      "target": "You can’t use AI sensemaking exclusively on a file without any inputs in the phase (for example, using AI summaries, or AI tagging on a document is not possible)",
+      "translated_from_hash": "9ba92094472e",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

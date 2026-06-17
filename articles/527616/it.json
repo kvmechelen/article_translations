@@ -1,0 +1,448 @@
+{
+  "article_id": "527616",
+  "language": "it",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "How can you edit your comments, inputs and votes on the platform?",
+      "source_hash": "9b0484e3a491",
+      "target": "How can you edit your comments, inputs and votes on the platform?",
+      "translated_from_hash": "9b0484e3a491",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "How to contribute to a project and think along with other participants.",
+      "source_hash": "03a83929ab10",
+      "target": "How to contribute to a project and think along with other participants.",
+      "translated_from_hash": "03a83929ab10",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "Managing contributions on the platform",
+      "source_hash": "f4e21675b1e3",
+      "target": "Managing contributions on the platform",
+      "translated_from_hash": "f4e21675b1e3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Contributions on the platform include comments, inputs (ideas, proposals, or posts), and votes.",
+      "source_hash": "748c7f7279ad",
+      "target": "Contributions on the platform include comments, inputs (ideas, proposals, or posts), and votes.",
+      "translated_from_hash": "748c7f7279ad",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Participants can create and edit their own content during active phases",
+      "source_hash": "1c1b63f801fa",
+      "target": "Participants can create and edit their own content during active phases",
+      "translated_from_hash": "1c1b63f801fa",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Admins and project managers can moderate, edit, or add inputs and votes depending on permissions",
+      "source_hash": "9a55bf13296a",
+      "target": "Admins and project managers can moderate, edit, or add inputs and votes depending on permissions",
+      "translated_from_hash": "9a55bf13296a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Customization options in project setup determine which actions are enabled",
+      "source_hash": "df845efe8a62",
+      "target": "Customization options in project setup determine which actions are enabled",
+      "translated_from_hash": "df845efe8a62",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Configuring contribution settings",
+      "source_hash": "ff0f33bd5c2b",
+      "target": "Configuring contribution settings",
+      "translated_from_hash": "ff0f33bd5c2b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "In <b>Projects → Setup </b>tab, toggle whether participants can submit posts, comments, or reactions.",
+      "source_hash": "2f7d8ceef22d",
+      "target": "In <b>Projects → Setup </b>tab, toggle whether participants can submit posts, comments, or reactions.",
+      "translated_from_hash": "2f7d8ceef22d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "Optionally disable dislikes or set vote limits per participant",
+      "source_hash": "1629fae979f2",
+      "target": "Optionally disable dislikes or set vote limits per participant",
+      "translated_from_hash": "1629fae979f2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Admins can still add submissions after a phase has ended",
+      "source_hash": "2716de2d6f2a",
+      "target": "Admins can still add submissions after a phase has ended",
+      "translated_from_hash": "2716de2d6f2a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Limitations:",
+      "source_hash": "5957808233e5",
+      "target": "Limitations:",
+      "translated_from_hash": "5957808233e5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "No limit on comments",
+      "source_hash": "c5cc9b8f92d5",
+      "target": "No limit on comments",
+      "translated_from_hash": "c5cc9b8f92d5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "No limit on inputs",
+      "source_hash": "78d9770e5c26",
+      "target": "No limit on inputs",
+      "translated_from_hash": "78d9770e5c26",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Only votes can be controlled",
+      "source_hash": "64d1b24a07cf",
+      "target": "Only votes can be controlled",
+      "translated_from_hash": "64d1b24a07cf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "How to edit or delete comments and inputs?",
+      "source_hash": "3066547721b7",
+      "target": "How to edit or delete comments and inputs?",
+      "translated_from_hash": "3066547721b7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "As a participant:",
+      "source_hash": "91cd4d291c07",
+      "target": "As a participant:",
+      "translated_from_hash": "91cd4d291c07",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Comments</b>: Locate your comment → Click the <b>three dots</b> → Edit/Delete",
+      "source_hash": "e26bddbbde04",
+      "target": "<b>Comments</b>: Locate your comment → Click the <b>three dots</b> → Edit/Delete",
+      "translated_from_hash": "e26bddbbde04",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Inputs</b>: Locate your input → Click the <b>three dots</b> → Edit/Delete",
+      "source_hash": "3ec49d8ad17b",
+      "target": "<b>Inputs</b>: Locate your input → Click the <b>three dots</b> → Edit/Delete",
+      "translated_from_hash": "3ec49d8ad17b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "⚠️ Inputs can be modified or deleted if the project is still active and not archived, once the idea’s status changes, the input becomes locked.",
+      "source_hash": "9a9329ec6c5b",
+      "target": "⚠️ Inputs can be modified or deleted if the project is still active and not archived, once the idea’s status changes, the input becomes locked.",
+      "translated_from_hash": "9a9329ec6c5b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "<b>Votes</b>: Locate the input you voted on → Click on the vote/like again to undo your vote",
+      "source_hash": "7ea32ced680f",
+      "target": "<b>Votes</b>: Locate the input you voted on → Click on the vote/like again to undo your vote",
+      "translated_from_hash": "7ea32ced680f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "As an admin or project moderator:",
+      "source_hash": "f52bf92f1258",
+      "target": "As an admin or project moderator:",
+      "translated_from_hash": "f52bf92f1258",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Comments:</b> remove or moderate participant comments",
+      "source_hash": "9b8c0f267d69",
+      "target": "<b>Comments:</b> remove or moderate participant comments",
+      "translated_from_hash": "9b8c0f267d69",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Inputs:</b> add, edit, or remove inputs; submit ideas on behalf of others using the <b>Author</b> field.",
+      "source_hash": "809afe430801",
+      "target": "<b>Inputs:</b> add, edit, or remove inputs; submit ideas on behalf of others using the <b>Author</b> field.",
+      "translated_from_hash": "809afe430801",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Votes:</b> add offline votes on behalf of participants; cannot add or remove online votes.",
+      "source_hash": "6b11d91d2c3a",
+      "target": "<b>Votes:</b> add offline votes on behalf of participants; cannot add or remove online votes.",
+      "translated_from_hash": "6b11d91d2c3a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>To edit an input as an admin or project moderator:</b>",
+      "source_hash": "fb649f4c706a",
+      "target": "<b>To edit an input as an admin or project moderator:</b>",
+      "translated_from_hash": "fb649f4c706a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "Open the <b>Input Manager</b> of the project phase",
+      "source_hash": "3855ae108180",
+      "target": "Open the <b>Input Manager</b> of the project phase",
+      "translated_from_hash": "3855ae108180",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "Select the submitted input",
+      "source_hash": "c24ad68fb72a",
+      "target": "Select the submitted input",
+      "translated_from_hash": "c24ad68fb72a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "In the pop-up window, click <b>Edit</b>",
+      "source_hash": "9475b3f285cb",
+      "target": "In the pop-up window, click <b>Edit</b>",
+      "translated_from_hash": "9475b3f285cb",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Update the title, description, or other fields",
+      "source_hash": "7c1c794bb6f0",
+      "target": "Update the title, description, or other fields",
+      "translated_from_hash": "7c1c794bb6f0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Click <b>Save</b>",
+      "source_hash": "e27d7793461d",
+      "target": "Click <b>Save</b>",
+      "translated_from_hash": "e27d7793461d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "ℹ️ <b>Only as an admin</b> you can also submit on behalf of users by editing the <b>Author</b> field.",
+      "source_hash": "a4069f512df3",
+      "target": "ℹ️ <b>Only as an admin</b> you can also submit on behalf of users by editing the <b>Author</b> field.",
+      "translated_from_hash": "a4069f512df3",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "How to submit an input?",
+      "source_hash": "e9fd0fd2e07a",
+      "target": "How to submit an input?",
+      "translated_from_hash": "e9fd0fd2e07a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Click <b>Submit your idea</b> or a similar button (name depends on project setup)",
+      "source_hash": "453f32aa775b",
+      "target": "Click <b>Submit your idea</b> or a similar button (name depends on project setup)",
+      "translated_from_hash": "453f32aa775b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "Complete the input form with a title, description, and any additional details",
+      "source_hash": "89436c8ee2a4",
+      "target": "Complete the input form with a title, description, and any additional details",
+      "translated_from_hash": "89436c8ee2a4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "(If available) Add a location:",
+      "source_hash": "15229c14e7a2",
+      "target": "(If available) Add a location:",
+      "translated_from_hash": "15229c14e7a2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "Enter coordinates or street name in the form, <b>or</b>",
+      "source_hash": "dd2e05662f68",
+      "target": "Enter coordinates or street name in the form, <b>or</b>",
+      "translated_from_hash": "dd2e05662f68",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "Pin directly on the project map",
+      "source_hash": "d888d9dc1118",
+      "target": "Pin directly on the project map",
+      "translated_from_hash": "d888d9dc1118",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Submit the form",
+      "source_hash": "50ea5ee7ee5e",
+      "target": "Submit the form",
+      "translated_from_hash": "50ea5ee7ee5e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "How to react on inputs?",
+      "source_hash": "e97100416993",
+      "target": "How to react on inputs?",
+      "translated_from_hash": "e97100416993",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "Click the <b>thumbs-up</b> icon to like",
+      "source_hash": "c0e672f612ca",
+      "target": "Click the <b>thumbs-up</b> icon to like",
+      "translated_from_hash": "c0e672f612ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "If enabled, click the <b>thumbs-down</b> icon to dislike",
+      "source_hash": "0de0c321b33a",
+      "target": "If enabled, click the <b>thumbs-down</b> icon to dislike",
+      "translated_from_hash": "0de0c321b33a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Undo a vote by clicking the same icon again",
+      "source_hash": "608ab0fe5470",
+      "target": "Undo a vote by clicking the same icon again",
+      "translated_from_hash": "608ab0fe5470",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "User names of voters cannot be exported; contact support if this data is required",
+      "source_hash": "5c3bd8a316da",
+      "target": "User names of voters cannot be exported; contact support if this data is required",
+      "translated_from_hash": "5c3bd8a316da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "How to comment to inputs?",
+      "source_hash": "8a888646b397",
+      "target": "How to comment to inputs?",
+      "translated_from_hash": "8a888646b397",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "Click the <b>speech bubble</b> icon on the input",
+      "source_hash": "353a87c73ea5",
+      "target": "Click the <b>speech bubble</b> icon on the input",
+      "translated_from_hash": "353a87c73ea5",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Scroll to the <b>Comment</b> field",
+      "source_hash": "254a264a872b",
+      "target": "Scroll to the <b>Comment</b> field",
+      "translated_from_hash": "254a264a872b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Enter your comment",
+      "source_hash": "121b1c118a35",
+      "target": "Enter your comment",
+      "translated_from_hash": "121b1c118a35",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "To address the author directly, type <code>@username</code>",
+      "source_hash": "9bda1dcf46cf",
+      "target": "To address the author directly, type <code>@username</code>",
+      "translated_from_hash": "9bda1dcf46cf",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "article_id": "527618",
+  "language": "en",
+  "is_source": true,
+  "body_skeleton": "<h1 id=\"h_5cb8187899\">@@body:0001@@</h1><p class=\"no-margin\">@@body:0002@@</p><ul><li><p class=\"no-margin\">@@body:0003@@</p></li><li><p class=\"no-margin\">@@body:0004@@</p></li><li><p class=\"no-margin\">@@body:0005@@</p></li></ul><p class=\"no-margin\">@@body:0006@@</p><p class=\"no-margin\"></p>\n<h1 id=\"h_a15c40842f\">@@body:0007@@</h1><ol><li><p class=\"no-margin\">@@body:0008@@</p></li><li><p class=\"no-margin\">@@body:0009@@</p></li></ol><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373386/e1bebdac881535a3fbc75a8b068e/upload_6917884769086122161.png?expires=1781805600&amp;signature=4fe67350d3380537c23ae884b4ec775ba524bda8f966922fd3fb2a43d80cffcf&amp;req=2dVswlv5pDFk2hj99dpg6nYhVKfXVP49VzzC%2Fptz3mv2Lh%2FoIMN5pouB%2BL%2BD%0A4jml2DkiASTHOyztDn5xmevj%0A\"/></div><p class=\"no-margin\"></p>\n<p class=\"no-margin\">@@body:0010@@</p><p class=\"no-margin\"></p>\n<div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373399/e99f0720d4a96968f056e37a44d9/upload_646719873947345726.png?expires=1781805600&amp;signature=dbcfc8e014d2e03035d64998c285b89efbb6f6ed9e6264b400b73810c7126b30&amp;req=2dVswlv5pT5k2hj99dpg6lu5%2FHc7AQ6lSC4tJJ%2BCoOPKR%2F1Vf6rMvCE%2FIf2A%0AssbFHSvsmZwajWyedpY4%2Bgtf%0A\"/></div><ul><li><p class=\"no-margin\">@@body:0011@@</p></li><li><p class=\"no-margin\">@@body:0012@@</p></li><li><p class=\"no-margin\">@@body:0013@@</p></li></ul><h1 id=\"h_b29bd509c9\">@@body:0014@@</h1><h2 id=\"h_0bfcd9b4d1\">@@body:0015@@</h2><p class=\"no-margin\">@@body:0016@@</p><ul><li><p class=\"no-margin\">@@body:0017@@</p></li><li><p class=\"no-margin\">@@body:0018@@</p></li><li><p class=\"no-margin\">@@body:0019@@</p></li><li><p class=\"no-margin\">@@body:0020@@</p></li><li><p class=\"no-margin\">@@body:0021@@</p></li><li><p class=\"no-margin\">@@body:0022@@</p></li><li><p class=\"no-margin\">@@body:0023@@</p></li><li><p class=\"no-margin\">@@body:0024@@</p></li><li><p class=\"no-margin\">@@body:0025@@</p></li></ul><h2 id=\"h_d2346a3128\">@@body:0026@@</h2><p class=\"no-margin\">@@body:0027@@</p><ul><li><p class=\"no-margin\">@@body:0028@@</p></li><li><p class=\"no-margin\">@@body:0029@@</p></li><li><p class=\"no-margin\">@@body:0030@@</p></li><li><p class=\"no-margin\">@@body:0031@@</p></li><li><p class=\"no-margin\">@@body:0032@@</p></li><li><p class=\"no-margin\">@@body:0033@@</p></li><li><p class=\"no-margin\">@@body:0034@@</p></li></ul><p class=\"no-margin\">@@body:0035@@</p><ul><li><p class=\"no-margin\">@@body:0036@@</p></li><li><p class=\"no-margin\">@@body:0037@@</p></li><li><p class=\"no-margin\">@@body:0038@@</p></li></ul><div class=\"intercom-container\"><img src=\"https://govocal---eu.intercom-attachments.eu/i/o/nfttr45j/90373410/59cfcc7667b0d3ac239017c89c96/upload_6879612453989948053.png?expires=1781805600&amp;signature=bae54c5b3f89adacf19369f6cf2527e3937488b7e199a540bb7d27e7c5ba0544&amp;req=2dVswlv%2BrTdk2hj99dpg6jK1yI94gZFfIjWRYOS7fda6%2BEAI%2F3EfNsNewaTK%0A0tSZu026HAiEdcfxvqo8NZx4%0A\"/></div><p class=\"no-margin\"></p>\n<h2 id=\"h_e0d57eb25a\">@@body:0039@@</h2><p class=\"no-margin\">@@body:0040@@</p><p class=\"no-margin\">@@body:0041@@</p><p class=\"no-margin\">@@body:0042@@</p><p class=\"no-margin\"></p>\n<h2 id=\"h_24f6e64b47\">@@body:0043@@</h2><p class=\"no-margin\">@@body:0044@@</p><ul><li><p class=\"no-margin\">@@body:0045@@</p></li><li><p class=\"no-margin\">@@body:0046@@</p></li><li><p class=\"no-margin\">@@body:0047@@</p></li><li><p class=\"no-margin\">@@body:0048@@</p></li><li><p class=\"no-margin\">@@body:0049@@</p></li><li><p class=\"no-margin\">@@body:0050@@</p></li></ul>",
+  "segments": {
+    "title": {
+      "field": "title",
+      "text": "Customizing the homepage",
+      "hash": "cbccc2bbe807"
+    },
+    "description": {
+      "field": "description",
+      "text": "Manage the looks of your homepage and make it unique to your community",
+      "hash": "6d61a4fbb1f1"
+    },
+    "body:0001": {
+      "field": "body",
+      "text": "What is the homepage builder?",
+      "hash": "8d51744a0abd"
+    },
+    "body:0002": {
+      "field": "body",
+      "text": "The homepage is the first thing users see when they visit the platform. Customizing it allows admins to:",
+      "hash": "147cd458f0bb"
+    },
+    "body:0003": {
+      "field": "body",
+      "text": "Reflect the community’s identity and branding.",
+      "hash": "4480384b136c"
+    },
+    "body:0004": {
+      "field": "body",
+      "text": "Highlight the most important projects, events, and calls‑to‑action.",
+      "hash": "8fdc4d408383"
+    },
+    "body:0005": {
+      "field": "body",
+      "text": "Make the platform more engaging and easier to navigate.",
+      "hash": "24c017968ce2"
+    },
+    "body:0006": {
+      "field": "body",
+      "text": "Only admins can customize the homepage layout. Project and folder managers do not have access to this feature.",
+      "hash": "d50791e2ced4"
+    },
+    "body:0007": {
+      "field": "body",
+      "text": "How to access the homepage builder?",
+      "hash": "26316e4b60fd"
+    },
+    "body:0008": {
+      "field": "body",
+      "text": "Go to the <b>Pages &amp; Menu</b> section in the admin panel.",
+      "hash": "8abf181d47ac"
+    },
+    "body:0009": {
+      "field": "body",
+      "text": "Click <b>Edit</b> next to “Home.”",
+      "hash": "5349d79c3941"
+    },
+    "body:0010": {
+      "field": "body",
+      "text": "You’ll see the Homepage Builder interface:",
+      "hash": "8aa06071385d"
+    },
+    "body:0011": {
+      "field": "body",
+      "text": "<b>Left panel:</b> Widgets and layout elements you can drag and drop.",
+      "hash": "010cf2dadf7b"
+    },
+    "body:0012": {
+      "field": "body",
+      "text": "<b>Center:</b> A preview of the current homepage structure.",
+      "hash": "c40bbcc62e47"
+    },
+    "body:0013": {
+      "field": "body",
+      "text": "<b>Right panel:</b> Settings for whichever element is selected.",
+      "hash": "267bc698b68b"
+    },
+    "body:0014": {
+      "field": "body",
+      "text": "What are the different homepage widgets?",
+      "hash": "e6c955300400"
+    },
+    "body:0015": {
+      "field": "body",
+      "text": "Functional widgets",
+      "hash": "06e23c462254"
+    },
+    "body:0016": {
+      "field": "body",
+      "text": "The homepage widgets provide different content and functions for the homepage. Key widgets include:",
+      "hash": "6642a43ddef2"
+    },
+    "body:0017": {
+      "field": "body",
+      "text": "<b>Homepage banner widget:</b> Display a prominent banner at the top of the page. This banner will be displayed differently for users that are logged in vs. users that are not logged in. You can toggle this view in the right column when editing the homepage banner widget.",
+      "hash": "8e6c8b627cd3"
+    },
+    "body:0018": {
+      "field": "body",
+      "text": "<b>Open to participation:</b> Shows active/published projects with a current open participation phase.",
+      "hash": "adc501345eae"
+    },
+    "body:0019": {
+      "field": "body",
+      "text": "<b>Followed items:</b> Lists projects or tags the logged‑in user follows.",
+      "hash": "93bdeeb5f26b"
+    },
+    "body:0020": {
+      "field": "body",
+      "text": "<b>Finished projects:</b> Displays completed projects.",
+      "hash": "06e14ce63e66"
+    },
+    "body:0021": {
+      "field": "body",
+      "text": "<b>In your area:</b> Shows location‑specific projects for logged‑in users.",
+      "hash": "34ad3173460a"
+    },
+    "body:0022": {
+      "field": "body",
+      "text": "<b>Spotlight widget:</b> Highlights selected content.",
+      "hash": "7b952c6fc661"
+    },
+    "body:0023": {
+      "field": "body",
+      "text": "<b>Published projects &amp; folders:</b> Lists all active projects and folders.",
+      "hash": "91e6c5efb654"
+    },
+    "body:0024": {
+      "field": "body",
+      "text": "<b>Call to action widget:</b> Encourages users to take a specific action (e.g., sign up, join a project).",
+      "hash": "91e61a6e4b38"
+    },
+    "body:0025": {
+      "field": "body",
+      "text": "<b>Project &amp; folders widget (legacy):</b> An older version for listing projects and folders.",
+      "hash": "3588fc486b56"
+    },
+    "body:0026": {
+      "field": "body",
+      "text": "Layout widgets",
+      "hash": "086b806c6e90"
+    },
+    "body:0027": {
+      "field": "body",
+      "text": "The homepage layout elements let admins organize widgets and content into a readable, visually appealing structure.",
+      "hash": "31b0164cd469"
+    },
+    "body:0028": {
+      "field": "body",
+      "text": "<b>2 column &amp; 3 column:</b> Use for responsive layouts. Each column can be configured differently.",
+      "hash": "cb983ebcc472"
+    },
+    "body:0029": {
+      "field": "body",
+      "text": "<b>Whitespace:</b> Adds spacing above or below any element.",
+      "hash": "1a9a066169ec"
+    },
+    "body:0030": {
+      "field": "body",
+      "text": "<b>Text:</b> Add text blocks with basic formatting.",
+      "hash": "b7352004500b"
+    },
+    "body:0031": {
+      "field": "body",
+      "text": "<b>Button:</b> Place clear call‑to‑action buttons anywhere (link to internal or external pages).",
+      "hash": "7a2fc0961482"
+    },
+    "body:0032": {
+      "field": "body",
+      "text": "<b>Embed:</b> Insert external components, like a map.",
+      "hash": "97eb3a5d668b"
+    },
+    "body:0033": {
+      "field": "body",
+      "text": "<b>Video embed</b>: use this widget to insert videos specifically for better formatting and resolution - this widget is only available on the homepage builder.",
+      "hash": "11892ebe7a1c"
+    },
+    "body:0034": {
+      "field": "body",
+      "text": "<b>Accordion:</b> Great for FAQs or collapsible content (often used at the bottom of a homepage).",
+      "hash": "8e19074fe41a"
+    },
+    "body:0035": {
+      "field": "body",
+      "text": "<b>Example combination:</b>",
+      "hash": "a99c3090efe9"
+    },
+    "body:0036": {
+      "field": "body",
+      "text": "Add a <b>2‑column</b> widget (aligned left).",
+      "hash": "8ffcf8b8b2ef"
+    },
+    "body:0037": {
+      "field": "body",
+      "text": "In the left column, add an <b>image</b> widget.",
+      "hash": "d6f125f85d7a"
+    },
+    "body:0038": {
+      "field": "body",
+      "text": "In the right column, add <b>text</b> followed by a <b>button</b> widget.",
+      "hash": "54819c3cc260"
+    },
+    "body:0039": {
+      "field": "body",
+      "text": "Image sizes and dimensions",
+      "hash": "03be61592fe9"
+    },
+    "body:0040": {
+      "field": "body",
+      "text": "Images help personalize the platform and communicate the right look and feel.",
+      "hash": "edb56a3bc439"
+    },
+    "body:0041": {
+      "field": "body",
+      "text": "The homepage banner is one of the key areas where visuals matter. To prevent blurry or distorted images, refer to the image guidelines article for exact sizes and dimensions for each image type.",
+      "hash": "4f0a6a0737c5"
+    },
+    "body:0042": {
+      "field": "body",
+      "text": "Read our article on ‘Images: recommended dimensions and sizes?’ for more information on the images.",
+      "hash": "b419f2418abd"
+    },
+    "body:0043": {
+      "field": "body",
+      "text": "Homepage Inspiration",
+      "hash": "644a7c8770c1"
+    },
+    "body:0044": {
+      "field": "body",
+      "text": "You can visit other platforms' homepages to gain inspiration by searching in the Inspiration Hub. Here are a few we've picked out:",
+      "hash": "15ed1070ebfd"
+    },
+    "body:0045": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://mitgestalten.innsbruck.gv.at/de-DE/\" target=\"_blank\">Innsbruck, Austria</a>",
+      "hash": "cabb3274b6dd"
+    },
+    "body:0046": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://mitgestalten.wien.gv.at/de-DE/\" target=\"_blank\">Vienna, Austria</a>",
+      "hash": "c72723eb2de0"
+    },
+    "body:0047": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://engage.dublincity.ie/en-IE/\" target=\"_blank\">Dublin, Ireland</a>",
+      "hash": "2df381b398a7"
+    },
+    "body:0048": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://torontocentreprojects.ca/en/\" target=\"_blank\">Toronto, Canada</a>",
+      "hash": "2a11971197ea"
+    },
+    "body:0049": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://hello.saanich.ca/en/\" target=\"_blank\">Saanich, Canada</a>",
+      "hash": "290bd7fb03e2"
+    },
+    "body:0050": {
+      "field": "body",
+      "text": "<a class=\"intercom-content-link\" href=\"https://shape.slc.gov/en/\" target=\"_blank\">Salt Lake City, Utah</a><br/>​",
+      "hash": "b984dd1a065f"
+    }
+  }
+}

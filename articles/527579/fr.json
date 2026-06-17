@@ -1,0 +1,223 @@
+{
+  "article_id": "527579",
+  "language": "fr",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Following projects, ideas, areas or tags",
+      "source_hash": "02e38457095b",
+      "target": "Following projects, ideas, areas or tags",
+      "translated_from_hash": "02e38457095b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "Keep visitors in the loop by giving them the option to follow some key elements.",
+      "source_hash": "367271daa92d",
+      "target": "Keep visitors in the loop by giving them the option to follow some key elements.",
+      "translated_from_hash": "367271daa92d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "To make it easer for visitors of your platform to follow along, they have the option to follow some key elements to stay in the loop. When they follow them, important updates will be sent to them. Users can manage all the items they follow from their user profile at all times, as well as by unfollowing them from the item’s page.",
+      "source_hash": "c09f5804240d",
+      "target": "To make it easer for visitors of your platform to follow along, they have the option to follow some key elements to stay in the loop. When they follow them, important updates will be sent to them. Users can manage all the items they follow from their user profile at all times, as well as by unfollowing them from the item’s page.",
+      "translated_from_hash": "c09f5804240d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "Visitors are triggered to leave their email and confirm it to start following. This keeps the barrier low but gives them a simple way to receive updates.",
+      "source_hash": "b2016026b644",
+      "target": "Visitors are triggered to leave their email and confirm it to start following. This keeps the barrier low but gives them a simple way to receive updates.",
+      "translated_from_hash": "b2016026b644",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "Which communication will this trigger?",
+      "source_hash": "fbec260ef230",
+      "target": "Which communication will this trigger?",
+      "translated_from_hash": "fbec260ef230",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Users will receive updates on projects, ideas, proposals, area’s and tag:",
+      "source_hash": "d3bc6e4ce7ca",
+      "target": "Users will receive updates on projects, ideas, proposals, area’s and tag:",
+      "translated_from_hash": "d3bc6e4ce7ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "Project: when the project enters a new phase - all users that follow that project will receive a notification. The <b>“new phase email”</b> must first be enabled in the general automated email settings, located under the <b>“Messaging”</b> tab in the back office. This setting controls whether the “new phase email” option is available across the platform. Once it's enabled, you can choose to activate or deactivate the notification for each individual phase by toggling the switch at the bottom of that phase’s settings.",
+      "source_hash": "bc7ef7c2bf0b",
+      "target": "Project: when the project enters a new phase - all users that follow that project will receive a notification. The <b>“new phase email”</b> must first be enabled in the general automated email settings, located under the <b>“Messaging”</b> tab in the back office. This setting controls whether the “new phase email” option is available across the platform. Once it's enabled, you can choose to activate or deactivate the notification for each individual phase by toggling the switch at the bottom of that phase’s settings.",
+      "translated_from_hash": "bc7ef7c2bf0b",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "Idea &amp; Proposal: when the idea receives a new update or status change. We don’t notify users for every comment, this only happens when you actively engage in the conversation.",
+      "source_hash": "5d9dd5ffe24c",
+      "target": "Idea &amp; Proposal: when the idea receives a new update or status change. We don’t notify users for every comment, this only happens when you actively engage in the conversation.",
+      "translated_from_hash": "5d9dd5ffe24c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "Area &amp; tag: when a new project is launched in an area or tag of your interest all users following that tag or area will receive an email that a new project was published.",
+      "source_hash": "196f051da773",
+      "target": "Area &amp; tag: when a new project is launched in an area or tag of your interest all users following that tag or area will receive an email that a new project was published.",
+      "translated_from_hash": "196f051da773",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "ℹ️ If access rights are set to anonymous, participation in the project will not lead to a follow since the account cannot be linked",
+      "source_hash": "8d1ab7694a1a",
+      "target": "ℹ️ If access rights are set to anonymous, participation in the project will not lead to a follow since the account cannot be linked",
+      "translated_from_hash": "8d1ab7694a1a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Auto-follow",
+      "source_hash": "31dc172792a7",
+      "target": "Auto-follow",
+      "translated_from_hash": "31dc172792a7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "As soon as a user engages with a project, idea or proposal, they automatically become a follower.",
+      "source_hash": "ac816bc2b2c6",
+      "target": "As soon as a user engages with a project, idea or proposal, they automatically become a follower.",
+      "translated_from_hash": "ac816bc2b2c6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Participation notifications to users",
+      "source_hash": "dcfc21488b97",
+      "target": "Participation notifications to users",
+      "translated_from_hash": "dcfc21488b97",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Users that participate or follow an ideation project will not be notified every-time someone else posts a new idea. They will only get notified for comments and replies to comments within an idea they follow or already commented in. So every time a user posts a comment on an existing idea or replies to a comment within an existing idea, the users that follow the idea and comments will recieve an notification.",
+      "source_hash": "169cb03b7b7f",
+      "target": "Users that participate or follow an ideation project will not be notified every-time someone else posts a new idea. They will only get notified for comments and replies to comments within an idea they follow or already commented in. So every time a user posts a comment on an existing idea or replies to a comment within an existing idea, the users that follow the idea and comments will recieve an notification.",
+      "translated_from_hash": "169cb03b7b7f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "Users following a project will get weekly update of \"whats been going on\" where they will see the new ideas submitted by others",
+      "source_hash": "1b2bdd87d8b6",
+      "target": "Users following a project will get weekly update of \"whats been going on\" where they will see the new ideas submitted by others",
+      "translated_from_hash": "1b2bdd87d8b6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "Notifying users of restricted visibility and access rights",
+      "source_hash": "2901aafd045d",
+      "target": "Notifying users of restricted visibility and access rights",
+      "translated_from_hash": "2901aafd045d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "If you create a project that is only visible to a selected smart group, publishing the new project will not trigger a notification to that selected group unless you select project tags which these users may also follow.",
+      "source_hash": "b071f34051bf",
+      "target": "If you create a project that is only visible to a selected smart group, publishing the new project will not trigger a notification to that selected group unless you select project tags which these users may also follow.",
+      "translated_from_hash": "b071f34051bf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "The best way is to accompany the newly published project with a custom email to that group saying that a new project has been published for them.",
+      "source_hash": "f5e81c59dddf",
+      "target": "The best way is to accompany the newly published project with a custom email to that group saying that a new project has been published for them.",
+      "translated_from_hash": "f5e81c59dddf",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/2389093-sending-emails-to-your-users-and-following-up-on-the-results\" target=\"_blank\">To send out emails from the platform to a selected group check out this article. </a>",
+      "source_hash": "e572ffe2c6dd",
+      "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/2389093-sending-emails-to-your-users-and-following-up-on-the-results\" target=\"_blank\">To send out emails from the platform to a selected group check out this article. </a>",
+      "translated_from_hash": "e572ffe2c6dd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "Smart Groups for the follow function",
+      "source_hash": "0a144f6e1125",
+      "target": "Smart Groups for the follow function",
+      "translated_from_hash": "0a144f6e1125",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "You can create smart groups with the ‘Followed by’ attribute. This allows you to send out manual campaigns to all followers.",
+      "source_hash": "b4884dc6d1da",
+      "target": "You can create smart groups with the ‘Followed by’ attribute. This allows you to send out manual campaigns to all followers.",
+      "translated_from_hash": "b4884dc6d1da",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "Capture user interest during registration",
+      "source_hash": "c96ffa26de7e",
+      "target": "Capture user interest during registration",
+      "translated_from_hash": "c96ffa26de7e",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "You can request users to share their interests during the onboarding. Go to <b>Settings → Registration</b> and enable this to make sure users can start following area’s and tags during onboarding. This helps a lot if you want to launch a new project by tapping into an existing audience.",
+      "source_hash": "8c10c60370e2",
+      "target": "You can request users to share their interests during the onboarding. Go to <b>Settings → Registration</b> and enable this to make sure users can start following area’s and tags during onboarding. This helps a lot if you want to launch a new project by tapping into an existing audience.",
+      "translated_from_hash": "8c10c60370e2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<i>Do you have further questions or need help? Contact our Support Team via the <a class=\"intercom-content-link\" href=\"https://support.citizenlab.co/en/articles/6348810-how-the-citizenlab-support-team-can-help-you\" target=\"_blank\">chat bubble</a>. </i>💬",
+      "source_hash": "4550a96dbe22",
+      "target": "<i>Do you have further questions or need help? Contact our Support Team via the <a class=\"intercom-content-link\" href=\"https://support.citizenlab.co/en/articles/6348810-how-the-citizenlab-support-team-can-help-you\" target=\"_blank\">chat bubble</a>. </i>💬",
+      "translated_from_hash": "4550a96dbe22",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

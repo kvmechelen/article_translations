@@ -1,0 +1,502 @@
+{
+  "article_id": "527556",
+  "language": "nl",
+  "source_language": "en",
+  "segments": {
+    "title": {
+      "field": "title",
+      "source": "Project Manager Starter Guide",
+      "source_hash": "54056226b979",
+      "target": "Project Manager Starter Guide",
+      "translated_from_hash": "54056226b979",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "description": {
+      "field": "description",
+      "source": "This article brings an elaborated guide for configuring, starting and managing your projects as a project manager.",
+      "source_hash": "1905ad33a3f7",
+      "target": "This article brings an elaborated guide for configuring, starting and managing your projects as a project manager.",
+      "translated_from_hash": "1905ad33a3f7",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0001": {
+      "field": "body",
+      "source": "How to build your first project?",
+      "source_hash": "da481a2bb04c",
+      "target": "How to build your first project?",
+      "translated_from_hash": "da481a2bb04c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0002": {
+      "field": "body",
+      "source": "This guide introduces the main steps of managing projects on the Go Vocal platform:",
+      "source_hash": "ed80a3bb792d",
+      "target": "This guide introduces the main steps of managing projects on the Go Vocal platform:",
+      "translated_from_hash": "ed80a3bb792d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0003": {
+      "field": "body",
+      "source": "1. Logging in and exploring the back end.",
+      "source_hash": "c635681949c1",
+      "target": "1. Logging in and exploring the back end.",
+      "translated_from_hash": "c635681949c1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0004": {
+      "field": "body",
+      "source": "Use the invitation email from your administrator, or go to your platform and click Log in.",
+      "source_hash": "2d4497cf8348",
+      "target": "Use the invitation email from your administrator, or go to your platform and click Log in.",
+      "translated_from_hash": "2d4497cf8348",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0005": {
+      "field": "body",
+      "source": "If prompted, take the onboarding tour to explore features.",
+      "source_hash": "2e7c20102f92",
+      "target": "If prompted, take the onboarding tour to explore features.",
+      "translated_from_hash": "2e7c20102f92",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0006": {
+      "field": "body",
+      "source": "If the tour does not appear, contact support to activate it.",
+      "source_hash": "2a7f848ef86f",
+      "target": "If the tour does not appear, contact support to activate it.",
+      "translated_from_hash": "2a7f848ef86f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0007": {
+      "field": "body",
+      "source": "2. Creating and configuring a project.",
+      "source_hash": "f46df4ad9936",
+      "target": "2. Creating and configuring a project.",
+      "translated_from_hash": "f46df4ad9936",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0008": {
+      "field": "body",
+      "source": "<b>Steps:</b>",
+      "source_hash": "79ea6cc10451",
+      "target": "<b>Steps:</b>",
+      "translated_from_hash": "79ea6cc10451",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0009": {
+      "field": "body",
+      "source": "Go to the Projects tab.",
+      "source_hash": "4687e73f3b30",
+      "target": "Go to the Projects tab.",
+      "translated_from_hash": "4687e73f3b30",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0010": {
+      "field": "body",
+      "source": "Click New Project and choose from scratch or from a template.",
+      "source_hash": "aa7404958da1",
+      "target": "Click New Project and choose from scratch or from a template.",
+      "translated_from_hash": "aa7404958da1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0011": {
+      "field": "body",
+      "source": "Enter project name, tags, areas, and upload pictures.",
+      "source_hash": "d3be56e773c0",
+      "target": "Enter project name, tags, areas, and upload pictures.",
+      "translated_from_hash": "d3be56e773c0",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0012": {
+      "field": "body",
+      "source": "Save your project.",
+      "source_hash": "45986b166559",
+      "target": "Save your project.",
+      "translated_from_hash": "45986b166559",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0013": {
+      "field": "body",
+      "source": "<b>Project settings on the General tab:</b>",
+      "source_hash": "8a42e83473dc",
+      "target": "<b>Project settings on the General tab:</b>",
+      "translated_from_hash": "8a42e83473dc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0014": {
+      "field": "body",
+      "source": "<b>Set up:</b> update title, tags, areas, images, and URL (slug), and write a short description or use the content builder for advanced formatting.",
+      "source_hash": "dc94618107f6",
+      "target": "<b>Set up:</b> update title, tags, areas, images, and URL (slug), and write a short description or use the content builder for advanced formatting.",
+      "translated_from_hash": "dc94618107f6",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0015": {
+      "field": "body",
+      "source": "<b>Input Tags:</b> if using ideation, define tags for categorizing inputs.",
+      "source_hash": "daee7f97cfba",
+      "target": "<b>Input Tags:</b> if using ideation, define tags for categorizing inputs.",
+      "translated_from_hash": "daee7f97cfba",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0016": {
+      "field": "body",
+      "source": "<b>Access rights:</b> control visibility, default assignee, and project managers.",
+      "source_hash": "a5564c2c95db",
+      "target": "<b>Access rights:</b> control visibility, default assignee, and project managers.",
+      "translated_from_hash": "a5564c2c95db",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0017": {
+      "field": "body",
+      "source": "<b>Data:</b> remove test inputs before publishing.",
+      "source_hash": "3661982a0578",
+      "target": "<b>Data:</b> remove test inputs before publishing.",
+      "translated_from_hash": "3661982a0578",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0018": {
+      "field": "body",
+      "source": "3. Planning your project phases and participation methods.",
+      "source_hash": "c6b3e9ba4b50",
+      "target": "3. Planning your project phases and participation methods.",
+      "translated_from_hash": "c6b3e9ba4b50",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0019": {
+      "field": "body",
+      "source": "In the Timeline tab you can configure our timeline, phases and participation methods. Each phase of the timeline has a phase start/end date and a participation method. Common methods include:",
+      "source_hash": "5ef0a3aa3965",
+      "target": "In the Timeline tab you can configure our timeline, phases and participation methods. Each phase of the timeline has a phase start/end date and a participation method. Common methods include:",
+      "translated_from_hash": "5ef0a3aa3965",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0020": {
+      "field": "body",
+      "source": "<b>Collect input and feedback:</b> gather ideas on a list or map, with voting and commenting.",
+      "source_hash": "208f647b5881",
+      "target": "<b>Collect input and feedback:</b> gather ideas on a list or map, with voting and commenting.",
+      "translated_from_hash": "208f647b5881",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0021": {
+      "field": "body",
+      "source": "<b>Proposals, petitions, initiatives:</b> allow citizens to submit and support proposals.",
+      "source_hash": "5f389311e1ca",
+      "target": "<b>Proposals, petitions, initiatives:</b> allow citizens to submit and support proposals.",
+      "translated_from_hash": "5f389311e1ca",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0022": {
+      "field": "body",
+      "source": "<b>Surveys:</b> collect private feedback.",
+      "source_hash": "9b9b14c129b4",
+      "target": "<b>Surveys:</b> collect private feedback.",
+      "translated_from_hash": "9b9b14c129b4",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0023": {
+      "field": "body",
+      "source": "<b>Voting/prioritization:</b> participants vote or rank options (e.g., participatory budgeting).",
+      "source_hash": "dd84a7c185fc",
+      "target": "<b>Voting/prioritization:</b> participants vote or rank options (e.g., participatory budgeting).",
+      "translated_from_hash": "dd84a7c185fc",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0024": {
+      "field": "body",
+      "source": "<b>Share information:</b> provide updates and results.",
+      "source_hash": "26eb950bf781",
+      "target": "<b>Share information:</b> provide updates and results.",
+      "translated_from_hash": "26eb950bf781",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0025": {
+      "field": "body",
+      "source": "<b>Volunteering:</b> recruit participants for activities.",
+      "source_hash": "09896733c569",
+      "target": "<b>Volunteering:</b> recruit participants for activities.",
+      "translated_from_hash": "09896733c569",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0026": {
+      "field": "body",
+      "source": "<b>Document annotation:</b> collect feedback directly on documents.",
+      "source_hash": "cf687b162f19",
+      "target": "<b>Document annotation:</b> collect feedback directly on documents.",
+      "translated_from_hash": "cf687b162f19",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0027": {
+      "field": "body",
+      "source": "<b>Example timeline:</b>",
+      "source_hash": "0c130f36745a",
+      "target": "<b>Example timeline:</b>",
+      "translated_from_hash": "0c130f36745a",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0028": {
+      "field": "body",
+      "source": "Collect ideas.",
+      "source_hash": "9bc39cf98403",
+      "target": "Collect ideas.",
+      "translated_from_hash": "9bc39cf98403",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0029": {
+      "field": "body",
+      "source": "Analyze results.",
+      "source_hash": "9bfba3bf411d",
+      "target": "Analyze results.",
+      "translated_from_hash": "9bfba3bf411d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0030": {
+      "field": "body",
+      "source": "Provide updates.",
+      "source_hash": "54ffa7d29c5c",
+      "target": "Provide updates.",
+      "translated_from_hash": "54ffa7d29c5c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0031": {
+      "field": "body",
+      "source": "Invite voting or prioritization.",
+      "source_hash": "9f02ba728914",
+      "target": "Invite voting or prioritization.",
+      "translated_from_hash": "9f02ba728914",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0032": {
+      "field": "body",
+      "source": "Share final report.",
+      "source_hash": "0c3be5f09bf2",
+      "target": "Share final report.",
+      "translated_from_hash": "0c3be5f09bf2",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0033": {
+      "field": "body",
+      "source": "4. Testing and launching your project.",
+      "source_hash": "bafc16df319d",
+      "target": "4. Testing and launching your project.",
+      "translated_from_hash": "bafc16df319d",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0034": {
+      "field": "body",
+      "source": "<b>Test the project</b>:",
+      "source_hash": "f7cd5abaad64",
+      "target": "<b>Test the project</b>:",
+      "translated_from_hash": "f7cd5abaad64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0035": {
+      "field": "body",
+      "source": "(Premium/Enterprise) use <b>Share</b> to generate a test link for internal review.",
+      "source_hash": "f5f8c6601c37",
+      "target": "(Premium/Enterprise) use <b>Share</b> to generate a test link for internal review.",
+      "translated_from_hash": "f5f8c6601c37",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0036": {
+      "field": "body",
+      "source": "<b>Launch the project</b>:",
+      "source_hash": "98a601df9488",
+      "target": "<b>Launch the project</b>:",
+      "translated_from_hash": "98a601df9488",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0037": {
+      "field": "body",
+      "source": "Click <b>Publish</b> to go live immediately, or",
+      "source_hash": "1e064f1443ae",
+      "target": "Click <b>Publish</b> to go live immediately, or",
+      "translated_from_hash": "1e064f1443ae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0038": {
+      "field": "body",
+      "source": "Click <b>Request Approval</b> (Premium/Enterprise) to submit for admin/folder manager approval.",
+      "source_hash": "d5230a47cd1f",
+      "target": "Click <b>Request Approval</b> (Premium/Enterprise) to submit for admin/folder manager approval.",
+      "translated_from_hash": "d5230a47cd1f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0039": {
+      "field": "body",
+      "source": "5. Managing participants and inputs.",
+      "source_hash": "4efe3643c2ed",
+      "target": "5. Managing participants and inputs.",
+      "translated_from_hash": "4efe3643c2ed",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0040": {
+      "field": "body",
+      "source": "<b>Communicate with participants:</b>",
+      "source_hash": "ecd8d816f42c",
+      "target": "<b>Communicate with participants:</b>",
+      "translated_from_hash": "ecd8d816f42c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0041": {
+      "field": "body",
+      "source": "Use the <b>Audience</b> tab to look at your project demographics, download the list of participants and monitor traffic",
+      "source_hash": "73a35f1dd54f",
+      "target": "Use the <b>Audience</b> tab to look at your project demographics, download the list of participants and monitor traffic",
+      "translated_from_hash": "73a35f1dd54f",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0042": {
+      "field": "body",
+      "source": "Send direct emails via the <b>Messaging</b> tab.",
+      "source_hash": "042bf9b03e64",
+      "target": "Send direct emails via the <b>Messaging</b> tab.",
+      "translated_from_hash": "042bf9b03e64",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0043": {
+      "field": "body",
+      "source": "for each phase use the <b>Notifications</b> tab to turn automatic emails on and off",
+      "source_hash": "71e47d4db719",
+      "target": "for each phase use the <b>Notifications</b> tab to turn automatic emails on and off",
+      "translated_from_hash": "71e47d4db719",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0044": {
+      "field": "body",
+      "source": "<b>Manage inputs:</b>",
+      "source_hash": "955e0ed90ec1",
+      "target": "<b>Manage inputs:</b>",
+      "translated_from_hash": "955e0ed90ec1",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0045": {
+      "field": "body",
+      "source": "Use the <b>Input Manager</b> to assign or reassign inputs.",
+      "source_hash": "e4aa057cc1c9",
+      "target": "Use the <b>Input Manager</b> to assign or reassign inputs.",
+      "translated_from_hash": "e4aa057cc1c9",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0046": {
+      "field": "body",
+      "source": "Move or copy inputs between phases if needed.",
+      "source_hash": "801235460fd8",
+      "target": "Move or copy inputs between phases if needed.",
+      "translated_from_hash": "801235460fd8",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0047": {
+      "field": "body",
+      "source": "Ensure someone is responsible for processing posts in your project settings <b>General</b> tab &gt; <b>Access rights</b>.",
+      "source_hash": "55dbfdaea67c",
+      "target": "Ensure someone is responsible for processing posts in your project settings <b>General</b> tab &gt; <b>Access rights</b>.",
+      "translated_from_hash": "55dbfdaea67c",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0048": {
+      "field": "body",
+      "source": "6. Analyzing results and closing the project.",
+      "source_hash": "2ee82bb3ef70",
+      "target": "6. Analyzing results and closing the project.",
+      "translated_from_hash": "2ee82bb3ef70",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0049": {
+      "field": "body",
+      "source": "Add a final <b>Information phase</b> to publish outcomes.",
+      "source_hash": "78fb486095fd",
+      "target": "Add a final <b>Information phase</b> to publish outcomes.",
+      "translated_from_hash": "78fb486095fd",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0050": {
+      "field": "body",
+      "source": "Use the <b>Report builder</b> to summarize results.",
+      "source_hash": "9c89c043a799",
+      "target": "Use the <b>Report builder</b> to summarize results.",
+      "translated_from_hash": "9c89c043a799",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0051": {
+      "field": "body",
+      "source": "Apply the <b>AI Sensemaking</b> tool to analyze large volumes of input.",
+      "source_hash": "7c61d8a94450",
+      "target": "Apply the <b>AI Sensemaking</b> tool to analyze large volumes of input.",
+      "translated_from_hash": "7c61d8a94450",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0052": {
+      "field": "body",
+      "source": "Publish the report so participants are informed of the final decision.",
+      "source_hash": "cc9072f8ecae",
+      "target": "Publish the report so participants are informed of the final decision.",
+      "translated_from_hash": "cc9072f8ecae",
+      "origin": "machine",
+      "status": "unverified"
+    },
+    "body:0053": {
+      "field": "body",
+      "source": "ℹ️ For more information on the participation methods on our platform to use read: <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">Overview of our Participation methods</a>",
+      "source_hash": "cdcdebf70ed2",
+      "target": "ℹ️ For more information on the participation methods on our platform to use read: <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527568-overview-of-our-participation-methods\" target=\"_blank\">Overview of our Participation methods</a>",
+      "translated_from_hash": "cdcdebf70ed2",
+      "origin": "machine",
+      "status": "unverified"
+    }
+  }
+}

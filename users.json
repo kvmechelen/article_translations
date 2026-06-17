@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "name": "Admin",
+      "password_hash": "$2b$12$4E6Y5Mm0DJmH3SAzXNsQmuevrubQ0otYwlWcmOeQv.YpOXsyrpiFy",
+      "languages": ["de", "da", "es", "fr", "it", "nl"]
+    }
+  ]
+}
