@@ -128,8 +128,10 @@
       "source_hash": "34792c7e8db0",
       "target": "<b>FormSync 2.0: Bringing offline voices into your analysis</b>",
       "translated_from_hash": "34792c7e8db0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.757722+00:00"
     },
     "body:0011": {
       "field": "body",
