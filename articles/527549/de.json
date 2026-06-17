@@ -1074,8 +1074,10 @@
       "source_hash": "38568523e759",
       "target": "October 2025",
       "translated_from_hash": "38568523e759",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.852685+00:00"
     },
     "body:0097": {
       "field": "body",
