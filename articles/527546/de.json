@@ -194,8 +194,10 @@
       "source_hash": "e0e8816e1d27",
       "target": "you can publish what you have written or keep some information in draft to publish at a later date",
       "translated_from_hash": "e0e8816e1d27",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:32.283154+00:00"
     },
     "body:0017": {
       "field": "body",
