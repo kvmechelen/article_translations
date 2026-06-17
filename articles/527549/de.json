@@ -1327,8 +1327,10 @@
       "source_hash": "b7f6dbc83439",
       "target": "Drop other widgets (images, attachments, buttons, etc.) into the accordion body to fully customize your accordion.",
       "translated_from_hash": "b7f6dbc83439",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.179710+00:00"
     },
     "body:0120": {
       "field": "body",
