@@ -348,8 +348,10 @@
       "source_hash": "8bf6b70a02ec",
       "target": "In this section you can edit the form that users have to fill in when they want to participate in the phase.",
       "translated_from_hash": "8bf6b70a02ec",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:33.048420+00:00"
     },
     "body:0031": {
       "field": "body",
