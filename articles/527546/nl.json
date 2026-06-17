@@ -689,8 +689,10 @@
       "source_hash": "3eec3d081abf",
       "target": "Understand overall participation and engagement",
       "translated_from_hash": "3eec3d081abf",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.433529+00:00"
     },
     "body:0062": {
       "field": "body",
