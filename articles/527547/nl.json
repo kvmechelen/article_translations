@@ -73,8 +73,10 @@
       "source_hash": "a18c67cbf415",
       "target": "The folder and project overviews are located in the same section of the platform. This is explained in more depth in the following article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Different views for Project Management</a></i>",
       "translated_from_hash": "a18c67cbf415",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.442149+00:00"
     },
     "body:0006": {
       "field": "body",
