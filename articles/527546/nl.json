@@ -1008,8 +1008,10 @@
       "source_hash": "5f014e1c854c",
       "target": "Demographic &amp; Audience information for the phase",
       "translated_from_hash": "5f014e1c854c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:20.344131+00:00"
     },
     "body:0091": {
       "field": "body",
