@@ -876,8 +876,10 @@
       "source_hash": "36ce9260f118",
       "target": "<b>Participants</b> <i>(all participation methods)</i>",
       "translated_from_hash": "36ce9260f118",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.981518+00:00"
     },
     "body:0079": {
       "field": "body",
