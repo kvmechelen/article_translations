@@ -645,8 +645,10 @@
       "source_hash": "ab61afaa5bb4",
       "target": "We've removed the barrier of mandatory registration by allowing participants to engage immediately, making it easier for them to contribute without any upfront commitment. Previously, this was only available during the survey phase, but now users can submit ideas and proposals without registering first. This feature helps increase participation rates, especially for large-scale projects, by enabling users to get involved right away and create an account later. By deferring the registration process until after submission, we maintain data integrity and ensure a seamless experience while still capturing the necessary information for legitimacy and fraud detection.",
       "translated_from_hash": "ab61afaa5bb4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.454418+00:00"
     },
     "body:0058": {
       "field": "body",
