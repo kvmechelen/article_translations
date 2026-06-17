@@ -348,8 +348,10 @@
       "source_hash": "f0868c08ea72",
       "target": "<b>Perspectives: Help your community to navigate and understand collective ideas with the new auto-tagging and feed view features</b>",
       "translated_from_hash": "f0868c08ea72",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.842961+00:00"
     },
     "body:0031": {
       "field": "body",
