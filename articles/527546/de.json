@@ -260,8 +260,10 @@
       "source_hash": "981fb5dda3e1",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view\" target=\"_blank\">Collecting input and feedback</a>",
       "translated_from_hash": "981fb5dda3e1",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:32.588783+00:00"
     },
     "body:0023": {
       "field": "body",
