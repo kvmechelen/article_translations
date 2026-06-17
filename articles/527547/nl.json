@@ -436,8 +436,10 @@
       "source_hash": "6fed43f6e43a",
       "target": "Projects are sequential by nature, each phase follows another.",
       "translated_from_hash": "6fed43f6e43a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.202630+00:00"
     },
     "body:0038": {
       "field": "body",
