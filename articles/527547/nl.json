@@ -205,8 +205,10 @@
       "source_hash": "237733cdc27d",
       "target": "You can’t have folders within folders.",
       "translated_from_hash": "237733cdc27d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.043527+00:00"
     },
     "body:0017": {
       "field": "body",
