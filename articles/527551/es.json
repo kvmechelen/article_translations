@@ -53,8 +53,10 @@
       "source_hash": "12df0afcedb4",
       "target": "You can browse projects from a network of over 500 municipalities, filtering by consultation method, city size, and more.",
       "translated_from_hash": "12df0afcedb4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.503334+00:00"
     },
     "body:0004": {
       "field": "body",
