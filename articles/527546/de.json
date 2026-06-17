@@ -205,8 +205,10 @@
       "source_hash": "c78363b80ecd",
       "target": "The edits are saved even if you go away from the page, the edits just won’t appear publicly until you publish.",
       "translated_from_hash": "c78363b80ecd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:32.332462+00:00"
     },
     "body:0018": {
       "field": "body",
