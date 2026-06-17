@@ -117,8 +117,10 @@
       "source_hash": "dd6ba3be893a",
       "target": "<i>Participation methods: all</i>",
       "translated_from_hash": "dd6ba3be893a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.328806+00:00"
     },
     "body:0010": {
       "field": "body",
