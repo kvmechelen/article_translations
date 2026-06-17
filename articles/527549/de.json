@@ -469,8 +469,10 @@
       "source_hash": "d9e5c9089b18",
       "target": "<b>Word export for phase insights</b> — download reports directly as Word files from the report builder. <b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">📖</a></b><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\"> Learn more about building reports here</a>",
       "translated_from_hash": "d9e5c9089b18",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:10.505722+00:00"
     },
     "body:0042": {
       "field": "body",
