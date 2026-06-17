@@ -1151,8 +1151,10 @@
       "source_hash": "c0e4fb4d718f",
       "target": "Drag and drop fields anywhere in the form for faster layout in surveys, input forms, and proposal forms.",
       "translated_from_hash": "c0e4fb4d718f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.233019+00:00"
     },
     "body:0104": {
       "field": "body",
