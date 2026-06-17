@@ -304,8 +304,10 @@
       "source_hash": "49485e63cc97",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527638-assigning-input-and-ideas-to-your-colleagues\" target=\"_blank\">Assigning input and ideas to your colleagues</a>",
       "translated_from_hash": "49485e63cc97",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:16.317395+00:00"
     },
     "body:0027": {
       "field": "body",
