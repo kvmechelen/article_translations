@@ -51,8 +51,10 @@
       "source_hash": "56205846594f",
       "target": "The key advantage of polls is their visibility and ease of use: poll questions appear directly on the project page, making it easy for users to participate without leaving the page. This makes polls a fast, accessible, and effective way to understand what your community is thinking and feeling in the moment.",
       "translated_from_hash": "56205846594f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.121320+00:00"
     },
     "body:0004": {
       "field": "body",
