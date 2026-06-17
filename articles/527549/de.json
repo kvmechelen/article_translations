@@ -1360,8 +1360,10 @@
       "source_hash": "3be39f900c37",
       "target": "<b>8. Folder:</b>",
       "translated_from_hash": "3be39f900c37",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.345999+00:00"
     },
     "body:0123": {
       "field": "body",
