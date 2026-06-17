@@ -1195,8 +1195,10 @@
       "source_hash": "aca2f665db08",
       "target": "Voting",
       "translated_from_hash": "aca2f665db08",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:37.716631+00:00"
     },
     "body:0108": {
       "field": "body",
