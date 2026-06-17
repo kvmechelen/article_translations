@@ -931,8 +931,10 @@
       "source_hash": "b447c7052bab",
       "target": "Transcribe your audio files",
       "translated_from_hash": "b447c7052bab",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.033288+00:00"
     },
     "body:0084": {
       "field": "body",
