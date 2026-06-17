@@ -150,8 +150,10 @@
       "source_hash": "bd17469da716",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about the FormSync tool here</a>",
       "translated_from_hash": "bd17469da716",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.861726+00:00"
     },
     "body:0013": {
       "field": "body",
