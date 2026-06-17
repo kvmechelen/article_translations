@@ -953,8 +953,10 @@
       "source_hash": "e42307f4d784",
       "target": "The number of comments added to submitted inputs.",
       "translated_from_hash": "e42307f4d784",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:36.343316+00:00"
     },
     "body:0086": {
       "field": "body",
