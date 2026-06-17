@@ -1008,8 +1008,10 @@
       "source_hash": "5ccfd5db8165",
       "target": "Make your folder pages well branded and clear for your participants. You can fully customize your folder pages using the <b>content builder</b>.",
       "translated_from_hash": "5ccfd5db8165",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.433605+00:00"
     },
     "body:0091": {
       "field": "body",
