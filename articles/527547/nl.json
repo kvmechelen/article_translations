@@ -469,8 +469,10 @@
       "source_hash": "e8eda3232ad9",
       "target": "2. Organizing projects by policy, area, theme, or district",
       "translated_from_hash": "e8eda3232ad9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.371594+00:00"
     },
     "body:0041": {
       "field": "body",
