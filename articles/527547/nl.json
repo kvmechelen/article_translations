@@ -139,8 +139,10 @@
       "source_hash": "235abbbc3203",
       "target": "Approve projects created by project managers inside the folder",
       "translated_from_hash": "235abbbc3203",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.740769+00:00"
     },
     "body:0011": {
       "field": "body",
