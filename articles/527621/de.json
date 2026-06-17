@@ -139,8 +139,10 @@
       "source_hash": "977950d8ff2d",
       "target": "<b>Project description</b>: Provide clear and detailed information in the description. This helps participants make informed choices and ensures you collect valuable, reliable data.",
       "translated_from_hash": "977950d8ff2d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.533827+00:00"
     },
     "body:0012": {
       "field": "body",
