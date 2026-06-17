@@ -238,8 +238,10 @@
       "source_hash": "6782323e0fc0",
       "target": "Folders cannot be custom-styled for a department or project.",
       "translated_from_hash": "6782323e0fc0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.205808+00:00"
     },
     "body:0020": {
       "field": "body",
