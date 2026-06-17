@@ -1173,8 +1173,10 @@
       "source_hash": "b067f28f954b",
       "target": "A top 5 list of the most liked ideas",
       "translated_from_hash": "b067f28f954b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:37.595356+00:00"
     },
     "body:0106": {
       "field": "body",
