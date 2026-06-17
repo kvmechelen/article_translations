@@ -284,8 +284,10 @@
       "source_hash": "e1aad3bf2f10",
       "target": "Is my project visible to all other platforms?",
       "translated_from_hash": "e1aad3bf2f10",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.676329+00:00"
     },
     "body:0025": {
       "field": "body",
