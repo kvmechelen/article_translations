@@ -194,8 +194,10 @@
       "source_hash": "7e31653bb31f",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Scheduling projects here</a>",
       "translated_from_hash": "7e31653bb31f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.068612+00:00"
     },
     "body:0017": {
       "field": "body",
