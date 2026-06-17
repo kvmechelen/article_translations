@@ -579,8 +579,10 @@
       "source_hash": "dbfd4483caba",
       "target": "ℹ️ For more information on our Report Builder feature read our support article <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527585-creating-reports-with-report-builder\" target=\"_blank\">Creating and building reports with the Report Builder</a>",
       "translated_from_hash": "dbfd4483caba",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:17.820738+00:00"
     },
     "body:0052": {
       "field": "body",
