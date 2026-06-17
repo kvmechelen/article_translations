@@ -1426,8 +1426,10 @@
       "source_hash": "d29aea0edad9",
       "target": "Press the <b>+ New phase</b> icon on the right of the timeline to add extra phases until you have your entire project outlined",
       "translated_from_hash": "d29aea0edad9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:22.872463+00:00"
     },
     "body:0129": {
       "field": "body",
