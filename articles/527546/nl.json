@@ -843,8 +843,10 @@
       "source_hash": "6f216699ccea",
       "target": "Depending on the participation method, the following data points may be shown:",
       "translated_from_hash": "6f216699ccea",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:19.341373+00:00"
     },
     "body:0076": {
       "field": "body",
