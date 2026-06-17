@@ -733,8 +733,10 @@
       "source_hash": "301629cdca49",
       "target": "The Insights tab is available for phases that allow participant interaction and can include input from both logged-in and logged-out participants, depending on the access rights of the phase.",
       "translated_from_hash": "301629cdca49",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.203015+00:00"
     },
     "body:0066": {
       "field": "body",
