@@ -1228,8 +1228,10 @@
       "source_hash": "55693f6863eb",
       "target": "User Data Collection: Controls anonymity settings.",
       "translated_from_hash": "55693f6863eb",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.629827+00:00"
     },
     "body:0111": {
       "field": "body",
