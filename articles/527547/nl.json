@@ -194,8 +194,10 @@
       "source_hash": "46e4dde1ddcb",
       "target": "Notes on current folder functionality",
       "translated_from_hash": "46e4dde1ddcb",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.987264+00:00"
     },
     "body:0016": {
       "field": "body",
