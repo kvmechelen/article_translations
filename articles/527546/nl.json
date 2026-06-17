@@ -678,8 +678,10 @@
       "source_hash": "5efa5623de6f",
       "target": "Rather than reviewing individual inputs one by one, the Insights tab provides a structured overview that makes it easier to:",
       "translated_from_hash": "5efa5623de6f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.371960+00:00"
     },
     "body:0061": {
       "field": "body",
