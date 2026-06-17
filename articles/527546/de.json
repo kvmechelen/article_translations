@@ -865,8 +865,10 @@
       "source_hash": "194751b76892",
       "target": "The number of people who viewed your phase. This includes both logged-in and logged-out visitors.",
       "translated_from_hash": "194751b76892",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.929868+00:00"
     },
     "body:0078": {
       "field": "body",
