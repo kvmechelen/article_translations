@@ -194,8 +194,10 @@
       "source_hash": "59473ab8df2c",
       "target": "This is especially useful when bulk-uploading or when you are managing many files in one project, as it helps you keep files organized for later referencing.",
       "translated_from_hash": "59473ab8df2c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.484876+00:00"
     },
     "body:0017": {
       "field": "body",
