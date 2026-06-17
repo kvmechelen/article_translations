@@ -282,8 +282,10 @@
       "source_hash": "3c8235fc503e",
       "target": "<b>Easier project manager invites, to give your teams more autonomy:</b> Project managers and folder managers can now invite new project and folder managers directly by email inside their project/folder. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527642-different-roles-and-permissions-on-the-platform\" target=\"_blank\">📖 Learn more about roles and permissions here</a>",
       "translated_from_hash": "3c8235fc503e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.515227+00:00"
     },
     "body:0025": {
       "field": "body",
