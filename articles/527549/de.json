@@ -249,8 +249,10 @@
       "source_hash": "328b3ac5c4f1",
       "target": "<b>New user group rule to target roles:</b> Make segmentation and management of users even more powerful creating user groups based on user roles <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527589-user-management-and-user-groups\" target=\"_blank\">📖 Learn more about user groups here</a>",
       "translated_from_hash": "328b3ac5c4f1",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.345420+00:00"
     },
     "body:0022": {
       "field": "body",
