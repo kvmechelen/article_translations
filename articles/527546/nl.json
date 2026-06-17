@@ -392,8 +392,10 @@
       "source_hash": "8cc0036bec1e",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527567-collecting-residents-proposals-petitions\" target=\"_blank\">Collecting residents proposals/petitions</a>",
       "translated_from_hash": "8cc0036bec1e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:16.807724+00:00"
     },
     "body:0035": {
       "field": "body",
