@@ -84,8 +84,10 @@
       "source_hash": "d45901fcaa23",
       "target": "<b>Survey submission IDs can now be hidden on request.</b> Contact our support team to remove the response ID shown after submission. Collect responses without exposing metadata community members don't need to see. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527602-creating-an-in-platform-survey\" target=\"_blank\">📖 Learn more</a>",
       "translated_from_hash": "d45901fcaa23",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:08.556776+00:00"
     },
     "body:0007": {
       "field": "body",
