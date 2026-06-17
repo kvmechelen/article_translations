@@ -403,8 +403,10 @@
       "source_hash": "976180568a3f",
       "target": "Click ‘Attach files’ in the top right",
       "translated_from_hash": "976180568a3f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.624030+00:00"
     },
     "body:0036": {
       "field": "body",
