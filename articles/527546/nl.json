@@ -623,8 +623,10 @@
       "source_hash": "22c3a163389f",
       "target": "ℹ️ For more information read our article on <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527622-organizing-a-volunteering-project\" target=\"_blank\">Organizing a volunteering project</a>",
       "translated_from_hash": "22c3a163389f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:18.068548+00:00"
     },
     "body:0056": {
       "field": "body",
