@@ -755,8 +755,10 @@
       "source_hash": "02161d5b93a6",
       "target": "(Topic - reference)",
       "translated_from_hash": "02161d5b93a6",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.381704+00:00"
     },
     "body:0068": {
       "field": "body",
