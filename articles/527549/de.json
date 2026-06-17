@@ -832,8 +832,10 @@
       "source_hash": "67614ae2a95a",
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Learn more about Tags</a>",
       "translated_from_hash": "67614ae2a95a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.497229+00:00"
     },
     "body:0075": {
       "field": "body",
