@@ -128,8 +128,10 @@
       "source_hash": "54f4ee0f4c2d",
       "target": "Create new projects within the folder",
       "translated_from_hash": "54f4ee0f4c2d",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.683699+00:00"
     },
     "body:0065": {
       "field": "body",
