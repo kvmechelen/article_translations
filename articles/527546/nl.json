@@ -315,8 +315,10 @@
       "source_hash": "e90494645171",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527641-providing-feedback-and-managing-inputs\" target=\"_blank\">Providing feedback and managing inputs </a>",
       "translated_from_hash": "e90494645171",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:16.376576+00:00"
     },
     "body:0028": {
       "field": "body",
