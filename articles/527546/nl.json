@@ -997,8 +997,10 @@
       "source_hash": "13055c12053c",
       "target": "A graph comparing visitors and participants over a selected time period, helping you understand how engagement evolved throughout the phase.",
       "translated_from_hash": "13055c12053c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:20.260649+00:00"
     },
     "body:0090": {
       "field": "body",
