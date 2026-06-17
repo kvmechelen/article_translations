@@ -337,8 +337,10 @@
       "source_hash": "d1e5ef8be4d5",
       "target": "<b>Visibility behavior:</b>",
       "translated_from_hash": "d1e5ef8be4d5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.725449+00:00"
     },
     "body:0029": {
       "field": "body",
