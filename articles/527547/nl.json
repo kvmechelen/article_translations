@@ -249,8 +249,10 @@
       "source_hash": "704d886714e1",
       "target": "You cannot create smart groups of people who participated in a folder, you need to select all projects in the folder manually.",
       "translated_from_hash": "704d886714e1",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.256216+00:00"
     },
     "body:0021": {
       "field": "body",
