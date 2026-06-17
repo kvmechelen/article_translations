@@ -425,8 +425,10 @@
       "source_hash": "cf5a9386a266",
       "target": "<b>💡 Best used after ideation project.</b>",
       "translated_from_hash": "cf5a9386a266",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:10.273776+00:00"
     },
     "body:0038": {
       "field": "body",
