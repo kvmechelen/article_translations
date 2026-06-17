@@ -1481,8 +1481,10 @@
       "source_hash": "7b21c48550cd",
       "target": "Blend your offline and your online data with 360 Input",
       "translated_from_hash": "7b21c48550cd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.992486+00:00"
     },
     "body:0134": {
       "field": "body",
