@@ -51,8 +51,10 @@
       "source_hash": "af345698e58e",
       "target": "Once uploaded, files can also be <b>referenced as downloadable attachments</b> in your <b>project</b> or <b>phase descriptions</b>, making it simple for end-users to access relevant information at every step.",
       "translated_from_hash": "af345698e58e",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:09.707607+00:00"
     },
     "body:0004": {
       "field": "body",
