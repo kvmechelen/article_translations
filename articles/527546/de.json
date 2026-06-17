@@ -1239,8 +1239,10 @@
       "source_hash": "b7050f09e5b3",
       "target": "You can find the <b>Insights tab</b> within a phase that supports participant interaction.",
       "translated_from_hash": "b7050f09e5b3",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:42.259985+00:00"
     },
     "body:0112": {
       "field": "body",
