@@ -249,8 +249,10 @@
       "source_hash": "4b7b814e9cc8",
       "target": "<b>Previews</b>: Common file types will display a preview, but not all formats are supported. You can preview your files by navigating to the 360 input tab and clicking on the file you wish to preview.",
       "translated_from_hash": "4b7b814e9cc8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.781226+00:00"
     },
     "body:0022": {
       "field": "body",
