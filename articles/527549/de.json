@@ -744,8 +744,10 @@
       "source_hash": "1c2e7d7242d4",
       "target": "December 2025",
       "translated_from_hash": "1c2e7d7242d4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.980766+00:00"
     },
     "body:0067": {
       "field": "body",
