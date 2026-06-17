@@ -95,8 +95,10 @@
       "source_hash": "44921a3d384c",
       "target": "Polls only include single-choice or multiple-choice questions, since they are designed for quick participation. If you want to include more complex question types, we recommend using the Survey method instead.",
       "translated_from_hash": "44921a3d384c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.323609+00:00"
     },
     "body:0008": {
       "field": "body",
