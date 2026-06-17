@@ -1217,8 +1217,10 @@
       "source_hash": "d86fcfab67ae",
       "target": "The Access Rights tab is now renamed to <b>Phase Access and User Data</b>, redesigned for clarity:",
       "translated_from_hash": "d86fcfab67ae",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.579396+00:00"
     },
     "body:0110": {
       "field": "body",
