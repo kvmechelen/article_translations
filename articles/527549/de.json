@@ -381,8 +381,10 @@
       "source_hash": "89858b50c7b2",
       "target": "<a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527600-collecting-input-and-feedback-list-and-map-view#h_e0d0a5e952\" target=\"_blank\">📖 Learn more on how to set up Perspectives here</a>",
       "translated_from_hash": "89858b50c7b2",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:10.022603+00:00"
     },
     "body:0034": {
       "field": "body",
