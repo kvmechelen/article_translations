@@ -139,8 +139,10 @@
       "source_hash": "4605dea00a23",
       "target": "<b>Required fields:</b> Phase title and phase dates",
       "translated_from_hash": "4605dea00a23",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:15.449697+00:00"
     },
     "body:0012": {
       "field": "body",
