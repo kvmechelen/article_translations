@@ -9,8 +9,10 @@
       "source_hash": "4fbddde5d4b8",
       "target": "Using the inspiration hub",
       "translated_from_hash": "4fbddde5d4b8",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.230032+00:00"
     },
     "description": {
       "field": "description",
