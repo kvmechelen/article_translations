@@ -832,8 +832,10 @@
       "source_hash": "20c2623c1b3f",
       "target": "This section provides an aggregated overview of how your phase performed.",
       "translated_from_hash": "20c2623c1b3f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.722895+00:00"
     },
     "body:0075": {
       "field": "body",
