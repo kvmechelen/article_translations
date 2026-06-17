@@ -1415,8 +1415,10 @@
       "source_hash": "e0caf0a1ea52",
       "target": "Configure the settings for the phase",
       "translated_from_hash": "e0caf0a1ea52",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:43.084242+00:00"
     },
     "body:0128": {
       "field": "body",
