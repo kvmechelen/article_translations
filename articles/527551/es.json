@@ -20,8 +20,10 @@
       "source_hash": "13d8d8c6ef00",
       "target": "A source of inspiration",
       "translated_from_hash": "13d8d8c6ef00",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.347527+00:00"
     },
     "body:0001": {
       "field": "body",
