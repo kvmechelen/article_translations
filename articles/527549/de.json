@@ -1470,8 +1470,10 @@
       "source_hash": "6d9f86c1feb5",
       "target": "Let your automatic emails speak your organization’s language: customize your automatic emails to build trust and engagement.",
       "translated_from_hash": "6d9f86c1feb5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:15.934037+00:00"
     },
     "body:0133": {
       "field": "body",
