@@ -1338,8 +1338,10 @@
       "source_hash": "3215dd5121db",
       "target": "Click on the <b>phase</b> you want to explore your insights for",
       "translated_from_hash": "3215dd5121db",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:22.366127+00:00"
     },
     "body:0121": {
       "field": "body",
