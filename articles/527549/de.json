@@ -986,8 +986,10 @@
       "source_hash": "df7497dfb622",
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527552-community-monitoring-resident-satisfaction-survey\" target=\"_blank\">Learn more about the Community Monitor</a>",
       "translated_from_hash": "df7497dfb622",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:13.320261+00:00"
     },
     "body:0089": {
       "field": "body",
