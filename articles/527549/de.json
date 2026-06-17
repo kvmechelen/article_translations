@@ -1624,8 +1624,10 @@
       "source_hash": "3c38c5730c3b",
       "target": "Admins can add custom text on the top of the log in pop up.",
       "translated_from_hash": "3c38c5730c3b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.851812+00:00"
     },
     "body:0147": {
       "field": "body",
