@@ -392,8 +392,10 @@
       "source_hash": "303dd2081d4f",
       "target": "A draft project will not appear in the folder - it will only appear once it's published and listed",
       "translated_from_hash": "303dd2081d4f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.990218+00:00"
     },
     "body:0034": {
       "field": "body",
