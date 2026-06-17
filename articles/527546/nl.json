@@ -1294,8 +1294,10 @@
       "source_hash": "cc3688e87cf5",
       "target": "⚠️ If the Insights tab is not available for that phase, it means this was a phase without participant interaction.<br/>​",
       "translated_from_hash": "cc3688e87cf5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:22.111709+00:00"
     },
     "body:0117": {
       "field": "body",
