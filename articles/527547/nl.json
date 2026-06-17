@@ -282,8 +282,10 @@
       "source_hash": "c25865d710fd",
       "target": "With many projects going on, organising them into folders can help provide clarity by giving a clear structure of the different things going on, and where they fall into place.",
       "translated_from_hash": "c25865d710fd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.405014+00:00"
     },
     "body:0024": {
       "field": "body",
