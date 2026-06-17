@@ -172,8 +172,10 @@
       "source_hash": "0cf2814604b4",
       "target": "Description:",
       "translated_from_hash": "0cf2814604b4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:32.188322+00:00"
     },
     "body:0015": {
       "field": "body",
