@@ -1184,8 +1184,10 @@
       "source_hash": "3c56ad9c8c88",
       "target": "<b>2. Survey Experience (Mobile):</b>",
       "translated_from_hash": "3c56ad9c8c88",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:14.406825+00:00"
     },
     "body:0107": {
       "field": "body",
