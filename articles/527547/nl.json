@@ -590,8 +590,10 @@
       "source_hash": "c5b208709121",
       "target": "Click on the <b>Projects</b> tab in the back office of your platform",
       "translated_from_hash": "c5b208709121",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:01.948657+00:00"
     },
     "body:0052": {
       "field": "body",
