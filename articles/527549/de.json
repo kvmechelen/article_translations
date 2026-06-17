@@ -843,8 +843,10 @@
       "source_hash": "17f988719a0f",
       "target": "Easier idea filtering for voting phases",
       "translated_from_hash": "17f988719a0f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.566602+00:00"
     },
     "body:0076": {
       "field": "body",
