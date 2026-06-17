@@ -75,8 +75,10 @@
       "source_hash": "29a751c715b5",
       "target": "How to access and navigate the inspiration hub?",
       "translated_from_hash": "29a751c715b5",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:30.601112+00:00"
     },
     "body:0006": {
       "field": "body",
