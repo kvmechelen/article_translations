@@ -40,8 +40,10 @@
       "source_hash": "f38ca4761435",
       "target": "<b>360 Input</b> is GoVocal’s central hub for all your project files. It allows you to collect, organize and manage <b>any type of file</b> directly within your project, keeping everything in one place as your work progresses through the different phases.",
       "translated_from_hash": "f38ca4761435",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:09.660803+00:00"
     },
     "body:0003": {
       "field": "body",
