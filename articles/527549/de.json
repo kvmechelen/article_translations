@@ -788,8 +788,10 @@
       "source_hash": "3071ad59ed91",
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527591-setting-up-the-registration-process-and-registration-questions\" target=\"_blank\">Learn more about the login/registration flow</a>",
       "translated_from_hash": "3071ad59ed91",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:12.231529+00:00"
     },
     "body:0071": {
       "field": "body",
