@@ -1019,8 +1019,10 @@
       "source_hash": "a06f37fb9e55",
       "target": "The platform allows you to collect demographic information in two ways:",
       "translated_from_hash": "a06f37fb9e55",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:36.684156+00:00"
     },
     "body:0092": {
       "field": "body",
