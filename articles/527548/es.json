@@ -271,8 +271,10 @@
       "source_hash": "bea6e264eaef",
       "target": "Limitations on file uploads:",
       "translated_from_hash": "bea6e264eaef",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.902327+00:00"
     },
     "body:0024": {
       "field": "body",
