@@ -361,8 +361,10 @@
       "source_hash": "3f7ad710e64c",
       "target": "They are not visible to the general public.",
       "translated_from_hash": "3f7ad710e64c",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:32.098004+00:00"
     }
   }
 }
