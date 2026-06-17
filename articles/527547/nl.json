@@ -733,8 +733,10 @@
       "source_hash": "766214461cc3",
       "target": "This project can now be added to any folder.",
       "translated_from_hash": "766214461cc3",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:02.680164+00:00"
     }
   }
 }
