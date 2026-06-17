@@ -227,8 +227,10 @@
       "source_hash": "8517b816c9a4",
       "target": "Folder cards are not shown the same as other project cards on the homepage (no time indication or number of comments/participants).",
       "translated_from_hash": "8517b816c9a4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.151411+00:00"
     },
     "body:0019": {
       "field": "body",
