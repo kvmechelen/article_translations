@@ -304,8 +304,10 @@
       "source_hash": "d67ac6623c91",
       "target": "<b>File size limit</b>: 50 MB per file",
       "translated_from_hash": "d67ac6623c91",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.067192+00:00"
     },
     "body:0027": {
       "field": "body",
