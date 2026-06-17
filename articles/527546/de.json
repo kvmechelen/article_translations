@@ -1349,8 +1349,10 @@
       "source_hash": "1a8b400c0b0a",
       "target": "Click on the <b>Insights</b> tab",
       "translated_from_hash": "1a8b400c0b0a",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:42.754613+00:00"
     },
     "body:0122": {
       "field": "body",
