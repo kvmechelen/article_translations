@@ -84,8 +84,10 @@
       "source_hash": "52e60a5159b0",
       "target": "What are the different phase settings?",
       "translated_from_hash": "52e60a5159b0",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:31.775944+00:00"
     },
     "body:0007": {
       "field": "body",
