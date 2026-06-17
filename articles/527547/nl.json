@@ -348,8 +348,10 @@
       "source_hash": "11a30cf5e3b9",
       "target": "A published folder is visible to everyone.",
       "translated_from_hash": "11a30cf5e3b9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.789654+00:00"
     },
     "body:0030": {
       "field": "body",
