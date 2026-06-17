@@ -1503,8 +1503,10 @@
       "source_hash": "5e018d48defd",
       "target": "Phases are tied directly to the project timeline, which means they cannot overlap or run in parallel within the same project. If you need multiple phases to run at the same time, you’ll need to create separate projects.",
       "translated_from_hash": "5e018d48defd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:43.512629+00:00"
     },
     "body:0136": {
       "field": "body",
