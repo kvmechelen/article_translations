@@ -183,8 +183,10 @@
       "source_hash": "04bcd0e40c38",
       "target": "Once your poll has been completed, you can export the results by going to the Poll tab in the phase and clicking <b>Export Poll Results</b>. The data will be downloaded as an Excel file.",
       "translated_from_hash": "04bcd0e40c38",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:42.737050+00:00"
     },
     "body:0016": {
       "field": "body",
