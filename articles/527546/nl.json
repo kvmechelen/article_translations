@@ -249,8 +249,10 @@
       "source_hash": "c658ed21ab80",
       "target": "ℹ️ The Input Manager is a powerful feature with multiple uses. To explore its full capabilities, refer to one of the articles below. Each dives deeper into specific aspects of how the Input Manager works:",
       "translated_from_hash": "c658ed21ab80",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "kenvm.swd@gmail.com",
+      "updated_at": "2026-06-17T14:22:16.016940+00:00"
     },
     "body:0022": {
       "field": "body",
