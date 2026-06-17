@@ -271,8 +271,10 @@
       "source_hash": "cc8529a5d17b",
       "target": "<b>Choice requirements</b>: There is no setting for a minimum number of answer choices. Users can select either one or multiple options depending on the question type.",
       "translated_from_hash": "cc8529a5d17b",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:13:43.228371+00:00"
     }
   }
 }
