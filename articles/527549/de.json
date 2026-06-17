@@ -568,8 +568,10 @@
       "source_hash": "4921e65def25",
       "target": "📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527618-customizing-the-homepage\" target=\"_blank\">Learn more about the homepage builder and banner images here</a>",
       "translated_from_hash": "4921e65def25",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.006326+00:00"
     },
     "body:0051": {
       "field": "body",
