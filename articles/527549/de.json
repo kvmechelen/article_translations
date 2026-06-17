@@ -1569,8 +1569,10 @@
       "source_hash": "b694545025c4",
       "target": "Project managers and Folder managers can only see the ones they moderate.",
       "translated_from_hash": "b694545025c4",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:16.518303+00:00"
     },
     "body:0142": {
       "field": "body",
