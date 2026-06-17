@@ -711,8 +711,10 @@
       "source_hash": "0dd9c2997bc1",
       "target": "Analyze results based on the participation method used",
       "translated_from_hash": "0dd9c2997bc1",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.078014+00:00"
     },
     "body:0064": {
       "field": "body",
