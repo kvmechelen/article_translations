@@ -590,8 +590,10 @@
       "source_hash": "d2b50b6bd3c9",
       "target": "<b>Text Box editor revamp:</b> In all text boxes on the platform you can now easily add alt text to images for better accessibility and enjoy improved formatting when pasting content from Google Docs or Microsoft Word. 📖 <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527561-using-the-text-box-editor\" target=\"_blank\">Learn more about the text box editor here</a>",
       "translated_from_hash": "d2b50b6bd3c9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:11.160873+00:00"
     },
     "body:0053": {
       "field": "body",
