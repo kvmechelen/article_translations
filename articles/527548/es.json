@@ -150,8 +150,10 @@
       "source_hash": "6ab553a73052",
       "target": "Select the file you want to edit/remove",
       "translated_from_hash": "6ab553a73052",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:10.184042+00:00"
     },
     "body:0013": {
       "field": "body",
