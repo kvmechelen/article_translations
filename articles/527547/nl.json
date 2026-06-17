@@ -304,8 +304,10 @@
       "source_hash": "ed8fca4e0532",
       "target": "<b>What it controls:</b>",
       "translated_from_hash": "ed8fca4e0532",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:46:00.568909+00:00"
     },
     "body:0026": {
       "field": "body",
