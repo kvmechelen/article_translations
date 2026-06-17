@@ -458,8 +458,10 @@
       "source_hash": "2d288c42a2fd",
       "target": "<b>FormSync</b> <b>to bring your offline input online —</b> now powered exclusively by Claude for more precise, reliable results. <a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527575-bulk-import-ideas-surveys-via-formsync\" target=\"_blank\">📖 Learn more about FormSync here</a>",
       "translated_from_hash": "2d288c42a2fd",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:10.452451+00:00"
     },
     "body:0041": {
       "field": "body",
