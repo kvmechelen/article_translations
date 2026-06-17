@@ -273,8 +273,10 @@
       "source_hash": "8fe06a8ec885",
       "target": "No. Only published projects are shown.",
       "translated_from_hash": "8fe06a8ec885",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.621858+00:00"
     },
     "body:0024": {
       "field": "body",
