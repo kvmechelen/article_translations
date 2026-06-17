@@ -174,8 +174,10 @@
       "source_hash": "9bc29150f401",
       "target": "<b>Topic:</b> Drill into specific themes or categories.",
       "translated_from_hash": "9bc29150f401",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:57:31.095562+00:00"
     },
     "body:0015": {
       "field": "body",
