@@ -392,8 +392,10 @@
       "source_hash": "81b48469b319",
       "target": "Navigate to the AI analysis tool",
       "translated_from_hash": "81b48469b319",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:17:11.569437+00:00"
     },
     "body:0035": {
       "field": "body",
