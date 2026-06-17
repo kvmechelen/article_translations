@@ -700,8 +700,10 @@
       "source_hash": "9e32c2613fa9",
       "target": "See who participated and how representative the audience is",
       "translated_from_hash": "9e32c2613fa9",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:06:35.018268+00:00"
     },
     "body:0063": {
       "field": "body",
