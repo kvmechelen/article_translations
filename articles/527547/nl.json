@@ -172,8 +172,10 @@
       "source_hash": "b3ec0fccb38f",
       "target": "Delete projects",
       "translated_from_hash": "b3ec0fccb38f",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "ken@govocal.com",
+      "updated_at": "2026-06-17T14:45:59.890899+00:00"
     },
     "body:0014": {
       "field": "body",
