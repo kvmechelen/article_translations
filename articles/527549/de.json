@@ -326,8 +326,10 @@
       "source_hash": "c19df61df052",
       "target": "<b>Run deliberation at scale — and bring every voice into focus</b>",
       "translated_from_hash": "c19df61df052",
-      "origin": "machine",
-      "status": "unverified"
+      "origin": "human",
+      "status": "verified",
+      "updated_by": "admin@example.com",
+      "updated_at": "2026-06-17T13:07:09.730063+00:00"
     },
     "body:0029": {
       "field": "body",
