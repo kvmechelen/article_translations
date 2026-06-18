@@ -10,9 +10,7 @@
       "target": "Creating and Managing Folders",
       "translated_from_hash": "1207c62b9586",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.175006+00:00"
+      "status": "verified"
     },
     "description": {
       "field": "description",
@@ -21,9 +19,7 @@
       "target": "",
       "translated_from_hash": "e3b0c44298fc",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:04.492894+00:00"
+      "status": "verified"
     },
     "body:0001": {
       "field": "body",
@@ -32,9 +28,7 @@
       "target": "<i>This article is machine translated from english</i>",
       "translated_from_hash": "71361155ecf7",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.246704+00:00"
+      "status": "verified"
     },
     "body:0002": {
       "field": "body",
@@ -43,9 +37,7 @@
       "target": "What is a folder?",
       "translated_from_hash": "0149d7ed6843",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.294699+00:00"
+      "status": "verified"
     },
     "body:0003": {
       "field": "body",
@@ -54,9 +46,7 @@
       "target": "A folder is used to group together multiple projects that share a common theme or characteristic (for example, infrastructure work, a specific area, …).",
       "translated_from_hash": "9105599cfa3b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.343731+00:00"
+      "status": "verified"
     },
     "body:0004": {
       "field": "body",
@@ -65,9 +55,7 @@
       "target": "Folders don’t have any additional functionality beyond organization, they simply help you structure your projects and improve visibility on the homepage.",
       "translated_from_hash": "34d9c42f789e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.391088+00:00"
+      "status": "verified"
     },
     "body:0005": {
       "field": "body",
@@ -76,9 +64,7 @@
       "target": "The folder and project overviews are located in the same section of the platform. This is explained in more depth in the following article: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527594-creating-and-managing-projects\" target=\"_blank\">Different views for Project Management</a></i>",
       "translated_from_hash": "a18c67cbf415",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.442149+00:00"
+      "status": "verified"
     },
     "body:0006": {
       "field": "body",
@@ -87,9 +73,7 @@
       "target": "Folder management",
       "translated_from_hash": "4f93a16c5ce1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.489793+00:00"
+      "status": "verified"
     },
     "body:0007": {
       "field": "body",
@@ -98,9 +82,7 @@
       "target": "You can invite people to help manage your folders (and the projects within them).",
       "translated_from_hash": "fa24a325fd41",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.539113+00:00"
+      "status": "verified"
     },
     "body:0008": {
       "field": "body",
@@ -109,9 +91,7 @@
       "target": "<b>What folder managers can do:</b>",
       "translated_from_hash": "b07619713600",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.585391+00:00"
+      "status": "verified"
     },
     "body:0009": {
       "field": "body",
@@ -120,9 +100,7 @@
       "target": "Edit the folder description",
       "translated_from_hash": "fb5d3318974c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.633760+00:00"
+      "status": "verified"
     },
     "body:0010": {
       "field": "body",
@@ -131,9 +109,7 @@
       "target": "Create new projects within the folder",
       "translated_from_hash": "54f4ee0f4c2d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.683699+00:00"
+      "status": "verified"
     },
     "body:0065": {
       "field": "body",
@@ -142,9 +118,7 @@
       "target": "Approve projects created by project managers inside the folder",
       "translated_from_hash": "235abbbc3203",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.740769+00:00"
+      "status": "verified"
     },
     "body:0011": {
       "field": "body",
@@ -153,9 +127,7 @@
       "target": "Manage all projects within the folder",
       "translated_from_hash": "7c3efc41a39b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.795403+00:00"
+      "status": "verified"
     },
     "body:0012": {
       "field": "body",
@@ -164,9 +136,7 @@
       "target": "<b>What folder managers <i>can’t</i> do:</b>",
       "translated_from_hash": "12e871ac2e08",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.845285+00:00"
+      "status": "verified"
     },
     "body:0013": {
       "field": "body",
@@ -175,9 +145,7 @@
       "target": "Delete projects",
       "translated_from_hash": "b3ec0fccb38f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.890899+00:00"
+      "status": "verified"
     },
     "body:0014": {
       "field": "body",
@@ -186,9 +154,7 @@
       "target": "Access projects that are not in their folder",
       "translated_from_hash": "b887aaafac2c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.940546+00:00"
+      "status": "verified"
     },
     "body:0015": {
       "field": "body",
@@ -197,9 +163,7 @@
       "target": "Notes on current folder functionality",
       "translated_from_hash": "46e4dde1ddcb",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:45:59.987264+00:00"
+      "status": "verified"
     },
     "body:0016": {
       "field": "body",
@@ -208,9 +172,7 @@
       "target": "You can’t have folders within folders.",
       "translated_from_hash": "237733cdc27d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.043527+00:00"
+      "status": "verified"
     },
     "body:0017": {
       "field": "body",
@@ -219,9 +181,7 @@
       "target": "Folders don’t have timelines.",
       "translated_from_hash": "87265277fde2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.099182+00:00"
+      "status": "verified"
     },
     "body:0018": {
       "field": "body",
@@ -230,9 +190,7 @@
       "target": "Folder cards are not shown the same as other project cards on the homepage (no time indication or number of comments/participants).",
       "translated_from_hash": "8517b816c9a4",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.151411+00:00"
+      "status": "verified"
     },
     "body:0019": {
       "field": "body",
@@ -241,9 +199,7 @@
       "target": "Folders cannot be custom-styled for a department or project.",
       "translated_from_hash": "6782323e0fc0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.205808+00:00"
+      "status": "verified"
     },
     "body:0020": {
       "field": "body",
@@ -252,9 +208,7 @@
       "target": "You cannot create smart groups of people who participated in a folder, you need to select all projects in the folder manually.",
       "translated_from_hash": "704d886714e1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.256216+00:00"
+      "status": "verified"
     },
     "body:0021": {
       "field": "body",
@@ -263,9 +217,7 @@
       "target": "By default project cards appear on the right side of a folder page. This position can be edited by using the content builder.",
       "translated_from_hash": "3ade03fe2b78",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.309009+00:00"
+      "status": "verified"
     },
     "body:0022": {
       "field": "body",
@@ -274,9 +226,7 @@
       "target": "Why folders matter",
       "translated_from_hash": "c5c95c8b2c8d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.356285+00:00"
+      "status": "verified"
     },
     "body:0023": {
       "field": "body",
@@ -285,9 +235,7 @@
       "target": "With many projects going on, organising them into folders can help provide clarity by giving a clear structure of the different things going on, and where they fall into place.",
       "translated_from_hash": "c25865d710fd",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.405014+00:00"
+      "status": "verified"
     },
     "body:0024": {
       "field": "body",
@@ -296,9 +244,7 @@
       "target": "What are the different folder settings?",
       "translated_from_hash": "c2104562a34b",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.483820+00:00"
+      "status": "verified"
     },
     "body:0025": {
       "field": "body",
@@ -307,9 +253,7 @@
       "target": "<b>What it controls:</b>",
       "translated_from_hash": "ed8fca4e0532",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.568909+00:00"
+      "status": "verified"
     },
     "body:0026": {
       "field": "body",
@@ -318,9 +262,7 @@
       "target": "Folder managers can edit folder pages, update descriptions, update the banner image, and oversee all projects in the folder.",
       "translated_from_hash": "4e79ccf9e523",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.615005+00:00"
+      "status": "verified"
     },
     "body:0027": {
       "field": "body",
@@ -329,9 +271,7 @@
       "target": "A folder manager can act like a platform admin within the context of the folder.",
       "translated_from_hash": "83f55bd7e5ba",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.667919+00:00"
+      "status": "verified"
     },
     "body:0028": {
       "field": "body",
@@ -340,9 +280,7 @@
       "target": "<b>Visibility behavior:</b>",
       "translated_from_hash": "d1e5ef8be4d5",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.725449+00:00"
+      "status": "verified"
     },
     "body:0029": {
       "field": "body",
@@ -351,9 +289,7 @@
       "target": "A published folder is visible to everyone.",
       "translated_from_hash": "11a30cf5e3b9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.789654+00:00"
+      "status": "verified"
     },
     "body:0030": {
       "field": "body",
@@ -362,9 +298,7 @@
       "target": "If all projects in a folder are in draft, the folder stays hidden until at least one project is published.",
       "translated_from_hash": "1a6b5dcb0708",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.840236+00:00"
+      "status": "verified"
     },
     "body:0031": {
       "field": "body",
@@ -373,9 +307,7 @@
       "target": "If published projects are added to a draft folder, the folder won’t appear on the homepage, but the projects remain accessible via direct links or search.",
       "translated_from_hash": "14e8dbf6bc02",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.887859+00:00"
+      "status": "verified"
     },
     "body:0032": {
       "field": "body",
@@ -384,9 +316,7 @@
       "target": "If a project is set to unlisted it will not appear in the folder, neither as project cards within the folder",
       "translated_from_hash": "5821ac7ec12c",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.936937+00:00"
+      "status": "verified"
     },
     "body:0033": {
       "field": "body",
@@ -395,9 +325,7 @@
       "target": "A draft project will not appear in the folder - it will only appear once it's published and listed",
       "translated_from_hash": "303dd2081d4f",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:00.990218+00:00"
+      "status": "verified"
     },
     "body:0034": {
       "field": "body",
@@ -406,9 +334,7 @@
       "target": "What are folder use-cases?",
       "translated_from_hash": "648a30d85709",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.045855+00:00"
+      "status": "verified"
     },
     "body:0035": {
       "field": "body",
@@ -417,9 +343,7 @@
       "target": "Folders are flexible containers for organizing projects in ways that best fit your platform. Below are common use cases:",
       "translated_from_hash": "f308e09cda70",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.098099+00:00"
+      "status": "verified"
     },
     "body:0036": {
       "field": "body",
@@ -428,9 +352,7 @@
       "target": "1. Multiple participation methods in parallel",
       "translated_from_hash": "7eeaccae03d6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.150081+00:00"
+      "status": "verified"
     },
     "body:0037": {
       "field": "body",
@@ -439,9 +361,7 @@
       "target": "Projects are sequential by nature, each phase follows another.",
       "translated_from_hash": "6fed43f6e43a",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.202630+00:00"
+      "status": "verified"
     },
     "body:0038": {
       "field": "body",
@@ -450,9 +370,7 @@
       "target": "If you want more than one participation method happening at the same time, you’ll need to create two separate projects.",
       "translated_from_hash": "73cffa8899aa",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.257113+00:00"
+      "status": "verified"
     },
     "body:0039": {
       "field": "body",
@@ -461,9 +379,7 @@
       "target": "A folder keeps those projects grouped together, so users and admins still see them as part of the same initiative.",
       "translated_from_hash": "c923b0511cc0",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.322776+00:00"
+      "status": "verified"
     },
     "body:0040": {
       "field": "body",
@@ -472,9 +388,7 @@
       "target": "2. Organizing projects by policy, area, theme, or district",
       "translated_from_hash": "e8eda3232ad9",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.371594+00:00"
+      "status": "verified"
     },
     "body:0041": {
       "field": "body",
@@ -483,9 +397,7 @@
       "target": "Use folders to group projects under broader umbrellas like Health &amp; Safety, Education, Environment &amp; Sustainability, or Transport.",
       "translated_from_hash": "2601f62dfa3d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.420899+00:00"
+      "status": "verified"
     },
     "body:0042": {
       "field": "body",
@@ -494,9 +406,7 @@
       "target": "Alternatively, create folders by districts or neighbourhoods.",
       "translated_from_hash": "c6d20aabf231",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.476361+00:00"
+      "status": "verified"
     },
     "body:0043": {
       "field": "body",
@@ -505,9 +415,7 @@
       "target": "This structure makes it easier for admins and users to navigate, understand what’s happening, and learn more about related initiatives.",
       "translated_from_hash": "e135a7afec3d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.535572+00:00"
+      "status": "verified"
     },
     "body:0044": {
       "field": "body",
@@ -516,9 +424,7 @@
       "target": "3. Alternative creative uses",
       "translated_from_hash": "e59b53577215",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.584825+00:00"
+      "status": "verified"
     },
     "body:0045": {
       "field": "body",
@@ -527,9 +433,7 @@
       "target": "Projects aren’t limited to idea collection, they can also be:",
       "translated_from_hash": "b485864c0c30",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.635295+00:00"
+      "status": "verified"
     },
     "body:0046": {
       "field": "body",
@@ -538,9 +442,7 @@
       "target": "Spaces for feedback on public services",
       "translated_from_hash": "a8ef8869077e",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.683911+00:00"
+      "status": "verified"
     },
     "body:0047": {
       "field": "body",
@@ -549,9 +451,7 @@
       "target": "Places for community-centered research",
       "translated_from_hash": "2ce4722ce0a6",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.733076+00:00"
+      "status": "verified"
     },
     "body:0048": {
       "field": "body",
@@ -560,9 +460,7 @@
       "target": "Templates for exploring local issues",
       "translated_from_hash": "ec9b8fca75a2",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.797458+00:00"
+      "status": "verified"
     },
     "body:0049": {
       "field": "body",
@@ -571,9 +469,7 @@
       "target": "<i>Think of folders and projects as blank canvases</i> for experimentation and custom setups.",
       "translated_from_hash": "11c96f874dea",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.847010+00:00"
+      "status": "verified"
     },
     "body:0050": {
       "field": "body",
@@ -582,9 +478,7 @@
       "target": "How to create a folder?",
       "translated_from_hash": "f6bfcc353ef1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.896629+00:00"
+      "status": "verified"
     },
     "body:0051": {
       "field": "body",
@@ -593,9 +487,7 @@
       "target": "Click on the <b>Projects</b> tab in the back office of your platform",
       "translated_from_hash": "c5b208709121",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.948657+00:00"
+      "status": "verified"
     },
     "body:0052": {
       "field": "body",
@@ -604,9 +496,7 @@
       "target": "Click on <b>New Folder</b> in the top right",
       "translated_from_hash": "34ead76fc2ed",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:01.998278+00:00"
+      "status": "verified"
     },
     "body:0053": {
       "field": "body",
@@ -615,9 +505,7 @@
       "target": "Fill in a title, short and long description for your project in all available languages for your platform",
       "translated_from_hash": "9f43b13f4400",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.045312+00:00"
+      "status": "verified"
     },
     "body:0054": {
       "field": "body",
@@ -626,9 +514,7 @@
       "target": "Assign desired projects to the folder",
       "translated_from_hash": "240d505884c1",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.109410+00:00"
+      "status": "verified"
     },
     "body:0055": {
       "field": "body",
@@ -637,9 +523,7 @@
       "target": "Optional: assign a folder manager to the folder (via the permissions tab of the folder settings)",
       "translated_from_hash": "881be8a9c7be",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.179274+00:00"
+      "status": "verified"
     },
     "body:0056": {
       "field": "body",
@@ -648,9 +532,7 @@
       "target": "How to edit a folder?",
       "translated_from_hash": "ace3beb43ac7",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.228517+00:00"
+      "status": "verified"
     },
     "body:0057": {
       "field": "body",
@@ -659,9 +541,7 @@
       "target": "If you want to edit a folder, navigate to the folders tab in the top left corner of the projects list. Press on the folder title. This will bring you to the folder projects tab, then navigate to the tab next to it called <b>Settings</b>.<br/>​<br/>The Content Builder is also enabled for folders. To use it, go to <b>Settings, </b>under Folder Description, enable <code>Use Content Builder for description</code>. From an in-depth overview of using the Content Builder, visit: <i><a class=\"intercom-content-link\" href=\"https://support.govocal.com/en/articles/527598-customizing-project-descriptions-with-the-content-builder\" target=\"_blank\">Customizing project descriptions with the Content Builder</a></i>",
       "translated_from_hash": "402b71c12f07",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.283352+00:00"
+      "status": "verified"
     },
     "body:0058": {
       "field": "body",
@@ -670,9 +550,7 @@
       "target": "How to reorder projects inside a folder?",
       "translated_from_hash": "e93d3a952bbf",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.336769+00:00"
+      "status": "verified"
     },
     "body:0059": {
       "field": "body",
@@ -681,9 +559,7 @@
       "target": "You can arrange the order of the projects within folders. Go to the tab <b>folders</b> in the top left corner of the projects list and press on the folder title - this will bring you inside the folder settings. Click the double arrows at the far left of the projects. When you click and hold these arrows you can drag them to the desired place. They will then appear in the folder in that order.",
       "translated_from_hash": "e0dcd965d027",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.389854+00:00"
+      "status": "verified"
     },
     "body:0060": {
       "field": "body",
@@ -692,9 +568,7 @@
       "target": "How to move a project from one folder to another?",
       "translated_from_hash": "7188ab0be3fb",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.459515+00:00"
+      "status": "verified"
     },
     "body:0061": {
       "field": "body",
@@ -703,9 +577,7 @@
       "target": "Always first make sure that the project you want to move is not in an existing folder.<br/>To remove a project from a folder:",
       "translated_from_hash": "b325a428c775",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.518902+00:00"
+      "status": "verified"
     },
     "body:0062": {
       "field": "body",
@@ -714,9 +586,7 @@
       "target": "Click into the folder",
       "translated_from_hash": "4b2054dc886d",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.572664+00:00"
+      "status": "verified"
     },
     "body:0063": {
       "field": "body",
@@ -725,9 +595,7 @@
       "target": "Under <b>Projects added to this folder</b> select <b>Remove from folder</b>",
       "translated_from_hash": "ff1a66dcc387",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.626932+00:00"
+      "status": "verified"
     },
     "body:0064": {
       "field": "body",
@@ -736,9 +604,7 @@
       "target": "This project can now be added to any folder.",
       "translated_from_hash": "766214461cc3",
       "origin": "human",
-      "status": "verified",
-      "updated_by": "ken@govocal.com",
-      "updated_at": "2026-06-17T14:46:02.680164+00:00"
+      "status": "verified"
     }
   }
 }
